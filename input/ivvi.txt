@@ -1,0 +1,7 @@
+K5	https://www.devicespecifications.com/en/model/9e5c42b0
+Max	https://www.devicespecifications.com/en/model/65a442b1
+i3	https://www.devicespecifications.com/en/model/0d423b55
+i Plus	https://www.devicespecifications.com/en/model/95c13aa1
+Little i	https://www.devicespecifications.com/en/model/742d3494
+S6	https://www.devicespecifications.com/en/model/99bf3183
+K1	https://www.devicespecifications.com/en/model/d81e325d

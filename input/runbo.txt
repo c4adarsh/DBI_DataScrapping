@@ -1,0 +1,8 @@
+F1 Plus	https://www.devicespecifications.com/en/model/ee4b44ce
+X6 4G	https://www.devicespecifications.com/en/model/71d539b4
+F1	https://www.devicespecifications.com/en/model/cfeb3450
+F1 Quad Core	https://www.devicespecifications.com/en/model/f9a0344f
+Q5S	https://www.devicespecifications.com/en/model/173a2f80
+Q5	https://www.devicespecifications.com/en/model/aa702f7e
+X6	https://www.devicespecifications.com/en/model/d7422f7f
+X5	https://www.devicespecifications.com/en/model/dc9d3ae2

@@ -1,0 +1,77 @@
+P99	https://www.devicespecifications.com/en/model/6fba4609
+Eluga I4	https://www.devicespecifications.com/en/model/6ffb45fb
+Eluga Ray 700	https://www.devicespecifications.com/en/model/b88445c7
+Eluga Ray 500	https://www.devicespecifications.com/en/model/9f5645bf
+P9	https://www.devicespecifications.com/en/model/55bb4591
+Eluga I2 Activ	https://www.devicespecifications.com/en/model/d6f8451a
+Eluga A3 Pro	https://www.devicespecifications.com/en/model/53b444fd
+Eluga A3	https://www.devicespecifications.com/en/model/270044fc
+P55 Max	https://www.devicespecifications.com/en/model/f9964477
+Eluga WE	https://www.devicespecifications.com/en/model/4c9043f4
+Eluga I3 Mega	https://www.devicespecifications.com/en/model/798d438f
+Eluga Ray	https://www.devicespecifications.com/en/model/11ba4335
+P85	https://www.devicespecifications.com/en/model/b2d34334
+Eluga Pulse X	https://www.devicespecifications.com/en/model/3d9342df
+Eluga Pulse	https://www.devicespecifications.com/en/model/086942de
+Eluga Ray Max	https://www.devicespecifications.com/en/model/c7174244
+Eluga Ray X	https://www.devicespecifications.com/en/model/15184243
+Eluga Pure	https://www.devicespecifications.com/en/model/16fb4225
+P88	https://www.devicespecifications.com/en/model/d6fc4033
+Eluga Prim	https://www.devicespecifications.com/en/model/36334014
+Eluga Mark 2	https://www.devicespecifications.com/en/model/95873fbe
+P71	https://www.devicespecifications.com/en/model/04313f80
+P77	https://www.devicespecifications.com/en/model/f1af3e97
+Eluga Icon 2	https://www.devicespecifications.com/en/model/6afb3e10
+Eluga Arc 2	https://www.devicespecifications.com/en/model/20563d87
+T44	https://www.devicespecifications.com/en/model/4ff84478
+T44 Lite	https://www.devicespecifications.com/en/model/926f3d7f
+Eluga Note	https://www.devicespecifications.com/en/model/3f623cfb
+Toughpad FZ-A2	https://www.devicespecifications.com/en/model/a28a3c9e
+P75	https://www.devicespecifications.com/en/model/5cf43c9d
+Eluga A2	https://www.devicespecifications.com/en/model/302b3c3d
+Eluga I2 (2016)	https://www.devicespecifications.com/en/model/86693c0e
+Eluga I3	https://www.devicespecifications.com/en/model/d9103ba7
+Eluga Arc	https://www.devicespecifications.com/en/model/6f463b39
+T50	https://www.devicespecifications.com/en/model/bcf73aa5
+Toughpad FZ-N1	https://www.devicespecifications.com/en/model/27a13a60
+Toughpad FZ-F1	https://www.devicespecifications.com/en/model/9c523a5f
+P66 Mega	https://www.devicespecifications.com/en/model/01f539fe
+Toughpad FZ-Q1 Performance	https://www.devicespecifications.com/en/model/7e323a67
+Eluga Turbo	https://www.devicespecifications.com/en/model/dcd539fd
+Eluga Mark	https://www.devicespecifications.com/en/model/f8993883
+Toughpad FZ-Y1	https://www.devicespecifications.com/en/model/f05d377c
+P65 Flash	https://www.devicespecifications.com/en/model/b4c73752
+P50 Idol	https://www.devicespecifications.com/en/model/62d93751
+T35	https://www.devicespecifications.com/en/model/4ffa3681
+Eluga Switch	https://www.devicespecifications.com/en/model/5e0c3603
+Eluga I2	https://www.devicespecifications.com/en/model/1d3f35df
+Eluga L2	https://www.devicespecifications.com/en/model/20ed35de
+T45 4G	https://www.devicespecifications.com/en/model/019435c3
+Eluga Icon	https://www.devicespecifications.com/en/model/a30f35b1
+Love T10	https://www.devicespecifications.com/en/model/9779355e
+Eluga Z	https://www.devicespecifications.com/en/model/5b3b3507
+P55 NOVO	https://www.devicespecifications.com/en/model/164334e4
+Eluga S mini	https://www.devicespecifications.com/en/model/bd813464
+Eluga L 4G	https://www.devicespecifications.com/en/model/3f2d33e6
+Eluga U2	https://www.devicespecifications.com/en/model/320f32c5
+Eluga I	https://www.devicespecifications.com/en/model/88df30c8
+Eluga S	https://www.devicespecifications.com/en/model/d21f30b6
+P55	https://www.devicespecifications.com/en/model/242c3099
+T9	https://www.devicespecifications.com/en/model/e6e93084
+T40	https://www.devicespecifications.com/en/model/a9fa3029
+Lumix Smart Camera CM1	https://www.devicespecifications.com/en/model/ff772f89
+Eluga A	https://www.devicespecifications.com/en/model/ee242eb4
+Eluga U	https://www.devicespecifications.com/en/model/dbf62e57
+P61	https://www.devicespecifications.com/en/model/699c2e2a
+P41	https://www.devicespecifications.com/en/model/368c300c
+T41	https://www.devicespecifications.com/en/model/88452e1a
+P81	https://www.devicespecifications.com/en/model/081d2d43
+P31	https://www.devicespecifications.com/en/model/5ef02d45
+T31	https://www.devicespecifications.com/en/model/29882d4c
+T21	https://www.devicespecifications.com/en/model/21752d4d
+T11	https://www.devicespecifications.com/en/model/cccc2d51
+P11	https://www.devicespecifications.com/en/model/9a692d52
+P51	https://www.devicespecifications.com/en/model/90112d46
+Eluga P P-03E	https://www.devicespecifications.com/en/model/0cf12d5b
+Eluga X	https://www.devicespecifications.com/en/model/e6e82d5d
+Eluga DL1	https://www.devicespecifications.com/en/model/d6cc2d50

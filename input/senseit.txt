@@ -1,0 +1,12 @@
+A247	https://www.devicespecifications.com/en/model/b16d465e
+E510	https://www.devicespecifications.com/en/model/a0633fd5
+A200	https://www.devicespecifications.com/en/model/51ff3f5e
+R450	https://www.devicespecifications.com/en/model/04513fd7
+A109	https://www.devicespecifications.com/en/model/d27f3d90
+E500	https://www.devicespecifications.com/en/model/03cc38c1
+E400	https://www.devicespecifications.com/en/model/daf638c0
+R390+	https://www.devicespecifications.com/en/model/6f5a3129
+R390	https://www.devicespecifications.com/en/model/e251312a
+L301	https://www.devicespecifications.com/en/model/ede0312c
+R280	https://www.devicespecifications.com/en/model/4352312b
+P4	https://www.devicespecifications.com/en/model/04f6312d

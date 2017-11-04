@@ -1,0 +1,11 @@
+Energy Phone Pro 3	https://www.devicespecifications.com/en/model/ea5641d0
+Energy Tablet Pro 3	https://www.devicespecifications.com/en/model/f246429e
+Energy Phone Max 2+	https://www.devicespecifications.com/en/model/82644298
+Energy Phone Neo 2	https://www.devicespecifications.com/en/model/b1f5429d
+Energy Phone Max 4000	https://www.devicespecifications.com/en/model/2c264299
+Energy Phone Pro Qi	https://www.devicespecifications.com/en/model/db1a2fd3
+Energy Phone Pro	https://www.devicespecifications.com/en/model/38772fd4
+Phone Neo	https://www.devicespecifications.com/en/model/d0102fd5
+Energy Tablet Neo 10	https://www.devicespecifications.com/en/model/5bc62fd6
+Energy Tablet Neo 9	https://www.devicespecifications.com/en/model/322c2fdb
+Energy Tablet Neo 7	https://www.devicespecifications.com/en/model/a0462fdc

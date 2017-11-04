@@ -1,0 +1,51 @@
+Aquos R Compact	https://www.devicespecifications.com/en/model/2df24668
+Aquos Sense	https://www.devicespecifications.com/en/model/eff84661
+R1	https://www.devicespecifications.com/en/model/4f624608
+Aquos S2 128GB	https://www.devicespecifications.com/en/model/f10f44f4
+Aquos S2	https://www.devicespecifications.com/en/model/89b144f3
+Android One X1	https://www.devicespecifications.com/en/model/00694446
+Aquos L2	https://www.devicespecifications.com/en/model/f7304399
+Aquos ea	https://www.devicespecifications.com/en/model/ac66432e
+Aquos R	https://www.devicespecifications.com/en/model/148842ad
+Z3	https://www.devicespecifications.com/en/model/90114296
+Aquos Serie mini SHV38	https://www.devicespecifications.com/en/model/2e8340be
+Aquos L	https://www.devicespecifications.com/en/model/12663f35
+Aquos Ever SH-02J	https://www.devicespecifications.com/en/model/e5373f24
+Aquos Xx3 mini	https://www.devicespecifications.com/en/model/2c6a3ef9
+Aquos Mobile2 602SH	https://www.devicespecifications.com/en/model/da833ef8
+C1	https://www.devicespecifications.com/en/model/26853e48
+A1	https://www.devicespecifications.com/en/model/d7633e47
+Z2	https://www.devicespecifications.com/en/model/fce63e1e
+Basio 2 SHV36	https://www.devicespecifications.com/en/model/c8f03d80
+Aquos 507SH	https://www.devicespecifications.com/en/model/67a13d04
+Aquos Mini SH-M03	https://www.devicespecifications.com/en/model/f1f341a4
+AQUOS K SHF33	https://www.devicespecifications.com/en/model/4e033c57
+Aquos U SHV35	https://www.devicespecifications.com/en/model/30c03c53
+Aquos Xx3	https://www.devicespecifications.com/en/model/38183bec
+Aquos SH-03H	https://www.devicespecifications.com/en/model/dd403a69
+Aquos SH-M02	https://www.devicespecifications.com/en/model/f4df3817
+Aquos Compact SH-02H	https://www.devicespecifications.com/en/model/64e13717
+Aquos Zeta SH-01H	https://www.devicespecifications.com/en/model/64a23716
+Aquos Famiredo	https://www.devicespecifications.com/en/model/d21636ff
+Aquos Crystal 2	https://www.devicespecifications.com/en/model/8c4f341d
+Aquos Xx	https://www.devicespecifications.com/en/model/919c3419
+Aquos Serie SHV32	https://www.devicespecifications.com/en/model/8562340d
+Aquos Pad SH-05G	https://www.devicespecifications.com/en/model/4ee03406
+Aquos Zeta SH-03G	https://www.devicespecifications.com/en/model/97123401
+Aquos Ever SH-04G	https://www.devicespecifications.com/en/model/7c633400
+Aquos Serie mini SHV31	https://www.devicespecifications.com/en/model/edc33214
+Aquos K	https://www.devicespecifications.com/en/model/41093212
+Aquos Phone SH-M01	https://www.devicespecifications.com/en/model/80ff313d
+Simple Sumaho 2	https://www.devicespecifications.com/en/model/31fe309c
+Aquos Zeta SH-01G	https://www.devicespecifications.com/en/model/cb14325b
+Aquos Crystal X	https://www.devicespecifications.com/en/model/031a2ede
+Aquos Crystal	https://www.devicespecifications.com/en/model/70242edf
+Aquos Pad SH-06F	https://www.devicespecifications.com/en/model/ca6e30a0
+Aquos Zeta SH-04F	https://www.devicespecifications.com/en/model/32bb2dc5
+Aquos Xx 304SH	https://www.devicespecifications.com/en/model/ff612c33
+RW-16G1	https://www.devicespecifications.com/en/model/8fab2a84
+Aquos Xx 302SH	https://www.devicespecifications.com/en/model/f4572be8
+Aquos Xx mini 303SH	https://www.devicespecifications.com/en/model/d8ac316c
+Aquos Phone Zeta SH-06E	https://www.devicespecifications.com/en/model/70ae3208
+Aquos Phone SH930W	https://www.devicespecifications.com/en/model/b9c82a85
+SH631W	https://www.devicespecifications.com/en/model/21d22a86

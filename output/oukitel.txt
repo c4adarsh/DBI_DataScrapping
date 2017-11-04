@@ -1,0 +1,853 @@
+Weight: 156 g
+SoC: Mediatek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 640 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bb5946b9
+imageUrl=https://www.devicespecifications.com/images/model/bb5946b9/320/main.jpg
+name=C8 4G;
+
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3b0e4639/320/main.jpg
+name=K8000;
+
+SoC: MediaTek Helio P25 (MT6757CH)
+CPU: 4x 2.39 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.99 in, IPS, 1080 x 2160 pixels, 24 bit
+Battery: 4080 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/15bd4614
+imageUrl=https://www.devicespecifications.com/images/model/15bd4614/320/main.jpg
+name=Mix 2;
+
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 720 x 1440 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a44945fa
+imageUrl=https://www.devicespecifications.com/images/model/a44945fa/320/main.jpg
+name=K5000;
+
+Weight: 156 g
+SoC: Mediatek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 640 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/837f45ab
+imageUrl=https://www.devicespecifications.com/images/model/837f45ab/320/main.jpg
+name=C8;
+
+Weight: 209 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/251e446a
+imageUrl=https://www.devicespecifications.com/images/model/251e446a/320/main.jpg
+name=K3;
+
+Weight: 215 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4100 mAh, Li-Ion
+OS: Oukitel OS 1.0 (Android 6.0 Marshmallow)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b27b4325
+imageUrl=https://www.devicespecifications.com/images/model/b27b4325/320/main.jpg
+name=K4000 Plus;
+
+Weight: 291 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 3 GB, 833 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/11f442c2
+imageUrl=https://www.devicespecifications.com/images/model/11f442c2/320/main.jpg
+name=K10000 Pro;
+
+Weight: 337 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/661642be
+imageUrl=https://www.devicespecifications.com/images/model/661642be/320/main.jpg
+name=K10000 Max;
+
+Weight: 187 g
+SoC: Mediatek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/aea042bd
+imageUrl=https://www.devicespecifications.com/images/model/aea042bd/320/main.jpg
+name=U22;
+
+Weight: 220 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3700 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/576a42ba
+imageUrl=https://www.devicespecifications.com/images/model/576a42ba/320/main.jpg
+name=U11 Plus;
+
+Weight: 222 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, JDI IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/42c74190
+imageUrl=https://www.devicespecifications.com/images/model/42c74190/320/main.jpg
+name=U16 Max;
+
+Weight: 174 g
+SoC: MediaTek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/64d74162
+imageUrl=https://www.devicespecifications.com/images/model/64d74162/320/main.jpg
+name=C5;
+
+Weight: 198 g
+SoC: Mediatek MT6580A
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/2bba413d
+imageUrl=https://www.devicespecifications.com/images/model/2bba413d/320/main.jpg
+name=U7 Max;
+
+Weight: 207 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 6080 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/01574213
+imageUrl=https://www.devicespecifications.com/images/model/01574213/320/main.jpg
+name=K6000 Plus;
+
+Weight: 156 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/76034080
+imageUrl=https://www.devicespecifications.com/images/model/76034080/320/main.jpg
+name=U13;
+
+Weight: 174 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/8af74060
+imageUrl=https://www.devicespecifications.com/images/model/8af74060/320/main.jpg
+name=C5 Pro;
+
+Weight: 195 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 733 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3300 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/36253fba
+imageUrl=https://www.devicespecifications.com/images/model/36253fba/320/main.jpg
+name=U20 Plus;
+
+Weight: 169 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: DiDo 7.0 (Android 6.0 Marshmallow)
+Camera: 4864 x 2736 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/62aa3f32
+imageUrl=https://www.devicespecifications.com/images/model/62aa3f32/320/main.jpg
+name=U15S;
+
+Weight: 201 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/31fd3eb3
+imageUrl=https://www.devicespecifications.com/images/model/31fd3eb3/320/main.jpg
+name=U15 Pro;
+
+Weight: 158 g
+SoC: MediaTek MT6737M
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 550 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 MArshmallow
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/74793e87
+imageUrl=https://www.devicespecifications.com/images/model/74793e87/320/main.jpg
+name=K7000;
+
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3ada3e11
+imageUrl=https://www.devicespecifications.com/images/model/3ada3e11/320/main.jpg
+name=C4;
+
+Weight: 206 g
+SoC: Mediatek MT6737M
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 550 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/80383d77
+imageUrl=https://www.devicespecifications.com/images/model/80383d77/320/main.jpg
+name=U7 Plus;
+
+Weight: 208 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/dfec3d8b
+imageUrl=https://www.devicespecifications.com/images/model/dfec3d8b/320/main.jpg
+name=K4000 Lite;
+
+Weight: 155 g
+SoC: Mediatek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b37f3b99
+imageUrl=https://www.devicespecifications.com/images/model/b37f3b99/320/main.jpg
+name=C3;
+
+SoC: Mediatek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f6f73a5c
+imageUrl=https://www.devicespecifications.com/images/model/f6f73a5c/320/main.jpg
+name=C2;
+
+Weight: 250 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4600 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/78e238dd
+imageUrl=https://www.devicespecifications.com/images/model/78e238dd/320/main.jpg
+name=K4000 Pro;
+
+Weight: 205 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 6 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f70b385c/320/main.jpg
+name=K6000 Premium;
+
+Weight: 213 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a501385b
+imageUrl=https://www.devicespecifications.com/images/model/a501385b/320/main.jpg
+name=K6000 Pro;
+
+Weight: 317 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ff5837d5
+imageUrl=https://www.devicespecifications.com/images/model/ff5837d5/320/main.jpg
+name=K10000;
+
+Weight: 206 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e66c3778
+imageUrl=https://www.devicespecifications.com/images/model/e66c3778/320/main.jpg
+name=U7 Pro;
+
+Weight: 211 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bebd3771
+imageUrl=https://www.devicespecifications.com/images/model/bebd3771/320/main.jpg
+name=K6000;
+
+Weight: 208 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f0643689
+imageUrl=https://www.devicespecifications.com/images/model/f0643689/320/main.jpg
+name=K4000;
+
+Weight: 156 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d4883608
+imageUrl=https://www.devicespecifications.com/images/model/d4883608/320/main.jpg
+name=U7;
+
+Weight: 170 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2100 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ae6235ee/320/main.jpg
+name=U6;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1400 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f57735ac/320/main.jpg
+name=C1;
+
+Weight: 166 g
+SoC: MediaTek MT6735M
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2050 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/37063594
+imageUrl=https://www.devicespecifications.com/images/model/37063594/320/main.jpg
+name=U2;
+
+Weight: 207 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, JDI IPS, 540 x 960 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/89293564/320/main.jpg
+name=Black Bull P2;
+
+Weight: 170 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, JDI IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2850 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1de43551
+imageUrl=https://www.devicespecifications.com/images/model/1de43551/320/main.jpg
+name=U10;
+
+Weight: 171 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c57a34f7/320/main.jpg
+name=U9 Kindo Thranduil;
+
+Weight: 197 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/13e933e7
+imageUrl=https://www.devicespecifications.com/images/model/13e933e7/320/main.jpg
+name=U8 Universe Tap;
+
+Weight: 150 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b3d9337a
+imageUrl=https://www.devicespecifications.com/images/model/b3d9337a/320/main.jpg
+name=Original Pure;
+
+Weight: 130 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 512 MB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c3993379
+imageUrl=https://www.devicespecifications.com/images/model/c3993379/320/main.jpg
+name=Original One;
+

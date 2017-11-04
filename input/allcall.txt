@@ -1,0 +1,7 @@
+Atom	https://www.devicespecifications.com/en/model/7436460a
+Alpha	https://www.devicespecifications.com/en/model/86c0455e
+Rio S	https://www.devicespecifications.com/en/model/e532455d
+Rio	https://www.devicespecifications.com/en/model/61464368
+T9 Pro	https://www.devicespecifications.com/en/model/6d8042a5
+Bro	https://www.devicespecifications.com/en/model/45044286
+A1	https://www.devicespecifications.com/en/model/1a274369

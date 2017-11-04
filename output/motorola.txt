@@ -1,0 +1,1331 @@
+Weight: 143 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.35 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 6 GB, 1866 MHz
+Storage: 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, P-OLED, 1440 x 2560 pixels, 24 bit
+Battery: 2730 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5ced468a/320/main.jpg
+name=Moto Z 2018;
+
+Weight: 157 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.1.1 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cfa74666/320/main.jpg
+name=Moto Green Pomelo;
+
+Weight: 163 g
+SoC: Qualcomm Snapdragon 630
+CPU: 4x 2.2 GHz ARM Cortex-A53, 4x 1.8 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 508
+RAM: 3 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.1.1 Nougat
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/cd7c452f
+imageUrl=https://www.devicespecifications.com/images/model/cd7c452f/320/main.jpg
+name=Moto X4;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506, 650 MHz
+RAM: 3 GB, 4 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/26a344d2
+imageUrl=https://www.devicespecifications.com/images/model/26a344d2/320/main.jpg
+name=Moto G5s Plus;
+
+Weight: 157 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1b1e44d1
+imageUrl=https://www.devicespecifications.com/images/model/1b1e44d1/320/main.jpg
+name=Moto G5s;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.35 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, P-OLED, 1440 x 2560 pixels, 24 bit
+Battery: 2730 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/76ab44ae
+imageUrl=https://www.devicespecifications.com/images/model/76ab44ae/320/main.jpg
+name=Moto Z2 Force Edition;
+
+Weight: 198 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 3 GB, 640 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/779a43df
+imageUrl=https://www.devicespecifications.com/images/model/779a43df/320/main.jpg
+name=Moto E4 Plus MT6737;
+
+Weight: 151 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bfb743de
+imageUrl=https://www.devicespecifications.com/images/model/bfb743de/320/main.jpg
+name=Moto E4 MT6737;
+
+Weight: 181 g
+SoC: Qualcomm Snapdragon 427 MSM8920
+CPU: ARM Cortex-A53, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 308, 500 MHz
+RAM: 2 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0dea43dc
+imageUrl=https://www.devicespecifications.com/images/model/0dea43dc/320/main.jpg
+name=Moto E4 Plus XT1775;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 626 MSM8953 Pro
+CPU: ARM Cortex-A53, 2200 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 3 GB, 4 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/9ebb439f
+imageUrl=https://www.devicespecifications.com/images/model/9ebb439f/320/main.jpg
+name=Moto Z2 Play;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 425 MSM8917
+CPU: ARM Cortex-A53, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 308, 500 MHz
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/7aaf438b
+imageUrl=https://www.devicespecifications.com/images/model/7aaf438b/320/main.jpg
+name=Moto E4;
+
+Weight: 154 g
+SoC: MediaTek MT6580M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2350 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/94304343
+imageUrl=https://www.devicespecifications.com/images/model/94304343/320/main.jpg
+name=Moto C XT1750;
+
+Weight: 162 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0d2c4342
+imageUrl=https://www.devicespecifications.com/images/model/0d2c4342/320/main.jpg
+name=Moto C Plus;
+
+Weight: 154 g
+SoC: MediaTek MT6737M
+CPU: ARM Cortex-A53, 1100 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 550 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2350 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6eeb4341
+imageUrl=https://www.devicespecifications.com/images/model/6eeb4341/320/main.jpg
+name=Moto C 4G;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506, 650 MHz
+RAM: 2 GB, 4 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/9a754165
+imageUrl=https://www.devicespecifications.com/images/model/9a754165/320/main.jpg
+name=Moto G5 Plus;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 3 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2800 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/fac24164
+imageUrl=https://www.devicespecifications.com/images/model/fac24164/320/main.jpg
+name=Moto G5;
+
+Weight: 163 g
+SoC: MediaTek Helio P15 (MT6755)
+CPU: ARM Cortex-A53, 2200 MHz, Cores: 8
+GPU: ARM Mali-T860 MP2, 800 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/4f0f3f79
+imageUrl=https://www.devicespecifications.com/images/model/4f0f3f79/320/main.jpg
+name=Moto M;
+
+Weight: 153 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e5263e83
+imageUrl=https://www.devicespecifications.com/images/model/e5263e83/320/main.jpg
+name=Moto E3 Power;
+
+Weight: 165 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 3 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3510 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/be0a3e2a
+imageUrl=https://www.devicespecifications.com/images/model/be0a3e2a/320/main.jpg
+name=Moto Z Play;
+
+Weight: 163 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3500 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1f303c85
+imageUrl=https://www.devicespecifications.com/images/model/1f303c85/320/main.jpg
+name=Moto Z Force;
+
+Weight: 136 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/5d463c84
+imageUrl=https://www.devicespecifications.com/images/model/5d463c84/320/main.jpg
+name=Moto Z;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2800 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f28a3c0d
+imageUrl=https://www.devicespecifications.com/images/model/f28a3c0d/320/main.jpg
+name=Moto G4 Play;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 617 MSM8952
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 4 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/54ab3c09
+imageUrl=https://www.devicespecifications.com/images/model/54ab3c09/320/main.jpg
+name=Moto G4 Plus;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 617 MSM8952
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8afc3c08
+imageUrl=https://www.devicespecifications.com/images/model/8afc3c08/320/main.jpg
+name=Moto G4;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2470 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/944e37db/320/main.jpg
+name=Moto G Turbo Edition;
+
+Weight: 169 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.7 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3630 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6feb37a1
+imageUrl=https://www.devicespecifications.com/images/model/6feb37a1/320/main.jpg
+name=Droid Maxx 2;
+
+Weight: 169 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.4 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3760 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5344 x 4008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/79c137a0
+imageUrl=https://www.devicespecifications.com/images/model/79c137a0/320/main.jpg
+name=Droid Turbo 2;
+
+Weight: 179 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 5344 x 4008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7092356a/320/main.jpg
+name=Moto X Pure Edition;
+
+Weight: 169 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.7 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3630 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/dd8b3569
+imageUrl=https://www.devicespecifications.com/images/model/dd8b3569/320/main.jpg
+name=Moto X Play;
+
+Weight: 179 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 5344 x 4008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/485a3567
+imageUrl=https://www.devicespecifications.com/images/model/485a3567/320/main.jpg
+name=Moto X Style;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 2 GB, 533 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2470 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/d8903566
+imageUrl=https://www.devicespecifications.com/images/model/d8903566/320/main.jpg
+name=Moto G (3rd Gen);
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2390 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/39e932be
+imageUrl=https://www.devicespecifications.com/images/model/39e932be/320/main.jpg
+name=Moto E (2nd Gen) XT1527;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 200 MSM8212
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 302, 400 MHz
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2390 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0f3a32bd/320/main.jpg
+name=Moto E (2nd Gen);
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2390 mAh, Li-Ion
+OS: Android 5.0.2 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4c473245
+imageUrl=https://www.devicespecifications.com/images/model/4c473245/320/main.jpg
+name=Moto G LTE (2nd Gen);
+
+Weight: 184 g
+SoC: Qualcomm Snapdragon 805 APQ8084
+CPU: Krait 450, 2700 MHz, Cores: 4
+GPU: Qualcomm Adreno 420, 600 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB, 64 GB
+Display: 5.96 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3220 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/617b3011
+imageUrl=https://www.devicespecifications.com/images/model/617b3011/320/main.jpg
+name=Nexus 6;
+
+Weight: 169 g
+SoC: Qualcomm Snapdragon 805 APQ8084
+CPU: Krait 450, 2700 MHz, Cores: 4
+GPU: Qualcomm Adreno 420, 600 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 32 GB, 64 GB
+Display: 5.2 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3900 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 24 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/602c2fff
+imageUrl=https://www.devicespecifications.com/images/model/602c2fff/320/main.jpg
+name=Droid Turbo;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2070 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/cf272f54
+imageUrl=https://www.devicespecifications.com/images/model/cf272f54/320/main.jpg
+name=Moto G (2nd Gen);
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 4128 x 3096 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/03232f53
+imageUrl=https://www.devicespecifications.com/images/model/03232f53/320/main.jpg
+name=Moto X (2nd Gen);
+
+Weight: 49 g
+SoC: Texas Instruments OMAP 3 3630
+CPU: ARM Cortex-A8, 1200 MHz, Cores: 1
+GPU: PowerVR SGX530
+RAM: 512 MB
+Storage: 4 GB
+Display: 1.56 in, LCD, 290 x 320 pixels, 24 bit
+Battery: 320 mAh, Li-Polymer
+OS: Android Wear
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/afb72f2e/320/main.jpg
+name=Moto 360;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2070 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/10da2ca3
+imageUrl=https://www.devicespecifications.com/images/model/10da2ca3/320/main.jpg
+name=Moto G LTE;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 200 MSM8210
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1980 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 854 x 480 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/adae2ca4/320/main.jpg
+name=Moto E Dual TV;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 200 MSM8210/MSM8610
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1980 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 854 x 480 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b2ad2c2a
+imageUrl=https://www.devicespecifications.com/images/model/b2ad2c2a/320/main.jpg
+name=Moto E;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Display: 4.5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2070 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0bb72a8a/320/main.jpg
+name=Moto G Dual SIM;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Display: 4.5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2070 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/45642943
+imageUrl=https://www.devicespecifications.com/images/model/45642943/320/main.jpg
+name=Moto G;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8960DT
+CPU: Krait 300, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 500 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 4.7 in, AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4320 x 2432 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b46928aa
+imageUrl=https://www.devicespecifications.com/images/model/b46928aa/320/main.jpg
+name=Moto X;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8960DT
+CPU: Krait 300, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 500 MHz
+Storage: 16 GB
+Display: 5 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2130 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 3648 x 2736 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS, E911    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a21e28a8/320/main.jpg
+name=DROID Ultra;
+
+Weight: 167 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8960DT
+CPU: Krait 300, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 500 MHz
+Storage: 32 GB
+Display: 5 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 3500 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3648 x 2736 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS, E911    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/761828a9/320/main.jpg
+name=DROID Maxx;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8960DT
+CPU: Krait 300, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 500 MHz
+Storage: 16 GB
+Display: 4.3 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3648 x 2736 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS, E911    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5fb928a7/320/main.jpg
+name=DROID Mini;
+
+Weight: 120 g
+SoC: MediaTek MT6577
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX531, 522 MHz
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 854 pixels
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/238b274b/320/main.jpg
+name=RAZR D3;
+
+Weight: 110 g
+SoC: MediaTek MT6575
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 1
+GPU: PowerVR SGX531T, 522 MHz
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1785 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 720 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3b25274c/320/main.jpg
+name=RAZR D1;
+
+Weight: 111 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED Advanced, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c384274d/320/main.jpg
+name=Electrify M;
+
+Weight: 126 g
+SoC: Intel Atom Z2480
+CPU: Intel Atom Saltwell, 2000 MHz, Cores: 1
+GPU: PowerVR SGX540, 400 MHz
+RAM: 1 GB, 400 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED Advanced, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6800274e/320/main.jpg
+name=RAZR i;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED Advanced, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5aa02753/320/main.jpg
+name=RAZR M XT905;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/dbcc2751/320/main.jpg
+name=RAZR HD;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/8cc02752
+imageUrl=https://www.devicespecifications.com/images/model/8cc02752/320/main.jpg
+name=DROID RAZR M;
+
+Weight: 157 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 3300 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f6cb274f/320/main.jpg
+name=DROID RAZR MAXX HD;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2530 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/732f2750
+imageUrl=https://www.devicespecifications.com/images/model/732f2750/320/main.jpg
+name=DROID RAZR HD;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1785 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1d8d2756/320/main.jpg
+name=Photon Q 4G LTE;
+
+Weight: 115 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 286.72 MB
+Memory cards: microSD, microSDHC
+Display: 2.7 in, TFT, 480 x 320 pixels, 24 bit
+Battery: 1700 mAh, Li-Ion
+OS: Android 2.3.7 Gingerbread
+Camera: 2592 x 1944 pixels, 800 x 480 pixels, 24 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/71e02757/320/main.jpg
+name=DEFY Pro;
+
+Weight: 130 g
+SoC: Texas Instruments OMAP 4 4430
+CPU: ARM Cortex-A9 MPcore, 1200 MHz, Cores: 2
+GPU: PowerVR SGX540, 304 MHz
+RAM: 1 GB, 400 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1780 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6fa32755/320/main.jpg
+name=Electrify 2;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 1 GB
+Memory cards: microSD, microSDHC
+Display: 3.7 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 1650 mAh, Li-Ion
+OS: Android 2.3.7 Gingerbread
+Camera: 2592 x 1944 pixels, 840 x 480 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/248c2754/320/main.jpg
+name=DEFY XT;
+
+Weight: 87 g
+CPU: 312 MHz
+RAM: 49.9712 MB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 910 mAh, Li-Ion
+Camera: 2048 x 1536 pixels, 320 x 240 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.1    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2a93275b/320/main.jpg
+name=MotoGo TV;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1780 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8ec92758/320/main.jpg
+name=ATRIX HD;
+
+Weight: 125 g
+SoC: ST-Ericsson NovaThor U8500
+CPU: ARM Cortex-A9 MPcore, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1
+RAM: 768 MB
+Storage: 2 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 540 x 960 pixels, 18 bit
+Battery: 1650 mAh, Li-Ion
+OS: Android 2.3.7 Gingerbread
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/16762759/320/main.jpg
+name=XT760;
+
+Weight: 125 g
+SoC: Texas Instruments OMAP 4 4430
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX540, 304 MHz
+RAM: 1 GB, 400 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, LCD, 540 x 960 pixels, 24 bit
+Battery: 1750 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bf90275e
+imageUrl=https://www.devicespecifications.com/images/model/bf90275e/320/main.jpg
+name=RAZR V;
+
+Weight: 129 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 149.504 MB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 854 pixels
+Battery: 1700 mAh, Li-Ion
+OS: Android 4.0.x Ice Cream Sandwich
+Camera: 3264 x 2448 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c099275a/320/main.jpg
+name=ATRIX TV;
+
+Weight: 87 g
+RAM: 64 MB
+Storage: 49.9712 MB
+Memory cards: microSD, microSDHC
+Display: 2 in, TFT, 220 x 176 pixels, 18 bit
+Battery: 750 mAh, Li-Ion
+Camera: 1600 x 1200 pixels
+SIM card: Mini-SIM
+USB: 2.0, Micro USB
+Bluetooth: 2.1    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0dc3275d/320/main.jpg
+name=MOTOKEY 3-CHIP;
+
+Weight: 107 g
+SoC: MediaTek MT6573
+CPU: ARM11, 800 MHz, Cores: 1
+GPU: PowerVR SGX531
+RAM: 256 MB
+Storage: 149.504 MB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 2.3.x Gingerbread
+Camera: 1600 x 1200 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ea22275c/320/main.jpg
+name=Motosmart Me;
+

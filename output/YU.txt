@@ -1,0 +1,237 @@
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3930 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 24 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b2f345b9/320/main.jpg
+name=Yureka 2;
+
+Weight: 159 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e57e44ac
+imageUrl=https://www.devicespecifications.com/images/model/e57e44ac/320/main.jpg
+name=Yunique 2;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 24 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/65ee439d
+imageUrl=https://www.devicespecifications.com/images/model/65ee439d/320/main.jpg
+name=Yureka Black;
+
+Weight: 172 g
+SoC: Qualcomm Snapdragon 616 MSM8939v2
+CPU: 4x 1.7 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 3 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 24 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/22e83dec
+imageUrl=https://www.devicespecifications.com/images/model/22e83dec/320/main.jpg
+name=Yureka S;
+
+Weight: 128 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/ebc93deb
+imageUrl=https://www.devicespecifications.com/images/model/ebc93deb/320/main.jpg
+name=Yunique Plus;
+
+Weight: 172 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: AOS (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 3.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b5373c50
+imageUrl=https://www.devicespecifications.com/images/model/b5373c50/320/main.jpg
+name=Yunicorn;
+
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/78373c03/320/main.jpg
+name=Yureka Note;
+
+Weight: 159 g
+SoC: Qualcomm Snapdragon 810 MSM8994 v2.1
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: CyanogenMod 12.1 (Android 5.1.1 Lollipop)
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2c8d38d4/320/main.jpg
+name=Yutopia;
+
+Weight: 128 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/faaa366f/320/main.jpg
+name=Yunique;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.4 KitKat (YU5510A)
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 24 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/daa4353a/320/main.jpg
+name=Yureka Plus;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2230 mAh, Li-Ion
+OS: CyanogenMod 12 (Android 5.0.2 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/149633fb/320/main.jpg
+name=Yuphoria;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: CyanogenMod 11 (Android 4.4.4 KitKat)
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 24 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1f4b317d/320/main.jpg
+name=Yureka;
+

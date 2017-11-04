@@ -1,0 +1,170 @@
+Weight: 162 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Living 2.0 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c5d33910/320/main.jpg
+name=M7;
+
+Weight: 133 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Living 2.0 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0d2e391e/320/main.jpg
+name=R9;
+
+Weight: 230 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Display: 6.44 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 6010 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cbd637a4/320/main.jpg
+name=MOS1 Max;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, AHVA, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/105a3520
+imageUrl=https://www.devicespecifications.com/images/model/105a3520/320/main.jpg
+name=MOS1;
+
+Weight: 510 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8.9 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0ec63542
+imageUrl=https://www.devicespecifications.com/images/model/0ec63542/320/main.jpg
+name=i9s Pro;
+
+Weight: 600 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/0b023538
+imageUrl=https://www.devicespecifications.com/images/model/0b023538/320/main.jpg
+name=i10s;
+
+Weight: 510 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8.9 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/89173541
+imageUrl=https://www.devicespecifications.com/images/model/89173541/320/main.jpg
+name=i9s;
+
+Weight: 765 g
+SoC: Intel Atom Z2580
+CPU: Intel Saltwell HT, 2000 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 533 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 11.6 in, IPS, 1366 x 768 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/76ad36cd
+imageUrl=https://www.devicespecifications.com/images/model/76ad36cd/320/main.jpg
+name=i12c;
+
+Weight: 570 g
+SoC: Intel Atom Z2580
+CPU: Intel Saltwell HT, 2000 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 533 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 7500 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/751c3537
+imageUrl=https://www.devicespecifications.com/images/model/751c3537/320/main.jpg
+name=i10;
+

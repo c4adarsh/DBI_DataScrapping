@@ -1,0 +1,26 @@
+Venue 8 Pro 5855	https://www.devicespecifications.com/en/model/5eed3994
+Venue 10 Pro LTE 64 GB	https://www.devicespecifications.com/en/model/73323506
+Venue 10 Pro 64 GB	https://www.devicespecifications.com/en/model/f7e93505
+Venue 10 Pro LTE	https://www.devicespecifications.com/en/model/56b63504
+Venue 10 Pro	https://www.devicespecifications.com/en/model/70a23503
+Venue 10 7000	https://www.devicespecifications.com/en/model/0d893502
+Venue 7 3741	https://www.devicespecifications.com/en/model/7b57357f
+Venue 8 7000	https://www.devicespecifications.com/en/model/65cd2fdd
+Venue 8 3840	https://www.devicespecifications.com/en/model/e22d2e18
+Venue 8 Pro	https://www.devicespecifications.com/en/model/d0f62e16
+Venue 11 Pro	https://www.devicespecifications.com/en/model/06db2e17
+Venue 8	https://www.devicespecifications.com/en/model/a3a829bb
+Venue 7	https://www.devicespecifications.com/en/model/ff3a29ba
+XPS 10	https://www.devicespecifications.com/en/model/a6322804
+Streak Pro D43	https://www.devicespecifications.com/en/model/5cba2806
+Streak 10 Pro	https://www.devicespecifications.com/en/model/99342805
+Streak 7 Wi-Fi	https://www.devicespecifications.com/en/model/43272808
+Streak 7	https://www.devicespecifications.com/en/model/2e522807
+Venue	https://www.devicespecifications.com/en/model/91f72809
+XCD35	https://www.devicespecifications.com/en/model/9a74280a
+XCD28	https://www.devicespecifications.com/en/model/626b280b
+Venue Pro	https://www.devicespecifications.com/en/model/b887280c
+Aero	https://www.devicespecifications.com/en/model/e9b5280e
+Streak	https://www.devicespecifications.com/en/model/aed3280d
+Mini 3iX	https://www.devicespecifications.com/en/model/7b272810
+Mini 3i	https://www.devicespecifications.com/en/model/ab6e280f

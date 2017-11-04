@@ -1,0 +1,45 @@
+950	https://www.devicespecifications.com/en/model/2c0f3eb5
+580	https://www.devicespecifications.com/en/model/13603eb4
+562	https://www.devicespecifications.com/en/model/ebc13d7b
+750	https://www.devicespecifications.com/en/model/87c03cfd
+560	https://www.devicespecifications.com/en/model/bcb33cfa
+302U	https://www.devicespecifications.com/en/model/93ad3918
+Play 2C	https://www.devicespecifications.com/en/model/85d03880
+Play 2	https://www.devicespecifications.com/en/model/bc58387f
+P589L	https://www.devicespecifications.com/en/model/fe8c3561
+P561U	https://www.devicespecifications.com/en/model/24f734cb
+P335M	https://www.devicespecifications.com/en/model/ddd434cd
+3S M3G	https://www.devicespecifications.com/en/model/7c7d3431
+P588L	https://www.devicespecifications.com/en/model/22f33415
+Ono	https://www.devicespecifications.com/en/model/a0ae33f0
+P618L	https://www.devicespecifications.com/en/model/ecfd33c7
+M2L	https://www.devicespecifications.com/en/model/7726336e
+P516L	https://www.devicespecifications.com/en/model/780e3271
+P332U	https://www.devicespecifications.com/en/model/b86f3252
+i718M	https://www.devicespecifications.com/en/model/2233319c
+i708U	https://www.devicespecifications.com/en/model/cddf319e
+i709M	https://www.devicespecifications.com/en/model/79c8319b
+M2M	https://www.devicespecifications.com/en/model/36ac3184
+M2U	https://www.devicespecifications.com/en/model/8a8d329b
+P500M	https://www.devicespecifications.com/en/model/93383164
+P550U	https://www.devicespecifications.com/en/model/d3f53163
+H916T	https://www.devicespecifications.com/en/model/4f64319d
+P520L	https://www.devicespecifications.com/en/model/47dd3025
+P301M	https://www.devicespecifications.com/en/model/422c2f87
+P631M	https://www.devicespecifications.com/en/model/98c22e43
+P688L	https://www.devicespecifications.com/en/model/fb5e2e3d
+P728M	https://www.devicespecifications.com/en/model/a98f2e29
+P331M	https://www.devicespecifications.com/en/model/f17c2dd3
+S725T	https://www.devicespecifications.com/en/model/15712cc5
+J730U	https://www.devicespecifications.com/en/model/78c72cb3
+Meme Da	https://www.devicespecifications.com/en/model/13062bbf
+Joy	https://www.devicespecifications.com/en/model/ad1e2b82
+S838M	https://www.devicespecifications.com/en/model/d08e2cc6
+Idol X+	https://www.devicespecifications.com/en/model/83f12a5c
+J938M	https://www.devicespecifications.com/en/model/00512cc7
+J926T	https://www.devicespecifications.com/en/model/48c22a14
+Hero N3 Y910T	https://www.devicespecifications.com/en/model/761b2a19
+Hero N3	https://www.devicespecifications.com/en/model/96af2a12
+S530T	https://www.devicespecifications.com/en/model/66f32a1a
+Idol X	https://www.devicespecifications.com/en/model/a63f2a13
+S860	https://www.devicespecifications.com/en/model/6fda2a15

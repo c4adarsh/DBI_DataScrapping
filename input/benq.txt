@@ -1,0 +1,13 @@
+F55	https://www.devicespecifications.com/en/model/0f664540
+T55	https://www.devicespecifications.com/en/model/d08a3dcb
+B506	https://www.devicespecifications.com/en/model/9ffb382a
+B505	https://www.devicespecifications.com/en/model/c00a3586
+F52	https://www.devicespecifications.com/en/model/3d3a3587
+B502	https://www.devicespecifications.com/en/model/805031bd
+B50	https://www.devicespecifications.com/en/model/184f314b
+F5	https://www.devicespecifications.com/en/model/ef692dc7
+T3	https://www.devicespecifications.com/en/model/b70f2dc8
+F4	https://www.devicespecifications.com/en/model/70a52dc6
+A3c	https://www.devicespecifications.com/en/model/bd572e6b
+A3	https://www.devicespecifications.com/en/model/b2f12e6a
+F3	https://www.devicespecifications.com/en/model/d6342e69

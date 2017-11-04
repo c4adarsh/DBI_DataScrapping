@@ -1,0 +1,424 @@
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/16c044a7/320/main.jpg
+name=Admire Swadesh Plus;
+
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c4b043fe/320/main.jpg
+name=Admire Glory;
+
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cecd43bd/320/main.jpg
+name=Admire Neo;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a12b44ef/320/main.jpg
+name=Admire Snap;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/84b643bc/320/main.jpg
+name=Admire Sense;
+
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 768 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/74ea439c/320/main.jpg
+name=Admire Buzz;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 768 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/52c74354/320/main.jpg
+name=Admire Joy;
+
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7f0342e6/320/main.jpg
+name=Admire Metal;
+
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5f7b4236/320/main.jpg
+name=Admire Swadesh;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2900 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/728a413b/320/main.jpg
+name=Cinemax 4G;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1400 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d8704090/320/main.jpg
+name=Admire Glow;
+
+SoC: Spreadtrum SC8830
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/34384091/320/main.jpg
+name=Admire Thrill;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0c82404f/320/main.jpg
+name=Cinemax Click;
+
+Weight: 153 g
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/585f4025/320/main.jpg
+name=Admire Dragon;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2900 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/83eb3fe5/320/main.jpg
+name=Cinemax Force;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2048 x 1536 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/45853fe4/320/main.jpg
+name=Admire Glam;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/84713e63/320/main.jpg
+name=Admire Star;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2900 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3072 x 1728 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/bc053da8/320/main.jpg
+name=Cinemax 3;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0244413a/320/main.jpg
+name=Admire Punch;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9e083ceb/320/main.jpg
+name=Admire Fab Q+;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2048 x 1536 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b0403cec/320/main.jpg
+name=Admire Fab Q;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/af1939ec/320/main.jpg
+name=Admire SXY;
+
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2900 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3b4b39d9/320/main.jpg
+name=Cinemax 2;
+

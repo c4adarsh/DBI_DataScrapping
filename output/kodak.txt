@@ -1,0 +1,76 @@
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a8c74405
+imageUrl=https://www.devicespecifications.com/images/model/a8c74405/320/main.jpg
+name=Tablet 10;
+
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1024 x 600 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/01e64404/320/main.jpg
+name=Tablet 7;
+
+Weight: 163 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/aef83f2e
+imageUrl=https://www.devicespecifications.com/images/model/aef83f2e/320/main.jpg
+name=Ektra;
+
+Weight: 120 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2150 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/86d93498/320/main.jpg
+name=IM5;
+

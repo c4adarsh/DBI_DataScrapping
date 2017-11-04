@@ -1,0 +1,1653 @@
+Weight: 340 g
+SoC: MediaTek MT8163
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4600 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9a294418/320/main.jpg
+name=Iconia One 8 B1-860;
+
+Weight: 530 g
+SoC: MediaTek MT8167A
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: PowerVR GE8300
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 6100 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 2624 x 1968 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/a3484417
+imageUrl=https://www.devicespecifications.com/images/model/a3484417/320/main.jpg
+name=Iconia One 10 B3-A40FHD;
+
+Weight: 530 g
+SoC: MediaTek MT8167B
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: PowerVR GE8300
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 720 pixels, 24 bit
+Battery: 6100 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 2624 x 1968 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/d6294416
+imageUrl=https://www.devicespecifications.com/images/model/d6294416/320/main.jpg
+name=Iconia One 10 B3-A40;
+
+Weight: 165 g
+SoC: MediaTek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/bdfe40e1/320/main.jpg
+name=Liquid Z6E;
+
+Weight: 520 g
+SoC: MediaTek MT8163
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6100 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 2624 x 1968 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/8f384388
+imageUrl=https://www.devicespecifications.com/images/model/8f384388/320/main.jpg
+name=Iconia One 10 B3-A30;
+
+Weight: 168 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4080 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/2ae53e24
+imageUrl=https://www.devicespecifications.com/images/model/2ae53e24/320/main.jpg
+name=Liquid Z6 Plus;
+
+Weight: 126 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a4af3e23
+imageUrl=https://www.devicespecifications.com/images/model/a4af3e23/320/main.jpg
+name=Liquid Z6;
+
+Weight: 260 g
+SoC: MediaTek MT8735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 720 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/44143e1f
+imageUrl=https://www.devicespecifications.com/images/model/44143e1f/320/main.jpg
+name=Iconia Talk S A1-734;
+
+Weight: 529 g
+SoC: MediaTek MT8163A
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 6100 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a24d3b76
+imageUrl=https://www.devicespecifications.com/images/model/a24d3b76/320/main.jpg
+name=Iconia Tab 10 A3-A40;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 5288 x 3968 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1b763a5d/320/main.jpg
+name=Liquid Jade 2;
+
+Weight: 360 g
+SoC: MediaTek MT8163B
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 520 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4600 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8649392f
+imageUrl=https://www.devicespecifications.com/images/model/8649392f/320/main.jpg
+name=Iconia One 8 B1-850;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Microsoft Windows 10 Continuum
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/5e86378b
+imageUrl=https://www.devicespecifications.com/images/model/5e86378b/320/main.jpg
+name=Liquid Jade Primo;
+
+Weight: 550 g
+SoC: MediaTek MT8163
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6100 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 2624 x 1968 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bb6c3d18
+imageUrl=https://www.devicespecifications.com/images/model/bb6c3d18/320/main.jpg
+name=Iconia One 10 B3-A20;
+
+Weight: 280 g
+SoC: MediaTek MT8321
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1024 x 600 pixels, 24 bit
+Battery: 3380 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 2624 x 1968 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/28dc3b94/320/main.jpg
+name=Iconia Talk 7;
+
+Weight: 350 g
+SoC: Intel Atom x7-Z8700
+CPU: Intel Cherry Trail, 2400 MHz, Cores: 4
+GPU: Intel HD Graphics, 600 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4550 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/0d7d3675
+imageUrl=https://www.devicespecifications.com/images/model/0d7d3675/320/main.jpg
+name=Predator 8;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8fcd3649
+imageUrl=https://www.devicespecifications.com/images/model/8fcd3649/320/main.jpg
+name=Liquid Z330;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 210 MSM8209
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/47cd3648/320/main.jpg
+name=Liquid Z320;
+
+Weight: 165 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d9fe363c/320/main.jpg
+name=Liquid Z630S;
+
+Weight: 165 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 2 GB, 640 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cb07363b/320/main.jpg
+name=Liquid Z630;
+
+Weight: 145 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c9a73639/320/main.jpg
+name=Liquid Z530S;
+
+Weight: 145 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 2 GB, 640 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/ce143638
+imageUrl=https://www.devicespecifications.com/images/model/ce143638/320/main.jpg
+name=Liquid Z530;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Microsoft Windows 10
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/75383637/320/main.jpg
+name=Liquid M330;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 210 MSM8209
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Microsoft Windows 10
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5ef13636/320/main.jpg
+name=Liquid M320;
+
+Weight: 540 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 5910 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f1373b5c
+imageUrl=https://www.devicespecifications.com/images/model/f1373b5c/320/main.jpg
+name=Iconia Tab 10 A3-A30;
+
+Weight: 280 g
+SoC: MediaTek MT8127
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 450 MHz, Cores: 4
+RAM: 1 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1024 x 600 pixels, 24 bit
+Battery: 2780 mAh, Li-Polymer
+OS: Android 5.0.1 Lollipop
+Camera: 1600 x 1200 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ab443af8/320/main.jpg
+name=Iconia One 7 B1-770;
+
+Weight: 165 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 3 GB, 640 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4020 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8d9b3b65/320/main.jpg
+name=Liquid X2;
+
+Weight: 508 g
+SoC: MediaTek MT8127
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 1 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 5910 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/599e334b/320/main.jpg
+name=Iconia Tab 10 A3-A20FHD-K1AY;
+
+Weight: 508 g
+SoC: MediaTek MT8127
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 2 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 5700 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ebcf334a/320/main.jpg
+name=Iconia Tab 10 A3-A20FHD-K0CQ;
+
+Weight: 508 g
+SoC: MediaTek MT8127
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 2 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 5910 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f5243349/320/main.jpg
+name=Iconia Tab 10 A3-A20FHD-K8KX;
+
+Weight: 110 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 2 GB, 800 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 4864 x 2736 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/967132d7
+imageUrl=https://www.devicespecifications.com/images/model/967132d7/320/main.jpg
+name=Liquid Jade Z;
+
+Weight: 150 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/565632d6
+imageUrl=https://www.devicespecifications.com/images/model/565632d6/320/main.jpg
+name=Liquid Z520;
+
+Weight: 119 g
+SoC: Qualcomm Snapdragon 200 MSM8210
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 512 MB, 1 GB
+Storage: 4 GB, 8 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1300 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0ad832d5
+imageUrl=https://www.devicespecifications.com/images/model/0ad832d5/320/main.jpg
+name=Liquid Z220;
+
+Weight: 119 g
+SoC: Qualcomm Snapdragon 200 MSM8210
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1300 mAh, Li-Ion
+OS: Microsoft Windows Phone 8.1
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/aabe32d4
+imageUrl=https://www.devicespecifications.com/images/model/aabe32d4/320/main.jpg
+name=Liquid M220;
+
+Weight: 145 g
+SoC: MediaTek MT6732M
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/dd4c31be
+imageUrl=https://www.devicespecifications.com/images/model/dd4c31be/320/main.jpg
+name=Liquid Z410;
+
+Weight: 116 g
+SoC: MediaTek MT6752M
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/604f314f
+imageUrl=https://www.devicespecifications.com/images/model/604f314f/320/main.jpg
+name=Liquid Jade S;
+
+Weight: 275 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 720 pixels, 24 bit
+Battery: 3780 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/72cb3137
+imageUrl=https://www.devicespecifications.com/images/model/72cb3137/320/main.jpg
+name=Iconia Talk S;
+
+Weight: 340 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1200 x 800 pixels, 24 bit
+Battery: 4420 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 800 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4a6e30e2/320/main.jpg
+name=Iconia One 8 B1-810;
+
+Weight: 150 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0b842f48/320/main.jpg
+name=Liquid Z500;
+
+Weight: 520 g
+SoC: MediaTek MT8127
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 1 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 5700 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/664f2ecd/320/main.jpg
+name=Iconia Tab 10 A3-A20;
+
+Weight: 320 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, TFT, 1280 x 800 pixels, 24 bit
+Battery: 3420 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bc1230ef
+imageUrl=https://www.devicespecifications.com/images/model/bc1230ef/320/main.jpg
+name=Iconia One 7 B1-750;
+
+Weight: 360 g
+SoC: Intel Atom Z3745
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel Gen 7 (Ivy Bridge), 778 MHz
+RAM: 2 GB, 1066 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, LCD, 1920 x 1200 pixels, 24 bit
+Battery: 4600 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/16612d1d
+imageUrl=https://www.devicespecifications.com/images/model/16612d1d/320/main.jpg
+name=Iconia Tab 8;
+
+Weight: 110 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2100 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4224 x 3168 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/84642d1c/320/main.jpg
+name=Liquid Jade;
+
+Weight: 156 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d4452d1b/320/main.jpg
+name=Liquid E600;
+
+Weight: 155 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/01ee2d1a/320/main.jpg
+name=Liquid E700;
+
+Weight: 160 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/30de2d18/320/main.jpg
+name=Liquid X1;
+
+Weight: 130 g
+SoC: MediaTek MT6572M
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 400 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1300 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 1600 x 1200 pixels, 800 x 480 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/07162d19
+imageUrl=https://www.devicespecifications.com/images/model/07162d19/320/main.jpg
+name=Liquid Z200;
+
+Weight: 134 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4224 x 3168 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/daf62f90/320/main.jpg
+name=Liquid E3 Duo Plus;
+
+Weight: 298 g
+SoC: MediaTek MT8382V
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c80a2c53/320/main.jpg
+name=Iconia Tab 7 A1-713HD;
+
+Weight: 298 g
+SoC: MediaTek MT8382
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, TFT, 1024 x 600 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2efd2c54/320/main.jpg
+name=Iconia Tab 7 A1-713;
+
+Weight: 320 g
+SoC: Intel Atom Z2560
+CPU: Intel Clover Trail+, 1600 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 400 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3700 mAh, Li-Polymer
+OS: Android 4.2 Jelly Bean
+Camera: 1600 x 1200 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3de12c52/320/main.jpg
+name=Iconia One 7 B1-730HD;
+
+Weight: 134 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4224 x 3168 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/48872b00/320/main.jpg
+name=Liquid E3;
+
+Weight: 122 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2880 x 1728 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ebba2aff/320/main.jpg
+name=Liquid Z4;
+
+Weight: 311 g
+SoC: MediaTek MT8312
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1024 x 600 pixels
+Battery: 2955 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 640 x 480 pixels, 640 x 480 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9f4d2b04/320/main.jpg
+name=Iconia B1-721;
+
+Weight: 311 g
+SoC: MediaTek MT8111
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, TFT, 1024 x 600 pixels
+Battery: 2955 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 640 x 480 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2ccc2a6c/320/main.jpg
+name=Iconia B1-720;
+
+Weight: 370 g
+SoC: Intel Atom Z2560
+CPU: Intel Clover Trail+, 1600 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 400 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7.9 in, IPS, 1024 x 768 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 4.2.1 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6abb2a3c
+imageUrl=https://www.devicespecifications.com/images/model/6abb2a3c/320/main.jpg
+name=Iconia A1-830;
+
+Weight: 147 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/38f92a3a
+imageUrl=https://www.devicespecifications.com/images/model/38f92a3a/320/main.jpg
+name=Liquid Z5;
+
+Weight: 339 g
+SoC: MediaTek MT8317T
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX531, 522 MHz
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, TFT, 1024 x 600 pixels
+Battery: 2640 mAh, Li-Ion
+OS: Android 4.1 Jelly Bean
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/09442a3d/320/main.jpg
+name=Iconia Tab B1-710;
+
+Weight: 419 g
+SoC: Intel Atom Z3740
+CPU: Intel Silvermont, 1333 MHz, Cores: 4
+GPU: Intel Gen 7, 311 MHz
+RAM: 2 GB, 533 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4960 mAh, Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/465d2a6b/320/main.jpg
+name=Iconia W4-820;
+
+Weight: 560 g
+SoC: MediaTek MT8125T
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544, 300 MHz
+RAM: 1 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 7300 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0c712a3e/320/main.jpg
+name=Iconia A3;
+
+Weight: 231 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3300 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d3ad2998/320/main.jpg
+name=Liquid S2;
+
+Weight: 120 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, LCD, 320 x 480 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2048 x 1536 pixels, 640 x 480 pixels, 24 fps
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1a702997/320/main.jpg
+name=Liquid Z3;
+
+Weight: 195 g
+SoC: MediaTek MT6589T
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 357 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.7 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 4.2.x Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1b242811/320/main.jpg
+name=Liquid S1;
+
+Weight: 410 g
+SoC: MediaTek MT8125
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544, 300 MHz
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7.9 in, IPS, 1024 x 768 pixels, 24 bit
+Battery: 4960 mAh, Li-Ion
+OS: Android 4.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/27162812/320/main.jpg
+name=Iconia A1;
+
+Weight: 140 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.1 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/39092813/320/main.jpg
+name=Liquid E2;
+
+Weight: 110 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1300 mAh, Li-Ion
+OS: Android 4.1.1 Jelly Bean
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0a902814
+imageUrl=https://www.devicespecifications.com/images/model/0a902814/320/main.jpg
+name=Liquid Z2;
+
+Weight: 140 g
+SoC: Intel Atom Z2420
+CPU: Intel Saltwell HT, 1200 MHz, Cores: 1
+GPU: PowerVR SGX540, 400 MHz
+RAM: 1 GB, 400 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.0 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0d682815/320/main.jpg
+name=Liquid C1;
+
+Weight: 130 g
+SoC: MediaTek MT6577
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: PowerVR SGX531, 522 MHz
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 1760 mAh, Li-Ion
+OS: Android 4.1.1 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/84c52816/320/main.jpg
+name=Liquid E1;
+
+Weight: 320 g
+SoC: MediaTek MT8317T
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX531
+RAM: 512 MB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1024 x 600 pixels, 18 bit
+Battery: 2710 mAh, Li-Polymer
+OS: Android 4.1.2 Jelly Bean
+Camera: 640 x 480 pixels, 640 x 480 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/1b5b2817
+imageUrl=https://www.devicespecifications.com/images/model/1b5b2817/320/main.jpg
+name=Iconia Tab B1;
+
+Weight: 685 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, TFT, 1280 x 800 pixels, 18 bit
+Battery: 3260 mAh, Li-Polymer
+OS: Android 4.0.x Ice Cream Sandwich
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/76a9281e/320/main.jpg
+name=Iconia Tab A210;
+
+Weight: 390 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1024 x 600 pixels, 18 bit
+Battery: 3420 mAh, Li-Polymer
+OS: Android 4.1 Jelly Bean
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/24252818/320/main.jpg
+name=Iconia Tab A110;
+
+Weight: 100 g
+SoC: MediaTek MT6575M
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 1
+GPU: PowerVR SGX531, 281 MHz
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1300 mAh, Li-Polymer
+OS: Android 2.3.7 Gingerbread
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8a962819/320/main.jpg
+name=Liquid Z110;
+
+Weight: 145 g
+SoC: MediaTek MT6575
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 1
+GPU: PowerVR SGX531T, 522 MHz
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0452281a/320/main.jpg
+name=Liquid Gallant;
+
+Weight: 145 g
+SoC: MediaTek MT6575
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 1
+GPU: PowerVR SGX531T, 522 MHz
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6361281b/320/main.jpg
+name=Liquid Gallant Duo;
+
+Weight: 122 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8260A
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 1460 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5e53281d/320/main.jpg
+name=CloudMobile;
+
+Weight: 125 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 1 GB
+Memory cards: microSD, microSDHC
+Display: 3.7 in, TFT, 480 x 800 pixels
+Battery: 1300 mAh, Li-Ion
+OS: Android 4.0 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/865a281c/320/main.jpg
+name=Liquid Glow;
+
+Weight: 665 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1920 x 1200 pixels, 24 bit
+Battery: 9800 mAh, Li-Ion
+OS: Android 4.0.1 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/baed2821/320/main.jpg
+name=Iconia Tab A700;
+
+Weight: 777 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, TFT, 1280 x 800 pixels, 18 bit
+Battery: 9800 mAh, Li-Polymer
+OS: Android 4.0 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6e3f2822/320/main.jpg
+name=Iconia Tab A511;
+
+Weight: 667 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1920 x 1200 pixels, 24 bit
+Battery: 9800 mAh, Li-Polymer
+OS: Android 4.0.1 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e0a22820/320/main.jpg
+name=Iconia Tab A701;
+
+Weight: 680 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, TFT, 1280 x 800 pixels, 18 bit
+Battery: 9800 mAh, Li-Polymer
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d6532823
+imageUrl=https://www.devicespecifications.com/images/model/d6532823/320/main.jpg
+name=Iconia Tab A510;
+
+Weight: 700 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 1 GB, 300 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1280 x 800 pixels, 24 bit
+Battery: 3260 mAh, Li-Polymer
+OS: Android 3.2.1 Honeycomb
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/53b1281f/320/main.jpg
+name=Iconia Tab A200;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon S2 MSM8255
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 8 GB
+Display: 3.6 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1300 mAh, Li-Ion
+OS: Microsoft Windows Phone 7.5 Mango
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2e8a2824/320/main.jpg
+name=Allegro;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon S1 MSM7227T
+CPU: ARM11, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 512 MB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1300 mAh, Li-Ion
+OS: Android 2.3.3 Gingerbread
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/23402a40/320/main.jpg
+name=Liquid Express;
+
+Weight: 730 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 1 GB, 300 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1280 x 800 pixels, 18 bit
+Battery: 3260 mAh, Li-Polymer
+OS: Android 3.0 Honeycomb
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ddaf2a41/320/main.jpg
+name=Iconia Tab A501;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon S2 MSM8255
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.8 in, TFT, 480 x 1024 pixels, 24 bit
+Battery: 1500 mAh, Li-Polymer
+OS: Android 2.3 Gingerbread
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/15022a42/320/main.jpg
+name=Iconia Smart;
+
+Weight: 730 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 1 GB, 300 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1280 x 800 pixels, 18 bit
+Battery: 3260 mAh, Li-Polymer
+OS: Android 3.0 Honeycomb
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7ccb2a43/320/main.jpg
+name=Iconia Tab A500;
+

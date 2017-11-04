@@ -1,0 +1,220 @@
+Weight: 189 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4c10447d
+imageUrl=https://www.devicespecifications.com/images/model/4c10447d/320/main.jpg
+name=X1 mini;
+
+Weight: 255 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 2930 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/58b74398
+imageUrl=https://www.devicespecifications.com/images/model/58b74398/320/main.jpg
+name=A7;
+
+Weight: 247 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4050 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a1da4379
+imageUrl=https://www.devicespecifications.com/images/model/a1da4379/320/main.jpg
+name=A8 SE;
+
+Weight: 192 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 2600 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f3ff435b
+imageUrl=https://www.devicespecifications.com/images/model/f3ff435b/320/main.jpg
+name=A8 Mini;
+
+Weight: 245 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 3 GB, 533 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4050 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/273c42b2
+imageUrl=https://www.devicespecifications.com/images/model/273c42b2/320/main.jpg
+name=A1Q;
+
+Weight: 213 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 8 GB, 1866 MHz
+Storage: 256 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5264 x 3960 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/caa941fa/320/main.jpg
+name=X2 Max;
+
+Weight: 213 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 6 GB, 1866 MHz
+Storage: 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/340d41f9
+imageUrl=https://www.devicespecifications.com/images/model/340d41f9/320/main.jpg
+name=X2 Pro;
+
+Weight: 250 g
+SoC: Qualcomm Snapdragon 653 MSM8976 Pro
+CPU: 4x 1.95 GHz ARM Cortex-A72, 4x 1.44 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510
+RAM: 6 GB, 933 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 7.1 Nougat
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/3ad041f8
+imageUrl=https://www.devicespecifications.com/images/model/3ad041f8/320/main.jpg
+name=X2;
+
+Weight: 247 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 3 GB, 4 GB, 533 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4050 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a53d4109
+imageUrl=https://www.devicespecifications.com/images/model/a53d4109/320/main.jpg
+name=A8;
+
+Weight: 225 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 2600 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3763410a
+imageUrl=https://www.devicespecifications.com/images/model/3763410a/320/main.jpg
+name=A2;
+
+Weight: 210 g
+SoC: Qualcomm Snapdragon 617 MSM8952
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 5400 mAh, Li-Polymer
+OS: X OS 1.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/2063410b
+imageUrl=https://www.devicespecifications.com/images/model/2063410b/320/main.jpg
+name=X1;
+

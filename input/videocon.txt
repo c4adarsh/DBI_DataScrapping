@@ -1,0 +1,44 @@
+Metal Pro 2	https://www.devicespecifications.com/en/model/eb494403
+Metal Pro 1	https://www.devicespecifications.com/en/model/9d064402
+Krypton 22	https://www.devicespecifications.com/en/model/6d10434b
+Delite 11+	https://www.devicespecifications.com/en/model/48b942ae
+Krypton 30	https://www.devicespecifications.com/en/model/9bd5434a
+Delite 21 V50MB	https://www.devicespecifications.com/en/model/862b40db
+Ultra 30 V50NL	https://www.devicespecifications.com/en/model/07f6403e
+Delite 11 V50MA	https://www.devicespecifications.com/en/model/d4c93f43
+Ultra 50 V50LL	https://www.devicespecifications.com/en/model/67973f42
+Graphite 2 V45GD	https://www.devicespecifications.com/en/model/9e2b3e98
+Cube 3 V50JL	https://www.devicespecifications.com/en/model/ef953e72
+Q1 V50OK	https://www.devicespecifications.com/en/model/3e4f3e71
+Krypton2 V50GI	https://www.devicespecifications.com/en/model/253c3d5e
+Challenger V40UE	https://www.devicespecifications.com/en/model/f7b93ca8
+Graphite 1 V45ED	https://www.devicespecifications.com/en/model/a53c3ca7
+Krypton3 V50JG	https://www.devicespecifications.com/en/model/75ca3c56
+Challenger V40LD	https://www.devicespecifications.com/en/model/4bef3b4f
+Graphite V45DB	https://www.devicespecifications.com/en/model/b94a3b4a
+Krypton V50GH	https://www.devicespecifications.com/en/model/f3ba3b3d
+Krypton V50DC	https://www.devicespecifications.com/en/model/29573b3c
+Krypton V50DA	https://www.devicespecifications.com/en/model/b7133b3b
+Graphite V45BD	https://www.devicespecifications.com/en/model/e16f3b5b
+Graphite V45DD	https://www.devicespecifications.com/en/model/61c33add
+Krypton V50FA	https://www.devicespecifications.com/en/model/e32d3ac4
+Krypton V50FG	https://www.devicespecifications.com/en/model/0ca43ac3
+Challenger V40HD	https://www.devicespecifications.com/en/model/c1ca3a7f
+Challenger V40GE	https://www.devicespecifications.com/en/model/88343a7e
+Challenger V40DF1	https://www.devicespecifications.com/en/model/f7c23a38
+Challenger V40CF1	https://www.devicespecifications.com/en/model/e12e3a37
+Infinium Z52 Inspire	https://www.devicespecifications.com/en/model/6be13ade
+V-Tab Esteem	https://www.devicespecifications.com/en/model/668a3a35
+Infinium Z52 Thunder	https://www.devicespecifications.com/en/model/c7173a34
+Infinium Z42 Nova	https://www.devicespecifications.com/en/model/9f48395a
+Infinium Z41 Aire	https://www.devicespecifications.com/en/model/74e33959
+Infinium Z55 Krypton	https://www.devicespecifications.com/en/model/d10338de
+Infinium Z45 Amaze	https://www.devicespecifications.com/en/model/1c01386f
+Infinium Z45 Dazzle	https://www.devicespecifications.com/en/model/55ec386e
+Octa Core Z55 Delite	https://www.devicespecifications.com/en/model/47273801
+Octa Core Z55 Dash	https://www.devicespecifications.com/en/model/a3de3870
+Infinium 30 Dart	https://www.devicespecifications.com/en/model/210937df
+Infinium Z51 Punch	https://www.devicespecifications.com/en/model/4654370c
+Infinium Z51Q Star	https://www.devicespecifications.com/en/model/16bd370b
+Infinium Z51 Nova+	https://www.devicespecifications.com/en/model/91e9375d
+Infinium 30 Aire	https://www.devicespecifications.com/en/model/a2d937de

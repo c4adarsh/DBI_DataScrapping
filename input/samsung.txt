@@ -1,0 +1,420 @@
+Galaxy Tab Active 2 Wi-Fi	https://www.devicespecifications.com/en/model/915c4670
+Galaxy J7 Core	https://www.devicespecifications.com/en/model/05194664
+Galaxy J2 (2017)	https://www.devicespecifications.com/en/model/355b465d
+Galaxy Tab Active 2 LTE	https://www.devicespecifications.com/en/model/8c8345d4
+Galaxy Tab A 8.0 (2017)	https://www.devicespecifications.com/en/model/a08445a1
+Galaxy Tab A 8.0 (2017) Wi-Fi	https://www.devicespecifications.com/en/model/1c9945a0
+Galaxy C8	https://www.devicespecifications.com/en/model/636e459b
+Galaxy J7+	https://www.devicespecifications.com/en/model/450c4581
+Galaxy J7 Neo	https://www.devicespecifications.com/en/model/5b99450f
+Galaxy Note8 Exynos	https://www.devicespecifications.com/en/model/4bce44dc
+Galaxy Note8 MSM8998	https://www.devicespecifications.com/en/model/9e0a44db
+Leadership 8	https://www.devicespecifications.com/en/model/4d5c44d4
+Galaxy S8 Active	https://www.devicespecifications.com/en/model/835744bf
+Galaxy J7 Nxt	https://www.devicespecifications.com/en/model/5c2c44a0
+Galaxy J3 Pro (2017)	https://www.devicespecifications.com/en/model/1a00448b
+Galaxy On Max	https://www.devicespecifications.com/en/model/42c3444f
+Galaxy J5 Pro	https://www.devicespecifications.com/en/model/587d4444
+Galaxy Halo	https://www.devicespecifications.com/en/model/572f443f
+Galaxy J7 Max	https://www.devicespecifications.com/en/model/0ded43e6
+Galaxy J7 Pro	https://www.devicespecifications.com/en/model/c1ea43e5
+Galaxy J7 (2017)	https://www.devicespecifications.com/en/model/98f04387
+Galaxy J5 (2017)	https://www.devicespecifications.com/en/model/f85d4386
+Galaxy Note FE MSM8996	https://www.devicespecifications.com/en/model/deca434d
+Galaxy Note FE Exynos	https://www.devicespecifications.com/en/model/957d434c
+Galaxy J3 (2017)	https://www.devicespecifications.com/en/model/653c433a
+Z4	https://www.devicespecifications.com/en/model/d5c64333
+Galaxy Wide2	https://www.devicespecifications.com/en/model/4a8b436a
+Galaxy Sol 2 4G	https://www.devicespecifications.com/en/model/80014301
+Galaxy J3 Eclipse	https://www.devicespecifications.com/en/model/f02d4453
+Galaxy Express Prime 2	https://www.devicespecifications.com/en/model/f5174311
+Galaxy Amp Prime 2	https://www.devicespecifications.com/en/model/102e42cb
+Galaxy J7 Perx	https://www.devicespecifications.com/en/model/5ca34290
+Galaxy J3 Prime	https://www.devicespecifications.com/en/model/1ace42ee
+Galaxy S8+ MSM8998	https://www.devicespecifications.com/en/model/bd064254
+Galaxy S8+ Exynos	https://www.devicespecifications.com/en/model/2c0b4253
+Galaxy J7 V	https://www.devicespecifications.com/en/model/86f04237
+Galaxy C5 Pro	https://www.devicespecifications.com/en/model/f72341e3
+Galaxy S8 MSM8998	https://www.devicespecifications.com/en/model/179841d3
+Galaxy S8 Exynos	https://www.devicespecifications.com/en/model/402341d2
+Galaxy Xcover 4	https://www.devicespecifications.com/en/model/322441cd
+Galaxy Tab S3 Wi-Fi	https://www.devicespecifications.com/en/model/5e4741a9
+Galaxy Tab S3	https://www.devicespecifications.com/en/model/a8d941a8
+Galaxy J2 Ace	https://www.devicespecifications.com/en/model/3e8040ce
+Galaxy C7 Pro	https://www.devicespecifications.com/en/model/dd5840c8
+Galaxy J3 Emerge	https://www.devicespecifications.com/en/model/571d40b5
+Galaxy A7 (2017)	https://www.devicespecifications.com/en/model/1f0f4088
+Galaxy A5 (2017)	https://www.devicespecifications.com/en/model/534a4087
+Galaxy A3 (2017)	https://www.devicespecifications.com/en/model/f9ce4086
+Galaxy J1 mini Prime	https://www.devicespecifications.com/en/model/f89c3f9d
+Galaxy J2 Prime	https://www.devicespecifications.com/en/model/99e23f71
+Galaxy Grand Prime Plus	https://www.devicespecifications.com/en/model/ab624310
+W2017	https://www.devicespecifications.com/en/model/facb3f69
+Galaxy C9 Pro	https://www.devicespecifications.com/en/model/21f83f31
+Galaxy On Nxt	https://www.devicespecifications.com/en/model/acc03f2a
+Galaxy Luna	https://www.devicespecifications.com/en/model/b97d3ed0
+Galaxy J5 Prime	https://www.devicespecifications.com/en/model/ab473f04
+Galaxy A8 (2016)	https://www.devicespecifications.com/en/model/6db23ebc
+Galaxy On8	https://www.devicespecifications.com/en/model/ec443eab
+Galaxy Tab A 10.1 (2016) with S Pen Wi-Fi	https://www.devicespecifications.com/en/model/d2a23e6d
+Galaxy Tab A 10.1 (2016) with S Pen	https://www.devicespecifications.com/en/model/54823e6c
+Galaxy Folder 2	https://www.devicespecifications.com/en/model/63fc3e54
+Galaxy J7 Prime	https://www.devicespecifications.com/en/model/71f83e2b
+Z2	https://www.devicespecifications.com/en/model/101d3df5
+Galaxy Tab A Nook	https://www.devicespecifications.com/en/model/4d253dda
+Galaxy J5 Metal	https://www.devicespecifications.com/en/model/36df3dab
+Galaxy Tab 4 10.1 Advanced SM-T536	https://www.devicespecifications.com/en/model/32043d98
+Galaxy Note7 MSM8996	https://www.devicespecifications.com/en/model/72af3d92
+Galaxy Note7 Exynos	https://www.devicespecifications.com/en/model/2ffc3d91
+Galaxy On7 (2016)	https://www.devicespecifications.com/en/model/7c6d3e9b
+Galaxy Tab J	https://www.devicespecifications.com/en/model/2ab93d65
+Galaxy J2 Pro	https://www.devicespecifications.com/en/model/eddc3d62
+Galaxy J7 Metal	https://www.devicespecifications.com/en/model/eee33d33
+Galaxy On7 Pro	https://www.devicespecifications.com/en/model/60a13d1f
+Galaxy On5 Pro	https://www.devicespecifications.com/en/model/f2993d1e
+Galaxy J1 Ace Neo	https://www.devicespecifications.com/en/model/ec9e3d15
+Galaxy J2 (2016)	https://www.devicespecifications.com/en/model/dfa33d10
+Galaxy J Max	https://www.devicespecifications.com/en/model/8f153d0f
+Galaxy Wide	https://www.devicespecifications.com/en/model/02df3d01
+Galaxy J3 V (2016)	https://www.devicespecifications.com/en/model/6fda3cac
+Galaxy J3 Pro	https://www.devicespecifications.com/en/model/4d393c6c
+Galaxy Tab A 10.1 (2016) Wi-Fi	https://www.devicespecifications.com/en/model/b1d63c81
+Galaxy S7 Active	https://www.devicespecifications.com/en/model/29883c73
+Galaxy C7	https://www.devicespecifications.com/en/model/92a83c3e
+Galaxy C5	https://www.devicespecifications.com/en/model/68043c39
+Galaxy Tab Iris	https://www.devicespecifications.com/en/model/b3013c33
+Galaxy Tab S2 9.7 SM-T819	https://www.devicespecifications.com/en/model/67413c20
+Galaxy Tab S2 9.7 Wi-Fi SM-T813	https://www.devicespecifications.com/en/model/ff073c1f
+Galaxy Tab S2 8.0 SM-T719	https://www.devicespecifications.com/en/model/6cb73c1c
+Galaxy Tab S2 8.0 Wi-Fi SM-T713	https://www.devicespecifications.com/en/model/ab973c1e
+Galaxy Sol 4G	https://www.devicespecifications.com/en/model/22b13bfd
+Galaxy Tab A 10.1 (2016)	https://www.devicespecifications.com/en/model/58c13bea
+Galaxy Xcover 3 VE	https://www.devicespecifications.com/en/model/36214008
+Galaxy Express 3	https://www.devicespecifications.com/en/model/b01b3bc2
+Galaxy Amp 2	https://www.devicespecifications.com/en/model/53773bac
+Galaxy Amp Prime	https://www.devicespecifications.com/en/model/506e3b49
+Galaxy Express Prime	https://www.devicespecifications.com/en/model/5eeb3b28
+Galaxy J7 (2016)	https://www.devicespecifications.com/en/model/3c903b07
+Galaxy J5 (2016)	https://www.devicespecifications.com/en/model/c6563b06
+Galaxy Tab A 7.0 (2016) LTE	https://www.devicespecifications.com/en/model/c11a3aaf
+Galaxy Tab A 7.0 (2016)	https://www.devicespecifications.com/en/model/6a2f3aae
+Galaxy J1 mini	https://www.devicespecifications.com/en/model/58ac3a9e
+Galaxy S7 Edge MSM8996	https://www.devicespecifications.com/en/model/55163a4b
+Galaxy S7 Edge Exynos	https://www.devicespecifications.com/en/model/77c53a4a
+Galaxy S7 MSM8996	https://www.devicespecifications.com/en/model/16f73a49
+Galaxy S7 Exynos	https://www.devicespecifications.com/en/model/63063a47
+Galaxy J3 (2016) SM-J320F	https://www.devicespecifications.com/en/model/d7463b16
+Galaxy J1 (2016)	https://www.devicespecifications.com/en/model/649839fa
+Galaxy Tab E 8.0 SM-T3777	https://www.devicespecifications.com/en/model/47f039c1
+Galaxy Tab E 8.0 LTE	https://www.devicespecifications.com/en/model/517b39bf
+Galaxy J3 (2016) SM-J320Y	https://www.devicespecifications.com/en/model/57d53b17
+Galaxy J3 (2016)	https://www.devicespecifications.com/en/model/8b0739a0
+Galaxy TabPro S	https://www.devicespecifications.com/en/model/8a603944
+Galaxy J2 DTV	https://www.devicespecifications.com/en/model/26a03e2d
+Galaxy A9 Pro (2016)	https://www.devicespecifications.com/en/model/3fed3b18
+Galaxy A9 (2016)	https://www.devicespecifications.com/en/model/a0f438f7
+Galaxy A7 (2016) Duos	https://www.devicespecifications.com/en/model/9b9e38c5
+Galaxy A8 (SCV32)	https://www.devicespecifications.com/en/model/fba238a1
+Galaxy A7 (2016)	https://www.devicespecifications.com/en/model/5b9b387e
+Galaxy A5 (2016) Duos	https://www.devicespecifications.com/en/model/44843888
+Galaxy A5 (2016)	https://www.devicespecifications.com/en/model/b7c6387d
+Galaxy A3 (2016)	https://www.devicespecifications.com/en/model/054b387c
+Galaxy Note 5 Duos	https://www.devicespecifications.com/en/model/c0143988
+W2016	https://www.devicespecifications.com/en/model/2af03838
+Galaxy J3	https://www.devicespecifications.com/en/model/abef3833
+Galaxy View LTE	https://www.devicespecifications.com/en/model/564537a6
+Galaxy View Wi-Fi	https://www.devicespecifications.com/en/model/808037a5
+Galaxy On7	https://www.devicespecifications.com/en/model/60f73791
+Galaxy On5	https://www.devicespecifications.com/en/model/3fe03782
+Z3	https://www.devicespecifications.com/en/model/9dc5375a
+Galaxy Active Neo	https://www.devicespecifications.com/en/model/080d3720
+Galaxy S5 Neo	https://www.devicespecifications.com/en/model/35233b33
+Galaxy Tab E SM-T567V	https://www.devicespecifications.com/en/model/5d5039c2
+Galaxy Tab E Wi-Fi 16GB	https://www.devicespecifications.com/en/model/97e339c0
+Galaxy J1 Ace	https://www.devicespecifications.com/en/model/a30b3722
+Galaxy J1 Ace Dual SIM	https://www.devicespecifications.com/en/model/4ce33721
+Galaxy Core Prime VE	https://www.devicespecifications.com/en/model/757f36c1
+Galaxy J2	https://www.devicespecifications.com/en/model/e5463683
+SM-G9198	https://www.devicespecifications.com/en/model/adb435cd
+Galaxy S6 Edge+	https://www.devicespecifications.com/en/model/f1f235cb
+Galaxy Note5	https://www.devicespecifications.com/en/model/9c1535ca
+Galaxy A8 SM-A800F	https://www.devicespecifications.com/en/model/a41f3590
+Galaxy Folder LTE	https://www.devicespecifications.com/en/model/c2023565
+Galaxy Tab S2 9.7	https://www.devicespecifications.com/en/model/d93d353d
+Galaxy Tab S2 9.7 Wi-Fi	https://www.devicespecifications.com/en/model/c0d8353c
+Galaxy Tab S2 8.0	https://www.devicespecifications.com/en/model/6aaa353b
+Galaxy Tab S2 8.0 Wi-Fi	https://www.devicespecifications.com/en/model/9b703539
+Galaxy J7 SM-J700F	https://www.devicespecifications.com/en/model/a3743534
+Galaxy A8	https://www.devicespecifications.com/en/model/348d3521
+Galaxy Grand Prime VE SM-G531H	https://www.devicespecifications.com/en/model/a1793ee9
+Galaxy Grand Prime VE SM-G531F	https://www.devicespecifications.com/en/model/a32c376e
+Galaxy V Plus	https://www.devicespecifications.com/en/model/8dc03501
+Galaxy S6 Duos	https://www.devicespecifications.com/en/model/ad4834f8
+Galaxy J7	https://www.devicespecifications.com/en/model/6b4f34a8
+Galaxy J5 SM-J500F	https://www.devicespecifications.com/en/model/232e375e
+Galaxy J5 SM-J5008	https://www.devicespecifications.com/en/model/48f934a7
+Galaxy Tab E SM-T561	https://www.devicespecifications.com/en/model/49d735d4
+Galaxy Tab E Wi-Fi	https://www.devicespecifications.com/en/model/f6933497
+Galaxy S6 Active	https://www.devicespecifications.com/en/model/5f7b3469
+Galaxy Tab A 8.0 LTE	https://www.devicespecifications.com/en/model/72d43460
+Galaxy Tab A 8.0	https://www.devicespecifications.com/en/model/9e2033d3
+Galaxy Tab A 9.7 LTE	https://www.devicespecifications.com/en/model/a3713388
+Galaxy Tab A 9.7	https://www.devicespecifications.com/en/model/aa1b3389
+Galaxy S4 mini GT-I9195I	https://www.devicespecifications.com/en/model/f2cf3593
+Galaxy Tab 3 V	https://www.devicespecifications.com/en/model/5e92334c
+Galaxy Win 2	https://www.devicespecifications.com/en/model/e1ce3325
+Galaxy Xcover 3	https://www.devicespecifications.com/en/model/94da3324
+Galaxy S6 Edge	https://www.devicespecifications.com/en/model/af7f32de
+Galaxy S6	https://www.devicespecifications.com/en/model/94e332dd
+Galaxy J1 4G	https://www.devicespecifications.com/en/model/25b43293
+Galaxy J1	https://www.devicespecifications.com/en/model/42ca3243
+Galaxy Core Prime G360	https://www.devicespecifications.com/en/model/18f33232
+Galaxy Grand Neo Plus	https://www.devicespecifications.com/en/model/cda13225
+Z1	https://www.devicespecifications.com/en/model/9f2531f9
+Galaxy A7 Duos	https://www.devicespecifications.com/en/model/5e6331ec
+Galaxy A7	https://www.devicespecifications.com/en/model/8a883201
+Galaxy Grand Max	https://www.devicespecifications.com/en/model/453531df
+Galaxy E7	https://www.devicespecifications.com/en/model/734a31c9
+Galaxy E5	https://www.devicespecifications.com/en/model/151b31c8
+Galaxy A5 Duos	https://www.devicespecifications.com/en/model/50ab3140
+Galaxy A5	https://www.devicespecifications.com/en/model/23463072
+Galaxy A3	https://www.devicespecifications.com/en/model/6e283071
+Galaxy Note 4 Duos	https://www.devicespecifications.com/en/model/974e3049
+Galaxy Tab 4 Nook 10.1	https://www.devicespecifications.com/en/model/aa84303e
+Galaxy Core Max	https://www.devicespecifications.com/en/model/14e73039
+Galaxy Core Prime	https://www.devicespecifications.com/en/model/9ea92fe9
+Galaxy Grand Prime	https://www.devicespecifications.com/en/model/ac162fc9
+Galaxy Tab Active	https://www.devicespecifications.com/en/model/c4bc2f56
+Galaxy Tab Active LTE	https://www.devicespecifications.com/en/model/f6652f49
+Galaxy Note Edge	https://www.devicespecifications.com/en/model/d99e2f44
+Galaxy Note 4 SM-N910S	https://www.devicespecifications.com/en/model/ca552ee0
+Galaxy Note 4 SM-N910H/C	https://www.devicespecifications.com/en/model/cacc2e00
+Galaxy S Duos 3	https://www.devicespecifications.com/en/model/c60232c7
+Galaxy V	https://www.devicespecifications.com/en/model/e6c4300a
+Galaxy Ace Style LTE	https://www.devicespecifications.com/en/model/9e822fc7
+Gear S	https://www.devicespecifications.com/en/model/de072f2d
+Galaxy Tab 4 Nook	https://www.devicespecifications.com/en/model/609d2efc
+Galaxy Mega 2	https://www.devicespecifications.com/en/model/3fb32ee6
+Galaxy S5 Plus	https://www.devicespecifications.com/en/model/bc5d2ef9
+Galaxy Alpha	https://www.devicespecifications.com/en/model/04622eb1
+Galaxy Mega 2 SM-G7508Q	https://www.devicespecifications.com/en/model/3f862db7
+Galaxy Avant	https://www.devicespecifications.com/en/model/456c2e56
+Galaxy Tab Q	https://www.devicespecifications.com/en/model/bf5d2e36
+Galaxy Star 2 Plus	https://www.devicespecifications.com/en/model/0cbe3718
+Galaxy Ace NXT	https://www.devicespecifications.com/en/model/1d652dfb
+Galaxy Core Mini 4G	https://www.devicespecifications.com/en/model/43e72db6
+Galaxy Ace 4	https://www.devicespecifications.com/en/model/c1002db5
+Galaxy Ace 4 LTE	https://www.devicespecifications.com/en/model/dbcc2db4
+Galaxy Young 2	https://www.devicespecifications.com/en/model/83c62db3
+Galaxy Star 2	https://www.devicespecifications.com/en/model/3b9e2db0
+Gear Live	https://www.devicespecifications.com/en/model/5b742dad
+Galaxy S5 Sport	https://www.devicespecifications.com/en/model/57242d9a
+Galaxy Pocket 2	https://www.devicespecifications.com/en/model/a37d2d93
+Galaxy S5 LTE-A	https://www.devicespecifications.com/en/model/068b2be0
+Galaxy Tab S 10.5 LTE	https://www.devicespecifications.com/en/model/06d42d62
+Galaxy Tab S 10.5 Wi-Fi	https://www.devicespecifications.com/en/model/32c22cab
+Galaxy Tab S 8.4 LTE	https://www.devicespecifications.com/en/model/38b32d60
+Galaxy Tab S 8.4 TD-LTE	https://www.devicespecifications.com/en/model/14512d61
+Galaxy Tab S 8.4 Wi-Fi	https://www.devicespecifications.com/en/model/cbe82c7b
+Galaxy Core Lite LTE	https://www.devicespecifications.com/en/model/db562d58
+Galaxy W	https://www.devicespecifications.com/en/model/80d22d27
+Z	https://www.devicespecifications.com/en/model/f7122d26
+Galaxy S5 Active	https://www.devicespecifications.com/en/model/682d2cf2
+Galaxy S5 Mini Duos	https://www.devicespecifications.com/en/model/2f592f7d
+Galaxy S5 Mini	https://www.devicespecifications.com/en/model/d8a52c7c
+Galaxy Core 2 TD	https://www.devicespecifications.com/en/model/7f022df2
+Galaxy Core 2	https://www.devicespecifications.com/en/model/c7bd2c38
+Galaxy K zoom	https://www.devicespecifications.com/en/model/2c272c4e
+Galaxy Beam 2	https://www.devicespecifications.com/en/model/bd192c32
+Galaxy S3 Neo	https://www.devicespecifications.com/en/model/d1332bee
+Galaxy S3 Neo+	https://www.devicespecifications.com/en/model/20d22bed
+Galaxy S5 TD-LTE	https://www.devicespecifications.com/en/model/31642bdf
+Ativ SE	https://www.devicespecifications.com/en/model/79842bde
+Galaxy Tab 4 10.1 LTE	https://www.devicespecifications.com/en/model/8b4e2bcc
+Galaxy Tab 4 10.1 3G	https://www.devicespecifications.com/en/model/698f2bcf
+Galaxy Tab 4 10.1	https://www.devicespecifications.com/en/model/023c2bd0
+Galaxy Tab 4 8.0 LTE	https://www.devicespecifications.com/en/model/45472bcb
+Galaxy Tab 4 8.0 3G	https://www.devicespecifications.com/en/model/e7082aed
+Galaxy Tab 4 8.0	https://www.devicespecifications.com/en/model/8d5e2bd1
+Galaxy Tab 4 7.0 LTE	https://www.devicespecifications.com/en/model/df2d2bb3
+Galaxy Tab 4 7.0 3G	https://www.devicespecifications.com/en/model/88822bd2
+Galaxy Tab 4 7.0	https://www.devicespecifications.com/en/model/db992bd3
+Galaxy S5 Duos	https://www.devicespecifications.com/en/model/16012e94
+Galaxy S5 (octa core)	https://www.devicespecifications.com/en/model/8ed82bb8
+Galaxy Grand 2 LTE-A	https://www.devicespecifications.com/en/model/ffd22b84
+Galaxy S3 Slim	https://www.devicespecifications.com/en/model/50432b80
+Galaxy S3 Mini VE	https://www.devicespecifications.com/en/model/66302b67
+Galaxy Gear 2 Neo	https://www.devicespecifications.com/en/model/69322c7d
+Galaxy Gear Fit	https://www.devicespecifications.com/en/model/88252c60
+Galaxy S5	https://www.devicespecifications.com/en/model/0ff82b1c
+Galaxy Core LTE	https://www.devicespecifications.com/en/model/a3822af3
+Galaxy Grand 2 LTE	https://www.devicespecifications.com/en/model/0d782af5
+Galaxy Tab 3 lite 3G	https://www.devicespecifications.com/en/model/aba32a7b
+Galaxy Tab 3 lite	https://www.devicespecifications.com/en/model/6e2f2a7a
+Galaxy Tab Pro 8.4	https://www.devicespecifications.com/en/model/a6252a70
+Galaxy Note Pro 12.2 LTE	https://www.devicespecifications.com/en/model/55cc2a57
+Galaxy Note Pro 12.2	https://www.devicespecifications.com/en/model/31552a56
+Galaxy Tab Pro 12.2 LTE	https://www.devicespecifications.com/en/model/c37b2a55
+Galaxy Tab Pro 12.2	https://www.devicespecifications.com/en/model/caf02a54
+Galaxy Tab Pro 10.1 LTE	https://www.devicespecifications.com/en/model/6c462a4d
+Galaxy Tab Pro 10.1	https://www.devicespecifications.com/en/model/858a2a4c
+Galaxy Note 3 Neo LTE+	https://www.devicespecifications.com/en/model/fd6c2a83
+Galaxy Note 3 Neo 3G	https://www.devicespecifications.com/en/model/fc7f2ab3
+Galaxy Grand Neo	https://www.devicespecifications.com/en/model/b0672a5d
+Galaxy Camera 2	https://www.devicespecifications.com/en/model/2ab12a38
+Galaxy Core Advance	https://www.devicespecifications.com/en/model/ba8c2a07
+Galaxy S4 Active LTE-A	https://www.devicespecifications.com/en/model/d9f829f2
+Galaxy J	https://www.devicespecifications.com/en/model/1e1429e2
+Galaxy Win Pro	https://www.devicespecifications.com/en/model/91b729cf
+Galaxy S Duos 2	https://www.devicespecifications.com/en/model/d50829b0
+Galaxy Grand 2	https://www.devicespecifications.com/en/model/426c2993
+Galaxy Star Trios	https://www.devicespecifications.com/en/model/7e842ad8
+Galaxy Golden	https://www.devicespecifications.com/en/model/22402949
+Galaxy Express 2	https://www.devicespecifications.com/en/model/ae202948
+Galaxy S4 I9506	https://www.devicespecifications.com/en/model/757d2947
+Galaxy Light	https://www.devicespecifications.com/en/model/e8f02946
+Galaxy Round	https://www.devicespecifications.com/en/model/93f32945
+Galaxy Star Pro	https://www.devicespecifications.com/en/model/59892944
+Galaxy Note 10.1 2014 Edition LTE	https://www.devicespecifications.com/en/model/89d5291a
+Galaxy Note 10.1 2014 Edition 3G	https://www.devicespecifications.com/en/model/6786291b
+Galaxy Note 10.1 2014 Edition Wi-Fi	https://www.devicespecifications.com/en/model/c7d13708
+Galaxy Gear	https://www.devicespecifications.com/en/model/16c229cd
+Galaxy Note 3 N9005 LTE	https://www.devicespecifications.com/en/model/e334289c
+Galaxy Note 3 N9000	https://www.devicespecifications.com/en/model/9de0289b
+ATIV S Neo	https://www.devicespecifications.com/en/model/956c2899
+Galaxy S4 zoom SM-C101	https://www.devicespecifications.com/en/model/e59236eb
+Galaxy Ring	https://www.devicespecifications.com/en/model/b9b3289a
+Galaxy S4 zoom SM-C105	https://www.devicespecifications.com/en/model/ff402898
+Galaxy Tab 3 10.1	https://www.devicespecifications.com/en/model/8a1b2969
+Galaxy Tab 3 10.1 Wi-Fi	https://www.devicespecifications.com/en/model/f43c2968
+Galaxy Tab 3 8.0	https://www.devicespecifications.com/en/model/d835296b
+Galaxy S4 mini I9192 Duos	https://www.devicespecifications.com/en/model/68a82886
+Galaxy S4 mini I9195 LTE	https://www.devicespecifications.com/en/model/8f992887
+Galaxy S4 mini I9190	https://www.devicespecifications.com/en/model/c5952885
+Galaxy S4 Active	https://www.devicespecifications.com/en/model/f8af2710
+Galaxy Core	https://www.devicespecifications.com/en/model/51ce2712
+Galaxy Tab 3 7.0 LTE	https://www.devicespecifications.com/en/model/9d58296a
+Galaxy Tab 3 7.0 Wi-Fi	https://www.devicespecifications.com/en/model/abe42967
+Galaxy Tab 3 7.0	https://www.devicespecifications.com/en/model/95cc2966
+Galaxy Mega 6.3	https://www.devicespecifications.com/en/model/330e2713
+Galaxy Pocket Neo	https://www.devicespecifications.com/en/model/a8722717
+Galaxy Exhibit	https://www.devicespecifications.com/en/model/f8d92711
+Galaxy Mega 5.8	https://www.devicespecifications.com/en/model/175b2714
+Galaxy Trend II Duos	https://www.devicespecifications.com/en/model/41ac2715
+Galaxy Win	https://www.devicespecifications.com/en/model/6b822716
+Galaxy Star	https://www.devicespecifications.com/en/model/8c7a2718
+Galaxy S4 CDMA	https://www.devicespecifications.com/en/model/85ca271c
+Galaxy Y Plus	https://www.devicespecifications.com/en/model/53e9271e
+Galaxy S4 I9505	https://www.devicespecifications.com/en/model/4e052719
+Galaxy S4 I9500	https://www.devicespecifications.com/en/model/8bb2271a
+Galaxy S4 Duos I9502	https://www.devicespecifications.com/en/model/3bbe271b
+Galaxy Note 8.0	https://www.devicespecifications.com/en/model/0f85271d
+Galaxy Young	https://www.devicespecifications.com/en/model/38e2271f
+Galaxy Express I8730	https://www.devicespecifications.com/en/model/4b722720
+Galaxy Xcover 2	https://www.devicespecifications.com/en/model/c4402721
+Galaxy Pop	https://www.devicespecifications.com/en/model/165a283a
+Galaxy S2 Plus	https://www.devicespecifications.com/en/model/34c32832
+Ativ Odyssey	https://www.devicespecifications.com/en/model/2cfa2722
+Galaxy Grand I9080	https://www.devicespecifications.com/en/model/3a2f2833
+Galaxy Note LTE 10.1	https://www.devicespecifications.com/en/model/14452835
+Galaxy Grand I9082	https://www.devicespecifications.com/en/model/422a2834
+Galaxy Stratosphere 2	https://www.devicespecifications.com/en/model/33622838
+Rugby III	https://www.devicespecifications.com/en/model/be4d2836
+Galaxy Axiom	https://www.devicespecifications.com/en/model/0d4f2837
+Galaxy Premier	https://www.devicespecifications.com/en/model/c43a283b
+Galaxy Music Duos	https://www.devicespecifications.com/en/model/44bb2840
+Galaxy Music	https://www.devicespecifications.com/en/model/82872841
+Ativ S	https://www.devicespecifications.com/en/model/3d682849
+Galaxy Reverb	https://www.devicespecifications.com/en/model/4237284c
+Galaxy Discover S730M	https://www.devicespecifications.com/en/model/b7f52839
+Google Nexus 10	https://www.devicespecifications.com/en/model/9bef283c
+Ativ Tab	https://www.devicespecifications.com/en/model/c703283d
+Galaxy S3 mini	https://www.devicespecifications.com/en/model/94e2283f
+Galaxy Express I437	https://www.devicespecifications.com/en/model/a4112843
+Galaxy Tab 2 10.1 AT&T	https://www.devicespecifications.com/en/model/73df2860
+Galaxy Ace 2 X	https://www.devicespecifications.com/en/model/13bf2865
+Galaxy Rugby Pro	https://www.devicespecifications.com/en/model/bee02842
+Comment 2	https://www.devicespecifications.com/en/model/25f3283e
+Galaxy S3 LTE I9305	https://www.devicespecifications.com/en/model/0fa72844
+Galaxy Victory 4G LTE L300	https://www.devicespecifications.com/en/model/07042845
+Galaxy S Relay 4G T699	https://www.devicespecifications.com/en/model/cf662846
+Galaxy Pocket Duos	https://www.devicespecifications.com/en/model/b7372847
+Galaxy Note 2	https://www.devicespecifications.com/en/model/f6422848
+Galaxy Rush	https://www.devicespecifications.com/en/model/46c7284a
+Montage	https://www.devicespecifications.com/en/model/9bac284f
+Galaxy S Duos	https://www.devicespecifications.com/en/model/4ac32851
+E2262	https://www.devicespecifications.com/en/model/973e2853
+Galaxy Stellar 4G	https://www.devicespecifications.com/en/model/6071284b
+Galaxy Note 10.1 N8000	https://www.devicespecifications.com/en/model/1fc3284d
+Galaxy Note 10.1 N8010	https://www.devicespecifications.com/en/model/ea53284e
+Galaxy S Lightray 4G	https://www.devicespecifications.com/en/model/d8532850
+Galaxy Chat	https://www.devicespecifications.com/en/model/e5a02855
+Galaxy Note SGH-T879	https://www.devicespecifications.com/en/model/e1d42876
+E1260B	https://www.devicespecifications.com/en/model/ef232854
+Omnia M	https://www.devicespecifications.com/en/model/9c202858
+Galaxy S3 I747	https://www.devicespecifications.com/en/model/637d285a
+Galaxy S3 Sprint	https://www.devicespecifications.com/en/model/3424285b
+Galaxy S3 Verizon	https://www.devicespecifications.com/en/model/3b8b285c
+Galaxy Beam	https://www.devicespecifications.com/en/model/8650285f
+Galaxy Appeal	https://www.devicespecifications.com/en/model/a29b2856
+C3780	https://www.devicespecifications.com/en/model/78952857
+Galaxy S3 T999	https://www.devicespecifications.com/en/model/b4782859
+Exhilarate	https://www.devicespecifications.com/en/model/909c2875
+Galaxy Tab 2 10.1 P5110	https://www.devicespecifications.com/en/model/a27f2861
+Galaxy Tab 2 10.1 P5100	https://www.devicespecifications.com/en/model/b36b2862
+Galaxy Ace 2	https://www.devicespecifications.com/en/model/dd682866
+Galaxy Ace Duos SM-I6802	https://www.devicespecifications.com/en/model/e9903156
+Galaxy Tab 2 7.0 P3110	https://www.devicespecifications.com/en/model/33f9286a
+Galaxy S3	https://www.devicespecifications.com/en/model/8b102852
+Galaxy Pocket plus	https://www.devicespecifications.com/en/model/9c2b285d
+Galaxy Pocket	https://www.devicespecifications.com/en/model/b6a2285e
+Galaxy Tab 2 7.0 P3100	https://www.devicespecifications.com/en/model/6fef286b
+Galaxy S Advance	https://www.devicespecifications.com/en/model/fe68286c
+Star 3	https://www.devicespecifications.com/en/model/06ca286e
+Galaxy Nexus LTE	https://www.devicespecifications.com/en/model/f1492874
+Rugby Smart	https://www.devicespecifications.com/en/model/83842863
+Galaxy mini 2	https://www.devicespecifications.com/en/model/8cc02867
+Galaxy S Blaze 4G	https://www.devicespecifications.com/en/model/e6482872
+Galaxy Tab 7.7 LTE	https://www.devicespecifications.com/en/model/575c2873
+Galaxy Pop Plus	https://www.devicespecifications.com/en/model/4cfa2869
+Galaxy Ace Duos	https://www.devicespecifications.com/en/model/dd6a2868
+Star 3 Duos	https://www.devicespecifications.com/en/model/a66f286f
+Galaxy Attain 4G	https://www.devicespecifications.com/en/model/05422871
+Galaxy Ace Plus	https://www.devicespecifications.com/en/model/fdb82878
+Champ Deluxe Duos	https://www.devicespecifications.com/en/model/b0a2286d
+Galaxy Nexus I9250M	https://www.devicespecifications.com/en/model/89972870
+Galaxy Note LTE	https://www.devicespecifications.com/en/model/d8432877
+Galaxy S2 Duos I929	https://www.devicespecifications.com/en/model/7bcd2879
+Galaxy Y Duos	https://www.devicespecifications.com/en/model/74ea287a
+W999	https://www.devicespecifications.com/en/model/58df2864
+Galaxy Y Pro Duos	https://www.devicespecifications.com/en/model/de13287c
+Galaxy Nexus CDMA	https://www.devicespecifications.com/en/model/5e282882
+Galaxy Tab 7.7	https://www.devicespecifications.com/en/model/677e2893
+Illusion	https://www.devicespecifications.com/en/model/b8e6287d
+Captivate Glide	https://www.devicespecifications.com/en/model/b5202888
+Galaxy Nexus I9250	https://www.devicespecifications.com/en/model/43b12883
+Galaxy Tab 7.0 Plus	https://www.devicespecifications.com/en/model/d5c9288a
+Focus S	https://www.devicespecifications.com/en/model/1f96287e
+Focus Flash	https://www.devicespecifications.com/en/model/8b40287f
+Galaxy S2 Skyrocket	https://www.devicespecifications.com/en/model/2a2f2880
+Galaxy Note N7000	https://www.devicespecifications.com/en/model/05502889
+Exhibit II 4G	https://www.devicespecifications.com/en/model/0e652881
+Stratosphere	https://www.devicespecifications.com/en/model/c89f2884
+Galaxy Y	https://www.devicespecifications.com/en/model/141d288b
+Galaxy Tab 8.9	https://www.devicespecifications.com/en/model/bb152892
+Galaxy Xcover	https://www.devicespecifications.com/en/model/0324289d
+Galaxy S2 X T989D	https://www.devicespecifications.com/en/model/07792897
+Galaxy S2 X	https://www.devicespecifications.com/en/model/48912896
+C3520	https://www.devicespecifications.com/en/model/54b82895
+Galaxy S2 AT&T	https://www.devicespecifications.com/en/model/1f622894
+Galaxy Tab 10.1 LTE	https://www.devicespecifications.com/en/model/193a288d
+Galaxy R	https://www.devicespecifications.com/en/model/02b8288c
+Google Nexus S 4G	https://www.devicespecifications.com/en/model/784b2891
+Google Nexus S I9023	https://www.devicespecifications.com/en/model/5c3736ea
+Google Nexus S I9020	https://www.devicespecifications.com/en/model/a8d32890
+Galaxy Tab 10.1v	https://www.devicespecifications.com/en/model/daaa289e
+Galaxy S2	https://www.devicespecifications.com/en/model/da57287b
+Galaxy Fit	https://www.devicespecifications.com/en/model/5dd1288e
+Galaxy Gio	https://www.devicespecifications.com/en/model/3a6f289f
+Galaxy Ace	https://www.devicespecifications.com/en/model/e543288f
+Galaxy mini	https://www.devicespecifications.com/en/model/8e0128a0

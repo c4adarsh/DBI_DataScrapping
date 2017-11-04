@@ -1,0 +1,6 @@
+BMM 542	https://www.devicespecifications.com/en/model/f229416f
+BMM 541	https://www.devicespecifications.com/en/model/5b904170
+BMM 532	https://www.devicespecifications.com/en/model/41234171
+BMM 431	https://www.devicespecifications.com/en/model/4f0d4172
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

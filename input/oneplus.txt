@@ -1,0 +1,7 @@
+5T	https://www.devicespecifications.com/en/model/b601468e
+5	https://www.devicespecifications.com/en/model/8b1d43f8
+3T	https://www.devicespecifications.com/en/model/446c3f91
+3	https://www.devicespecifications.com/en/model/437a3c9b
+X	https://www.devicespecifications.com/en/model/35eb37a8
+2	https://www.devicespecifications.com/en/model/f7843536
+One	https://www.devicespecifications.com/en/model/bf9c2c0d

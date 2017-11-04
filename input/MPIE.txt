@@ -1,0 +1,30 @@
+S19	https://www.devicespecifications.com/en/model/223f455b
+M22	https://www.devicespecifications.com/en/model/7719437a
+S15	https://www.devicespecifications.com/en/model/552c407a
+Y8	https://www.devicespecifications.com/en/model/d891406e
+MG16	https://www.devicespecifications.com/en/model/1eea3fca
+S12	https://www.devicespecifications.com/en/model/85fb3f63
+Y12	https://www.devicespecifications.com/en/model/26313d09
+Z9	https://www.devicespecifications.com/en/model/508b3cdf
+MG5	https://www.devicespecifications.com/en/model/26643cde
+MG6	https://www.devicespecifications.com/en/model/b1253c91
+M13	https://www.devicespecifications.com/en/model/42b23bc9
+A8	https://www.devicespecifications.com/en/model/f4433c44
+MG8	https://www.devicespecifications.com/en/model/757d3c9a
+V2	https://www.devicespecifications.com/en/model/b3ff391a
+4C Pro	https://www.devicespecifications.com/en/model/d73a38b3
+F5	https://www.devicespecifications.com/en/model/cd5d389d
+4C	https://www.devicespecifications.com/en/model/54c13863
+X800	https://www.devicespecifications.com/en/model/3ade3cb6
+M10	https://www.devicespecifications.com/en/model/c17f3697
+G7	https://www.devicespecifications.com/en/model/35c42fcc
+909T	https://www.devicespecifications.com/en/model/c9562e65
+Mini 809T	https://www.devicespecifications.com/en/model/3b902db8
+MP H118+	https://www.devicespecifications.com/en/model/07772d72
+MP707	https://www.devicespecifications.com/en/model/aa022d73
+MP-809T Octa-Core	https://www.devicespecifications.com/en/model/77862c6d
+MP108	https://www.devicespecifications.com/en/model/a4ca2c6c
+I9200 Octa-Core	https://www.devicespecifications.com/en/model/20832c6f
+MP-809T Quad-Core	https://www.devicespecifications.com/en/model/22792c6e
+I9500 Quad-Core	https://www.devicespecifications.com/en/model/058c2c92
+I9200 Quad-Core	https://www.devicespecifications.com/en/model/20012c70

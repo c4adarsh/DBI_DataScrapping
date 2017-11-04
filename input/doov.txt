@@ -1,0 +1,24 @@
+L925	https://www.devicespecifications.com/en/model/2c1246bb
+L525	https://www.devicespecifications.com/en/model/5ea146ba
+A15	https://www.devicespecifications.com/en/model/426245a9
+A10	https://www.devicespecifications.com/en/model/48cd43c3
+L520	https://www.devicespecifications.com/en/model/ba0242d7
+A11	https://www.devicespecifications.com/en/model/1b9441e9
+M2	https://www.devicespecifications.com/en/model/1cca4258
+L9mini	https://www.devicespecifications.com/en/model/15ef4127
+L9	https://www.devicespecifications.com/en/model/0d0140a9
+V5	https://www.devicespecifications.com/en/model/65d140a7
+A5	https://www.devicespecifications.com/en/model/77d340a6
+L8 Plus	https://www.devicespecifications.com/en/model/935e3cd0
+A8	https://www.devicespecifications.com/en/model/229640a8
+A6	https://www.devicespecifications.com/en/model/bc123bbc
+A3	https://www.devicespecifications.com/en/model/6da13bbd
+L6	https://www.devicespecifications.com/en/model/9d18398c
+L5 Plus	https://www.devicespecifications.com/en/model/b463398b
+L5 mini	https://www.devicespecifications.com/en/model/4f17398a
+iSuper S5	https://www.devicespecifications.com/en/model/c7d83891
+L3	https://www.devicespecifications.com/en/model/f5083438
+Nike V1	https://www.devicespecifications.com/en/model/12b43108
+L1 Mini	https://www.devicespecifications.com/en/model/c6e03107
+L1	https://www.devicespecifications.com/en/model/3ede3106
+T90	https://www.devicespecifications.com/en/model/a5852dc4

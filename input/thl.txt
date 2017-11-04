@@ -1,0 +1,33 @@
+Knight 1	https://www.devicespecifications.com/en/model/20d942cd
+T9 Plus	https://www.devicespecifications.com/en/model/36583f84
+T9	https://www.devicespecifications.com/en/model/e4563d9e
+T9 Pro	https://www.devicespecifications.com/en/model/487f3cbf
+T7	https://www.devicespecifications.com/en/model/f3a13a75
+T6C	https://www.devicespecifications.com/en/model/937a37a2
+2015A	https://www.devicespecifications.com/en/model/2e6036f2
+5000T	https://www.devicespecifications.com/en/model/b4b43309
+T12	https://www.devicespecifications.com/en/model/bbaf3308
+2015	https://www.devicespecifications.com/en/model/efdb3284
+4000	https://www.devicespecifications.com/en/model/56f631ed
+T6 Pro	https://www.devicespecifications.com/en/model/6fe33045
+T6S	https://www.devicespecifications.com/en/model/71032ea8
+L969	https://www.devicespecifications.com/en/model/837e2e31
+5000	https://www.devicespecifications.com/en/model/446a2c93
+4400	https://www.devicespecifications.com/en/model/17f72c94
+L968	https://www.devicespecifications.com/en/model/0cc62c8b
+A3	https://www.devicespecifications.com/en/model/c2d12c96
+T11	https://www.devicespecifications.com/en/model/a3292bd4
+W200S	https://www.devicespecifications.com/en/model/94f62aef
+T200C	https://www.devicespecifications.com/en/model/fbb22af1
+W200C	https://www.devicespecifications.com/en/model/509c2e55
+T200	https://www.devicespecifications.com/en/model/af7c2ac9
+T100s Ironman	https://www.devicespecifications.com/en/model/88742aca
+W11 Monkey King 2	https://www.devicespecifications.com/en/model/1eeb2acb
+W8S	https://www.devicespecifications.com/en/model/d6982acc
+W300	https://www.devicespecifications.com/en/model/8d632acd
+W8 Beyond	https://www.devicespecifications.com/en/model/6b442ad6
+T5S	https://www.devicespecifications.com/en/model/a4e42ad5
+W11 Monkey King	https://www.devicespecifications.com/en/model/79c12ace
+W200	https://www.devicespecifications.com/en/model/ac172acf
+W100	https://www.devicespecifications.com/en/model/981d2ad1
+W8	https://www.devicespecifications.com/en/model/3fe92ad4

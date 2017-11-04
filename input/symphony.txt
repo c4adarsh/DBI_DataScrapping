@@ -1,0 +1,20 @@
+P8 Pro	https://www.devicespecifications.com/en/model/ae2b4531
+i10+	https://www.devicespecifications.com/en/model/34e74530
+G20	https://www.devicespecifications.com/en/model/1224451e
+Z9	https://www.devicespecifications.com/en/model/afbf43ee
+P9	https://www.devicespecifications.com/en/model/2a4243d9
+i21	https://www.devicespecifications.com/en/model/b2cd4349
+P7 Pro	https://www.devicespecifications.com/en/model/31dc4315
+ZVIII	https://www.devicespecifications.com/en/model/37ad4319
+i50	https://www.devicespecifications.com/en/model/0d5b435a
+P7	https://www.devicespecifications.com/en/model/a7b04316
+ZVII	https://www.devicespecifications.com/en/model/ede1431a
+H400	https://www.devicespecifications.com/en/model/cbc04129
+V75	https://www.devicespecifications.com/en/model/b28a4128
+V110	https://www.devicespecifications.com/en/model/8571412f
+V100	https://www.devicespecifications.com/en/model/1e44412e
+H120	https://www.devicespecifications.com/en/model/3cba39f3
+Studio 50	https://www.devicespecifications.com/en/model/e832368b
+Xplorer P6 (2GB RAM)	https://www.devicespecifications.com/en/model/8830368c
+M1	https://www.devicespecifications.com/en/model/515a36af
+GoFox F15	https://www.devicespecifications.com/en/model/070536ae

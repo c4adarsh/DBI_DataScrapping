@@ -1,0 +1,160 @@
+Weight: 148 g
+SoC: MediaTek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e14845d0
+imageUrl=https://www.devicespecifications.com/images/model/e14845d0/320/main.jpg
+name=Stellar;
+
+Weight: 148 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ae3c45cf
+imageUrl=https://www.devicespecifications.com/images/model/ae3c45cf/320/main.jpg
+name=Stellar 4G;
+
+Weight: 159 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fc6a45ce
+imageUrl=https://www.devicespecifications.com/images/model/fc6a45ce/320/main.jpg
+name=Holi;
+
+Weight: 144 g
+SoC: Spreadtrum SC9832
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 512 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f2e345cb
+imageUrl=https://www.devicespecifications.com/images/model/f2e345cb/320/main.jpg
+name=Flow;
+
+Weight: 132 g
+SoC: Spreadtrum SC7731C
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP1, 512 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/942045ca/320/main.jpg
+name=Moss;
+
+Weight: 108 g
+SoC: Spreadtrum SC7731C
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP1, 512 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1250 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/cc3545c9
+imageUrl=https://www.devicespecifications.com/images/model/cc3545c9/320/main.jpg
+name=Plum;
+
+Weight: 189 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4c10447d
+imageUrl=https://www.devicespecifications.com/images/model/4c10447d/320/main.jpg
+name=AGM X1 mini;
+
+Weight: 181 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ac093f87
+imageUrl=https://www.devicespecifications.com/images/model/ac093f87/320/main.jpg
+name=Alcatel Pixi Glory;
+

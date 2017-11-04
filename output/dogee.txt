@@ -1,0 +1,1523 @@
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 12000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/92a34673/320/main.jpg
+name=BL12000;
+
+Weight: 210 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.99 in, IPS, 1080 x 2160 pixels, 24 bit
+Battery: 4060 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/be2945bb
+imageUrl=https://www.devicespecifications.com/images/model/be2945bb/320/main.jpg
+name=Mix 2;
+
+Weight: 160 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3080 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/87fb454f
+imageUrl=https://www.devicespecifications.com/images/model/87fb454f/320/main.jpg
+name=Mix Lite;
+
+Weight: 261 g
+SoC: MediaTek MT6737V
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 5580 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8324454b
+imageUrl=https://www.devicespecifications.com/images/model/8324454b/320/main.jpg
+name=S30;
+
+Weight: 220 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 7060 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d1c144eb
+imageUrl=https://www.devicespecifications.com/images/model/d1c144eb/320/main.jpg
+name=BL7000;
+
+Weight: 287 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 5580 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5312 x 3984 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/7fbc44e2
+imageUrl=https://www.devicespecifications.com/images/model/7fbc44e2/320/main.jpg
+name=S60;
+
+Weight: 193 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3360 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/751a44bd/320/main.jpg
+name=X30L;
+
+Weight: 174 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e43344bc
+imageUrl=https://www.devicespecifications.com/images/model/e43344bc/320/main.jpg
+name=X20L;
+
+Weight: 174 g
+SoC: MediaTek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b6d244bb
+imageUrl=https://www.devicespecifications.com/images/model/b6d244bb/320/main.jpg
+name=X20;
+
+Weight: 210 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 5050 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/7ae14488
+imageUrl=https://www.devicespecifications.com/images/model/7ae14488/320/main.jpg
+name=BL5000;
+
+Weight: 193 g
+SoC: MediaTek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3360 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/67ad43e0
+imageUrl=https://www.devicespecifications.com/images/model/67ad43e0/320/main.jpg
+name=X30;
+
+Weight: 193 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 6 GB, 1600 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 3380 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/396642ca
+imageUrl=https://www.devicespecifications.com/images/model/396642ca/320/main.jpg
+name=Mix;
+
+Weight: 186 g
+SoC: MediaTek MT6570
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, Cores: 1
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 3360 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/41ca42a2
+imageUrl=https://www.devicespecifications.com/images/model/41ca42a2/320/main.jpg
+name=X10;
+
+SoC: MediaTek MT6580A
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 2 GB, 533 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3360 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8be641c0
+imageUrl=https://www.devicespecifications.com/images/model/8be641c0/320/main.jpg
+name=Shoot 2;
+
+Weight: 154 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 733 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3300 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/18e34024
+imageUrl=https://www.devicespecifications.com/images/model/18e34024/320/main.jpg
+name=Shoot 1;
+
+Weight: 164 g
+SoC: MediaTek MT6580A
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/75f23f94
+imageUrl=https://www.devicespecifications.com/images/model/75f23f94/320/main.jpg
+name=X9 Mini;
+
+Weight: 212 g
+SoC: MediaTek MT6737V
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/5ec23f76
+imageUrl=https://www.devicespecifications.com/images/model/5ec23f76/320/main.jpg
+name=T5S;
+
+Weight: 250 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 3 GB, 833 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4300 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c0833f75
+imageUrl=https://www.devicespecifications.com/images/model/c0833f75/320/main.jpg
+name=Y6 Max 3D;
+
+Weight: 250 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 3 GB, 833 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4300 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fb253f74
+imageUrl=https://www.devicespecifications.com/images/model/fb253f74/320/main.jpg
+name=Y6 Max;
+
+Weight: 192 g
+SoC: Mediatek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6cd23f60
+imageUrl=https://www.devicespecifications.com/images/model/6cd23f60/320/main.jpg
+name=X9 Pro;
+
+Weight: 182 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 4 GB, 667 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/88d14150
+imageUrl=https://www.devicespecifications.com/images/model/88d14150/320/main.jpg
+name=Y6 Piano Black;
+
+Weight: 182 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/98353eeb
+imageUrl=https://www.devicespecifications.com/images/model/98353eeb/320/main.jpg
+name=Y6;
+
+Weight: 182 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b55f417a
+imageUrl=https://www.devicespecifications.com/images/model/b55f417a/320/main.jpg
+name=Y6c;
+
+SoC: MediaTek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3700 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c53d3e9d
+imageUrl=https://www.devicespecifications.com/images/model/c53d3e9d/320/main.jpg
+name=X7;
+
+Weight: 237 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3700 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/7f7b3e8b
+imageUrl=https://www.devicespecifications.com/images/model/7f7b3e8b/320/main.jpg
+name=X7 Pro;
+
+Weight: 210 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b8363e56
+imageUrl=https://www.devicespecifications.com/images/model/b8363e56/320/main.jpg
+name=T5 Lite;
+
+Weight: 232 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/276d3dc7
+imageUrl=https://www.devicespecifications.com/images/model/276d3dc7/320/main.jpg
+name=T5;
+
+Weight: 168 g
+SoC: Mediatek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/66853cab
+imageUrl=https://www.devicespecifications.com/images/model/66853cab/320/main.jpg
+name=X5 Max Pro;
+
+Weight: 150 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bbce3c92
+imageUrl=https://www.devicespecifications.com/images/model/bbce3c92/320/main.jpg
+name=T3;
+
+Weight: 228 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 6250 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/5b6c3c83
+imageUrl=https://www.devicespecifications.com/images/model/5b6c3c83/320/main.jpg
+name=T6 Pro;
+
+Weight: 168 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4b923bcb
+imageUrl=https://www.devicespecifications.com/images/model/4b923bcb/320/main.jpg
+name=X5 Max;
+
+Weight: 180 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.7 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d5003a61
+imageUrl=https://www.devicespecifications.com/images/model/d5003a61/320/main.jpg
+name=F7 Pro;
+
+Weight: 170 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b7c93982
+imageUrl=https://www.devicespecifications.com/images/model/b7c93982/320/main.jpg
+name=F7;
+
+Weight: 120 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/5835387a
+imageUrl=https://www.devicespecifications.com/images/model/5835387a/320/main.jpg
+name=X3;
+
+Weight: 140 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/91ec3879/320/main.jpg
+name=DG320;
+
+Weight: 182 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e75937eb
+imageUrl=https://www.devicespecifications.com/images/model/e75937eb/320/main.jpg
+name=X6 Pro;
+
+Weight: 145 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/40683aa7
+imageUrl=https://www.devicespecifications.com/images/model/40683aa7/320/main.jpg
+name=Y300;
+
+Weight: 170 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 6250 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fb273756
+imageUrl=https://www.devicespecifications.com/images/model/fb273756/320/main.jpg
+name=T6;
+
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/48d63755
+imageUrl=https://www.devicespecifications.com/images/model/48d63755/320/main.jpg
+name=Y200;
+
+Weight: 170 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3bd736e3
+imageUrl=https://www.devicespecifications.com/images/model/3bd736e3/320/main.jpg
+name=Valencia 2 Y100 Plus;
+
+Weight: 167 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/96a239d1
+imageUrl=https://www.devicespecifications.com/images/model/96a239d1/320/main.jpg
+name=X5S;
+
+Weight: 182 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/9b06378c
+imageUrl=https://www.devicespecifications.com/images/model/9b06378c/320/main.jpg
+name=X6;
+
+Weight: 185 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/5a9e3669
+imageUrl=https://www.devicespecifications.com/images/model/5a9e3669/320/main.jpg
+name=F5;
+
+Weight: 178 g
+SoC: MediaTek MT6735M
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4d963668
+imageUrl=https://www.devicespecifications.com/images/model/4d963668/320/main.jpg
+name=X5 Pro;
+
+Weight: 130 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/606e358f
+imageUrl=https://www.devicespecifications.com/images/model/606e358f/320/main.jpg
+name=X5;
+
+Weight: 170 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d14f352f
+imageUrl=https://www.devicespecifications.com/images/model/d14f352f/320/main.jpg
+name=F3 Pro;
+
+Weight: 170 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/447e3532
+imageUrl=https://www.devicespecifications.com/images/model/447e3532/320/main.jpg
+name=F3;
+
+Weight: 119 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/20dd34b3
+imageUrl=https://www.devicespecifications.com/images/model/20dd34b3/320/main.jpg
+name=Nova Y100X;
+
+Weight: 151 g
+SoC: MediaTek MT6735P
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/0b2f3445
+imageUrl=https://www.devicespecifications.com/images/model/0b2f3445/320/main.jpg
+name=Valencia 2 Y100 Pro;
+
+Weight: 148 g
+SoC: MediaTek MT6592M
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c8be33d2
+imageUrl=https://www.devicespecifications.com/images/model/c8be33d2/320/main.jpg
+name=Valencia 2 Y100;
+
+Weight: 150 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b8d53304
+imageUrl=https://www.devicespecifications.com/images/model/b8d53304/320/main.jpg
+name=Ibiza F2;
+
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/832532aa
+imageUrl=https://www.devicespecifications.com/images/model/832532aa/320/main.jpg
+name=Iron Bone DG750;
+
+Weight: 112 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d6153248
+imageUrl=https://www.devicespecifications.com/images/model/d6153248/320/main.jpg
+name=Turbo mini F1;
+
+Weight: 160 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 450 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ef313111
+imageUrl=https://www.devicespecifications.com/images/model/ef313111/320/main.jpg
+name=Leo DG280;
+
+Weight: 228 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/42ca30da
+imageUrl=https://www.devicespecifications.com/images/model/42ca30da/320/main.jpg
+name=Titans2 DG700;
+
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Display: 5 in, JDI IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ac5a3059
+imageUrl=https://www.devicespecifications.com/images/model/ac5a3059/320/main.jpg
+name=Hitman DG850;
+
+Weight: 134 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d9f82f6c
+imageUrl=https://www.devicespecifications.com/images/model/d9f82f6c/320/main.jpg
+name=Turbo 2 DG900;
+
+Weight: 140 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/90ea2e93
+imageUrl=https://www.devicespecifications.com/images/model/90ea2e93/320/main.jpg
+name=Kissme DG580;
+
+Weight: 130 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/26ef2e0c
+imageUrl=https://www.devicespecifications.com/images/model/26ef2e0c/320/main.jpg
+name=Voyager2 DG310;
+
+Weight: 122 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 480 x 854 pixels, 24 bit
+Battery: 1700 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/36c82cfa
+imageUrl=https://www.devicespecifications.com/images/model/36c82cfa/320/main.jpg
+name=Mint DG330;
+
+Weight: 110 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fe342c42
+imageUrl=https://www.devicespecifications.com/images/model/fe342c42/320/main.jpg
+name=Latte DG450;
+
+Weight: 229 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 4.3 Jelly Bean
+Camera: 4672 x 3504 pixels, 1920 x 1080 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/909a2c41/320/main.jpg
+name=Max DG650S;
+
+Weight: 137 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c3f22c40
+imageUrl=https://www.devicespecifications.com/images/model/c3f22c40/320/main.jpg
+name=Valencia DG800;
+
+Weight: 192 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Polymer
+OS: Android 4.2.9 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=https://www.devicespecifications.com/en/price/a8f52c3f
+imageUrl=https://www.devicespecifications.com/images/model/a8f52c3f/320/main.jpg
+name=Dagger DG550;
+
+Weight: 320 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.85 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 3600 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2048 x 1536 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=https://www.devicespecifications.com/en/price/a08c2c43
+imageUrl=https://www.devicespecifications.com/images/model/a08c2c43/320/main.jpg
+name=DG-Phablet DG685;
+
+Weight: 120 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1500 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=https://www.devicespecifications.com/en/price/a0bf2c4a
+imageUrl=https://www.devicespecifications.com/images/model/a0bf2c4a/320/main.jpg
+name=Collo 3 DG110;
+
+Weight: 180 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.2.1 Jelly Bean
+Camera: 4200 x 2800 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/17c52c56
+imageUrl=https://www.devicespecifications.com/images/model/17c52c56/320/main.jpg
+name=Find DG510;
+
+Weight: 119 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/59d72c5c/320/main.jpg
+name=Pixels DG350;
+
+Weight: 133 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 3.5 in, IPS, 320 x 480 pixels
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels, 864 x 480 pixels, 12 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/98302c7a
+imageUrl=https://www.devicespecifications.com/images/model/98302c7a/320/main.jpg
+name=Titans DG150;
+
+Weight: 130 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/814b2c57
+imageUrl=https://www.devicespecifications.com/images/model/814b2c57/320/main.jpg
+name=Discovery DG500C;
+
+Weight: 140 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.2.9 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=https://www.devicespecifications.com/en/price/c9ba2c87
+imageUrl=https://www.devicespecifications.com/images/model/c9ba2c87/320/main.jpg
+name=Turbo DG2014;
+
+Weight: 120 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=https://www.devicespecifications.com/en/price/cb9e2c89
+imageUrl=https://www.devicespecifications.com/images/model/cb9e2c89/320/main.jpg
+name=Rainbow DG210;
+
+Weight: 273 g
+SoC: MediaTek MT6572W
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, TFT, 540 x 960 pixels, 18 bit
+Battery: 3800 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3f4b2c99/320/main.jpg
+name=Bigboy DG600;
+
+Weight: 229 g
+SoC: MediaTek MT6589T
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 357 MHz, Cores: 1
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 3500 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4672 x 3504 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/45512cf3/320/main.jpg
+name=Max DG650;
+
+Weight: 126 g
+SoC: MediaTek MT6572W
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1250 mAh, Li-Ion
+OS: Android 4.2 Jelly Bean
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, EPO    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e7be2c98/320/main.jpg
+name=Moon DG130;
+
+Weight: 146 g
+SoC: MediaTek MT6577
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX531, 522 MHz
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS, EPO    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/38022d21/320/main.jpg
+name=Hotwind DG200;
+
+Weight: 116 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/bb9b2d20
+imageUrl=https://www.devicespecifications.com/images/model/bb9b2d20/320/main.jpg
+name=Collo DG100;
+

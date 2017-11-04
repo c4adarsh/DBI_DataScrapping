@@ -1,0 +1,17 @@
+Phantom	https://www.devicespecifications.com/en/model/7e494616
+Compass	https://www.devicespecifications.com/en/model/4476403f
+Gator 3	https://www.devicespecifications.com/en/model/08063f56
+Optimax 10	https://www.devicespecifications.com/en/model/5b853bd9
+Optimax 8.0	https://www.devicespecifications.com/en/model/c43a3bd8
+Optimax 7.0	https://www.devicespecifications.com/en/model/40153bd7
+Might Plus II	https://www.devicespecifications.com/en/model/80f63aea
+Axe LTE	https://www.devicespecifications.com/en/model/770838a4
+Check LTE	https://www.devicespecifications.com/en/model/ea31388f
+Sync 4.0	https://www.devicespecifications.com/en/model/303e354b
+Coach Pro	https://www.devicespecifications.com/en/model/90e93420
+Might LTE	https://www.devicespecifications.com/en/model/70903421
+Axe Plus	https://www.devicespecifications.com/en/model/abca38a5
+Check Plus	https://www.devicespecifications.com/en/model/97443890
+Might Pro	https://www.devicespecifications.com/en/model/6cac3540
+Pilot Plus	https://www.devicespecifications.com/en/model/ad5934fe
+Sync 5.0	https://www.devicespecifications.com/en/model/6d813435

@@ -1,0 +1,3 @@
+J9 Quad Core	https://www.devicespecifications.com/en/model/3ae34452
+J9	https://www.devicespecifications.com/en/model/e9964424
+J7	https://www.devicespecifications.com/en/model/17c141f7

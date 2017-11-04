@@ -1,0 +1,54 @@
+Xenium X598	https://www.devicespecifications.com/en/model/befb4697
+Xenium X596	https://www.devicespecifications.com/en/model/aa994693
+E Line 3G TLE772G	https://www.devicespecifications.com/en/model/6b0e4529
+Xenium V787+	https://www.devicespecifications.com/en/model/0e2144de
+S310	https://www.devicespecifications.com/en/model/2f6f44da
+S327	https://www.devicespecifications.com/en/model/f23f44c8
+Xenium S386	https://www.devicespecifications.com/en/model/4d92427d
+Xenium X588	https://www.devicespecifications.com/en/model/cdf74223
+E Line 4G E821L	https://www.devicespecifications.com/en/model/a33b4153
+Swift 4G S626L	https://www.devicespecifications.com/en/model/6a954152
+S653H	https://www.devicespecifications.com/en/model/a4033f37
+Swift 4G TLS711L	https://www.devicespecifications.com/en/model/b1223ee8
+X818	https://www.devicespecifications.com/en/model/3f553ec0
+X586	https://www.devicespecifications.com/en/model/89ea3ebf
+V800	https://www.devicespecifications.com/en/model/201e3e75
+S326	https://www.devicespecifications.com/en/model/2bc63dc2
+Xenium V377	https://www.devicespecifications.com/en/model/053138a6
+S337	https://www.devicespecifications.com/en/model/37de3857
+Xenium V787	https://www.devicespecifications.com/en/model/146837b6
+Sapphire S616	https://www.devicespecifications.com/en/model/91b937b5
+S307	https://www.devicespecifications.com/en/model/df3b36a8
+Xenium V526	https://www.devicespecifications.com/en/model/11493672
+S396	https://www.devicespecifications.com/en/model/487435c2
+S309	https://www.devicespecifications.com/en/model/312d3477
+S316	https://www.devicespecifications.com/en/model/257131b3
+V989	https://www.devicespecifications.com/en/model/41703189
+S398	https://www.devicespecifications.com/en/model/19a43132
+i966 Aurora	https://www.devicespecifications.com/en/model/ddce3036
+S301	https://www.devicespecifications.com/en/model/4ac63024
+Xenium V387	https://www.devicespecifications.com/en/model/57902fd9
+S399	https://www.devicespecifications.com/en/model/6b992fd8
+Xenium I908	https://www.devicespecifications.com/en/model/99282fd7
+S308	https://www.devicespecifications.com/en/model/88852deb
+S388	https://www.devicespecifications.com/en/model/2b132dea
+I928	https://www.devicespecifications.com/en/model/c4c52c4d
+Xenium V8526	https://www.devicespecifications.com/en/model/b2732dec
+W3509	https://www.devicespecifications.com/en/model/cb672dee
+W3550	https://www.devicespecifications.com/en/model/06242def
+Xenium W6618	https://www.devicespecifications.com/en/model/73292c23
+Xenium W6610	https://www.devicespecifications.com/en/model/d39a2ce5
+Xenium W3500	https://www.devicespecifications.com/en/model/fea22c4b
+Xenium W7555	https://www.devicespecifications.com/en/model/b18a2c4c
+Xenium W9588	https://www.devicespecifications.com/en/model/68942d86
+Xenium W8555	https://www.devicespecifications.com/en/model/65e32c91
+Xenium W8568	https://www.devicespecifications.com/en/model/b8cc2d87
+Xenium W8500	https://www.devicespecifications.com/en/model/f8b72d88
+Xenium W3568	https://www.devicespecifications.com/en/model/35c92fa0
+Xenium W6500	https://www.devicespecifications.com/en/model/b0b02f9f
+Xenium W8560	https://www.devicespecifications.com/en/model/1e1d2fa1
+Xenium W8510	https://www.devicespecifications.com/en/model/8cc32c97
+Xenium W737	https://www.devicespecifications.com/en/model/8ff031b0
+Xenium W832	https://www.devicespecifications.com/en/model/86fd31ae
+W536	https://www.devicespecifications.com/en/model/54ed31b1
+Xenium W732	https://www.devicespecifications.com/en/model/af4031af

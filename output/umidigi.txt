@@ -1,0 +1,240 @@
+Weight: 186 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 720 x 1440 pixels, 24 bit
+Battery: 5100 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/90204583
+imageUrl=https://www.devicespecifications.com/images/model/90204583/320/main.jpg
+name=S2;
+
+Weight: 186 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.6 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 2160 pixels, 24 bit
+Battery: 5100 mAh, Li-Polymer
+OS: UMI OS (Android 7.0 Nougat)
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/2932451c
+imageUrl=https://www.devicespecifications.com/images/model/2932451c/320/main.jpg
+name=S2 Pro;
+
+Weight: 180 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d62e44f0/320/main.jpg
+name=Crystal Pro;
+
+Weight: 148 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: UMI OS (Android 7.0 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e6f5449b
+imageUrl=https://www.devicespecifications.com/images/model/e6f5449b/320/main.jpg
+name=C2;
+
+Weight: 167 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: UMI OS (Android 7.0 Nougat)
+Camera: 4224 x 3168 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/db67447e
+imageUrl=https://www.devicespecifications.com/images/model/db67447e/320/main.jpg
+name=S;
+
+Weight: 160 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: UMI OS (Android 7.0 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/27604447
+imageUrl=https://www.devicespecifications.com/images/model/27604447/320/main.jpg
+name=C Note 2;
+
+Weight: 148 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4224 x 3168 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a19c43fd
+imageUrl=https://www.devicespecifications.com/images/model/a19c43fd/320/main.jpg
+name=Z1 Pro;
+
+Weight: 175 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4224 x 3168 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/804443fc
+imageUrl=https://www.devicespecifications.com/images/model/804443fc/320/main.jpg
+name=Z1;
+
+Weight: 180 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 733 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/edd84326
+imageUrl=https://www.devicespecifications.com/images/model/edd84326/320/main.jpg
+name=Crystal;
+
+Weight: 135 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6ec042f5
+imageUrl=https://www.devicespecifications.com/images/model/6ec042f5/320/main.jpg
+name=G;
+
+Weight: 172 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 3 GB, 733 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 3800 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4c10423e
+imageUrl=https://www.devicespecifications.com/images/model/4c10423e/320/main.jpg
+name=C Note;
+
+Weight: 175 g
+SoC: MediaTek Helio X27 (MT6797X)
+CPU: 2x 2.6 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 875 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 3780 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/82ce4161
+imageUrl=https://www.devicespecifications.com/images/model/82ce4161/320/main.jpg
+name=Z Pro;
+

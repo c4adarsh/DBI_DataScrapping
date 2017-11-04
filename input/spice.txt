@@ -1,0 +1,22 @@
+V801	https://www.devicespecifications.com/en/model/95df45b8
+X Life Proton 6	https://www.devicespecifications.com/en/model/225d3acc
+Xlife Dragon	https://www.devicespecifications.com/en/model/80f338fa
+XLife 480Q	https://www.devicespecifications.com/en/model/17573867
+XLife 404	https://www.devicespecifications.com/en/model/ac5d3865
+XLife 511 Pro	https://www.devicespecifications.com/en/model/a5c03727
+XLife M5Q+	https://www.devicespecifications.com/en/model/8b4535e8
+Stellar Mi-528	https://www.devicespecifications.com/en/model/f5523444
+Stellar 519	https://www.devicespecifications.com/en/model/25ec34e9
+Stellar 526n	https://www.devicespecifications.com/en/model/31b73381
+Stellar 440	https://www.devicespecifications.com/en/model/cee2322c
+Stellar 520n	https://www.devicespecifications.com/en/model/9131313f
+Stellar 470	https://www.devicespecifications.com/en/model/e939322b
+Stellar 518	https://www.devicespecifications.com/en/model/87533116
+Stellar 524	https://www.devicespecifications.com/en/model/bcc73077
+Stellar 516	https://www.devicespecifications.com/en/model/05c82fc8
+Dream Uno	https://www.devicespecifications.com/en/model/18502f7c
+Fire One Mi-FX 1	https://www.devicespecifications.com/en/model/07262f10
+Stellar 507	https://www.devicespecifications.com/en/model/d23d3254
+Stellar 526	https://www.devicespecifications.com/en/model/ed2e322d
+Stellar 509	https://www.devicespecifications.com/en/model/c3513253
+Stellar Mettle Icon Mi-506	https://www.devicespecifications.com/en/model/dfde2fa2

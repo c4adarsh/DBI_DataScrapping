@@ -1,0 +1,7 @@
+U1 Pro	https://www.devicespecifications.com/en/model/2c98432a
+U1 Pro 32GB	https://www.devicespecifications.com/en/model/85cb4329
+M1L	https://www.devicespecifications.com/en/model/18363f23
+M1	https://www.devicespecifications.com/en/model/826b3f22
+T2	https://www.devicespecifications.com/en/model/ab283914
+U1	https://www.devicespecifications.com/en/model/67c83609
+T1	https://www.devicespecifications.com/en/model/a2522cc9

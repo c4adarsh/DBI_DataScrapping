@@ -1,0 +1,53 @@
+T8	https://www.devicespecifications.com/en/model/71d5465c
+P10	https://www.devicespecifications.com/en/model/8f3e459a
+T10	https://www.devicespecifications.com/en/model/88404548
+X3 Plus	https://www.devicespecifications.com/en/model/4b0142d5
+X10	https://www.devicespecifications.com/en/model/05dd42d4
+Tbook 12 S	https://www.devicespecifications.com/en/model/d64c420f
+X5 Pro	https://www.devicespecifications.com/en/model/416c3ff8
+Tbook 12 Pro	https://www.devicespecifications.com/en/model/e5474210
+Tbook 16 Power	https://www.devicespecifications.com/en/model/0bd4420e
+Tbook 10 S	https://www.devicespecifications.com/en/model/cd62420d
+Tbook 16S	https://www.devicespecifications.com/en/model/e33f3df8
+Tbook 16 Pro	https://www.devicespecifications.com/en/model/9d913df7
+X98 Plus II Dual OS	https://www.devicespecifications.com/en/model/d24c3df6
+X10 Plus	https://www.devicespecifications.com/en/model/156a3c46
+X3 Pro	https://www.devicespecifications.com/en/model/84013bbf
+X16 Plus	https://www.devicespecifications.com/en/model/9c763b88
+X80 Power	https://www.devicespecifications.com/en/model/c3283b87
+X80 Pro	https://www.devicespecifications.com/en/model/c16b3b26
+X89 Kindow	https://www.devicespecifications.com/en/model/53223b25
+Tbook 16	https://www.devicespecifications.com/en/model/aa5c3c22
+Tbook 10	https://www.devicespecifications.com/en/model/e1af3b89
+Tbook 11	https://www.devicespecifications.com/en/model/9c893acf
+X80 Plus Dual OS	https://www.devicespecifications.com/en/model/dc393a1e
+X98 Plus Dual OS	https://www.devicespecifications.com/en/model/d7b13980
+X70 R 3G	https://www.devicespecifications.com/en/model/3adf382b
+X16 Power Dual OS	https://www.devicespecifications.com/en/model/db8d37e1
+X16 Pro Dual OS	https://www.devicespecifications.com/en/model/0c8437d7
+X80 Plus	https://www.devicespecifications.com/en/model/0ae437af
+X98 Air III Dual OS	https://www.devicespecifications.com/en/model/9a9c3768
+X98 Air III	https://www.devicespecifications.com/en/model/b18c36b2
+P80h	https://www.devicespecifications.com/en/model/abb34247
+X2 Pro	https://www.devicespecifications.com/en/model/23b637c7
+X98 Pro Dual OS	https://www.devicespecifications.com/en/model/428737e2
+X98 Pro	https://www.devicespecifications.com/en/model/244e3600
+X98 Plus	https://www.devicespecifications.com/en/model/154037e3
+X70 3G	https://www.devicespecifications.com/en/model/5b1d33f1
+A88HD	https://www.devicespecifications.com/en/model/8a4336b1
+X80HD	https://www.devicespecifications.com/en/model/f03a33cc
+P98 4G	https://www.devicespecifications.com/en/model/fb9a3383
+P70 3G	https://www.devicespecifications.com/en/model/120e338a
+X89	https://www.devicespecifications.com/en/model/8a52320f
+X16HD 3G	https://www.devicespecifications.com/en/model/23a4320b
+X10HD 3G	https://www.devicespecifications.com/en/model/427d320a
+T98 4G	https://www.devicespecifications.com/en/model/c652321e
+X98 Air 3G	https://www.devicespecifications.com/en/model/09eb320c
+X98 Air II	https://www.devicespecifications.com/en/model/6002320e
+P80 3G	https://www.devicespecifications.com/en/model/e38b3233
+X90HD	https://www.devicespecifications.com/en/model/96a034ef
+X80h	https://www.devicespecifications.com/en/model/99ca320d
+P98 Air	https://www.devicespecifications.com/en/model/8cc433e9
+P90HD	https://www.devicespecifications.com/en/model/33ca33fd
+A78 Quad Core	https://www.devicespecifications.com/en/model/b40f36b0
+A78 Dual Core	https://www.devicespecifications.com/en/model/640136b4

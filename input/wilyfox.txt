@@ -1,0 +1,8 @@
+Swift 2 X	https://www.devicespecifications.com/en/model/eb2f40c6
+Swift 2 Plus	https://www.devicespecifications.com/en/model/d5673eed
+Swift 2	https://www.devicespecifications.com/en/model/e0f33eec
+Spark X	https://www.devicespecifications.com/en/model/7fe03ce4
+Spark+	https://www.devicespecifications.com/en/model/039e3ce3
+Spark	https://www.devicespecifications.com/en/model/d3553ce2
+Swift	https://www.devicespecifications.com/en/model/6ecc3627
+Storm	https://www.devicespecifications.com/en/model/2e713626

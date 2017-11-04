@@ -1,0 +1,8 @@
+Q797	https://www.devicespecifications.com/en/model/fb4b402b
+774	https://www.devicespecifications.com/en/model/e1f6402c
+L800	https://www.devicespecifications.com/en/model/74f53aef
+L600	https://www.devicespecifications.com/en/model/702a3aee
+777	https://www.devicespecifications.com/en/model/90113afc
+750	https://www.devicespecifications.com/en/model/e66b3c37
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

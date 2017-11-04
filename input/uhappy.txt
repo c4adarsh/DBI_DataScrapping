@@ -1,0 +1,10 @@
+UP720	https://www.devicespecifications.com/en/model/9fa7409b
+UP350	https://www.devicespecifications.com/en/model/68d5406c
+V5	https://www.devicespecifications.com/en/model/edba3c10
+UP580	https://www.devicespecifications.com/en/model/92783919
+UP920	https://www.devicespecifications.com/en/model/64b5361e
+UP320	https://www.devicespecifications.com/en/model/6846361f
+UP570	https://www.devicespecifications.com/en/model/6a293622
+UP620	https://www.devicespecifications.com/en/model/5c733624
+UP550	https://www.devicespecifications.com/en/model/3ac03623
+UP520	https://www.devicespecifications.com/en/model/50903625

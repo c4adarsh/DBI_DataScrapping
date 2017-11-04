@@ -1,0 +1,11 @@
+X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+A7	https://www.devicespecifications.com/en/model/58b74398
+A8 SE	https://www.devicespecifications.com/en/model/a1da4379
+A8 Mini	https://www.devicespecifications.com/en/model/f3ff435b
+A1Q	https://www.devicespecifications.com/en/model/273c42b2
+X2 Max	https://www.devicespecifications.com/en/model/caa941fa
+X2 Pro	https://www.devicespecifications.com/en/model/340d41f9
+X2	https://www.devicespecifications.com/en/model/3ad041f8
+A8	https://www.devicespecifications.com/en/model/a53d4109
+A2	https://www.devicespecifications.com/en/model/3763410a
+X1	https://www.devicespecifications.com/en/model/2063410b

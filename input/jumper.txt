@@ -1,0 +1,6 @@
+EZpad 4s Pro	https://www.devicespecifications.com/en/model/837d450a
+EZpad 6	https://www.devicespecifications.com/en/model/3fe84212
+EZpad 6 M6	https://www.devicespecifications.com/en/model/d1c54211
+EZpad mini3	https://www.devicespecifications.com/en/model/43bb3bae
+EZpad 5s	https://www.devicespecifications.com/en/model/77693baf
+EZpad 4s	https://www.devicespecifications.com/en/model/638b3bb0

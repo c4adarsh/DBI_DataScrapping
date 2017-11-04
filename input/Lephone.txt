@@ -1,0 +1,4 @@
+W12	https://www.devicespecifications.com/en/model/ffa44484
+W11	https://www.devicespecifications.com/en/model/d5554485
+W7 Plus	https://www.devicespecifications.com/en/model/8c0d4487
+W7	https://www.devicespecifications.com/en/model/13224486

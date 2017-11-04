@@ -1,0 +1,3 @@
+Venus V3 5580	https://www.devicespecifications.com/en/model/5d31401b
+Venus V3 5020	https://www.devicespecifications.com/en/model/da0e3ba0
+Venus V3 5070	https://www.devicespecifications.com/en/model/71293c58

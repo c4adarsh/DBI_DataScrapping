@@ -1,0 +1,37 @@
+Impress Lagune	https://www.devicespecifications.com/en/model/cb8146a4
+Impress Razor	https://www.devicespecifications.com/en/model/99bc469f
+Impress Lotus	https://www.devicespecifications.com/en/model/2602440f
+Impress Dune	https://www.devicespecifications.com/en/model/c15b440e
+Impress Lightning	https://www.devicespecifications.com/en/model/eb41440d
+Impress Grip	https://www.devicespecifications.com/en/model/3d7543f2
+Impress Fortune	https://www.devicespecifications.com/en/model/b9cf43d4
+Impress Genius	https://www.devicespecifications.com/en/model/16fb43d3
+Impress Ra	https://www.devicespecifications.com/en/model/c92843d2
+Impress Lion 4G	https://www.devicespecifications.com/en/model/fa0643d1
+Impress Lion 3G	https://www.devicespecifications.com/en/model/10d643d0
+Impress Groove	https://www.devicespecifications.com/en/model/8b1e43cf
+Impress Event	https://www.devicespecifications.com/en/model/5e4743ce
+Impress Saturn	https://www.devicespecifications.com/en/model/e73643c5
+Impress Luck	https://www.devicespecifications.com/en/model/f24b43c4
+Impress Tor	https://www.devicespecifications.com/en/model/25aa3f55
+Impress Lux	https://www.devicespecifications.com/en/model/45ad3f54
+Impress Mars	https://www.devicespecifications.com/en/model/3dba3f4f
+Impress Wave	https://www.devicespecifications.com/en/model/19c63f4e
+Impress In Touch 4G	https://www.devicespecifications.com/en/model/559f3f3a
+Impress In Touch 3G	https://www.devicespecifications.com/en/model/1c6b3f39
+Impress Novo	https://www.devicespecifications.com/en/model/f5483f38
+Impress Eagle	https://www.devicespecifications.com/en/model/6f0b3e77
+Impress Style	https://www.devicespecifications.com/en/model/d8603e76
+Impress Moon	https://www.devicespecifications.com/en/model/128b3e6f
+Impress Eno	https://www.devicespecifications.com/en/model/c68d3e6e
+Impress Glory	https://www.devicespecifications.com/en/model/17483e7c
+Impress XL	https://www.devicespecifications.com/en/model/b1ed3e0d
+Impress XXL	https://www.devicespecifications.com/en/model/d95a3dff
+Impress Jazz	https://www.devicespecifications.com/en/model/50d83e15
+Impress Action	https://www.devicespecifications.com/en/model/d2483e78
+Impress Open	https://www.devicespecifications.com/en/model/5f2d3ea5
+Impress More	https://www.devicespecifications.com/en/model/b6873eae
+Impress Cult	https://www.devicespecifications.com/en/model/c8cb3e7b
+Impress X	https://www.devicespecifications.com/en/model/ccd83bd6
+Impress Max	https://www.devicespecifications.com/en/model/1f893a3b
+Impress Easy	https://www.devicespecifications.com/en/model/80773a3c

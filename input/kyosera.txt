@@ -1,0 +1,47 @@
+Torque G03	https://www.devicespecifications.com/en/model/14da4431
+Digno V	https://www.devicespecifications.com/en/model/8fd0439a
+Digno G	https://www.devicespecifications.com/en/model/a38e432d
+Torque X01	https://www.devicespecifications.com/en/model/aa1541a0
+Digno W	https://www.devicespecifications.com/en/model/82fe410e
+miraie f KYV39	https://www.devicespecifications.com/en/model/c0c640c0
+rafre KYV40	https://www.devicespecifications.com/en/model/81b240bf
+Urbano V03	https://www.devicespecifications.com/en/model/71413ffb
+DuraForce Pro	https://www.devicespecifications.com/en/model/da153e51
+Hydro Shore	https://www.devicespecifications.com/en/model/5b8f3d3c
+Digno F	https://www.devicespecifications.com/en/model/473c3bf2
+Hydro Reach	https://www.devicespecifications.com/en/model/ce243b6b
+DuraXE	https://www.devicespecifications.com/en/model/55453964
+DuraForce XD	https://www.devicespecifications.com/en/model/33493939
+Hydro View	https://www.devicespecifications.com/en/model/19bb3935
+Digno rafre	https://www.devicespecifications.com/en/model/52963884
+Hydro Air	https://www.devicespecifications.com/en/model/771c377d
+Hydro Wave	https://www.devicespecifications.com/en/model/073e3548
+Qua tab 01	https://www.devicespecifications.com/en/model/2482340c
+Urbano V02	https://www.devicespecifications.com/en/model/3824340b
+Torque G02	https://www.devicespecifications.com/en/model/5f78340a
+S301	https://www.devicespecifications.com/en/model/497b3340
+DuraScout	https://www.devicespecifications.com/en/model/c10f32b2
+Digno U	https://www.devicespecifications.com/en/model/ede332a1
+Torque KC-S701	https://www.devicespecifications.com/en/model/387e3280
+Infobar A03	https://www.devicespecifications.com/en/model/f3ce3215
+Basio KYV32	https://www.devicespecifications.com/en/model/b4843211
+miraie KYL23	https://www.devicespecifications.com/en/model/7bf43210
+Luce	https://www.devicespecifications.com/en/model/4de83191
+Marvera 2	https://www.devicespecifications.com/en/model/a46630ae
+Urbano V01	https://www.devicespecifications.com/en/model/e5b3309d
+DuraForce	https://www.devicespecifications.com/en/model/42273083
+Torque XT	https://www.devicespecifications.com/en/model/56e23040
+Digno T	https://www.devicespecifications.com/en/model/236c2f72
+Hydro Life	https://www.devicespecifications.com/en/model/05d92e85
+Brigadier	https://www.devicespecifications.com/en/model/63052e5e
+Hydro Icon	https://www.devicespecifications.com/en/model/d4cc2d67
+Hydro Vibe	https://www.devicespecifications.com/en/model/6b4a2c75
+Torque SKT01	https://www.devicespecifications.com/en/model/e4532aa9
+Hydro Plus	https://www.devicespecifications.com/en/model/85c12a91
+Hydro Elite	https://www.devicespecifications.com/en/model/88a429ad
+Hydro XTRM	https://www.devicespecifications.com/en/model/80c729ae
+Hydro Edge	https://www.devicespecifications.com/en/model/02c829b5
+Torque	https://www.devicespecifications.com/en/model/27a329af
+Hydro	https://www.devicespecifications.com/en/model/d70029b2
+Rise	https://www.devicespecifications.com/en/model/6a1f29b3
+Milano	https://www.devicespecifications.com/en/model/aa2e29b4

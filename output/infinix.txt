@@ -1,0 +1,379 @@
+Weight: 145 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3060 mAh, Li-Polymer
+OS: X OS Chameleon 2.2 (Android 7.0 Nougat)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0ee044ed/320/main.jpg
+name=Smart;
+
+Weight: 200 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: X OS Chameleon 2.2 (Android 7.0 Nougat)
+Camera: 4224 x 3136 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/690344d0/320/main.jpg
+name=Note 4 Pro;
+
+Weight: 198 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4300 mAh, Li-Polymer
+OS: X OS Chameleon 2.2 (Android 7.0 Nougat)
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/78f044cf
+imageUrl=https://www.devicespecifications.com/images/model/78f044cf/320/main.jpg
+name=Note 4;
+
+Weight: 147 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 3 GB, 666 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: X OS Chameleon 2.2 (Android 7.0 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/fdfa42a9/320/main.jpg
+name=S2;
+
+Weight: 199 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/56354336/320/main.jpg
+name=Note 3 Pro;
+
+Weight: 199 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/06fa414e/320/main.jpg
+name=Note 3;
+
+Weight: 203 g
+SoC: MediaTek Helio X20 (MT6797M)
+CPU: 2x 2.0 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.98 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: X OS Chameleon 2.0.0 (Android 6.0 Marshmallow)
+Camera: 5312 x 3984 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/92874082/320/main.jpg
+name=Zero 4+;
+
+Weight: 168 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: X OS Chameleon 2.0.0 (Android 6.0 Marshmallow)
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/983e3fe8/320/main.jpg
+name=Zero 4;
+
+Weight: 175 g
+SoC: Mediatek MT6737
+CPU: ARM Cortex-A53, 1250 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/9665414d
+imageUrl=https://www.devicespecifications.com/images/model/9665414d/320/main.jpg
+name=Hot 4 Pro;
+
+Weight: 175 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3e4c414c/320/main.jpg
+name=Hot 4 Lite;
+
+Weight: 175 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/67e2414b/320/main.jpg
+name=Hot 4;
+
+Weight: 140 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 3 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/bdb9414a/320/main.jpg
+name=Hot S;
+
+Weight: 167 g
+SoC: Qualcomm Snapdragon 415 MSM8929
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3840 x 2160 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/37453d1c/320/main.jpg
+name=Hot3 LTE;
+
+Weight: 167 g
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 2 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3840 x 2160 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/be9a3d1b/320/main.jpg
+name=Hot 3;
+
+Weight: 172 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3030 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/676738e6/320/main.jpg
+name=Zero 3;
+
+Weight: 194 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 1 GB, 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.98 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e96c38e7/320/main.jpg
+name=Note 2;
+
+SoC: Mediatek MT6580
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 2 GB, 533 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e4d836e9/320/main.jpg
+name=Hot 2;
+
+Weight: 118 g
+SoC: MediaTek MT6592T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB, 666 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/32ed39a7/320/main.jpg
+name=Zero 2;
+
+Weight: 172 g
+SoC: MediaTek MT6592M
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 1 GB, 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3840 x 2160 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ab48370d/320/main.jpg
+name=Hot Note;
+

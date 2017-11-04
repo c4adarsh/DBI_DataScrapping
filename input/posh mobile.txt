@@ -1,0 +1,17 @@
+Revel Max LTE L551	https://www.devicespecifications.com/en/model/bae54395
+Equal Plus X700	https://www.devicespecifications.com/en/model/e58a40e7
+Memo Pro LTE L600	https://www.devicespecifications.com/en/model/eb9340e4
+Ultra Max LTE L550	https://www.devicespecifications.com/en/model/8bda40e3
+Volt Max LTE L640A	https://www.devicespecifications.com/en/model/e28940e6
+Equal Pro L700	https://www.devicespecifications.com/en/model/c51140e8
+Optima LTE L530	https://www.devicespecifications.com/en/model/62973cfe
+Kick Pro LTE L520	https://www.devicespecifications.com/en/model/a1883cf9
+Icon Pro HD X551	https://www.devicespecifications.com/en/model/6b443b85
+Micro X S240	https://www.devicespecifications.com/en/model/d70a3b86
+Icon S510	https://www.devicespecifications.com/en/model/ce7e371e
+Revel Pro X510	https://www.devicespecifications.com/en/model/b394371f
+Ultra 5.0 LTE	https://www.devicespecifications.com/en/model/d61735c8
+Titan Pro HD E550	https://www.devicespecifications.com/en/model/c9c835c6
+Titan Max HD E600	https://www.devicespecifications.com/en/model/27bd35c7
+Equal S700	https://www.devicespecifications.com/en/model/f62035d0
+Titan HD	https://www.devicespecifications.com/en/model/da4835d6

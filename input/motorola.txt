@@ -1,0 +1,68 @@
+Moto Z 2018	https://www.devicespecifications.com/en/model/5ced468a
+Moto Green Pomelo	https://www.devicespecifications.com/en/model/cfa74666
+Moto X4	https://www.devicespecifications.com/en/model/cd7c452f
+Moto G5s Plus	https://www.devicespecifications.com/en/model/26a344d2
+Moto G5s	https://www.devicespecifications.com/en/model/1b1e44d1
+Moto Z2 Force Edition	https://www.devicespecifications.com/en/model/76ab44ae
+Moto E4 Plus MT6737	https://www.devicespecifications.com/en/model/779a43df
+Moto E4 MT6737	https://www.devicespecifications.com/en/model/bfb743de
+Moto E4 Plus XT1775	https://www.devicespecifications.com/en/model/0dea43dc
+Moto Z2 Play	https://www.devicespecifications.com/en/model/9ebb439f
+Moto E4	https://www.devicespecifications.com/en/model/7aaf438b
+Moto C XT1750	https://www.devicespecifications.com/en/model/94304343
+Moto C Plus	https://www.devicespecifications.com/en/model/0d2c4342
+Moto C 4G	https://www.devicespecifications.com/en/model/6eeb4341
+Moto G5 Plus	https://www.devicespecifications.com/en/model/9a754165
+Moto G5	https://www.devicespecifications.com/en/model/fac24164
+Moto M	https://www.devicespecifications.com/en/model/4f0f3f79
+Moto E3 Power	https://www.devicespecifications.com/en/model/e5263e83
+Moto Z Play	https://www.devicespecifications.com/en/model/be0a3e2a
+Moto Z Force	https://www.devicespecifications.com/en/model/1f303c85
+Moto Z	https://www.devicespecifications.com/en/model/5d463c84
+Moto G4 Play	https://www.devicespecifications.com/en/model/f28a3c0d
+Moto G4 Plus	https://www.devicespecifications.com/en/model/54ab3c09
+Moto G4	https://www.devicespecifications.com/en/model/8afc3c08
+Moto G Turbo Edition	https://www.devicespecifications.com/en/model/944e37db
+Droid Maxx 2	https://www.devicespecifications.com/en/model/6feb37a1
+Droid Turbo 2	https://www.devicespecifications.com/en/model/79c137a0
+Moto X Pure Edition	https://www.devicespecifications.com/en/model/7092356a
+Moto X Play	https://www.devicespecifications.com/en/model/dd8b3569
+Moto X Style	https://www.devicespecifications.com/en/model/485a3567
+Moto G (3rd Gen)	https://www.devicespecifications.com/en/model/d8903566
+Moto E (2nd Gen) XT1527	https://www.devicespecifications.com/en/model/39e932be
+Moto E (2nd Gen)	https://www.devicespecifications.com/en/model/0f3a32bd
+Moto G LTE (2nd Gen)	https://www.devicespecifications.com/en/model/4c473245
+Nexus 6	https://www.devicespecifications.com/en/model/617b3011
+Droid Turbo	https://www.devicespecifications.com/en/model/602c2fff
+Moto G (2nd Gen)	https://www.devicespecifications.com/en/model/cf272f54
+Moto X (2nd Gen)	https://www.devicespecifications.com/en/model/03232f53
+Moto 360	https://www.devicespecifications.com/en/model/afb72f2e
+Moto G LTE	https://www.devicespecifications.com/en/model/10da2ca3
+Moto E Dual TV	https://www.devicespecifications.com/en/model/adae2ca4
+Moto E	https://www.devicespecifications.com/en/model/b2ad2c2a
+Moto G Dual SIM	https://www.devicespecifications.com/en/model/0bb72a8a
+Moto G	https://www.devicespecifications.com/en/model/45642943
+Moto X	https://www.devicespecifications.com/en/model/b46928aa
+DROID Ultra	https://www.devicespecifications.com/en/model/a21e28a8
+DROID Maxx	https://www.devicespecifications.com/en/model/761828a9
+DROID Mini	https://www.devicespecifications.com/en/model/5fb928a7
+RAZR D3	https://www.devicespecifications.com/en/model/238b274b
+RAZR D1	https://www.devicespecifications.com/en/model/3b25274c
+Electrify M	https://www.devicespecifications.com/en/model/c384274d
+RAZR i	https://www.devicespecifications.com/en/model/6800274e
+RAZR M XT905	https://www.devicespecifications.com/en/model/5aa02753
+RAZR HD	https://www.devicespecifications.com/en/model/dbcc2751
+DROID RAZR M	https://www.devicespecifications.com/en/model/8cc02752
+DROID RAZR MAXX HD	https://www.devicespecifications.com/en/model/f6cb274f
+DROID RAZR HD	https://www.devicespecifications.com/en/model/732f2750
+Photon Q 4G LTE	https://www.devicespecifications.com/en/model/1d8d2756
+DEFY Pro	https://www.devicespecifications.com/en/model/71e02757
+Electrify 2	https://www.devicespecifications.com/en/model/6fa32755
+DEFY XT	https://www.devicespecifications.com/en/model/248c2754
+MotoGo TV	https://www.devicespecifications.com/en/model/2a93275b
+ATRIX HD	https://www.devicespecifications.com/en/model/8ec92758
+XT760	https://www.devicespecifications.com/en/model/16762759
+RAZR V	https://www.devicespecifications.com/en/model/bf90275e
+ATRIX TV	https://www.devicespecifications.com/en/model/c099275a
+MOTOKEY 3-CHIP	https://www.devicespecifications.com/en/model/0dc3275d
+Motosmart Me	https://www.devicespecifications.com/en/model/ea22275c

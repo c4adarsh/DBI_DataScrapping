@@ -1,0 +1,80 @@
+Weight: 155 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 6 GB, 1600 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 2160 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f87f4644/320/main.jpg
+name=Alpha X;
+
+Weight: 234 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 720 x 1440 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/9cb94643
+imageUrl=https://www.devicespecifications.com/images/model/9cb94643/320/main.jpg
+name=Comet;
+
+Weight: 225 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 6 GB, 1600 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/4c7743f3
+imageUrl=https://www.devicespecifications.com/images/model/4c7743f3/320/main.jpg
+name=Alpha;
+
+Weight: 190 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Micro-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/f39b4261
+imageUrl=https://www.devicespecifications.com/images/model/f39b4261/320/main.jpg
+name=Blade;
+

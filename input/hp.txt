@@ -1,0 +1,53 @@
+Pro 8 Tablet	https://www.devicespecifications.com/en/model/37bd4597
+Elite x3	https://www.devicespecifications.com/en/model/181c3a48
+Envy 8 Note	https://www.devicespecifications.com/en/model/e2ab38b7
+Pro Tablet 608 G1	https://www.devicespecifications.com/en/model/c49034a9
+Pro Tablet 10 EE	https://www.devicespecifications.com/en/model/a303321d
+Pro Slate 10 EE	https://www.devicespecifications.com/en/model/6c16321c
+Pro Slate 12	https://www.devicespecifications.com/en/model/4e4d321b
+Pro Slate 8	https://www.devicespecifications.com/en/model/b4d7321a
+Slate 7 VoiceTab Ultra	https://www.devicespecifications.com/en/model/f088345e
+Stream 8	https://www.devicespecifications.com/en/model/b9f031b4
+Stream 7	https://www.devicespecifications.com/en/model/945931b5
+Slate 6 VoiceTab II	https://www.devicespecifications.com/en/model/f6863102
+7 VoiceTab	https://www.devicespecifications.com/en/model/3ce2309f
+10 Plus 2201	https://www.devicespecifications.com/en/model/4b372fb6
+8 G2	https://www.devicespecifications.com/en/model/92d22f9b
+7 G2	https://www.devicespecifications.com/en/model/52dd2f9a
+Slate 8 Plus	https://www.devicespecifications.com/en/model/7c172e22
+7 Plus	https://www.devicespecifications.com/en/model/85782cd1
+Slate 7 Beats Special Edition	https://www.devicespecifications.com/en/model/5f7f2c58
+ElitePad 1000 G2	https://www.devicespecifications.com/en/model/74942b50
+ProPad 600 G1 (64-bit)	https://www.devicespecifications.com/en/model/c1f12b4f
+ProPad 600 G1 (32-bit)	https://www.devicespecifications.com/en/model/9c2e2b4e
+ElitePad 900 G1	https://www.devicespecifications.com/en/model/98db3105
+Slate 7 VoiceTab	https://www.devicespecifications.com/en/model/e27e2b4d
+Slate 6 VoiceTab	https://www.devicespecifications.com/en/model/9f182abe
+Slate 8 Pro	https://www.devicespecifications.com/en/model/228d29cc
+Slate 10 HD	https://www.devicespecifications.com/en/model/319229cb
+Slate 7 Extreme	https://www.devicespecifications.com/en/model/d74b29ca
+Slate 7 Plus	https://www.devicespecifications.com/en/model/939a29c9
+Slate 7	https://www.devicespecifications.com/en/model/39f827b0
+Touchpad 4G	https://www.devicespecifications.com/en/model/b52e27b1
+Pre3 CDMA	https://www.devicespecifications.com/en/model/88a627b4
+Pre3	https://www.devicespecifications.com/en/model/ab7f27b5
+Touchpad	https://www.devicespecifications.com/en/model/438427b6
+Veer	https://www.devicespecifications.com/en/model/30f927b3
+Veer 4G	https://www.devicespecifications.com/en/model/9edc27b2
+iPAQ Glisten	https://www.devicespecifications.com/en/model/d38827b7
+iPAQ Data Messenger	https://www.devicespecifications.com/en/model/c37927b9
+iPAQ Voice Messenger	https://www.devicespecifications.com/en/model/0ecb27b8
+iPAQ 910c	https://www.devicespecifications.com/en/model/451627ba
+iPAQ 610c	https://www.devicespecifications.com/en/model/bec427bb
+iPAQ 514	https://www.devicespecifications.com/en/model/4bb927bc
+iPAQ rw6815	https://www.devicespecifications.com/en/model/180d27bd
+iPAQ rw6818	https://www.devicespecifications.com/en/model/d06327bf
+iPAQ rw6828	https://www.devicespecifications.com/en/model/363527be
+iPAQ hw6915	https://www.devicespecifications.com/en/model/2dbc27c0
+iPAQ hw6910	https://www.devicespecifications.com/en/model/707e27c1
+iPAQ hw6510	https://www.devicespecifications.com/en/model/8ed727c3
+iPAQ hw6515	https://www.devicespecifications.com/en/model/a9b127c2
+iPAQ h6325	https://www.devicespecifications.com/en/model/73cc27c4
+iPAQ h6320	https://www.devicespecifications.com/en/model/c60327c5
+iPAQ h6315	https://www.devicespecifications.com/en/model/edbd27c6
+iPAQ h6310	https://www.devicespecifications.com/en/model/5c8f27c7

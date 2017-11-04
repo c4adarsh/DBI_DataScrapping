@@ -1,0 +1,135 @@
+Weight: 158 g
+SoC: Qualcomm Snapdragon 626 MSM8953 Pro
+CPU: ARM Cortex-A53, 2200 MHz, Cores: 8
+GPU: Qualcomm Adreno 506, 650 MHz
+RAM: 4 GB, 933 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Smartisan 3.6 / 3.7
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/2c98432a
+imageUrl=https://www.devicespecifications.com/images/model/2c98432a/320/main.jpg
+name=U1 Pro;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506, 650 MHz
+RAM: 4 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Smartisan 3.6 / 3.7
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/85cb4329
+imageUrl=https://www.devicespecifications.com/images/model/85cb4329/320/main.jpg
+name=U1 Pro 32GB;
+
+Weight: 175 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.35 GHz Kryo, 2x 2.0 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 653 MHz
+RAM: 4 GB, 6 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Display: 5.7 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 4080 mAh, Li-Polymer
+OS: Smartisan 3.0 (Android 6.0 Marshmallow)
+Camera: 5488 x 4112 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 3.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/18363f23/320/main.jpg
+name=M1L;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.35 GHz Kryo, 2x 2.0 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 653 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Display: 5.15 in, JDI IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Polymer
+OS: Smartisan 3.0 (Android 6.0 Marshmallow)
+Camera: 5488 x 4112 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 3.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/826b3f22
+imageUrl=https://www.devicespecifications.com/images/model/826b3f22/320/main.jpg
+name=M1;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Display: 4.95 in, JDI IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2670 mAh, Li-Polymer
+OS: Smartisan 2.5 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ab283914
+imageUrl=https://www.devicespecifications.com/images/model/ab283914/320/main.jpg
+name=T2;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Smartisan 2.0 (Android 4.4.2 KitKat)
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/67c83609
+imageUrl=https://www.devicespecifications.com/images/model/67c83609/320/main.jpg
+name=U1;
+
+Weight: 167 g
+SoC: Qualcomm Snapdragon 801 MSM8274AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Display: 4.95 in, JDI IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2570 mAh, Li-Polymer
+OS: Smartisan OS (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/a2522cc9
+imageUrl=https://www.devicespecifications.com/images/model/a2522cc9/320/main.jpg
+name=T1;
+

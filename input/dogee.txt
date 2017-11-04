@@ -1,0 +1,77 @@
+BL12000	https://www.devicespecifications.com/en/model/92a34673
+Mix 2	https://www.devicespecifications.com/en/model/be2945bb
+Mix Lite	https://www.devicespecifications.com/en/model/87fb454f
+S30	https://www.devicespecifications.com/en/model/8324454b
+BL7000	https://www.devicespecifications.com/en/model/d1c144eb
+S60	https://www.devicespecifications.com/en/model/7fbc44e2
+X30L	https://www.devicespecifications.com/en/model/751a44bd
+X20L	https://www.devicespecifications.com/en/model/e43344bc
+X20	https://www.devicespecifications.com/en/model/b6d244bb
+BL5000	https://www.devicespecifications.com/en/model/7ae14488
+X30	https://www.devicespecifications.com/en/model/67ad43e0
+Mix	https://www.devicespecifications.com/en/model/396642ca
+X10	https://www.devicespecifications.com/en/model/41ca42a2
+Shoot 2	https://www.devicespecifications.com/en/model/8be641c0
+Shoot 1	https://www.devicespecifications.com/en/model/18e34024
+X9 Mini	https://www.devicespecifications.com/en/model/75f23f94
+T5S	https://www.devicespecifications.com/en/model/5ec23f76
+Y6 Max 3D	https://www.devicespecifications.com/en/model/c0833f75
+Y6 Max	https://www.devicespecifications.com/en/model/fb253f74
+X9 Pro	https://www.devicespecifications.com/en/model/6cd23f60
+Y6 Piano Black	https://www.devicespecifications.com/en/model/88d14150
+Y6	https://www.devicespecifications.com/en/model/98353eeb
+Y6c	https://www.devicespecifications.com/en/model/b55f417a
+X7	https://www.devicespecifications.com/en/model/c53d3e9d
+X7 Pro	https://www.devicespecifications.com/en/model/7f7b3e8b
+T5 Lite	https://www.devicespecifications.com/en/model/b8363e56
+T5	https://www.devicespecifications.com/en/model/276d3dc7
+X5 Max Pro	https://www.devicespecifications.com/en/model/66853cab
+T3	https://www.devicespecifications.com/en/model/bbce3c92
+T6 Pro	https://www.devicespecifications.com/en/model/5b6c3c83
+X5 Max	https://www.devicespecifications.com/en/model/4b923bcb
+F7 Pro	https://www.devicespecifications.com/en/model/d5003a61
+F7	https://www.devicespecifications.com/en/model/b7c93982
+X3	https://www.devicespecifications.com/en/model/5835387a
+DG320	https://www.devicespecifications.com/en/model/91ec3879
+X6 Pro	https://www.devicespecifications.com/en/model/e75937eb
+Y300	https://www.devicespecifications.com/en/model/40683aa7
+T6	https://www.devicespecifications.com/en/model/fb273756
+Y200	https://www.devicespecifications.com/en/model/48d63755
+Valencia 2 Y100 Plus	https://www.devicespecifications.com/en/model/3bd736e3
+X5S	https://www.devicespecifications.com/en/model/96a239d1
+X6	https://www.devicespecifications.com/en/model/9b06378c
+F5	https://www.devicespecifications.com/en/model/5a9e3669
+X5 Pro	https://www.devicespecifications.com/en/model/4d963668
+X5	https://www.devicespecifications.com/en/model/606e358f
+F3 Pro	https://www.devicespecifications.com/en/model/d14f352f
+F3	https://www.devicespecifications.com/en/model/447e3532
+Nova Y100X	https://www.devicespecifications.com/en/model/20dd34b3
+Valencia 2 Y100 Pro	https://www.devicespecifications.com/en/model/0b2f3445
+Valencia 2 Y100	https://www.devicespecifications.com/en/model/c8be33d2
+Ibiza F2	https://www.devicespecifications.com/en/model/b8d53304
+Iron Bone DG750	https://www.devicespecifications.com/en/model/832532aa
+Turbo mini F1	https://www.devicespecifications.com/en/model/d6153248
+Leo DG280	https://www.devicespecifications.com/en/model/ef313111
+Titans2 DG700	https://www.devicespecifications.com/en/model/42ca30da
+Hitman DG850	https://www.devicespecifications.com/en/model/ac5a3059
+Turbo 2 DG900	https://www.devicespecifications.com/en/model/d9f82f6c
+Kissme DG580	https://www.devicespecifications.com/en/model/90ea2e93
+Voyager2 DG310	https://www.devicespecifications.com/en/model/26ef2e0c
+Mint DG330	https://www.devicespecifications.com/en/model/36c82cfa
+Latte DG450	https://www.devicespecifications.com/en/model/fe342c42
+Max DG650S	https://www.devicespecifications.com/en/model/909a2c41
+Valencia DG800	https://www.devicespecifications.com/en/model/c3f22c40
+Dagger DG550	https://www.devicespecifications.com/en/model/a8f52c3f
+DG-Phablet DG685	https://www.devicespecifications.com/en/model/a08c2c43
+Collo 3 DG110	https://www.devicespecifications.com/en/model/a0bf2c4a
+Find DG510	https://www.devicespecifications.com/en/model/17c52c56
+Pixels DG350	https://www.devicespecifications.com/en/model/59d72c5c
+Titans DG150	https://www.devicespecifications.com/en/model/98302c7a
+Discovery DG500C	https://www.devicespecifications.com/en/model/814b2c57
+Turbo DG2014	https://www.devicespecifications.com/en/model/c9ba2c87
+Rainbow DG210	https://www.devicespecifications.com/en/model/cb9e2c89
+Bigboy DG600	https://www.devicespecifications.com/en/model/3f4b2c99
+Max DG650	https://www.devicespecifications.com/en/model/45512cf3
+Moon DG130	https://www.devicespecifications.com/en/model/e7be2c98
+Hotwind DG200	https://www.devicespecifications.com/en/model/38022d21
+Collo DG100	https://www.devicespecifications.com/en/model/bb9b2d20

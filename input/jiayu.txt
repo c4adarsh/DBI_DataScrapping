@@ -1,0 +1,20 @@
+S3+	https://www.devicespecifications.com/en/model/1681383a
+F2	https://www.devicespecifications.com/en/model/342f325e
+S3	https://www.devicespecifications.com/en/model/e54a3134
+G5C	https://www.devicespecifications.com/en/model/c3892ee8
+G3C	https://www.devicespecifications.com/en/model/52292c37
+G4C	https://www.devicespecifications.com/en/model/1c2e2c35
+G4S	https://www.devicespecifications.com/en/model/5f7e2c34
+G5S	https://www.devicespecifications.com/en/model/68d22c36
+G6 32 GB	https://www.devicespecifications.com/en/model/526c2b8f
+G6 16 GB	https://www.devicespecifications.com/en/model/9c2a2b94
+F1	https://www.devicespecifications.com/en/model/44622c01
+S2 32 GB	https://www.devicespecifications.com/en/model/4bf92b87
+S2 16 GB	https://www.devicespecifications.com/en/model/0aa72b93
+S2 Basic	https://www.devicespecifications.com/en/model/c9692b8a
+G2F	https://www.devicespecifications.com/en/model/b1eb38f0
+G2F TD	https://www.devicespecifications.com/en/model/b4982b88
+S1	https://www.devicespecifications.com/en/model/c38b2b89
+G4 Advanced	https://www.devicespecifications.com/en/model/8ece2b8d
+G5 Advanced	https://www.devicespecifications.com/en/model/65ca2b8b
+G3S	https://www.devicespecifications.com/en/model/628c2b8c

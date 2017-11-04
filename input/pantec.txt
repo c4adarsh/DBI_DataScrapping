@@ -1,0 +1,16 @@
+IM-100	https://www.devicespecifications.com/en/model/3d6b3cc6
+V955	https://www.devicespecifications.com/en/model/33a83ab1
+V950	https://www.devicespecifications.com/en/model/d7113ab0
+Vega Pop Up Note	https://www.devicespecifications.com/en/model/258f2ea2
+Vega Iron 2	https://www.devicespecifications.com/en/model/9fed2b69
+Vega Secret Up	https://www.devicespecifications.com/en/model/91822a33
+Vega Secret Note	https://www.devicespecifications.com/en/model/b59e2a35
+Vega LTE-A	https://www.devicespecifications.com/en/model/662229fd
+Perception	https://www.devicespecifications.com/en/model/1e7129f8
+Vega Iron	https://www.devicespecifications.com/en/model/39bc29f7
+Vega No 6	https://www.devicespecifications.com/en/model/a50a29f5
+Discover	https://www.devicespecifications.com/en/model/330029f6
+Vega PTL21	https://www.devicespecifications.com/en/model/a36029fe
+Vega R3	https://www.devicespecifications.com/en/model/92c329f9
+Flex	https://www.devicespecifications.com/en/model/f40229fa
+Renue	https://www.devicespecifications.com/en/model/1b7d29ff

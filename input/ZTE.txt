@@ -1,0 +1,233 @@
+Blade A3 (2017)	https://www.devicespecifications.com/en/model/bd6a46a0
+Blade X	https://www.devicespecifications.com/en/model/5251466b
+Axon M	https://www.devicespecifications.com/en/model/08ea4669
+Zpad 8	https://www.devicespecifications.com/en/model/26c64659
+Blade Force	https://www.devicespecifications.com/en/model/b84d4645
+Tough Max 2	https://www.devicespecifications.com/en/model/53c6463e
+Blade Vantage	https://www.devicespecifications.com/en/model/625e462b
+Prelude+	https://www.devicespecifications.com/en/model/9edc461b
+Tempo X	https://www.devicespecifications.com/en/model/956d45e2
+Libero 2	https://www.devicespecifications.com/en/model/cd51459e
+Blade A2S	https://www.devicespecifications.com/en/model/9cb44586
+Maven 3	https://www.devicespecifications.com/en/model/b8a3454e
+Blade A521	https://www.devicespecifications.com/en/model/fe1c452e
+ZMax Pro Z982	https://www.devicespecifications.com/en/model/68bf4511
+Grand X View 2	https://www.devicespecifications.com/en/model/d1b14468
+Blade Spark	https://www.devicespecifications.com/en/model/3567443e
+Small Fresh 5	https://www.devicespecifications.com/en/model/c14d4407
+V870	https://www.devicespecifications.com/en/model/8a3d43ad
+Max Blue LTE	https://www.devicespecifications.com/en/model/448445cd
+Blade L7	https://www.devicespecifications.com/en/model/bbba449e
+Jasper LTE	https://www.devicespecifications.com/en/model/f1124353
+Majesty Pro	https://www.devicespecifications.com/en/model/8dd24347
+ZFive 2 LTE	https://www.devicespecifications.com/en/model/ea0e4346
+Blade X Max	https://www.devicespecifications.com/en/model/c5564331
+Max XL	https://www.devicespecifications.com/en/model/77a642d6
+Axon 7s	https://www.devicespecifications.com/en/model/543342d0
+Avid 916	https://www.devicespecifications.com/en/model/1756445e
+ZMax Grand LTE	https://www.devicespecifications.com/en/model/617842c8
+Blade Max 3	https://www.devicespecifications.com/en/model/d7d742c7
+ZMax Champ	https://www.devicespecifications.com/en/model/534342c1
+ZFive L LTE	https://www.devicespecifications.com/en/model/83e142bc
+Prestige 2	https://www.devicespecifications.com/en/model/4a3a426c
+Blade A602	https://www.devicespecifications.com/en/model/f5224267
+Blade A612	https://www.devicespecifications.com/en/model/29d2421b
+Blade A520	https://www.devicespecifications.com/en/model/efa141be
+Blade V8 Lite	https://www.devicespecifications.com/en/model/1c6541b2
+Blade V8 Mini	https://www.devicespecifications.com/en/model/39f041b1
+Hawkeye	https://www.devicespecifications.com/en/model/ad9a40d9
+Blade V8	https://www.devicespecifications.com/en/model/731f40a5
+Blade V8 Pro	https://www.devicespecifications.com/en/model/81a24099
+Blade V7 Plus	https://www.devicespecifications.com/en/model/87ab4442
+Blade A610 Plus	https://www.devicespecifications.com/en/model/9007400c
+Voyage 4S	https://www.devicespecifications.com/en/model/f484400d
+Blade Velocity	https://www.devicespecifications.com/en/model/b7a73ff4
+Avid Trio	https://www.devicespecifications.com/en/model/68993fda
+Axon 7 Premium	https://www.devicespecifications.com/en/model/5fa43fbc
+A610c	https://www.devicespecifications.com/en/model/9a9d3fb2
+Grand X 4	https://www.devicespecifications.com/en/model/9cd93fae
+Blade A210	https://www.devicespecifications.com/en/model/b2fd3fc6
+Cymbal-T	https://www.devicespecifications.com/en/model/08253f66
+Axon 7 Max	https://www.devicespecifications.com/en/model/83d83f4c
+Tempo	https://www.devicespecifications.com/en/model/ff393f3f
+A112	https://www.devicespecifications.com/en/model/c1f33f1c
+Blade A2 Plus	https://www.devicespecifications.com/en/model/6a9b3eac
+Warp 7	https://www.devicespecifications.com/en/model/11ad3e20
+Blade A512	https://www.devicespecifications.com/en/model/d3d73dc8
+Citrine LTE	https://www.devicespecifications.com/en/model/87713dbe
+Axon 7 mini	https://www.devicespecifications.com/en/model/8b593db2
+Blade A462	https://www.devicespecifications.com/en/model/365f3db0
+Maven 2	https://www.devicespecifications.com/en/model/fb653d5d
+ZMax Pro	https://www.devicespecifications.com/en/model/d7f43d46
+Sonata 3	https://www.devicespecifications.com/en/model/97833d43
+Small Fresh 4	https://www.devicespecifications.com/en/model/35273d3b
+Blade A910	https://www.devicespecifications.com/en/model/51f53d13
+Blade A506	https://www.devicespecifications.com/en/model/7a613dce
+Blade A515	https://www.devicespecifications.com/en/model/231d3d42
+Max Duo LTE	https://www.devicespecifications.com/en/model/1bc13fc7
+Blade A601	https://www.devicespecifications.com/en/model/a8253d37
+Blade L110	https://www.devicespecifications.com/en/model/6b5b3d02
+Blade A610	https://www.devicespecifications.com/en/model/da0e3db9
+Voyage 4	https://www.devicespecifications.com/en/model/31c43cb8
+Blade A310	https://www.devicespecifications.com/en/model/9e793cb7
+Blade E01	https://www.devicespecifications.com/en/model/4e773c9f
+Blade A2	https://www.devicespecifications.com/en/model/fbed3c74
+Blade A510	https://www.devicespecifications.com/en/model/44223cb1
+Axon 7	https://www.devicespecifications.com/en/model/fb3d3c3c
+Grand X Max 2	https://www.devicespecifications.com/en/model/01c03c26
+Imperial Max	https://www.devicespecifications.com/en/model/1a3b3c01
+Blade V7 Max	https://www.devicespecifications.com/en/model/8c963bb6
+Blade A813	https://www.devicespecifications.com/en/model/0c813ab7
+Blade D2	https://www.devicespecifications.com/en/model/e13d3a91
+Blade V7 Lite	https://www.devicespecifications.com/en/model/47fb3a52
+Blade V7	https://www.devicespecifications.com/en/model/9cbd3a51
+Blade L5	https://www.devicespecifications.com/en/model/afd93beb
+Blade L5 Plus	https://www.devicespecifications.com/en/model/4a7f3b9c
+Blade L6	https://www.devicespecifications.com/en/model/b1fc3b71
+Blade V580	https://www.devicespecifications.com/en/model/ab6e3a9b
+Blade V Plus	https://www.devicespecifications.com/en/model/643f39a9
+Blade D Lux	https://www.devicespecifications.com/en/model/78c8396e
+Avid Plus	https://www.devicespecifications.com/en/model/530b3943
+Grand X 3	https://www.devicespecifications.com/en/model/91123942
+Chat 4G	https://www.devicespecifications.com/en/model/4e093ab6
+Voyage 3	https://www.devicespecifications.com/en/model/bd7438f5
+Blade A1	https://www.devicespecifications.com/en/model/df3d3886
+Blade A475	https://www.devicespecifications.com/en/model/e94b3b74
+Blade A465	https://www.devicespecifications.com/en/model/04943b73
+Small Fresh 3	https://www.devicespecifications.com/en/model/476f3849
+Blade A570	https://www.devicespecifications.com/en/model/896838bb
+Blade X9	https://www.devicespecifications.com/en/model/3584382e
+Blade X5	https://www.devicespecifications.com/en/model/a73c382d
+Blade X3	https://www.devicespecifications.com/en/model/e0bf382c
+Axon Max	https://www.devicespecifications.com/en/model/4d9338d2
+Axon Mini Premium edition	https://www.devicespecifications.com/en/model/13ce389c
+Prestige	https://www.devicespecifications.com/en/model/698337fe
+Axon	https://www.devicespecifications.com/en/model/01803786
+Blade S7	https://www.devicespecifications.com/en/model/c8c2376d
+Blade V2	https://www.devicespecifications.com/en/model/8af63a40
+Grand X 2	https://www.devicespecifications.com/en/model/2a6c375c
+3C	https://www.devicespecifications.com/en/model/97ed3759
+Axon Mini	https://www.devicespecifications.com/en/model/e23f374b
+Atrium	https://www.devicespecifications.com/en/model/848c3d4c
+Blade A452	https://www.devicespecifications.com/en/model/a44f38ba
+ZMax 2	https://www.devicespecifications.com/en/model/b2d536e0
+Axon Elite	https://www.devicespecifications.com/en/model/350e3655
+Blade V6	https://www.devicespecifications.com/en/model/c56e3647
+Blade AF3	https://www.devicespecifications.com/en/model/fa963614
+Warp Elite	https://www.devicespecifications.com/en/model/930b35e4
+Obsidian	https://www.devicespecifications.com/en/model/7c9435a4
+Blade A410	https://www.devicespecifications.com/en/model/6e2f3c31
+V3 Youth	https://www.devicespecifications.com/en/model/966b3575
+V3 Energy	https://www.devicespecifications.com/en/model/a1613574
+V3 Extreme Edition	https://www.devicespecifications.com/en/model/0e7e3573
+Axon Lux	https://www.devicespecifications.com/en/model/16513549
+Blade D6	https://www.devicespecifications.com/en/model/d04a3527
+Axon Pro	https://www.devicespecifications.com/en/model/f3fc3522
+Blade A460	https://www.devicespecifications.com/en/model/0481388e
+Blade Apex3	https://www.devicespecifications.com/en/model/98d8387b
+Maven	https://www.devicespecifications.com/en/model/90fa34ca
+Sonata 2	https://www.devicespecifications.com/en/model/928d34c9
+Blade Q Lux 4G	https://www.devicespecifications.com/en/model/876f3479
+Lever	https://www.devicespecifications.com/en/model/91f1345c
+Overture 2	https://www.devicespecifications.com/en/model/e7f73451
+Q519T	https://www.devicespecifications.com/en/model/27403437
+Fanfare	https://www.devicespecifications.com/en/model/2547342c
+Zephyr	https://www.devicespecifications.com/en/model/76c433f7
+Paragon	https://www.devicespecifications.com/en/model/a34133f6
+B880	https://www.devicespecifications.com/en/model/7ee433da
+Blade A476	https://www.devicespecifications.com/en/model/c91e3a3f
+Blade L3 Plus	https://www.devicespecifications.com/en/model/ca9539dd
+Fit 4G	https://www.devicespecifications.com/en/model/05a433a9
+Blade V2 Lite	https://www.devicespecifications.com/en/model/15413a41
+Blade Q+	https://www.devicespecifications.com/en/model/64f6331b
+Blade A450	https://www.devicespecifications.com/en/model/6e2f3343
+Open L	https://www.devicespecifications.com/en/model/2c463300
+Grand S3	https://www.devicespecifications.com/en/model/88ef32b3
+Q7-C	https://www.devicespecifications.com/en/model/dbdf3303
+Blade L3	https://www.devicespecifications.com/en/model/476632ff
+Blade G V815W	https://www.devicespecifications.com/en/model/7bb632b4
+Q508U	https://www.devicespecifications.com/en/model/899e37d6
+Telstra Evolution T80	https://www.devicespecifications.com/en/model/c24833aa
+Blade A430	https://www.devicespecifications.com/en/model/3e7d35ad
+Q2S-T	https://www.devicespecifications.com/en/model/6d9c3495
+Blade S6 Plus	https://www.devicespecifications.com/en/model/7582337d
+Imperial II	https://www.devicespecifications.com/en/model/28d03367
+Blade S6 Lux	https://www.devicespecifications.com/en/model/eba0325f
+Blade S6	https://www.devicespecifications.com/en/model/e4fd3312
+Blade S6 TD-LTE	https://www.devicespecifications.com/en/model/b73e323f
+Grand X Max+	https://www.devicespecifications.com/en/model/953431c4
+G720T	https://www.devicespecifications.com/en/model/48f8325a
+Grand X Plus	https://www.devicespecifications.com/en/model/b38f31a9
+Speed	https://www.devicespecifications.com/en/model/a3a73197
+Star 2	https://www.devicespecifications.com/en/model/645d317e
+Grand S II CDMA	https://www.devicespecifications.com/en/model/67603135
+Prelude 2	https://www.devicespecifications.com/en/model/d9d830f5
+Blade Vec Pro	https://www.devicespecifications.com/en/model/daad307b
+Zinger	https://www.devicespecifications.com/en/model/40733086
+V5S	https://www.devicespecifications.com/en/model/97fd304c
+V5 Max	https://www.devicespecifications.com/en/model/2f10304b
+A880	https://www.devicespecifications.com/en/model/dcf43013
+Q802D	https://www.devicespecifications.com/en/model/884a3012
+Grand X Max	https://www.devicespecifications.com/en/model/172b2fed
+Rapido	https://www.devicespecifications.com/en/model/a8e33087
+Q805T	https://www.devicespecifications.com/en/model/238a2faf
+ZMax	https://www.devicespecifications.com/en/model/9b522f8b
+Blade Vec 3G	https://www.devicespecifications.com/en/model/7d2f2f4d
+Blade G Lux	https://www.devicespecifications.com/en/model/017430a1
+Compel	https://www.devicespecifications.com/en/model/189e2f35
+Warp Sync	https://www.devicespecifications.com/en/model/a3bd2f34
+Kis 3 Max	https://www.devicespecifications.com/en/model/466f2ee4
+Grand X Z777	https://www.devicespecifications.com/en/model/52d92eb5
+Prelude	https://www.devicespecifications.com/en/model/1f3030f4
+Blade Apex2	https://www.devicespecifications.com/en/model/e6442eeb
+Blade Vec 4G	https://www.devicespecifications.com/en/model/b9f72daa
+Grand S Pro	https://www.devicespecifications.com/en/model/75fa2d64
+Q505T	https://www.devicespecifications.com/en/model/0e022cf9
+Kis 3	https://www.devicespecifications.com/en/model/18b22ee3
+Concord II	https://www.devicespecifications.com/en/model/b35e2cad
+Star 1	https://www.devicespecifications.com/en/model/e2762c24
+V5 Red Bull 8 GB	https://www.devicespecifications.com/en/model/20e92bfd
+V5 Red Bull 4 GB	https://www.devicespecifications.com/en/model/85572bfe
+Q801U	https://www.devicespecifications.com/en/model/c7e12bdb
+Blade L2	https://www.devicespecifications.com/en/model/660f2b76
+Grand Memo II LTE	https://www.devicespecifications.com/en/model/05572b26
+Open C	https://www.devicespecifications.com/en/model/c2522b27
+Open II	https://www.devicespecifications.com/en/model/af6d2b28
+Unico	https://www.devicespecifications.com/en/model/04f33064
+Optik 2	https://www.devicespecifications.com/en/model/3b902ab1
+Boost Max	https://www.devicespecifications.com/en/model/567f2aab
+Sonata 4G	https://www.devicespecifications.com/en/model/12362a60
+Grand S II Dual	https://www.devicespecifications.com/en/model/9d512bcd
+Grand S II TD	https://www.devicespecifications.com/en/model/d4d82a5f
+Grand S II LTE	https://www.devicespecifications.com/en/model/b66b2a5e
+Solar	https://www.devicespecifications.com/en/model/f54a2aaa
+Grand S Flex	https://www.devicespecifications.com/en/model/dfd5294c
+Blade Q Maxi	https://www.devicespecifications.com/en/model/5a0d2942
+Blade Q	https://www.devicespecifications.com/en/model/edfc2941
+Blade Q Mini	https://www.devicespecifications.com/en/model/94062940
+U809	https://www.devicespecifications.com/en/model/fba039b5
+Warp 4G	https://www.devicespecifications.com/en/model/29aa2932
+Blade V	https://www.devicespecifications.com/en/model/1daa2931
+Grand Memo TD-LTE	https://www.devicespecifications.com/en/model/67bb2b0a
+Grand X Quad	https://www.devicespecifications.com/en/model/3a912930
+Vital	https://www.devicespecifications.com/en/model/329d27de
+Imperial	https://www.devicespecifications.com/en/model/883627dd
+Geek	https://www.devicespecifications.com/en/model/0bc827e3
+Geek U988S	https://www.devicespecifications.com/en/model/3dc12ab5
+Blade III Pro	https://www.devicespecifications.com/en/model/bcae27e2
+Director	https://www.devicespecifications.com/en/model/0ba527e0
+Blade G	https://www.devicespecifications.com/en/model/479b27dc
+Grand X Pro	https://www.devicespecifications.com/en/model/0a5327df
+Open	https://www.devicespecifications.com/en/model/0ac727e5
+Grand Memo	https://www.devicespecifications.com/en/model/b2f927e4
+Blade C	https://www.devicespecifications.com/en/model/1ea027e6
+Grand S	https://www.devicespecifications.com/en/model/4e5627e7
+Avid 4G	https://www.devicespecifications.com/en/model/ff1e27e1
+V889M	https://www.devicespecifications.com/en/model/f5f627e8
+V790	https://www.devicespecifications.com/en/model/0bce27ea
+V887	https://www.devicespecifications.com/en/model/132027e9
+Flash	https://www.devicespecifications.com/en/model/f51127ec
+Groove	https://www.devicespecifications.com/en/model/be9427eb
+Grand Era	https://www.devicespecifications.com/en/model/4b5827ef
+Anthem 4G	https://www.devicespecifications.com/en/model/f55a27ed
+Warp Sequent	https://www.devicespecifications.com/en/model/99c927ee

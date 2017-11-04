@@ -1,0 +1,322 @@
+Weight: 531 g
+SoC: RockChip RK3128
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 5500 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/72ef41fd
+imageUrl=https://www.devicespecifications.com/images/model/72ef41fd/320/main.jpg
+name=eXpro X4 Plus;
+
+Weight: 284 g
+SoC: Allwinner A33
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/100341fc/320/main.jpg
+name=eXpro X4;
+
+Weight: 120 g
+SoC: MediaTek MT6735M
+CPU: ARM Cortex-A53, 1000 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/18523ca1/320/main.jpg
+name=U4 mini;
+
+Weight: 350 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 1 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/093039fb/320/main.jpg
+name=WalknBook 2Mini;
+
+Weight: 850 g
+SoC: Allwinner A83T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR SGX544
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, TFT, 1024 x 600 pixels, 24 bit
+Battery: 5500 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8b6139fc/320/main.jpg
+name=eXpro X2Plus;
+
+Weight: 108 g
+SoC: MediaTek MT6582V/X
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1400 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c3a439b3/320/main.jpg
+name=U1 mini;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3ff338f1
+imageUrl=https://www.devicespecifications.com/images/model/3ff338f1/320/main.jpg
+name=V4;
+
+Weight: 191 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/502a3723
+imageUrl=https://www.devicespecifications.com/images/model/502a3723/320/main.jpg
+name=V3;
+
+SoC: MediaTek MT8312
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1024 x 600 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 640 x 480 pixels, 640 x 480 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/cdb33945
+imageUrl=https://www.devicespecifications.com/images/model/cdb33945/320/main.jpg
+name=eXpro X2;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2100 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f22d3724/320/main.jpg
+name=U2S;
+
+Weight: 128 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3fb33726/320/main.jpg
+name=V1S;
+
+Weight: 587 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 7800 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/e60f373e
+imageUrl=https://www.devicespecifications.com/images/model/e60f373e/320/main.jpg
+name=Walknbook;
+
+SoC: Allwinner A33
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 512 MB, 1333 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1024 x 600 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=https://www.devicespecifications.com/en/price/89023728
+imageUrl=https://www.devicespecifications.com/images/model/89023728/320/main.jpg
+name=eXpro X1;
+
+Weight: 513 g
+SoC: MediaTek MT8392
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2560 x 1920 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ce48373d/320/main.jpg
+name=P2;
+
+SoC: Allwinner A33
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 512 MB, 1333 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 9 in, TFT, 800 x 480 pixels, 24 bit
+Battery: 4800 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 640 x 480 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/343d3a9d/320/main.jpg
+name=eXpro X1 9";
+
+Weight: 166 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2350 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d1593a9c/320/main.jpg
+name=V1;
+
+Weight: 143 g
+SoC: MediaTek MT6582V/X
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/776d3725
+imageUrl=https://www.devicespecifications.com/images/model/776d3725/320/main.jpg
+name=U2;
+

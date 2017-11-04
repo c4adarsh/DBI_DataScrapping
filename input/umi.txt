@@ -1,0 +1,26 @@
+Z	https://www.devicespecifications.com/en/model/a36c4032
+Plus E	https://www.devicespecifications.com/en/model/75363f7d
+Diamond X	https://www.devicespecifications.com/en/model/be8a3f5d
+Diamond	https://www.devicespecifications.com/en/model/04d33f18
+Plus	https://www.devicespecifications.com/en/model/05103e4d
+Max	https://www.devicespecifications.com/en/model/8b953d95
+London	https://www.devicespecifications.com/en/model/fe873caa
+Super	https://www.devicespecifications.com/en/model/8c793c02
+Touch X	https://www.devicespecifications.com/en/model/cefc3b5e
+Touch	https://www.devicespecifications.com/en/model/994539d7
+Rome X	https://www.devicespecifications.com/en/model/c65a391f
+Rome	https://www.devicespecifications.com/en/model/14f33816
+Iron Pro	https://www.devicespecifications.com/en/model/b17837b4
+Fair	https://www.devicespecifications.com/en/model/6e4c36f6
+eMax mini	https://www.devicespecifications.com/en/model/5df6367a
+Hammer S	https://www.devicespecifications.com/en/model/8f37359e
+Iron	https://www.devicespecifications.com/en/model/46f534b5
+eMax	https://www.devicespecifications.com/en/model/5aef33fa
+Hammer	https://www.devicespecifications.com/en/model/5acc33cb
+Zero	https://www.devicespecifications.com/en/model/d9822fb5
+C1	https://www.devicespecifications.com/en/model/0f4e2ef2
+X1 Pro	https://www.devicespecifications.com/en/model/002f2bca
+X3	https://www.devicespecifications.com/en/model/6d732b6b
+X2S	https://www.devicespecifications.com/en/model/cf082b6a
+Cross	https://www.devicespecifications.com/en/model/5ca72b6c
+X2	https://www.devicespecifications.com/en/model/1f032b6d

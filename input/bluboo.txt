@@ -1,0 +1,27 @@
+S8	https://www.devicespecifications.com/en/model/b68644ad
+S1	https://www.devicespecifications.com/en/model/349243db
+R1	https://www.devicespecifications.com/en/model/babe42b9
+D1	https://www.devicespecifications.com/en/model/a3eb4266
+Dual	https://www.devicespecifications.com/en/model/40343fd4
+Edge	https://www.devicespecifications.com/en/model/40fb3f72
+Picasso 4G	https://www.devicespecifications.com/en/model/098a3f41
+Mini	https://www.devicespecifications.com/en/model/5b0f3f40
+Maya Max	https://www.devicespecifications.com/en/model/58683dba
+Maya	https://www.devicespecifications.com/en/model/02533ca0
+Picasso	https://www.devicespecifications.com/en/model/84293a8b
+Xfire 2	https://www.devicespecifications.com/en/model/eb71392e
+X9	https://www.devicespecifications.com/en/model/f859390f
+Xtouch	https://www.devicespecifications.com/en/model/7a0e377e
+Xfire	https://www.devicespecifications.com/en/model/3a27360f
+X550	https://www.devicespecifications.com/en/model/25ea33bf
+X9 Quad Core	https://www.devicespecifications.com/en/model/889230d7
+X3	https://www.devicespecifications.com/en/model/fd143074
+X6	https://www.devicespecifications.com/en/model/1192302b
+X8 4G	https://www.devicespecifications.com/en/model/9c91302a
+X4	https://www.devicespecifications.com/en/model/ee432dc9
+X8	https://www.devicespecifications.com/en/model/31f62d7c
+X2	https://www.devicespecifications.com/en/model/49462d74
+B311	https://www.devicespecifications.com/en/model/45692d7d
+X1	https://www.devicespecifications.com/en/model/03f32d75
+B9002	https://www.devicespecifications.com/en/model/00e42d7e
+N9002	https://www.devicespecifications.com/en/model/a0ac2d99

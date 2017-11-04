@@ -1,0 +1,4 @@
+V1	https://www.devicespecifications.com/en/model/5705419a
+M1	https://www.devicespecifications.com/en/model/472e4199
+King 7	https://www.devicespecifications.com/en/model/e862366e
+King 7S	https://www.devicespecifications.com/en/model/a609366d

@@ -1,0 +1,153 @@
+A9 Lite	https://www.devicespecifications.com/en/model/2f5a4681
+P9 Energy S	https://www.devicespecifications.com/en/model/c1c24680
+X4 Soul Vision	https://www.devicespecifications.com/en/model/58954674
+X4 Soul Infinity Plus	https://www.devicespecifications.com/en/model/69044611
+X4 Soul Infinity Z	https://www.devicespecifications.com/en/model/f6974610
+X4 Soul Infinity N	https://www.devicespecifications.com/en/model/af4d460f
+X4 Soul Infinity S	https://www.devicespecifications.com/en/model/a3aa460e
+X4 Soul Infinity L	https://www.devicespecifications.com/en/model/ad2d460d
+P42	https://www.devicespecifications.com/en/model/b69a4518
+X4 Soul mini S	https://www.devicespecifications.com/en/model/aa464470
+X4 Xtreme	https://www.devicespecifications.com/en/model/44024409
+X4 Soul Lite	https://www.devicespecifications.com/en/model/730443ec
+P9 Energy Lite 2017	https://www.devicespecifications.com/en/model/06f643c9
+Viva H1002 LTE	https://www.devicespecifications.com/en/model/50e7436f
+Viva H802 LTE	https://www.devicespecifications.com/en/model/3cc54348
+X4 Soul mini	https://www.devicespecifications.com/en/model/54ff42e2
+P4 Pro	https://www.devicespecifications.com/en/model/6f1e42c5
+P6 Energy Mini	https://www.devicespecifications.com/en/model/c75641f5
+X4 Soul Style	https://www.devicespecifications.com/en/model/91ed41c1
+X4 Soul	https://www.devicespecifications.com/en/model/c150413f
+A8 Lite	https://www.devicespecifications.com/en/model/77fe411c
+P8 Life	https://www.devicespecifications.com/en/model/511a40c5
+E3 Jump	https://www.devicespecifications.com/en/model/48113fdf
+P6 Plus	https://www.devicespecifications.com/en/model/e72b3f44
+V2 Viper Xe	https://www.devicespecifications.com/en/model/06933f2f
+V2 Viper S	https://www.devicespecifications.com/en/model/83fe3ef7
+P9 Energy Lite	https://www.devicespecifications.com/en/model/ba7f3eb2
+P9 Energy mini	https://www.devicespecifications.com/en/model/8a063eb1
+P9 Energy	https://www.devicespecifications.com/en/model/f4ad3eb0
+P7 Pro	https://www.devicespecifications.com/en/model/e3f93e9a
+P41 eMagic	https://www.devicespecifications.com/en/model/50993e27
+Viva H801LTE	https://www.devicespecifications.com/en/model/85ca3de0
+P5 Lite	https://www.devicespecifications.com/en/model/4cbf3dd2
+X3 Soul Plus	https://www.devicespecifications.com/en/model/b46f3d74
+P8 eMagic	https://www.devicespecifications.com/en/model/47703cf0
+X3 Soul Style	https://www.devicespecifications.com/en/model/b8283ce8
+X3 Soul Lite	https://www.devicespecifications.com/en/model/17003ce7
+AX501Q	https://www.devicespecifications.com/en/model/a3c83ce6
+P6 Energy Lite	https://www.devicespecifications.com/en/model/9e5c3caf
+Viva H1001 LTE	https://www.devicespecifications.com/en/model/f0863c6d
+A5 Ready	https://www.devicespecifications.com/en/model/5dcf3c28
+V2 Viper e	https://www.devicespecifications.com/en/model/804a3ba8
+V2 Viper i4G	https://www.devicespecifications.com/en/model/96ac3b43
+P6 Lite	https://www.devicespecifications.com/en/model/ba933b19
+Viva H801	https://www.devicespecifications.com/en/model/ce453b01
+P4 eMagic	https://www.devicespecifications.com/en/model/2c9d3ac2
+P5 eMagic	https://www.devicespecifications.com/en/model/7f513ac1
+P6 eMagic	https://www.devicespecifications.com/en/model/e1753aba
+P8 Energy Pro	https://www.devicespecifications.com/en/model/91093a74
+X3 Soul Pro	https://www.devicespecifications.com/en/model/8d1d3a73
+Viva i701G	https://www.devicespecifications.com/en/model/4ed53a0f
+X3 Soul mini	https://www.devicespecifications.com/en/model/e61a39e6
+X3 Soul	https://www.devicespecifications.com/en/model/010039cf
+P5 Pro	https://www.devicespecifications.com/en/model/300539d0
+P8 Energy mini	https://www.devicespecifications.com/en/model/7e58399f
+C6 Duo	https://www.devicespecifications.com/en/model/e3be38b1
+V2 Viper i	https://www.devicespecifications.com/en/model/9a2b3860
+Viva i10HD	https://www.devicespecifications.com/en/model/77b83829
+V2 Viper X+	https://www.devicespecifications.com/en/model/fc223828
+X2 Soul Style+	https://www.devicespecifications.com/en/model/5b8d3827
+X2 Soul Style	https://www.devicespecifications.com/en/model/6e223826
+Viva i7G	https://www.devicespecifications.com/en/model/80bc3802
+P6 Pro	https://www.devicespecifications.com/en/model/115437ea
+A7 Lite	https://www.devicespecifications.com/en/model/e4a837d2
+A6 Lite	https://www.devicespecifications.com/en/model/bb2137d1
+A5 Lite	https://www.devicespecifications.com/en/model/769137d0
+A6 Duo	https://www.devicespecifications.com/en/model/0a6c3745
+V2 Viper X	https://www.devicespecifications.com/en/model/8b133735
+V2 Viper	https://www.devicespecifications.com/en/model/54183734
+X2 Soul Lite	https://www.devicespecifications.com/en/model/38e8370f
+A5 Easy	https://www.devicespecifications.com/en/model/f7d736ee
+E4	https://www.devicespecifications.com/en/model/58ef36e8
+E4 Lite	https://www.devicespecifications.com/en/model/425336e7
+Viva C701	https://www.devicespecifications.com/en/model/f4803685
+P8 Energy	https://www.devicespecifications.com/en/model/39923660
+P5 Energy	https://www.devicespecifications.com/en/model/e821365f
+E3 Living	https://www.devicespecifications.com/en/model/db5535dd
+A5 Quad Plus	https://www.devicespecifications.com/en/model/903835dc
+WI10N Pro	https://www.devicespecifications.com/en/model/fc8634cf
+WI7 Android	https://www.devicespecifications.com/en/model/e2e234ce
+Viva H8 Life	https://www.devicespecifications.com/en/model/687634b1
+P6 QMax	https://www.devicespecifications.com/en/model/cbb0349a
+X2 Xtreme	https://www.devicespecifications.com/en/model/3d483485
+AX4 Nano Plus	https://www.devicespecifications.com/en/model/faa034b0
+Viva Q8 Pro	https://www.devicespecifications.com/en/model/ab2d3334
+E3 Sign	https://www.devicespecifications.com/en/model/a09b331f
+X2 Soul Pro	https://www.devicespecifications.com/en/model/17e53313
+E2 Jump	https://www.devicespecifications.com/en/model/e7ab328b
+V1 Viper L	https://www.devicespecifications.com/en/model/50463265
+Viva Q7 Satellite	https://www.devicespecifications.com/en/model/3f023266
+P6 Energy	https://www.devicespecifications.com/en/model/e40a3216
+V1 Viper i4G	https://www.devicespecifications.com/en/model/edf831ef
+P5 Life	https://www.devicespecifications.com/en/model/841233ab
+P4 Life	https://www.devicespecifications.com/en/model/3b3333ac
+C6 Quad 4G	https://www.devicespecifications.com/en/model/895f32c3
+Wi8G	https://www.devicespecifications.com/en/model/50f931a6
+Viva H10 LTE	https://www.devicespecifications.com/en/model/1d3231a5
+Viva H8 LTE	https://www.devicespecifications.com/en/model/dfdf31a4
+Viva H7 LTE	https://www.devicespecifications.com/en/model/ea1531a3
+Viva H7 Xtreme	https://www.devicespecifications.com/en/model/7ee030d2
+WI10N	https://www.devicespecifications.com/en/model/e0e730b2
+WI7	https://www.devicespecifications.com/en/model/090630b1
+X1 Xtreme mini	https://www.devicespecifications.com/en/model/385730b0
+AX5 Nano Q	https://www.devicespecifications.com/en/model/f69732c4
+X2 Soul Mini	https://www.devicespecifications.com/en/model/d16d304d
+Impera M	https://www.devicespecifications.com/en/model/35623018
+V1 Viper e	https://www.devicespecifications.com/en/model/73f93017
+X2 Twin	https://www.devicespecifications.com/en/model/bbb32eac
+WP i10G	https://www.devicespecifications.com/en/model/160a3019
+Viva H10HD	https://www.devicespecifications.com/en/model/ba812e3b
+Viva H8 Plus	https://www.devicespecifications.com/en/model/bcb12e39
+Viva i7	https://www.devicespecifications.com/en/model/ea002e3a
+P7 Seon	https://www.devicespecifications.com/en/model/44d52de9
+Viva i10G	https://www.devicespecifications.com/en/model/92582dd2
+Viva C7	https://www.devicespecifications.com/en/model/beb82ebc
+Viva H7 Life	https://www.devicespecifications.com/en/model/58042dd1
+Viva H7S	https://www.devicespecifications.com/en/model/f7b32dd0
+Viva H7	https://www.devicespecifications.com/en/model/43192e38
+Impera S	https://www.devicespecifications.com/en/model/1af72da0
+Impera I	https://www.devicespecifications.com/en/model/133f2da1
+Impera i8	https://www.devicespecifications.com/en/model/70fc2da2
+X2 Soul	https://www.devicespecifications.com/en/model/c15d2ce3
+A6 Quad	https://www.devicespecifications.com/en/model/304e2e6c
+V1 Viper i	https://www.devicespecifications.com/en/model/7b442ccf
+P6 Life	https://www.devicespecifications.com/en/model/12d02e6f
+C5 Smiley	https://www.devicespecifications.com/en/model/ed562e6e
+P7 Xtreme	https://www.devicespecifications.com/en/model/c9782c0f
+E2 Living	https://www.devicespecifications.com/en/model/e3772e6d
+Viva H10	https://www.devicespecifications.com/en/model/93be2d5c
+V1 Viper S4G	https://www.devicespecifications.com/en/model/adbb2fbf
+X1 Xtreme	https://www.devicespecifications.com/en/model/374c2ba4
+V1 Viper S	https://www.devicespecifications.com/en/model/17d12ba5
+Viva D8	https://www.devicespecifications.com/en/model/983f2ba6
+P6 Quad Plus	https://www.devicespecifications.com/en/model/0a9c2bb4
+A5 Quad	https://www.devicespecifications.com/en/model/a8232bb5
+Start M7	https://www.devicespecifications.com/en/model/989a2bb1
+AX4 Nano	https://www.devicespecifications.com/en/model/0df32ba7
+P5 Symbol	https://www.devicespecifications.com/en/model/4fca2bb9
+AX3 Party	https://www.devicespecifications.com/en/model/3c1a2ba8
+X1 Soul Mini	https://www.devicespecifications.com/en/model/91512bba
+Viva i8	https://www.devicespecifications.com/en/model/45b52ba9
+A4 Duo	https://www.devicespecifications.com/en/model/49e72bbc
+X1 Soul	https://www.devicespecifications.com/en/model/bdcc2bbb
+Viva Q7 Life	https://www.devicespecifications.com/en/model/1ad72baa
+3 Speed Quad HD	https://www.devicespecifications.com/en/model/b07f2bab
+City Life	https://www.devicespecifications.com/en/model/89312bac
+2 Speed Quad	https://www.devicespecifications.com/en/model/cc9c2bad
+City+	https://www.devicespecifications.com/en/model/7c4c2bae
+A5 Duo	https://www.devicespecifications.com/en/model/389e2bbd
+Viva H8	https://www.devicespecifications.com/en/model/90cc2baf
+H2 Qubo	https://www.devicespecifications.com/en/model/46ec2bbe
+Viva Q8	https://www.devicespecifications.com/en/model/224d2bb0
+V1 Viper	https://www.devicespecifications.com/en/model/48512bc1

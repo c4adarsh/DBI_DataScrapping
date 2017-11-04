@@ -1,0 +1,5 @@
+People G410	https://www.devicespecifications.com/en/model/db394039
+People G503	https://www.devicespecifications.com/en/model/05d5403a
+Style R407	https://www.devicespecifications.com/en/model/27fb4040
+People S502m 4G	https://www.devicespecifications.com/en/model/6e38404c
+People S555m 4G	https://www.devicespecifications.com/en/model/2a8f4041

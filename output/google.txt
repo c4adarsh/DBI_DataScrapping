@@ -1,0 +1,93 @@
+Weight: 175 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.35 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB, 128 GB
+Display: 6 in, P-OLED, 1440 x 2880 pixels, 24 bit
+Battery: 3520 mAh, Li-Ion
+OS: Android 8.0 Oreo
+Camera: 4032 x 3924 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/231a461a
+imageUrl=https://www.devicespecifications.com/images/model/231a461a/320/main.jpg
+name=Pixel 2 XL;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.35 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB, 128 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Ion
+OS: Android 8.0.0 Oreo
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/cd694619
+imageUrl=https://www.devicespecifications.com/images/model/cd694619/320/main.jpg
+name=Pixel 2;
+
+Weight: 168 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 128 GB
+Display: 5.5 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3450 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4048 x 3036 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a95e3ed6
+imageUrl=https://www.devicespecifications.com/images/model/a95e3ed6/320/main.jpg
+name=Pixel XL;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 128 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2770 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4048 x 3036 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/00dc3ed5
+imageUrl=https://www.devicespecifications.com/images/model/00dc3ed5/320/main.jpg
+name=Pixel;
+
+Weight: 517 g
+SoC: Nvidia Tegra X1
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x ARM Cortex-A53, Cores: 8
+GPU: Nvidia Maxwell, Cores: 256
+RAM: 3 GB
+Storage: 32 GB, 64 GB
+Display: 10.2 in, LCD, 2560 x 1800 pixels, 24 bit
+Battery: 9000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1    
+priceUrl=https://www.devicespecifications.com/en/price/bdc138a2
+imageUrl=https://www.devicespecifications.com/images/model/bdc138a2/320/main.jpg
+name=Pixel C;
+

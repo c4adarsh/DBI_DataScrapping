@@ -1,0 +1,929 @@
+Weight: 198 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2940 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/14da4431/320/main.jpg
+name=Torque G03;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8fd0439a/320/main.jpg
+name=Digno V;
+
+Weight: 142 g
+SoC: Qualcomm Snapdragon 425 MSM8917
+CPU: ARM Cortex-A53, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 308, 500 MHz
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a38e432d/320/main.jpg
+name=Digno G;
+
+Weight: 182 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 3.4 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, k, r, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/aa1541a0
+imageUrl=https://www.devicespecifications.com/images/model/aa1541a0/320/main.jpg
+name=Torque X01;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/82fe410e/320/main.jpg
+name=Digno W;
+
+Weight: 136 g
+SoC: Qualcomm Snapdragon 425 MSM8917
+CPU: ARM Cortex-A53, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 308, 500 MHz
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c0c640c0/320/main.jpg
+name=miraie f KYV39;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/81b240bf/320/main.jpg
+name=rafre KYV40;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/71413ffb/320/main.jpg
+name=Urbano V03;
+
+Weight: 230 g
+SoC: Qualcomm Snapdragon 617 MSM8952
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3240 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, k, r, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/da153e51
+imageUrl=https://www.devicespecifications.com/images/model/da153e51/320/main.jpg
+name=DuraForce Pro;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2160 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/5b8f3d3c
+imageUrl=https://www.devicespecifications.com/images/model/5b8f3d3c/320/main.jpg
+name=Hydro Shore;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/473c3bf2/320/main.jpg
+name=Digno F;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2160 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ce243b6b
+imageUrl=https://www.devicespecifications.com/images/model/ce243b6b/320/main.jpg
+name=Hydro Reach;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 2.6 in, TFT, 240 x 320 pixels
+Battery: 1500 mAh, Li-Ion
+OS: Proprietary Non-Touch
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, k, r, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/55453964/320/main.jpg
+name=DuraXE;
+
+Weight: 307 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3700 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/33493939
+imageUrl=https://www.devicespecifications.com/images/model/33493939/320/main.jpg
+name=DuraForce XD;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 210 MSM8909
+CPU: ARM Cortex-A7, 1100 MHz, Cores: 4
+GPU: Qualcomm Adreno 304, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2160 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/19bb3935
+imageUrl=https://www.devicespecifications.com/images/model/19bb3935/320/main.jpg
+name=Hydro View;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/52963884/320/main.jpg
+name=Digno rafre;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/771c377d
+imageUrl=https://www.devicespecifications.com/images/model/771c377d/320/main.jpg
+name=Hydro Air;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/073e3548
+imageUrl=https://www.devicespecifications.com/images/model/073e3548/320/main.jpg
+name=Hydro Wave;
+
+Weight: 298 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, TFT, 1920 x 1200 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2482340c/320/main.jpg
+name=Qua tab 01;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2200 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3824340b/320/main.jpg
+name=Urbano V02;
+
+Weight: 203 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, IGZO, 720 x 1280 pixels, 24 bit
+Battery: 2910 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1088 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5f78340a/320/main.jpg
+name=Torque G02;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/497b3340/320/main.jpg
+name=S301;
+
+Weight: 187 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c10f32b2/320/main.jpg
+name=DuraScout;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ede332a1/320/main.jpg
+name=Digno U;
+
+Weight: 182 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/387e3280/320/main.jpg
+name=Torque KC-S701;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 2020 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f3ce3215
+imageUrl=https://www.devicespecifications.com/images/model/f3ce3215/320/main.jpg
+name=Infobar A03;
+
+Weight: 152 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b4843211/320/main.jpg
+name=Basio KYV32;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7bf43210/320/main.jpg
+name=miraie KYL23;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4de83191/320/main.jpg
+name=Luce;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon S1 QSD8650
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1020 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels, 640 x 480 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a46630ae/320/main.jpg
+name=Marvera 2;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e5b3309d/320/main.jpg
+name=Urbano V01;
+
+Weight: 200 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/42273083
+imageUrl=https://www.devicespecifications.com/images/model/42273083/320/main.jpg
+name=DuraForce;
+
+Weight: 168 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 20 GB
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/56e23040/320/main.jpg
+name=Torque XT;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/236c2f72/320/main.jpg
+name=Digno T;
+
+Weight: 136 g
+SoC: Qualcomm Snapdragon 200 MSM8212
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 302
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2594 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/05d92e85
+imageUrl=https://www.devicespecifications.com/images/model/05d92e85/320/main.jpg
+name=Hydro Life;
+
+Weight: 190 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/63052e5e
+imageUrl=https://www.devicespecifications.com/images/model/63052e5e/320/main.jpg
+name=Brigadier;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d4cc2d67/320/main.jpg
+name=Hydro Icon;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1.5 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6b4a2c75
+imageUrl=https://www.devicespecifications.com/images/model/6b4a2c75/320/main.jpg
+name=Hydro Vibe;
+
+Weight: 171 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1.5 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2520 mAh, Li-Ion
+OS: Android 4.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e4532aa9/320/main.jpg
+name=Torque SKT01;
+
+Weight: 118 g
+SoC: Qualcomm Snapdragon S2 MSM8655
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB
+Storage: 2 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, IPS, 320 x 480 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels, 800 x 480 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/85c12a91/320/main.jpg
+name=Hydro Plus;
+
+Weight: 128 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1.5 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2100 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/88a429ad
+imageUrl=https://www.devicespecifications.com/images/model/88a429ad/320/main.jpg
+name=Hydro Elite;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/80c729ae
+imageUrl=https://www.devicespecifications.com/images/model/80c729ae/320/main.jpg
+name=Hydro XTRM;
+
+Weight: 127 g
+SoC: Qualcomm Snapdragon S4 Play MSM8625
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 2
+GPU: Qualcomm Adreno 203
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2560 x 1920 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/02c829b5
+imageUrl=https://www.devicespecifications.com/images/model/02c829b5/320/main.jpg
+name=Hydro Edge;
+
+Weight: 168 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/27a329af
+imageUrl=https://www.devicespecifications.com/images/model/27a329af/320/main.jpg
+name=Torque;
+
+Weight: 120 g
+SoC: Qualcomm Snapdragon S2 MSM8655
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 2 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, IPS, 320 x 480 pixels
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d70029b2/320/main.jpg
+name=Hydro;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon S2 MSM8655
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 2 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, IPS, 320 x 480 pixels
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels, 800 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6a1f29b3
+imageUrl=https://www.devicespecifications.com/images/model/6a1f29b3/320/main.jpg
+name=Rise;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon S1 MSM7627
+CPU: ARM11, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 512 MB
+Memory cards: microSD, microSDHC
+Display: 3 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1490 mAh, Li-Ion
+OS: Android 2.3 Gingerbread
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/aa2e29b4
+imageUrl=https://www.devicespecifications.com/images/model/aa2e29b4/320/main.jpg
+name=Milano;
+

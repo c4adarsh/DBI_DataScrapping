@@ -1,0 +1,11 @@
+X9	https://www.devicespecifications.com/en/model/331d33ae
+M6752	https://www.devicespecifications.com/en/model/5a3531d9
+X1	https://www.devicespecifications.com/en/model/4b86332c
+X8 mini Pro	https://www.devicespecifications.com/en/model/a90f2dff
+X8 mini	https://www.devicespecifications.com/en/model/08d92de1
+X7S-T	https://www.devicespecifications.com/en/model/8c3f2de0
+X8	https://www.devicespecifications.com/en/model/38be2bf2
+G7	https://www.devicespecifications.com/en/model/2a2a2aeb
+X7s Elite	https://www.devicespecifications.com/en/model/69172ae8
+X7 Turbo	https://www.devicespecifications.com/en/model/24562aea
+X7 HD	https://www.devicespecifications.com/en/model/d1b22ae9

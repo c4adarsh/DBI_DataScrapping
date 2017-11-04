@@ -1,0 +1,136 @@
+Weight: 241 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3220 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/782f4103/320/main.jpg
+name=Constellation (2017);
+
+Weight: 193 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 64 GB
+Display: 4.7 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 2275 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 4160 x 2340 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/18323cee/320/main.jpg
+name=Aster Chevron;
+
+Weight: 236 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 1.8 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3160 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/642136ef/320/main.jpg
+name=New Signature Touch;
+
+Weight: 193 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 64 GB
+Display: 4.7 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 2275 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4160 x 2340 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/40772fb4/320/main.jpg
+name=Aster;
+
+Weight: 192 g
+SoC: Qualcomm Snapdragon 800 MSM8974AB v2
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 550 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 64 GB
+Display: 4.7 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 2275 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/6e002d2c
+imageUrl=https://www.devicespecifications.com/images/model/6e002d2c/320/main.jpg
+name=Signature Touch;
+
+Weight: 179 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8260A Pro
+CPU: Krait 300, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 1 GB, 500 MHz
+Storage: 32 GB
+Display: 4.3 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/25fd2d4f/320/main.jpg
+name=Constellation 2013;
+
+Weight: 187 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8260A
+CPU: Krait, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 3.7 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1250 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3280 x 2464 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/43812d68/320/main.jpg
+name=Ti;
+

@@ -1,0 +1,10 @@
+X2	https://www.devicespecifications.com/en/model/5b5a451d
+X5	https://www.devicespecifications.com/en/model/81b541fe
+Victor S	https://www.devicespecifications.com/en/model/433a4178
+Victor	https://www.devicespecifications.com/en/model/20893e16
+i5800C	https://www.devicespecifications.com/en/model/dd603491
+i6800	https://www.devicespecifications.com/en/model/08cf3380
+i5800	https://www.devicespecifications.com/en/model/53a2337f
+i8800	https://www.devicespecifications.com/en/model/c1103281
+i6	https://www.devicespecifications.com/en/model/871f30dc
+i3	https://www.devicespecifications.com/en/model/564930db

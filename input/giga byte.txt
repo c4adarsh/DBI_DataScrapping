@@ -1,0 +1,37 @@
+GSmart Classic LTE	https://www.devicespecifications.com/en/model/c0ef3d39
+GSmart Classic Joy	https://www.devicespecifications.com/en/model/82cd3d76
+GSmart Elite	https://www.devicespecifications.com/en/model/86523c5e
+GSmart Classic Pro	https://www.devicespecifications.com/en/model/bf0039e4
+Essence 4	https://www.devicespecifications.com/en/model/a0f03797
+GSmart Classic Lite	https://www.devicespecifications.com/en/model/e8a33796
+GSmart Essence	https://www.devicespecifications.com/en/model/c8bb36c8
+GSmart Classic	https://www.devicespecifications.com/en/model/a64336c7
+GSmart Roma RX	https://www.devicespecifications.com/en/model/603e3246
+GSmart Mika MX	https://www.devicespecifications.com/en/model/cb9a3241
+GSmart Guru GX	https://www.devicespecifications.com/en/model/99863198
+GSmart Akta A4	https://www.devicespecifications.com/en/model/2c9130f1
+GSmart Mika M3	https://www.devicespecifications.com/en/model/afff3075
+GSmart Guru (White Edition)	https://www.devicespecifications.com/en/model/e0642f93
+GSmart Roma R2 (Plus Edition)	https://www.devicespecifications.com/en/model/c79b2f73
+GSmart Arty A3	https://www.devicespecifications.com/en/model/30022f23
+GSmart GX2	https://www.devicespecifications.com/en/model/b2872f19
+GSmart T4 (Lite Edition)	https://www.devicespecifications.com/en/model/11a42f94
+GSmart Mika M2	https://www.devicespecifications.com/en/model/c4e22f1d
+GSmart T4	https://www.devicespecifications.com/en/model/d72f2c50
+GSmart Saga S3	https://www.devicespecifications.com/en/model/460f2c4f
+GSmart Rey R3	https://www.devicespecifications.com/en/model/bb922b81
+GSmart Alto A2	https://www.devicespecifications.com/en/model/3fa929e3
+GSmart Guru	https://www.devicespecifications.com/en/model/7a7029e1
+GSmart Roma R2	https://www.devicespecifications.com/en/model/b6c629e4
+GSmart Aku A1	https://www.devicespecifications.com/en/model/3f4f29e5
+GSmart Tuku T2	https://www.devicespecifications.com/en/model/0e5029e6
+GSmart Maya M1 v2	https://www.devicespecifications.com/en/model/b06829e7
+GSmart Sierra S1	https://www.devicespecifications.com/en/model/921f29e8
+GSmart Simba SX1	https://www.devicespecifications.com/en/model/e9d029e9
+GSmart Maya M1	https://www.devicespecifications.com/en/model/25af29ea
+GSmart Rio R1	https://www.devicespecifications.com/en/model/e11a29eb
+GSmart GS202	https://www.devicespecifications.com/en/model/57f329ec
+GSmart G1362	https://www.devicespecifications.com/en/model/a9e029ed
+GSmart G1355	https://www.devicespecifications.com/en/model/4dad29ee
+GSmart G1342	https://www.devicespecifications.com/en/model/d02029f0
+GSmart G1345	https://www.devicespecifications.com/en/model/119829ef

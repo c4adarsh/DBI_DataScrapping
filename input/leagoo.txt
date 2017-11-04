@@ -1,0 +1,51 @@
+Z6	https://www.devicespecifications.com/en/model/5ae9469b
+P1 Pro	https://www.devicespecifications.com/en/model/1ac84696
+S8 Pro	https://www.devicespecifications.com/en/model/92984615
+S8	https://www.devicespecifications.com/en/model/da7945f7
+P1	https://www.devicespecifications.com/en/model/d7ad45a5
+KIICAA MIX	https://www.devicespecifications.com/en/model/650f44cd
+KIICAA Power	https://www.devicespecifications.com/en/model/f40c4445
+T5s	https://www.devicespecifications.com/en/model/6d9b43f7
+T5	https://www.devicespecifications.com/en/model/13b543f6
+M7	https://www.devicespecifications.com/en/model/8b7042c4
+M5 Edge	https://www.devicespecifications.com/en/model/ab5f4246
+Shark 5000	https://www.devicespecifications.com/en/model/a6f641e6
+M8 Pro	https://www.devicespecifications.com/en/model/35c541a1
+Z5C	https://www.devicespecifications.com/en/model/f4d040d6
+Z3C	https://www.devicespecifications.com/en/model/72cb407e
+Leapad 7	https://www.devicespecifications.com/en/model/eb0c3fdb
+M8	https://www.devicespecifications.com/en/model/55983fbf
+T10	https://www.devicespecifications.com/en/model/d7fa3fb0
+M5 Plus	https://www.devicespecifications.com/en/model/30fc3ef5
+Venture 1	https://www.devicespecifications.com/en/model/53153e59
+Z1[8GB]	https://www.devicespecifications.com/en/model/15ba3de3
+T1	https://www.devicespecifications.com/en/model/a1933d99
+T1 Plus	https://www.devicespecifications.com/en/model/6c893d7c
+M5	https://www.devicespecifications.com/en/model/fcd73d0a
+Z5 LTE	https://www.devicespecifications.com/en/model/24663de4
+Z5	https://www.devicespecifications.com/en/model/51673c34
+Z1	https://www.devicespecifications.com/en/model/980d3bc1
+Shark 1	https://www.devicespecifications.com/en/model/5cfd39e5
+Elite Y	https://www.devicespecifications.com/en/model/46e839a1
+Alfa 2	https://www.devicespecifications.com/en/model/6a0d395b
+Elite 8	https://www.devicespecifications.com/en/model/875a392c
+Elite 6	https://www.devicespecifications.com/en/model/4c8a392b
+Alfa 1	https://www.devicespecifications.com/en/model/7d293905
+Lead 6	https://www.devicespecifications.com/en/model/9be738fc
+Alfa 6	https://www.devicespecifications.com/en/model/198437f0
+Alfa 4	https://www.devicespecifications.com/en/model/30f637ef
+Alfa 5	https://www.devicespecifications.com/en/model/eb2737ee
+Elite 4	https://www.devicespecifications.com/en/model/f5b63602
+Elite 1	https://www.devicespecifications.com/en/model/6bff3601
+Elite 5	https://www.devicespecifications.com/en/model/58d635ab
+Elite 3	https://www.devicespecifications.com/en/model/24173398
+Lead 2s	https://www.devicespecifications.com/en/model/9fdf3332
+Lead 1i	https://www.devicespecifications.com/en/model/140b3331
+Elite 2	https://www.devicespecifications.com/en/model/311c3219
+Lead 7	https://www.devicespecifications.com/en/model/a7763218
+Lead 5	https://www.devicespecifications.com/en/model/f99a2fbd
+Lead 3S	https://www.devicespecifications.com/en/model/7f602fb2
+Lead 4	https://www.devicespecifications.com/en/model/7d112fb3
+Lead 2	https://www.devicespecifications.com/en/model/47e42ed1
+Lead 3	https://www.devicespecifications.com/en/model/f1eb2e34
+Lead 1	https://www.devicespecifications.com/en/model/48872e33

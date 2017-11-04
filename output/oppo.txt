@@ -1,0 +1,1370 @@
+Weight: 182 g
+SoC: Qualcomm Snapdragon 660 MSM8976 Plus
+CPU: 4x 2.2 GHz Kryo, 4x 1.84 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 512
+RAM: 6 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.43 in, AMOLED, 1080 x 2160 pixels, 24 bit
+Battery: 3205 mAh, Li-Polymer
+OS: ColorOS 3.2 (Android 7.1.1 Nougat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/52c446b3/320/main.jpg
+name=R11s Plus;
+
+Weight: 153 g
+SoC: Qualcomm Snapdragon 660 MSM8976 Plus
+CPU: 4x 2.2 GHz Kryo, 4x 1.84 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 512
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.01 in, AMOLED, 1080 x 2160 pixels, 24 bit
+Battery: 3205 mAh, Li-Polymer
+OS: ColorOS 3.2 (Android 7.1.1 Nougat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6a22468f/320/main.jpg
+name=R11s;
+
+Weight: 152 g
+SoC: MediaTek Helio P23 (MT6763T)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-G71 MP2, 950 MHz, Cores: 2
+RAM: 4 GB, 6 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 2160 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: ColorOS 3.2 (Android 7.1.1 Nougat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/60904695
+imageUrl=https://www.devicespecifications.com/images/model/60904695/320/main.jpg
+name=F5;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon 653 MSM8976 Pro
+CPU: 4x 1.95 GHz ARM Cortex-A72, 4x 1.44 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b5ca463c/320/main.jpg
+name=R9S Pro;
+
+Weight: 137 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 3 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: ColorOS 3.1 (Android 7.1 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bcde4582
+imageUrl=https://www.devicespecifications.com/images/model/bcde4582/320/main.jpg
+name=A71;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: ColorOS 3.1 (Android 7.1 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d9ef4489/320/main.jpg
+name=A77 MSM8953;
+
+Weight: 188 g
+SoC: Qualcomm Snapdragon 660 MSM8976 Plus
+CPU: 4x 2.2 GHz Kryo, 4x 1.84 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 512
+RAM: 6 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3880 mAh, Li-Polymer
+OS: ColorOS 3.1 (Android 7.1.1 Nougat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/698c43ca
+imageUrl=https://www.devicespecifications.com/images/model/698c43ca/320/main.jpg
+name=R11 Plus;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 660 MSM8976 Plus
+CPU: 4x 2.2 GHz Kryo, 4x 1.84 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 512
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: ColorOS 3.1 (Android 7.1.1 Nougat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1b8d43b0
+imageUrl=https://www.devicespecifications.com/images/model/1b8d43b0/320/main.jpg
+name=R11;
+
+Weight: 153 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/65fd4344
+imageUrl=https://www.devicespecifications.com/images/model/65fd4344/320/main.jpg
+name=A77;
+
+Weight: 153 g
+SoC: MediaTek MT6750T
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 650 MHz, Cores: 2
+RAM: 4 GB, 833 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9be142f8/320/main.jpg
+name=F3;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon 653 MSM8976 Pro
+CPU: 4x 1.95 GHz ARM Cortex-A72, 4x 1.44 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/e16e4233
+imageUrl=https://www.devicespecifications.com/images/model/e16e4233/320/main.jpg
+name=F3 Plus;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon 435 MSM8940
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2900 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/2f4f3fd2
+imageUrl=https://www.devicespecifications.com/images/model/2f4f3fd2/320/main.jpg
+name=A57;
+
+Weight: 147 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 3 GB, 667 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ede43f4d/320/main.jpg
+name=A39;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon 653 MSM8976 Pro
+CPU: 4x 1.95 GHz ARM Cortex-A72, 4x 1.44 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510
+RAM: 6 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a0473f27
+imageUrl=https://www.devicespecifications.com/images/model/a0473f27/320/main.jpg
+name=R9S Plus;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3010 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 6.0.1 Marshmallow)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/5c2d3f26
+imageUrl=https://www.devicespecifications.com/images/model/5c2d3f26/320/main.jpg
+name=R9S;
+
+Weight: 160 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 4 GB, 667 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3075 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/30e63eea
+imageUrl=https://www.devicespecifications.com/images/model/30e63eea/320/main.jpg
+name=A59S;
+
+Weight: 160 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 667 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3075 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/7d2b3d93
+imageUrl=https://www.devicespecifications.com/images/model/7d2b3d93/320/main.jpg
+name=F1s;
+
+Weight: 160 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 3 GB, 667 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3075 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/57f23c86
+imageUrl=https://www.devicespecifications.com/images/model/57f23c86/320/main.jpg
+name=A59;
+
+Weight: 136 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2630 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/9b903ea2
+imageUrl=https://www.devicespecifications.com/images/model/9b903ea2/320/main.jpg
+name=A37;
+
+Weight: 140 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2630 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e1fe3be8/320/main.jpg
+name=A37 Octa Core;
+
+Weight: 145 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2850 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6b9c3b29/320/main.jpg
+name=F1 Plus;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon 652 MSM8976
+CPU: 4x 1.8 GHz ARM Cortex-A72, 4x 1.4 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510, 550 MHz
+RAM: 4 GB, 933 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 4120 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/7b3f3ac7
+imageUrl=https://www.devicespecifications.com/images/model/7b3f3ac7/320/main.jpg
+name=R9 Plus;
+
+Weight: 145 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2850 mAh, Li-Polymer
+OS: ColorOS 3.0 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/42eb3ac6
+imageUrl=https://www.devicespecifications.com/images/model/42eb3ac6/320/main.jpg
+name=R9;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon 616 MSM8939v2
+CPU: 4x 1.7 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: ColorOS 2.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ef4a3aac/320/main.jpg
+name=F1 ICC WT20;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon 616 MSM8939v2
+CPU: 4x 1.7 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 3 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: ColorOS 2.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5667396d/320/main.jpg
+name=F1;
+
+Weight: 203 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/260538a0/320/main.jpg
+name=R7 Plus High Version;
+
+Weight: 142 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2420 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e5063a0c/320/main.jpg
+name=Mirror 5 Lite;
+
+Weight: 165 g
+SoC: Qualcomm Snapdragon 616 MSM8939v2
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3075 mAh, Li-Ion
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f9c73841
+imageUrl=https://www.devicespecifications.com/images/model/f9c73841/320/main.jpg
+name=A53;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2400 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/48a037e6
+imageUrl=https://www.devicespecifications.com/images/model/48a037e6/320/main.jpg
+name=A33;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2420 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/21e83795/320/main.jpg
+name=Neo 7;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3070 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/887e376f
+imageUrl=https://www.devicespecifications.com/images/model/887e376f/320/main.jpg
+name=R7s;
+
+Weight: 160 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Ion
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d0903842
+imageUrl=https://www.devicespecifications.com/images/model/d0903842/320/main.jpg
+name=A51;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2320 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3aab363a/320/main.jpg
+name=R7 Lite;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/166435f3/320/main.jpg
+name=R5s;
+
+Weight: 160 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2420 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a5573512/320/main.jpg
+name=Mirror 5;
+
+Weight: 135 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4.2 KitKat)
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2e6d34c1/320/main.jpg
+name=Joy 3;
+
+Weight: 160 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d69d34bf
+imageUrl=https://www.devicespecifications.com/images/model/d69d34bf/320/main.jpg
+name=Mirror 5s;
+
+Weight: 135 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4.2 KitKat)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/27da347a/320/main.jpg
+name=Neo 5 (2015);
+
+Weight: 203 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM / microSD, Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bece341f
+imageUrl=https://www.devicespecifications.com/images/model/bece341f/320/main.jpg
+name=R7 Plus;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2320 mAh, Li-Polymer
+OS: ColorOS 2.1 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/c49c341e
+imageUrl=https://www.devicespecifications.com/images/model/c49c341e/320/main.jpg
+name=R7;
+
+Weight: 135 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4.2 KitKat)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8d1d3402/320/main.jpg
+name=Neo 5s;
+
+Weight: 135 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 450 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1b2f338b/320/main.jpg
+name=A31;
+
+Weight: 125 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 1 GB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1700 mAh, Li-Ion
+OS: ColorOS 2.0.1 (Android 4.4.2 KitKat)
+Camera: 2048 x 1536 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2d603374/320/main.jpg
+name=Joy Plus;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b2b43282
+imageUrl=https://www.devicespecifications.com/images/model/b2b43282/320/main.jpg
+name=3000;
+
+Weight: 195 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.9 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/bc4d3222/320/main.jpg
+name=U3;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/9fb131f7
+imageUrl=https://www.devicespecifications.com/images/model/9fb131f7/320/main.jpg
+name=R1C;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.0i (Android 4.4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1b333200/320/main.jpg
+name=Mirror 3;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cce631ff/320/main.jpg
+name=3005;
+
+Weight: 126 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0a633187/320/main.jpg
+name=3007;
+
+Weight: 192 g
+SoC: Qualcomm Snapdragon 801 MSM8974AA
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/882f3063
+imageUrl=https://www.devicespecifications.com/images/model/882f3063/320/main.jpg
+name=N3;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: ColorOS 2.0.1 (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ca413062
+imageUrl=https://www.devicespecifications.com/images/model/ca413062/320/main.jpg
+name=R5;
+
+Weight: 133 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: ColorOS 1.4 (Android 4.3 Jelly Bean)
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e8282ece/320/main.jpg
+name=Neo 5 4G;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 2 GB
+Storage: 16 GB
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2140 mAh, Li-Ion
+OS: ColorOS 1.4 (Android 4.3 Jelly Bean)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/74582d0f
+imageUrl=https://www.devicespecifications.com/images/model/74582d0f/320/main.jpg
+name=N1 mini;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 16 GB
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2140 mAh, Li-Ion
+OS: ColorOS 1.2 (Android 4.3 Jelly Bean)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a2ac2e99/320/main.jpg
+name=R1K;
+
+Weight: 128 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 1 GB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/20df2f37/320/main.jpg
+name=Neo 3;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2420 mAh, Li-Ion
+OS: ColorOS 2.0 (Android 4.4 KitKat)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/56a22d57
+imageUrl=https://www.devicespecifications.com/images/model/56a22d57/320/main.jpg
+name=R3;
+
+Weight: 128 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2140 mAh, Li-Polymer
+OS: ColorOS 1.4 (Android 4.3 Jelly Bean)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/583c2d1e
+imageUrl=https://www.devicespecifications.com/images/model/583c2d1e/320/main.jpg
+name=R6007;
+
+Weight: 125 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 1700 mAh, Li-Ion
+OS: ColorOS 1.0.2i (Android 4.2.2 Jelly Bean)
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/075b2c3e/320/main.jpg
+name=Joy;
+
+Weight: 145 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e31b2c2c/320/main.jpg
+name=R2001 YoYo;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1600 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 16 GB
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2410 mAh, Li-Ion
+OS: ColorOS 1.2 (Android 4.3 Jelly Bean)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fdf62c22
+imageUrl=https://www.devicespecifications.com/images/model/fdf62c22/320/main.jpg
+name=R1S;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon 800 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: ColorOS (Android 4.3 Jelly Bean)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/f48d2b7c
+imageUrl=https://www.devicespecifications.com/images/model/f48d2b7c/320/main.jpg
+name=Find 7a;
+
+Weight: 173 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: ColorOS (Android 4.3 Jelly Bean)
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/2f462b7b
+imageUrl=https://www.devicespecifications.com/images/model/2f462b7b/320/main.jpg
+name=Find 7;
+
+Weight: 128 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fd6429f1
+imageUrl=https://www.devicespecifications.com/images/model/fd6429f1/320/main.jpg
+name=Neo;
+
+Weight: 141 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2410 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/53d62a0b
+imageUrl=https://www.devicespecifications.com/images/model/53d62a0b/320/main.jpg
+name=R1;
+
+Weight: 128 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/58f32a82
+imageUrl=https://www.devicespecifications.com/images/model/58f32a82/320/main.jpg
+name=Find 5 Mini;
+
+Weight: 213 g
+SoC: Qualcomm Snapdragon 600 APQ8064T
+CPU: Krait 300, 1700 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 600 MHz
+Storage: 16 GB, 32 GB
+Display: 5.9 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3610 mAh, Li-Ion
+OS: ColorOS (Android 4.2.2 Jelly Bean)
+Camera: 4128 x 3088 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9b802992/320/main.jpg
+name=N1;
+
+Weight: 110 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.1 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/500a2994/320/main.jpg
+name=Mirror R819;
+
+Weight: 165 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait 200, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB, 32 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.1.1 Jelly Bean
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/52712995
+imageUrl=https://www.devicespecifications.com/images/model/52712995/320/main.jpg
+name=Find 5;
+
+Weight: 113 g
+SoC: MediaTek MT6577T
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: PowerVR SGX531, 525 MHz
+RAM: 1 GB
+Storage: 16 GB
+Display: 4.5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2020 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/25122996/320/main.jpg
+name=Ulike 2;
+

@@ -1,0 +1,24 @@
+HT30 Pro	https://www.devicespecifications.com/en/model/64fd465a
+S7	https://www.devicespecifications.com/en/model/87ce460b
+S16	https://www.devicespecifications.com/en/model/4eba45fd
+S9 Plus	https://www.devicespecifications.com/en/model/56b045f6
+HT26	https://www.devicespecifications.com/en/model/427f45b4
+S8	https://www.devicespecifications.com/en/model/22f8451b
+HT37 Pro	https://www.devicespecifications.com/en/model/d02444f2
+HT50	https://www.devicespecifications.com/en/model/56af442f
+HT37	https://www.devicespecifications.com/en/model/9f8c41c3
+HT30	https://www.devicespecifications.com/en/model/a383419c
+HT20 Pro	https://www.devicespecifications.com/en/model/fe6640dd
+HT27	https://www.devicespecifications.com/en/model/fb9e3fc5
+HT16 Pro	https://www.devicespecifications.com/en/model/c8093fc4
+HT20	https://www.devicespecifications.com/en/model/8a703de6
+HT17 Pro	https://www.devicespecifications.com/en/model/7b0c3d81
+HT16	https://www.devicespecifications.com/en/model/f1ae3cf8
+HT17	https://www.devicespecifications.com/en/model/dac33c05
+HT10	https://www.devicespecifications.com/en/model/334d3c04
+HT3 Pro	https://www.devicespecifications.com/en/model/52843ab8
+HT3	https://www.devicespecifications.com/en/model/26c5395e
+HT7 Pro	https://www.devicespecifications.com/en/model/09533937
+HT7	https://www.devicespecifications.com/en/model/d2563852
+HT6	https://www.devicespecifications.com/en/model/99a33712
+HT5	https://www.devicespecifications.com/en/model/58313711

@@ -1,0 +1,151 @@
+CameoX	https://www.devicespecifications.com/en/model/f3384624
+Idol 5 Cricket	https://www.devicespecifications.com/en/model/3b904612
+U50	https://www.devicespecifications.com/en/model/0af845fc
+Idol 5	https://www.devicespecifications.com/en/model/fdf2457d
+A7 Xl	https://www.devicespecifications.com/en/model/b6b24576
+A7	https://www.devicespecifications.com/en/model/a5d84549
+A30 Fierce	https://www.devicespecifications.com/en/model/bd1e4542
+U5 HD	https://www.devicespecifications.com/en/model/391c452a
+Pulsemix	https://www.devicespecifications.com/en/model/d846442b
+Idol 5s	https://www.devicespecifications.com/en/model/67e44429
+A50	https://www.devicespecifications.com/en/model/a7654428
+A30 Plus	https://www.devicespecifications.com/en/model/86dd4427
+A3 10	https://www.devicespecifications.com/en/model/5cb943f0
+IdealXCITE	https://www.devicespecifications.com/en/model/938943be
+Pixi 4 (7) 4G	https://www.devicespecifications.com/en/model/24bc436e
+A30 8" Tablet	https://www.devicespecifications.com/en/model/17614332
+Flash (2017)	https://www.devicespecifications.com/en/model/78e14274
+A30	https://www.devicespecifications.com/en/model/cb78423f
+U5	https://www.devicespecifications.com/en/model/a2f841ac
+A5 LED	https://www.devicespecifications.com/en/model/f1ba41ab
+A3	https://www.devicespecifications.com/en/model/dc3441aa
+A3 XL	https://www.devicespecifications.com/en/model/e50a409f
+Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87
+Idol 4S Windows	https://www.devicespecifications.com/en/model/bbc23f48
+Lume	https://www.devicespecifications.com/en/model/e35a3f07
+Pixi Theatre	https://www.devicespecifications.com/en/model/c4c13ecf
+Pixi Unite	https://www.devicespecifications.com/en/model/da693ece
+Pixi 4 Plus Power	https://www.devicespecifications.com/en/model/00023ead
+Shine Lite	https://www.devicespecifications.com/en/model/0cd33e3b
+Pop 4 XL	https://www.devicespecifications.com/en/model/d5ca3e3a
+Pop 4 (10)	https://www.devicespecifications.com/en/model/4a7f3e39
+Fierce 4	https://www.devicespecifications.com/en/model/476b3e0a
+TRU	https://www.devicespecifications.com/en/model/eaeb3dcd
+Streak	https://www.devicespecifications.com/en/model/73563dac
+Ideal	https://www.devicespecifications.com/en/model/e2ef3d31
+Dawn	https://www.devicespecifications.com/en/model/5a303d19
+Pixi 4 (5) 4G	https://www.devicespecifications.com/en/model/ee803cb2
+Pixi 4 (5) 3G	https://www.devicespecifications.com/en/model/e6694047
+OneTouch Allura	https://www.devicespecifications.com/en/model/de113c12
+Flash Plus 2	https://www.devicespecifications.com/en/model/db043c07
+OneTouch Flint	https://www.devicespecifications.com/en/model/c3963bfe
+OneTouch Pop 7 LTE	https://www.devicespecifications.com/en/model/dc713b8a
+X1	https://www.devicespecifications.com/en/model/89be3bf9
+Pop 4S	https://www.devicespecifications.com/en/model/1aa43a55
+Pop 4+	https://www.devicespecifications.com/en/model/cb1e3a54
+Pop 4	https://www.devicespecifications.com/en/model/e09f3a53
+Plus 10	https://www.devicespecifications.com/en/model/e12a3a43
+Idol 4S	https://www.devicespecifications.com/en/model/6cc939e8
+Idol 4	https://www.devicespecifications.com/en/model/9d0539e7
+OneTouch Fierce XL (Windows)	https://www.devicespecifications.com/en/model/e3f4394a
+Pixi 4 (7) 3G	https://www.devicespecifications.com/en/model/976e393e
+Pixi 4 (6) 4G	https://www.devicespecifications.com/en/model/038e393d
+Pixi 4 (4)	https://www.devicespecifications.com/en/model/1b9d393c
+Pixi 4 (3.5)	https://www.devicespecifications.com/en/model/049e393b
+OneTouch Pixi 3 (8) 4G	https://www.devicespecifications.com/en/model/34b2393a
+OneTouch Fierce XL	https://www.devicespecifications.com/en/model/0f7b37aa
+OneTouch Pop 3 (5.5) 4G	https://www.devicespecifications.com/en/model/537436fd
+OneTouch Pop 3 (5.5) 3G	https://www.devicespecifications.com/en/model/ec5436fc
+OneTouch Pop 3 (5) 4G	https://www.devicespecifications.com/en/model/ff1536fb
+OneTouch Pop 3 (5) 3G	https://www.devicespecifications.com/en/model/09a636fa
+OneTouch Flash 2	https://www.devicespecifications.com/en/model/722b36df
+OneTouch Pixi 3 (10)	https://www.devicespecifications.com/en/model/e76b3663
+OneTouch Idol 3C	https://www.devicespecifications.com/en/model/03e73662
+OneTouch Pixi First	https://www.devicespecifications.com/en/model/99013661
+OneTouch Pop Star 4G	https://www.devicespecifications.com/en/model/73b73658
+OneTouch Pop Star 3G	https://www.devicespecifications.com/en/model/70b13657
+OneTouch Pop Up	https://www.devicespecifications.com/en/model/840e3656
+OneTouch Go Play	https://www.devicespecifications.com/en/model/ce0e3654
+OneTouch Elevate	https://www.devicespecifications.com/en/model/b89735b9
+OneTouch Conquest	https://www.devicespecifications.com/en/model/d6073572
+OneTouch Pop Astro	https://www.devicespecifications.com/en/model/da1133db
+OneTouch Flash Plus	https://www.devicespecifications.com/en/model/21543399
+OneTouch Hero 2+	https://www.devicespecifications.com/en/model/e81c34d2
+OneTouch Pixi 3 (8) 3G	https://www.devicespecifications.com/en/model/1bc83318
+OneTouch Pixi 3 (7) 4G	https://www.devicespecifications.com/en/model/ddc53315
+OneTouch Pixi 3 (7) 3G	https://www.devicespecifications.com/en/model/64d13316
+OneTouch Pixi 3 (7)	https://www.devicespecifications.com/en/model/465a3317
+Orange Klif	https://www.devicespecifications.com/en/model/6a6d32f9
+OneTouch Idol 3 (5.5)	https://www.devicespecifications.com/en/model/327332e2
+OneTouch Idol 3 (4.7)	https://www.devicespecifications.com/en/model/3ea332e1
+OneTouch Hero 2C	https://www.devicespecifications.com/en/model/dc7431e4
+OneTouch Pop 10	https://www.devicespecifications.com/en/model/177631e2
+Pixi 3 (5) 4G	https://www.devicespecifications.com/en/model/857a31dd
+Pixi 3 (5) 3G	https://www.devicespecifications.com/en/model/ade132fb
+Pixi 3 (4.5) 4G	https://www.devicespecifications.com/en/model/de8b31dc
+Pixi 3 (4.5) 3G	https://www.devicespecifications.com/en/model/6f5532fa
+Pixi 3 (4) 4G	https://www.devicespecifications.com/en/model/f6c931db
+Pixi 3 (4) 3G	https://www.devicespecifications.com/en/model/425031e3
+Pixi 3 (3.5)	https://www.devicespecifications.com/en/model/87f631da
+OneTouch Fierce 2	https://www.devicespecifications.com/en/model/cc9c2f86
+OneTouch Evolve 2	https://www.devicespecifications.com/en/model/35f02f85
+OneTouch Pop 8S	https://www.devicespecifications.com/en/model/983d2f5c
+OneTouch Pop 2 (5) Premium	https://www.devicespecifications.com/en/model/d99b31f2
+OneTouch Pop 2 (5)	https://www.devicespecifications.com/en/model/739831e6
+OneTouch Pop 2 (4.5)	https://www.devicespecifications.com/en/model/79072f58
+OneTouch Pop 2 (4) Windows	https://www.devicespecifications.com/en/model/d59234a3
+OneTouch Pop 2 (4)	https://www.devicespecifications.com/en/model/a69731e5
+OneTouch Hero 8	https://www.devicespecifications.com/en/model/eed02f57
+OneTouch Hero 2	https://www.devicespecifications.com/en/model/b15c2f52
+OneTouch Flash	https://www.devicespecifications.com/en/model/f87a2f3b
+OneTouch Pop D5	https://www.devicespecifications.com/en/model/e4142f0b
+OneTouch Pop D3	https://www.devicespecifications.com/en/model/54ac3089
+OneTouch Pop D1	https://www.devicespecifications.com/en/model/60673088
+OneTouch Pop C2	https://www.devicespecifications.com/en/model/224d2f2c
+OneTouch Pixi 7	https://www.devicespecifications.com/en/model/4a492d6b
+OneTouch Pop S9	https://www.devicespecifications.com/en/model/35942d6a
+OneTouch Pop S7	https://www.devicespecifications.com/en/model/94a42b12
+OneTouch Pop S3	https://www.devicespecifications.com/en/model/a54f2e47
+OneTouch Fire S	https://www.devicespecifications.com/en/model/bf402c55
+OneTouch Fire E	https://www.devicespecifications.com/en/model/58722b7f
+OneTouch Fire C	https://www.devicespecifications.com/en/model/22e02b7e
+OneTouch Idol 2 S	https://www.devicespecifications.com/en/model/19752b7d
+OneTouch Idol 2	https://www.devicespecifications.com/en/model/974c2b31
+OneTouch Idol 2 Mini	https://www.devicespecifications.com/en/model/c65f2b32
+OneTouch Idol 2 Mini S	https://www.devicespecifications.com/en/model/80962b30
+OneTouch Pop Fit	https://www.devicespecifications.com/en/model/57132b11
+OneTouch Pop C9	https://www.devicespecifications.com/en/model/3a512a52
+OneTouch Pop 8	https://www.devicespecifications.com/en/model/06022b2f
+OneTouch Pop 7	https://www.devicespecifications.com/en/model/c3c32a4e
+OneTouch Idol X+	https://www.devicespecifications.com/en/model/697a2a4f
+OneTouch Idol S	https://www.devicespecifications.com/en/model/e9312a25
+OneTouch Hero	https://www.devicespecifications.com/en/model/76182a24
+OneTouch Idol Alpha	https://www.devicespecifications.com/en/model/87522a23
+OneTouch Pop C7	https://www.devicespecifications.com/en/model/eb6e29d1
+OneTouch Pop C5	https://www.devicespecifications.com/en/model/824c29d2
+OneTouch Pop C3	https://www.devicespecifications.com/en/model/168c29d3
+OneTouch Pop C1	https://www.devicespecifications.com/en/model/b3d629d4
+OneTouch Fierce	https://www.devicespecifications.com/en/model/97d72999
+OneTouch Evolve	https://www.devicespecifications.com/en/model/5616299a
+OneTouch Idol Mini Dual	https://www.devicespecifications.com/en/model/b8ee2a1c
+OneTouch Idol Mini	https://www.devicespecifications.com/en/model/c6b32a1b
+OneTouch Scribe Easy	https://www.devicespecifications.com/en/model/449d27f2
+OneTouch Fire	https://www.devicespecifications.com/en/model/8ac027f0
+OneTouch Idol X	https://www.devicespecifications.com/en/model/290d2a16
+OneTouch Star	https://www.devicespecifications.com/en/model/75da27f1
+OneTouch Tab 7	https://www.devicespecifications.com/en/model/9ddc27f5
+OneTouch Tab 7 HD	https://www.devicespecifications.com/en/model/404927f6
+OneTouch M'Pop	https://www.devicespecifications.com/en/model/3a1127fa
+OneTouch X'Pop	https://www.devicespecifications.com/en/model/b8df27fb
+OneTouch Idol Ultra	https://www.devicespecifications.com/en/model/9e5827f7
+OneTouch Scribe X	https://www.devicespecifications.com/en/model/440b27fc
+OneTouch T'Pop	https://www.devicespecifications.com/en/model/89c827f8
+OneTouch S'Pop	https://www.devicespecifications.com/en/model/328327f9
+OneTouch Evo 7	https://www.devicespecifications.com/en/model/cab027f3
+OneTouch Evo 7 HD	https://www.devicespecifications.com/en/model/bac127f4
+OT-983	https://www.devicespecifications.com/en/model/2bb827fd
+OT-988 Shockwave	https://www.devicespecifications.com/en/model/1fb32801
+OT-997	https://www.devicespecifications.com/en/model/210927ff
+OT-993	https://www.devicespecifications.com/en/model/7d2b2802
+OT-903	https://www.devicespecifications.com/en/model/223f2803
+OT-997D	https://www.devicespecifications.com/en/model/f3fa27fe

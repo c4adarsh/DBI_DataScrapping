@@ -1,0 +1,152 @@
+ZenFone Pegasus 5S	https://www.devicespecifications.com/en/model/241546bd
+ZenFone 4 Selfie Lite	https://www.devicespecifications.com/en/model/3d4f4633
+Zenfone V	https://www.devicespecifications.com/en/model/c81245c2
+ZenFone 4 Selfie ZB553KL	https://www.devicespecifications.com/en/model/adba45ba
+ZenFone 4 Max Pro S430	https://www.devicespecifications.com/en/model/68674524
+ZenFone 4 Max Pro S425	https://www.devicespecifications.com/en/model/cf414523
+ZenFone 4 Pro	https://www.devicespecifications.com/en/model/09664522
+ZenFone 4 ZE554KL S660	https://www.devicespecifications.com/en/model/23be4521
+ZenFone 4 ZE554KL	https://www.devicespecifications.com/en/model/d4044505
+ZenFone 4 Max ZC520KL	https://www.devicespecifications.com/en/model/685a4504
+ZenFone 4 Selfie Pro	https://www.devicespecifications.com/en/model/ed6c4500
+ZenFone 4 Selfie	https://www.devicespecifications.com/en/model/672844ff
+ZenFone 4 Max ZC550TL	https://www.devicespecifications.com/en/model/d8a444c0
+ZenFone 4 Max S425	https://www.devicespecifications.com/en/model/41114441
+ZenFone 4 Max S430	https://www.devicespecifications.com/en/model/a9364440
+ZenFone Pegasus 4A	https://www.devicespecifications.com/en/model/d2a9440c
+ZenPad Z8s ZT582KL	https://www.devicespecifications.com/en/model/2221440b
+ZenPad 10 Z301MF	https://www.devicespecifications.com/en/model/906045a3
+ZenPad 10 Z301M	https://www.devicespecifications.com/en/model/fde845a2
+ZenPad 10 Z301MFL	https://www.devicespecifications.com/en/model/36e14392
+ZenPad 10 Z301ML	https://www.devicespecifications.com/en/model/53684391
+ZenPad 3S 8.0 Z582KL	https://www.devicespecifications.com/en/model/b6a6438d
+ZenFone Live ZB501KL	https://www.devicespecifications.com/en/model/e66e4196
+ZenFone 3S Max ZC521TL	https://www.devicespecifications.com/en/model/ecc34112
+ZenFone Pegasus 3S	https://www.devicespecifications.com/en/model/830640ae
+ZenFone 3 Zoom ZE553KL	https://www.devicespecifications.com/en/model/4b044098
+ZenFone AR	https://www.devicespecifications.com/en/model/49c44097
+ZenPad 10 Z300M	https://www.devicespecifications.com/en/model/95b04016
+ZenPad C Z171KG	https://www.devicespecifications.com/en/model/75dd3f90
+ZenFone Go ZB690KG	https://www.devicespecifications.com/en/model/a5443f88
+ZenPad 3S 10 Z500KL	https://www.devicespecifications.com/en/model/69b73f83
+ZenPad Z10	https://www.devicespecifications.com/en/model/189b3edf
+ZenFone Go ZB500KG	https://www.devicespecifications.com/en/model/183842fd
+ZenFone Go ZB500KL	https://www.devicespecifications.com/en/model/b6bd3ec1
+ZenFone 3 Max ZC553KL	https://www.devicespecifications.com/en/model/869f3e73
+ZenFone 3 Deluxe ZS550KL	https://www.devicespecifications.com/en/model/920b3e62
+ZenFone Go ZB450KL	https://www.devicespecifications.com/en/model/5a403db5
+ZenPad 3 8.0 Z581KL	https://www.devicespecifications.com/en/model/fc583d8a
+ZenFone Go ZB552KL	https://www.devicespecifications.com/en/model/1d643ec2
+ZenFone 3 Max ZC520TL	https://www.devicespecifications.com/en/model/2ea03d7e
+ZenFone 3 Laser	https://www.devicespecifications.com/en/model/1b553d7d
+ZenPad 3S 10 Z500M	https://www.devicespecifications.com/en/model/edb93d2a
+ZenFone 3 Deluxe S821	https://www.devicespecifications.com/en/model/f61f3d26
+ZenFone 3 ZE520KL	https://www.devicespecifications.com/en/model/cfe63d24
+ZenPad 10 M1000M	https://www.devicespecifications.com/en/model/37d94207
+ZenPad 10 M1000CNL	https://www.devicespecifications.com/en/model/70fe4208
+ZenPad 10 M1000C	https://www.devicespecifications.com/en/model/12993cf3
+ZenPad 7.0 M700KL	https://www.devicespecifications.com/en/model/2ac53cf2
+ZenPad 7.0 M700C	https://www.devicespecifications.com/en/model/df993cf1
+ZenPad Z8	https://www.devicespecifications.com/en/model/e7293ca6
+ZenFone Pegasus 3	https://www.devicespecifications.com/en/model/50b83ca2
+ZenPad 10 Z300CNG	https://www.devicespecifications.com/en/model/58253dd0
+ZenFone 3 Ultra	https://www.devicespecifications.com/en/model/f4573c4a
+ZenFone 3 Deluxe	https://www.devicespecifications.com/en/model/f2b83c49
+ZenFone 3 ZE552KL	https://www.devicespecifications.com/en/model/a2143c48
+ZenFone Max (2016)	https://www.devicespecifications.com/en/model/6b3d3c27
+ZenPad 10 Z300CNL	https://www.devicespecifications.com/en/model/5c223c1b
+ZenPad 8 M800M	https://www.devicespecifications.com/en/model/3f004206
+ZenPad 8 Z380KNL	https://www.devicespecifications.com/en/model/a1b03cf7
+ZenPad 8.0 Z380M	https://www.devicespecifications.com/en/model/1c213ba6
+ZenFone Go 5.0 (LTE)	https://www.devicespecifications.com/en/model/5c7a3b7a
+Zenfone Go ZB551KL	https://www.devicespecifications.com/en/model/88843b10
+Zenfone Go ZB452KG	https://www.devicespecifications.com/en/model/7ea93b11
+Pegasus 5000	https://www.devicespecifications.com/en/model/0cb339ac
+Live	https://www.devicespecifications.com/en/model/dbe43974
+ZenFone Go ZC451TG	https://www.devicespecifications.com/en/model/cdcc390a
+ZenFone 2 Deluxe Special Edition Z3590	https://www.devicespecifications.com/en/model/536537e5
+ZenFone 2 Deluxe Special Edition	https://www.devicespecifications.com/en/model/73aa37e4
+ZenPad C 7.0 Z170C	https://www.devicespecifications.com/en/model/a87c3d07
+ZenFone 2 Laser ZE551KL	https://www.devicespecifications.com/en/model/0a3337c4
+ZenPad 8.0 Z380KL Octa-core	https://www.devicespecifications.com/en/model/ad2e362d
+ZenPad 8.0 Z380KL	https://www.devicespecifications.com/en/model/ef60362c
+ZenPad 10 Z300CL	https://www.devicespecifications.com/en/model/616835fb
+ZenPad 10 Z300CG	https://www.devicespecifications.com/en/model/907a35fa
+ZenPad 10 Z300C	https://www.devicespecifications.com/en/model/c4d535f8
+ZenFone Go ZC500TG	https://www.devicespecifications.com/en/model/ef5b35a9
+ZenFone Max	https://www.devicespecifications.com/en/model/b01b35a6
+ZenPad 7.0 Z370KL	https://www.devicespecifications.com/en/model/ab333903
+ZenPad 7.0 Z370CG	https://www.devicespecifications.com/en/model/8dbe35a0
+ZenFone 2 Laser ZE600KL	https://www.devicespecifications.com/en/model/80ef381d
+ZenFone 2 Laser ZE601KL	https://www.devicespecifications.com/en/model/745f36f8
+ZenFone 2 Laser ZE550KL	https://www.devicespecifications.com/en/model/b263357d
+ZenFone 2 Laser ZE500KG	https://www.devicespecifications.com/en/model/0cd1381c
+ZenFone 2 Laser ZE500KL	https://www.devicespecifications.com/en/model/d8d3356c
+ZenFone 2E	https://www.devicespecifications.com/en/model/8c35354a
+Pegasus 2 Plus	https://www.devicespecifications.com/en/model/039934f6
+ZenPad C 7.0 Z170MG	https://www.devicespecifications.com/en/model/715934e1
+ZenPad S 8.0 Z580CA 16GB	https://www.devicespecifications.com/en/model/3c853653
+ZenPad S 8.0 Z580CA	https://www.devicespecifications.com/en/model/57193463
+ZenPad S 8.0	https://www.devicespecifications.com/en/model/a854345f
+ZenFone Selfie	https://www.devicespecifications.com/en/model/ae1e345d
+ZenPad 8.0 Z380C	https://www.devicespecifications.com/en/model/5963345b
+ZenPad C 7.0	https://www.devicespecifications.com/en/model/0b41345a
+ZenFone 2 ZE550ML	https://www.devicespecifications.com/en/model/dc18331a
+ZenFone 2 ZE550CL	https://www.devicespecifications.com/en/model/938432a2
+ZenFone 2 ZE500CL	https://www.devicespecifications.com/en/model/fe7d329e
+FonePad 7 FE375CL	https://www.devicespecifications.com/en/model/03a7329d
+Pegasus X003	https://www.devicespecifications.com/en/model/2b8a3275
+ZenFone Zoom ZX551ML	https://www.devicespecifications.com/en/model/f87c369f
+ZenFone C	https://www.devicespecifications.com/en/model/d9873242
+FonePad 7 FE171CG	https://www.devicespecifications.com/en/model/82683206
+ZenFone Zoom	https://www.devicespecifications.com/en/model/bf4431c1
+ZenFone 2 ZE551ML Z3580	https://www.devicespecifications.com/en/model/cf5331c0
+ZenFone 2 ZE551ML Z3560	https://www.devicespecifications.com/en/model/d6e739ed
+Pegasus X002	https://www.devicespecifications.com/en/model/9765318e
+MeMO Pad 8 ME581C	https://www.devicespecifications.com/en/model/586e312e
+FonePad 8 FE380CG	https://www.devicespecifications.com/en/model/704e3170
+MeMO Pad 10 ME103K	https://www.devicespecifications.com/en/model/877e3058
+PadFone X mini	https://www.devicespecifications.com/en/model/2f9c301b
+PadFone mini PF451CL	https://www.devicespecifications.com/en/model/9773336d
+ZenWatch	https://www.devicespecifications.com/en/model/ecb32f5f
+MeMo Pad 7 ME572CL	https://www.devicespecifications.com/en/model/daaf2f47
+MeMo Pad 7 ME572C	https://www.devicespecifications.com/en/model/07c42f46
+ZenFone 5 A502CG	https://www.devicespecifications.com/en/model/18f230c4
+FonePad 7 FE375CXG	https://www.devicespecifications.com/en/model/49d230ec
+ZenFone 4 A450CG	https://www.devicespecifications.com/en/model/d9502d48
+ZenFone 5 A500KL	https://www.devicespecifications.com/en/model/dcdd2d47
+MeMO Pad 8 ME581CL	https://www.devicespecifications.com/en/model/916b2d38
+MeMO Pad 8 ME181C	https://www.devicespecifications.com/en/model/acdf2d37
+MeMO Pad 7 ME176C	https://www.devicespecifications.com/en/model/f7d82d36
+FonePad 8	https://www.devicespecifications.com/en/model/8f882d35
+FonePad 7 FE375CG	https://www.devicespecifications.com/en/model/aa582d2f
+Transformer Pad TF303CL	https://www.devicespecifications.com/en/model/b6802d2e
+Transformer Pad TF103C	https://www.devicespecifications.com/en/model/c2c62d2d
+MeMO Pad 8 AST21	https://www.devicespecifications.com/en/model/0a942d25
+FonePad 7 Dual FE175CG	https://www.devicespecifications.com/en/model/c87b2cac
+VivoTab Note 8	https://www.devicespecifications.com/en/model/5a8e2b85
+PadFone E	https://www.devicespecifications.com/en/model/3e8f2aa5
+PadFone X	https://www.devicespecifications.com/en/model/28982aa6
+PadFone S	https://www.devicespecifications.com/en/model/a15c2ded
+PadFone Mini	https://www.devicespecifications.com/en/model/86c02a61
+ZenFone 6 A601CG	https://www.devicespecifications.com/en/model/ce40357e
+ZenFone 6	https://www.devicespecifications.com/en/model/f7202a5b
+ZenFone 5 A501CG	https://www.devicespecifications.com/en/model/ae6938db
+ZenFone 5 A500CG	https://www.devicespecifications.com/en/model/3b192a5a
+ZenFone 4	https://www.devicespecifications.com/en/model/0cd32a59
+PadFone mini 4.3	https://www.devicespecifications.com/en/model/16a029f3
+Transformer Book Trio	https://www.devicespecifications.com/en/model/f47329b1
+PadFone Infinity 2	https://www.devicespecifications.com/en/model/fc0e2956
+FonePad 7 ME372CG	https://www.devicespecifications.com/en/model/cf452957
+MeMO Pad 8 ME180A	https://www.devicespecifications.com/en/model/183e2d4b
+MeMO Pad 10 ME102A	https://www.devicespecifications.com/en/model/82a72d4a
+Google Nexus 7 2013	https://www.devicespecifications.com/en/model/5aac2958
+FonePad Note 6	https://www.devicespecifications.com/en/model/3caa295a
+Transformer Pad TF701T	https://www.devicespecifications.com/en/model/1e83295b
+MeMO Pad FHD10	https://www.devicespecifications.com/en/model/e620295c
+MeMO Pad HD 7	https://www.devicespecifications.com/en/model/3834295d
+FonePad ME371MG	https://www.devicespecifications.com/en/model/e6d9295e
+PadFone Infinity	https://www.devicespecifications.com/en/model/66402964
+MeMO Pad ME172V	https://www.devicespecifications.com/en/model/e3e22965
+Google Nexus 7	https://www.devicespecifications.com/en/model/0794297a
+VivoTab RT TF600T	https://www.devicespecifications.com/en/model/176b297b

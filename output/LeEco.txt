@@ -1,0 +1,228 @@
+Weight: 195 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Display: 6.33 in, LCD, 1440 x 2560 pixels, 24 bit
+Battery: 3700 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5480 x 4096 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/editor-review/bc773c
+imageUrl=https://www.devicespecifications.com/images/model/99d24350/320/main.jpg
+name=Le X920;
+
+Weight: 168 g
+SoC: MediaTek Helio X27 (MT6797X)
+CPU: 2x 2.6 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 875 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/749d428e/320/main.jpg
+name=Le Pro 3 AI Eco Edition;
+
+Weight: 168 g
+SoC: MediaTek Helio X23 (MT6797D)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a9b3428d/320/main.jpg
+name=Le Pro 3 AI Standard Edition;
+
+Weight: 175 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4070 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/430441ed
+imageUrl=https://www.devicespecifications.com/images/model/430441ed/320/main.jpg
+name=Le Pro 3 Elite;
+
+Weight: 153 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 3 GB, 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/96bc4074
+imageUrl=https://www.devicespecifications.com/images/model/96bc4074/320/main.jpg
+name=Le S3 Helio X20;
+
+Weight: 153 g
+SoC: Qualcomm Snapdragon 652 MSM8976
+CPU: 4x 1.8 GHz ARM Cortex-A72, 4x 1.4 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510, 550 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/6f6e3f2b
+imageUrl=https://www.devicespecifications.com/images/model/6f6e3f2b/320/main.jpg
+name=Le S3;
+
+Weight: 175 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.35 GHz Kryo, 2x 2.0 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 653 MHz
+RAM: 4 GB, 6 GB, 1866 MHz
+Storage: 32 GB, 64 GB, 128 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4070 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/6c903e90
+imageUrl=https://www.devicespecifications.com/images/model/6c903e90/320/main.jpg
+name=Le Pro 3;
+
+Weight: 153 g
+SoC: Qualcomm Snapdragon 652 MSM8976
+CPU: 4x 1.8 GHz ARM Cortex-A72, 4x 1.4 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 510, 550 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/60313d30
+imageUrl=https://www.devicespecifications.com/images/model/60313d30/320/main.jpg
+name=Le 2 X520;
+
+Weight: 185 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 6 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Display: 5.7 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/847a3b81
+imageUrl=https://www.devicespecifications.com/images/model/847a3b81/320/main.jpg
+name=Le Max2;
+
+Weight: 153 g
+SoC: MediaTek Helio X25 (MT6797T)
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.55 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 850 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/fba83b82
+imageUrl=https://www.devicespecifications.com/images/model/fba83b82/320/main.jpg
+name=Le 2 Pro X25;
+
+Weight: 153 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/a10b3c62
+imageUrl=https://www.devicespecifications.com/images/model/a10b3c62/320/main.jpg
+name=Le 2 Pro X20;
+
+Weight: 153 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/77103b83
+imageUrl=https://www.devicespecifications.com/images/model/77103b83/320/main.jpg
+name=Le 2;
+

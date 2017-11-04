@@ -1,0 +1,11 @@
+N5s	https://www.devicespecifications.com/en/model/d1b4436c
+F5	https://www.devicespecifications.com/en/model/15614265
+N5	https://www.devicespecifications.com/en/model/c1bf418d
+F4S	https://www.devicespecifications.com/en/model/a2cb43af
+N4s 64GB	https://www.devicespecifications.com/en/model/02123f46
+N4A	https://www.devicespecifications.com/en/model/e4c63f03
+Q5 Plus	https://www.devicespecifications.com/en/model/c0a43dfa
+Q5	https://www.devicespecifications.com/en/model/bd153df9
+N4s	https://www.devicespecifications.com/en/model/b1ed3d52
+N4	https://www.devicespecifications.com/en/model/252e3be5
+F4	https://www.devicespecifications.com/en/model/00c73ad1

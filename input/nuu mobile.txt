@@ -1,0 +1,13 @@
+X5	https://www.devicespecifications.com/en/model/48064304
+A3L	https://www.devicespecifications.com/en/model/4fc6428b
+M3	https://www.devicespecifications.com/en/model/75bb428a
+M2	https://www.devicespecifications.com/en/model/3d964289
+A3	https://www.devicespecifications.com/en/model/74273fcb
+A1+	https://www.devicespecifications.com/en/model/0b964303
+A1	https://www.devicespecifications.com/en/model/23984302
+N4L	https://www.devicespecifications.com/en/model/70713d5c
+N5L	https://www.devicespecifications.com/en/model/8b943ac0
+X4	https://www.devicespecifications.com/en/model/f6333abf
+Z8	https://www.devicespecifications.com/en/model/2310357c
+X1	https://www.devicespecifications.com/en/model/7839359d
+NU4	https://www.devicespecifications.com/en/model/9f1a359f

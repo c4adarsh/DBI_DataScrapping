@@ -1,0 +1,590 @@
+Weight: 150 g
+SoC: MediaTek MT6580M
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/70ae3d59/320/main.jpg
+name=i-Style 712;
+
+Weight: 128 g
+SoC: Spreadtrum SC7731G
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 400 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 5.1 Lollipop
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/71333d5a/320/main.jpg
+name=i-Style 711;
+
+Weight: 160 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 4896 x 3672 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/41863936/320/main.jpg
+name=IQ Z Pro;
+
+Weight: 130 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.1.1 Lollipop
+Camera: 5184 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f0513703/320/main.jpg
+name=IQ Z Bright;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/84de3598/320/main.jpg
+name=IQ II;
+
+Weight: 132 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2260 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4896 x 3672 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ca473535/320/main.jpg
+name=IQ X Pro 3;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 5248 x 3696 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6dce3513/320/main.jpg
+name=IQ X Pro 2;
+
+Weight: 122 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.0.2 Lollipop
+Camera: 5184 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6b0434b9/320/main.jpg
+name=IQ Z;
+
+Weight: 156 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 4128 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/fde434bc/320/main.jpg
+name=IQ Big2;
+
+Weight: 180 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 5184 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f23534bb/320/main.jpg
+name=IQ Big;
+
+Weight: 120 g
+SoC: MediaTek MT6592V/X
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 600 MHz, Cores: 4
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2050 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 4896 x 3672 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/38f333cd/320/main.jpg
+name=IQ X Pro;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 4896 x 3672 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/134d33b6/320/main.jpg
+name=IQ X Lucus;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.26 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 5196 x 3464 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/eee131c3/320/main.jpg
+name=IQ X Leon;
+
+Weight: 150 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 18 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2d0d30e0/320/main.jpg
+name=i-style 216;
+
+Weight: 160 g
+SoC: MediaTek MT6582V/W
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2450 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 4928 x 3696 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cc3430cb/320/main.jpg
+name=IQ X Wiz;
+
+Weight: 140 g
+SoC: MediaTek MT6592T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 4928 x 3696 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/502330bd/320/main.jpg
+name=IQ X Ozzy;
+
+Weight: 305 g
+SoC: MediaTek MT8382V/X
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, LCD, 1024 x 600 pixels, 24 bit
+Battery: 2950 mAh, Li-Polymer
+OS: Android 4.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a49d2f9e/320/main.jpg
+name=i-Tab Fun;
+
+Weight: 140 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 1700 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 4000 x 3000 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d7902efd/320/main.jpg
+name=IQ 511;
+
+SoC: MediaTek MT6582VW
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4128 x 3096 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ff782efe/320/main.jpg
+name=IQ 6.9 DTV;
+
+Weight: 142 g
+SoC: MediaTek MT6592T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 4928 x 3696 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2da92e11/320/main.jpg
+name=IQ X OCCO;
+
+Weight: 120 g
+SoC: Qualcomm Snapdragon 200 MSM8212
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 302
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.7 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 1780 mAh, Li-Polymer
+OS: Android 4.3 Jelly Bean
+Camera: 4128 x 3096 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c52a2e10/320/main.jpg
+name=IQ X Slim 2;
+
+Weight: 138 g
+SoC: Broadcom BCM23550
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Broadcom VideoCore IV
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, LCD, 480 x 854 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 4.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1adf2e0f/320/main.jpg
+name=i-Style 7.8 DTV;
+
+Weight: 130 g
+SoC: MediaTek MT6582M
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 416 MHz, Cores: 2
+RAM: 512 MB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, LCD, 480 x 800 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 800 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ca362e0e/320/main.jpg
+name=i-Style 7.7 DTV;
+
+Weight: 156 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2350 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 5416 x 4064 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/707f2ca6/320/main.jpg
+name=IQ X OKU;
+
+Weight: 124 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 16 GB
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 5196 x 3464 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6c1a2c2d/320/main.jpg
+name=IQ X Slim;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1e502c0c/320/main.jpg
+name=IQ X Ken;
+
+Weight: 142 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 5196 x 3464 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3d912b6f/320/main.jpg
+name=IQ X Octo;
+
+Weight: 151 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 4.3 Jelly Bean
+Camera: 5184 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f51e34c2/320/main.jpg
+name=IQ 6.3;
+
+Weight: 140 g
+SoC: MediaTek MT6572A
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 800 pixels, 18 bit
+Battery: 1300 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a3912b70/320/main.jpg
+name=i-Style 2.4a;
+
+Weight: 149 g
+SoC: MediaTek MT6589T
+CPU: ARM Cortex-A7, 1500 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 357 MHz, Cores: 1
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.2 Jelly Bean
+Camera: 5196 x 3464 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a5ef2b72/320/main.jpg
+name=IQ X3;
+
+Weight: 140 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2000 mAh, Li-Ion
+OS: Android 4.2.1 Jelly Bean
+Camera: 5196 x 3464 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5e1e2b71/320/main.jpg
+name=IQ X;
+

@@ -1,0 +1,107 @@
+Primo S6	https://www.devicespecifications.com/en/model/ae834694
+Primo ZX3	https://www.devicespecifications.com/en/model/45784622
+Primo D8i	https://www.devicespecifications.com/en/model/ee0345a8
+Primo GM2+	https://www.devicespecifications.com/en/model/0d17450e
+Primo H6 Lite	https://www.devicespecifications.com/en/model/727f449d
+Primo NH3	https://www.devicespecifications.com/en/model/acd5443c
+Primo NH3 Lite	https://www.devicespecifications.com/en/model/7d33441c
+Primo GM2	https://www.devicespecifications.com/en/model/11244413
+Primo EF6+	https://www.devicespecifications.com/en/model/f3be4412
+Primo N3	https://www.devicespecifications.com/en/model/a44943d8
+Primo RM3s	https://www.devicespecifications.com/en/model/409143b9
+Primo EF6	https://www.devicespecifications.com/en/model/961943ac
+Primo EF5i	https://www.devicespecifications.com/en/model/301b43ab
+Primo G7+	https://www.devicespecifications.com/en/model/a2d44367
+Primo H6+	https://www.devicespecifications.com/en/model/969d4360
+Primo EF5 (Hard TP)	https://www.devicespecifications.com/en/model/2d3f42c3
+Primo G7	https://www.devicespecifications.com/en/model/588b4226
+Primo S5	https://www.devicespecifications.com/en/model/cc6241da
+Primo GF5	https://www.devicespecifications.com/en/model/f40640fd
+Primo E8+	https://www.devicespecifications.com/en/model/490c40f3
+Primo X4 Pro	https://www.devicespecifications.com/en/model/f0c940d0
+Primo NH2	https://www.devicespecifications.com/en/model/c86840f4
+Primo D8s	https://www.devicespecifications.com/en/model/edb7405f
+Primo EF5+	https://www.devicespecifications.com/en/model/15344001
+Primo EF5	https://www.devicespecifications.com/en/model/6d713fe3
+Primo NH2 Lite	https://www.devicespecifications.com/en/model/b7a83fce
+Primo NX4 Mini	https://www.devicespecifications.com/en/model/f2823f97
+Primo E8	https://www.devicespecifications.com/en/model/20c93f96
+Primo D8	https://www.devicespecifications.com/en/model/04453f95
+Primo RM3	https://www.devicespecifications.com/en/model/37863f7c
+Primo F7	https://www.devicespecifications.com/en/model/f5853f7b
+Primo NX4	https://www.devicespecifications.com/en/model/31c03f7a
+Primo NF2+	https://www.devicespecifications.com/en/model/f9d73ef0
+Primo EF4+	https://www.devicespecifications.com/en/model/de693e74
+Primo NH	https://www.devicespecifications.com/en/model/dfe63e4c
+Primo EF4	https://www.devicespecifications.com/en/model/e3043e4b
+Primo E7s	https://www.devicespecifications.com/en/model/fdd93e4a
+Primo NH Lite	https://www.devicespecifications.com/en/model/3bac3e14
+Primo HM3+	https://www.devicespecifications.com/en/model/a7243ddb
+Primo X4	https://www.devicespecifications.com/en/model/82ad3dc5
+Primo HM3	https://www.devicespecifications.com/en/model/7b703da2
+Primo RX5	https://www.devicespecifications.com/en/model/a98b3d96
+Primo H6	https://www.devicespecifications.com/en/model/6fca3d8e
+Primo GH6+	https://www.devicespecifications.com/en/model/991f3d03
+Primo GH6	https://www.devicespecifications.com/en/model/c8593df0
+Primo GH5+	https://www.devicespecifications.com/en/model/ccde3cba
+Primo ZX2 Lite	https://www.devicespecifications.com/en/model/1ff23c5b
+Primo H5	https://www.devicespecifications.com/en/model/98dc3c5a
+Primo R4s	https://www.devicespecifications.com/en/model/ddd13cb9
+Primo N2	https://www.devicespecifications.com/en/model/af873c36
+Primo NF2	https://www.devicespecifications.com/en/model/c2d63c35
+Primo R4+	https://www.devicespecifications.com/en/model/e6273c18
+Primo NX3+	https://www.devicespecifications.com/en/model/90a73bca
+Primo RM2 mini	https://www.devicespecifications.com/en/model/369d3b78
+Primo VX+	https://www.devicespecifications.com/en/model/fca63a8d
+Primo ZX2 mini	https://www.devicespecifications.com/en/model/be913a8c
+Primo R4	https://www.devicespecifications.com/en/model/0f753a16
+Primo NX3	https://www.devicespecifications.com/en/model/427b3a8e
+Primo ZX2	https://www.devicespecifications.com/en/model/e1c838ee
+Primo E6	https://www.devicespecifications.com/en/model/1b2a38ed
+Primo V2	https://www.devicespecifications.com/en/model/f72638ec
+Primo VX	https://www.devicespecifications.com/en/model/f6a73877
+Primo HM2	https://www.devicespecifications.com/en/model/09173876
+Primo D6	https://www.devicespecifications.com/en/model/b6973742
+Primo GH4	https://www.devicespecifications.com/en/model/35623741
+Primo H4	https://www.devicespecifications.com/en/model/26983740
+Primo RX4	https://www.devicespecifications.com/en/model/8d2d3691
+Primo S4	https://www.devicespecifications.com/en/model/6f043690
+Primo F6	https://www.devicespecifications.com/en/model/c463350e
+Primo E4+	https://www.devicespecifications.com/en/model/26c43555
+Primo EM	https://www.devicespecifications.com/en/model/e45a35b8
+Primo EF3	https://www.devicespecifications.com/en/model/4f0735b5
+Primo RM2	https://www.devicespecifications.com/en/model/4085350a
+Primo RH2	https://www.devicespecifications.com/en/model/e7f0348f
+Primo RX3	https://www.devicespecifications.com/en/model/ef64348e
+Walpad Pro	https://www.devicespecifications.com/en/model/59653314
+Primo RM	https://www.devicespecifications.com/en/model/bc44328a
+Primo GM	https://www.devicespecifications.com/en/model/af793264
+Primo NX2	https://www.devicespecifications.com/en/model/dbf83263
+Primo GM Mini	https://www.devicespecifications.com/en/model/fb1b31a2
+Primo RH	https://www.devicespecifications.com/en/model/04343178
+Primo Z	https://www.devicespecifications.com/en/model/427a30ee
+Primo S3 mini	https://www.devicespecifications.com/en/model/88b2307d
+Walpad 8X	https://www.devicespecifications.com/en/model/aa66306c
+Walpad 10X	https://www.devicespecifications.com/en/model/70173042
+Primo X3 Mini	https://www.devicespecifications.com/en/model/c92a303a
+EF2	https://www.devicespecifications.com/en/model/ed592fc2
+Primo G5	https://www.devicespecifications.com/en/model/19d72f67
+Primo S3	https://www.devicespecifications.com/en/model/15e72f2f
+Primo GH3	https://www.devicespecifications.com/en/model/f19e2ecb
+Primo E3	https://www.devicespecifications.com/en/model/d2b72e13
+Primo HM	https://www.devicespecifications.com/en/model/066d2e12
+Primo X3	https://www.devicespecifications.com/en/model/1ce42e02
+Primo RX2	https://www.devicespecifications.com/en/model/bf2b2e08
+Primo F4	https://www.devicespecifications.com/en/model/56be2e14
+Primo V1	https://www.devicespecifications.com/en/model/6d972e09
+Primo H3	https://www.devicespecifications.com/en/model/3e142e15
+Primo ZX	https://www.devicespecifications.com/en/model/62902e01
+Walpad 8b	https://www.devicespecifications.com/en/model/05b02e04
+Primo S2	https://www.devicespecifications.com/en/model/b01b2e0a
+Primo R2	https://www.devicespecifications.com/en/model/02f62e2d
+Walpad 8w	https://www.devicespecifications.com/en/model/58582e05
+Walpad 8	https://www.devicespecifications.com/en/model/ff752e06
+Primo X2 mini	https://www.devicespecifications.com/en/model/dadc2e2c
+Primo X1	https://www.devicespecifications.com/en/model/43792e2b
+Walpad 7	https://www.devicespecifications.com/en/model/89682e07
+Primo X2	https://www.devicespecifications.com/en/model/c8642e03

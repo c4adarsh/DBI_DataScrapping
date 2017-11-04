@@ -1,0 +1,18 @@
+X6	https://www.devicespecifications.com/en/model/898846af
+X9	https://www.devicespecifications.com/en/model/f6a9444a
+S9	https://www.devicespecifications.com/en/model/4e664449
+S7	https://www.devicespecifications.com/en/model/8afc443b
+S6	https://www.devicespecifications.com/en/model/f456443a
+V9	https://www.devicespecifications.com/en/model/55944553
+V8	https://www.devicespecifications.com/en/model/8c024552
+V7	https://www.devicespecifications.com/en/model/030c4551
+R7B	https://www.devicespecifications.com/en/model/c3c944d5
+R6	https://www.devicespecifications.com/en/model/2c30412d
+R7	https://www.devicespecifications.com/en/model/c7c04102
+R7S	https://www.devicespecifications.com/en/model/01b53da4
+J7	https://www.devicespecifications.com/en/model/d72f412c
+Proofings W8	https://www.devicespecifications.com/en/model/3e2c3bf6
+Proofings W9	https://www.devicespecifications.com/en/model/6c133bf5
+Proofings W7	https://www.devicespecifications.com/en/model/c2ad3bfa
+Proofings W6	https://www.devicespecifications.com/en/model/b4003c14
+Proofings W5	https://www.devicespecifications.com/en/model/ba983c15

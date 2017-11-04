@@ -1,0 +1,9 @@
+Neffos X1 Lite	https://www.devicespecifications.com/en/model/20034411
+Neffos Y50	https://www.devicespecifications.com/en/model/bd123fc8
+Neffos X1 Max	https://www.devicespecifications.com/en/model/b1853e38
+Neffos X1	https://www.devicespecifications.com/en/model/e4123e37
+Neffos Y5	https://www.devicespecifications.com/en/model/712a3e22
+Neffos Y5L	https://www.devicespecifications.com/en/model/0e0f3d08
+Neffos C5L	https://www.devicespecifications.com/en/model/3d183952
+Neffos C5 Max	https://www.devicespecifications.com/en/model/74893951
+Neffos C5	https://www.devicespecifications.com/en/model/19983950

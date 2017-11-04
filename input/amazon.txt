@@ -1,0 +1,14 @@
+Fire HD 10 (2017)	https://www.devicespecifications.com/en/model/252845e0
+Fire 7 (2017)	https://www.devicespecifications.com/en/model/94cf4357
+Fire HD 8 (2017)	https://www.devicespecifications.com/en/model/5c494356
+Fire HD 8 (2016)	https://www.devicespecifications.com/en/model/60873e58
+Fire HD 10	https://www.devicespecifications.com/en/model/d20936bf
+Fire HD 8	https://www.devicespecifications.com/en/model/92b836be
+Fire	https://www.devicespecifications.com/en/model/527736bd
+Fire HDX 8.9	https://www.devicespecifications.com/en/model/94a92f92
+Fire Phone	https://www.devicespecifications.com/en/model/704c2d81
+Kindle Fire HDX 8.9	https://www.devicespecifications.com/en/model/cafe2e1c
+Kindle Fire HDX 7	https://www.devicespecifications.com/en/model/e3b82e1e
+Kindle Fire HD 7	https://www.devicespecifications.com/en/model/e1a32e23
+Kindle Paperwhite (2013)	https://www.devicespecifications.com/en/model/517d2e37
+Kindle Paperwhite	https://www.devicespecifications.com/en/model/92752e19

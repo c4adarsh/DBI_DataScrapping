@@ -1,0 +1,82 @@
+F6	https://www.devicespecifications.com/en/model/255946a3
+M7 Power	https://www.devicespecifications.com/en/model/95b24613
+M7	https://www.devicespecifications.com/en/model/b0c245f4
+Big Gold Steel 2	https://www.devicespecifications.com/en/model/16e345f3
+X1s	https://www.devicespecifications.com/en/model/171945d7
+X1	https://www.devicespecifications.com/en/model/cf5244cc
+F109	https://www.devicespecifications.com/en/model/391f4493
+A1 Lite	https://www.devicespecifications.com/en/model/9f5b43ef
+S10C	https://www.devicespecifications.com/en/model/1b574383
+S10B	https://www.devicespecifications.com/en/model/730b4382
+S10	https://www.devicespecifications.com/en/model/bc7a4381
+M6S Plus	https://www.devicespecifications.com/en/model/150d42cf
+A1 Plus	https://www.devicespecifications.com/en/model/ad8041b4
+A1	https://www.devicespecifications.com/en/model/a6ca41b3
+F5	https://www.devicespecifications.com/en/model/68f84132
+F106	https://www.devicespecifications.com/en/model/593a40e5
+James Bond 2	https://www.devicespecifications.com/en/model/18ed4077
+M2017	https://www.devicespecifications.com/en/model/07bc4075
+P7	https://www.devicespecifications.com/en/model/e131401e
+S9	https://www.devicespecifications.com/en/model/776c3f99
+P7 Max	https://www.devicespecifications.com/en/model/cdeb3f0c
+Big Magic	https://www.devicespecifications.com/en/model/b2cf3edb
+F100S	https://www.devicespecifications.com/en/model/e45d3eaa
+S6s	https://www.devicespecifications.com/en/model/19703dea
+M6 Plus	https://www.devicespecifications.com/en/model/27533d6c
+M6	https://www.devicespecifications.com/en/model/0fa63d6b
+F103 Pro	https://www.devicespecifications.com/en/model/981d3d17
+S6 Pro	https://www.devicespecifications.com/en/model/ce0d3c8e
+F103B	https://www.devicespecifications.com/en/model/1eaf3bef
+S5	https://www.devicespecifications.com/en/model/12643bed
+F100	https://www.devicespecifications.com/en/model/8a4b3bee
+Pioneer P5L (2016)	https://www.devicespecifications.com/en/model/0a423b5f
+W909	https://www.devicespecifications.com/en/model/09a23b0e
+Pioneer P5 Mini	https://www.devicespecifications.com/en/model/d5fc3ae3
+S8	https://www.devicespecifications.com/en/model/13f63a5a
+Marathon M5 mini	https://www.devicespecifications.com/en/model/fe0839ca
+F105	https://www.devicespecifications.com/en/model/418b3963
+Marathon M5 Enjoy	https://www.devicespecifications.com/en/model/114538ea
+Marathon M5 Plus	https://www.devicespecifications.com/en/model/ecf138e9
+P5w	https://www.devicespecifications.com/en/model/fe3c3892
+S6	https://www.devicespecifications.com/en/model/8b113815
+Marathon M5 Lite	https://www.devicespecifications.com/en/model/e5da38a9
+S Plus	https://www.devicespecifications.com/en/model/1a5137c1
+Pioneer P3S	https://www.devicespecifications.com/en/model/791c36e5
+S5.1 Pro	https://www.devicespecifications.com/en/model/0055364b
+F103	https://www.devicespecifications.com/en/model/faae362f
+Marathon M4	https://www.devicespecifications.com/en/model/2f163592
+Pioneer P2M	https://www.devicespecifications.com/en/model/09a43558
+Marathon M5	https://www.devicespecifications.com/en/model/32073487
+Elife E8	https://www.devicespecifications.com/en/model/b7873486
+Pioneer P4S	https://www.devicespecifications.com/en/model/75ce3429
+Elife S7	https://www.devicespecifications.com/en/model/ce8632f4
+Pioneer P6	https://www.devicespecifications.com/en/model/040e3217
+V183	https://www.devicespecifications.com/en/model/c822322e
+Ctrl V6L	https://www.devicespecifications.com/en/model/3f4930b8
+W900	https://www.devicespecifications.com/en/model/0caa322f
+Pioneer P5L	https://www.devicespecifications.com/en/model/858730b7
+F301	https://www.devicespecifications.com/en/model/f8cd308d
+Marathon M3	https://www.devicespecifications.com/en/model/ee663085
+GN715	https://www.devicespecifications.com/en/model/96f02fb7
+Elife S5.1	https://www.devicespecifications.com/en/model/7a4a314e
+Elife S5.1 GN9005	https://www.devicespecifications.com/en/model/24b32e30
+CTRL V4S	https://www.devicespecifications.com/en/model/c1563056
+GPad G5	https://www.devicespecifications.com/en/model/9fd12f24
+V188	https://www.devicespecifications.com/en/model/fed22f22
+Elife S5.5L	https://www.devicespecifications.com/en/model/45a22da5
+Pioneer P2S	https://www.devicespecifications.com/en/model/cf732d59
+Ctrl V5	https://www.devicespecifications.com/en/model/bfc42c5b
+Pioneer P4	https://www.devicespecifications.com/en/model/a7e22c00
+Elife S5.5	https://www.devicespecifications.com/en/model/5b3b2af8
+Marathon M2	https://www.devicespecifications.com/en/model/1cbe2afa
+Pioneer P3	https://www.devicespecifications.com/en/model/d8863557
+Elife E7 mini	https://www.devicespecifications.com/en/model/fd0e2a2c
+Elife E7 32GB	https://www.devicespecifications.com/en/model/efd02a2b
+Elife E7 16 GB	https://www.devicespecifications.com/en/model/b2b02a2a
+V185	https://www.devicespecifications.com/en/model/22802c85
+GPad G4	https://www.devicespecifications.com/en/model/e0002af9
+GPad G3	https://www.devicespecifications.com/en/model/ab432afb
+Elife E6	https://www.devicespecifications.com/en/model/98422a2d
+Elife E5	https://www.devicespecifications.com/en/model/9b522a2e
+Elife E3	https://www.devicespecifications.com/en/model/3b552a2f
+CTRL V4	https://www.devicespecifications.com/en/model/a6333055

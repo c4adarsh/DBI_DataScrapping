@@ -1,0 +1,40 @@
+BV4000 Pro	https://www.devicespecifications.com/en/model/39e946bc
+A10	https://www.devicespecifications.com/en/model/3656468c
+S8	https://www.devicespecifications.com/en/model/49104607
+A7 Pro	https://www.devicespecifications.com/en/model/58f1458f
+BV4000	https://www.devicespecifications.com/en/model/b9f5456e
+A7	https://www.devicespecifications.com/en/model/883e448a
+BV8000 Pro	https://www.devicespecifications.com/en/model/7378438c
+R6 Lite	https://www.devicespecifications.com/en/model/e6804378
+BV7000	https://www.devicespecifications.com/en/model/d3b442bf
+P2 Lite	https://www.devicespecifications.com/en/model/4bf7424e
+A9 Pro	https://www.devicespecifications.com/en/model/aac04239
+BV7000 Pro	https://www.devicespecifications.com/en/model/ff1e416d
+P2	https://www.devicespecifications.com/en/model/f9c7406b
+R6	https://www.devicespecifications.com/en/model/334a3f5b
+E7s	https://www.devicespecifications.com/en/model/1c3f3ef6
+E7	https://www.devicespecifications.com/en/model/ff363dd1
+A8 Max	https://www.devicespecifications.com/en/model/0e823d6a
+BV6000s	https://www.devicespecifications.com/en/model/5e8d3d28
+R7	https://www.devicespecifications.com/en/model/47a53c7d
+BV6000	https://www.devicespecifications.com/en/model/ec7a3bb4
+A5	https://www.devicespecifications.com/en/model/7ba23b4b
+A8	https://www.devicespecifications.com/en/model/69aa3ab9
+Ultra Plus	https://www.devicespecifications.com/en/model/adc538bf
+BV2000S	https://www.devicespecifications.com/en/model/91363878
+BV2000	https://www.devicespecifications.com/en/model/ca88375b
+BV5000	https://www.devicespecifications.com/en/model/333f35f7
+Omega Pro	https://www.devicespecifications.com/en/model/64903583
+Alife P1 Pro	https://www.devicespecifications.com/en/model/53053472
+Zeta	https://www.devicespecifications.com/en/model/3a603439
+Alife S1	https://www.devicespecifications.com/en/model/23b73376
+Breeze	https://www.devicespecifications.com/en/model/e1d23326
+Acme	https://www.devicespecifications.com/en/model/0e253484
+Omega	https://www.devicespecifications.com/en/model/3bf2316a
+Ultra	https://www.devicespecifications.com/en/model/ac793169
+V3	https://www.devicespecifications.com/en/model/51cc32a0
+Arrow	https://www.devicespecifications.com/en/model/5f263478
+DM550	https://www.devicespecifications.com/en/model/3934316b
+Crown	https://www.devicespecifications.com/en/model/cf5d2df7
+JK900	https://www.devicespecifications.com/en/model/b88b2df8
+JK450	https://www.devicespecifications.com/en/model/344c2df9

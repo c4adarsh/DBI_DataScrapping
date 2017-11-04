@@ -1,0 +1,85 @@
+Iconia One 8 B1-860	https://www.devicespecifications.com/en/model/9a294418
+Iconia One 10 B3-A40FHD	https://www.devicespecifications.com/en/model/a3484417
+Iconia One 10 B3-A40	https://www.devicespecifications.com/en/model/d6294416
+Liquid Z6E	https://www.devicespecifications.com/en/model/bdfe40e1
+Iconia One 10 B3-A30	https://www.devicespecifications.com/en/model/8f384388
+Liquid Z6 Plus	https://www.devicespecifications.com/en/model/2ae53e24
+Liquid Z6	https://www.devicespecifications.com/en/model/a4af3e23
+Iconia Talk S A1-734	https://www.devicespecifications.com/en/model/44143e1f
+Iconia Tab 10 A3-A40	https://www.devicespecifications.com/en/model/a24d3b76
+Liquid Jade 2	https://www.devicespecifications.com/en/model/1b763a5d
+Iconia One 8 B1-850	https://www.devicespecifications.com/en/model/8649392f
+Liquid Jade Primo	https://www.devicespecifications.com/en/model/5e86378b
+Iconia One 10 B3-A20	https://www.devicespecifications.com/en/model/bb6c3d18
+Iconia Talk 7	https://www.devicespecifications.com/en/model/28dc3b94
+Predator 8	https://www.devicespecifications.com/en/model/0d7d3675
+Liquid Z330	https://www.devicespecifications.com/en/model/8fcd3649
+Liquid Z320	https://www.devicespecifications.com/en/model/47cd3648
+Liquid Z630S	https://www.devicespecifications.com/en/model/d9fe363c
+Liquid Z630	https://www.devicespecifications.com/en/model/cb07363b
+Liquid Z530S	https://www.devicespecifications.com/en/model/c9a73639
+Liquid Z530	https://www.devicespecifications.com/en/model/ce143638
+Liquid M330	https://www.devicespecifications.com/en/model/75383637
+Liquid M320	https://www.devicespecifications.com/en/model/5ef13636
+Iconia Tab 10 A3-A30	https://www.devicespecifications.com/en/model/f1373b5c
+Iconia One 7 B1-770	https://www.devicespecifications.com/en/model/ab443af8
+Liquid X2	https://www.devicespecifications.com/en/model/8d9b3b65
+Iconia Tab 10 A3-A20FHD-K1AY	https://www.devicespecifications.com/en/model/599e334b
+Iconia Tab 10 A3-A20FHD-K0CQ	https://www.devicespecifications.com/en/model/ebcf334a
+Iconia Tab 10 A3-A20FHD-K8KX	https://www.devicespecifications.com/en/model/f5243349
+Liquid Jade Z	https://www.devicespecifications.com/en/model/967132d7
+Liquid Z520	https://www.devicespecifications.com/en/model/565632d6
+Liquid Z220	https://www.devicespecifications.com/en/model/0ad832d5
+Liquid M220	https://www.devicespecifications.com/en/model/aabe32d4
+Liquid Z410	https://www.devicespecifications.com/en/model/dd4c31be
+Liquid Jade S	https://www.devicespecifications.com/en/model/604f314f
+Iconia Talk S	https://www.devicespecifications.com/en/model/72cb3137
+Iconia One 8 B1-810	https://www.devicespecifications.com/en/model/4a6e30e2
+Liquid Z500	https://www.devicespecifications.com/en/model/0b842f48
+Iconia Tab 10 A3-A20	https://www.devicespecifications.com/en/model/664f2ecd
+Iconia One 7 B1-750	https://www.devicespecifications.com/en/model/bc1230ef
+Iconia Tab 8	https://www.devicespecifications.com/en/model/16612d1d
+Liquid Jade	https://www.devicespecifications.com/en/model/84642d1c
+Liquid E600	https://www.devicespecifications.com/en/model/d4452d1b
+Liquid E700	https://www.devicespecifications.com/en/model/01ee2d1a
+Liquid X1	https://www.devicespecifications.com/en/model/30de2d18
+Liquid Z200	https://www.devicespecifications.com/en/model/07162d19
+Liquid E3 Duo Plus	https://www.devicespecifications.com/en/model/daf62f90
+Iconia Tab 7 A1-713HD	https://www.devicespecifications.com/en/model/c80a2c53
+Iconia Tab 7 A1-713	https://www.devicespecifications.com/en/model/2efd2c54
+Iconia One 7 B1-730HD	https://www.devicespecifications.com/en/model/3de12c52
+Liquid E3	https://www.devicespecifications.com/en/model/48872b00
+Liquid Z4	https://www.devicespecifications.com/en/model/ebba2aff
+Iconia B1-721	https://www.devicespecifications.com/en/model/9f4d2b04
+Iconia B1-720	https://www.devicespecifications.com/en/model/2ccc2a6c
+Iconia A1-830	https://www.devicespecifications.com/en/model/6abb2a3c
+Liquid Z5	https://www.devicespecifications.com/en/model/38f92a3a
+Iconia Tab B1-710	https://www.devicespecifications.com/en/model/09442a3d
+Iconia W4-820	https://www.devicespecifications.com/en/model/465d2a6b
+Iconia A3	https://www.devicespecifications.com/en/model/0c712a3e
+Liquid S2	https://www.devicespecifications.com/en/model/d3ad2998
+Liquid Z3	https://www.devicespecifications.com/en/model/1a702997
+Liquid S1	https://www.devicespecifications.com/en/model/1b242811
+Iconia A1	https://www.devicespecifications.com/en/model/27162812
+Liquid E2	https://www.devicespecifications.com/en/model/39092813
+Liquid Z2	https://www.devicespecifications.com/en/model/0a902814
+Liquid C1	https://www.devicespecifications.com/en/model/0d682815
+Liquid E1	https://www.devicespecifications.com/en/model/84c52816
+Iconia Tab B1	https://www.devicespecifications.com/en/model/1b5b2817
+Iconia Tab A210	https://www.devicespecifications.com/en/model/76a9281e
+Iconia Tab A110	https://www.devicespecifications.com/en/model/24252818
+Liquid Z110	https://www.devicespecifications.com/en/model/8a962819
+Liquid Gallant	https://www.devicespecifications.com/en/model/0452281a
+Liquid Gallant Duo	https://www.devicespecifications.com/en/model/6361281b
+CloudMobile	https://www.devicespecifications.com/en/model/5e53281d
+Liquid Glow	https://www.devicespecifications.com/en/model/865a281c
+Iconia Tab A700	https://www.devicespecifications.com/en/model/baed2821
+Iconia Tab A511	https://www.devicespecifications.com/en/model/6e3f2822
+Iconia Tab A701	https://www.devicespecifications.com/en/model/e0a22820
+Iconia Tab A510	https://www.devicespecifications.com/en/model/d6532823
+Iconia Tab A200	https://www.devicespecifications.com/en/model/53b1281f
+Allegro	https://www.devicespecifications.com/en/model/2e8a2824
+Liquid Express	https://www.devicespecifications.com/en/model/23402a40
+Iconia Tab A501	https://www.devicespecifications.com/en/model/ddaf2a41
+Iconia Smart	https://www.devicespecifications.com/en/model/15022a42
+Iconia Tab A500	https://www.devicespecifications.com/en/model/7ccb2a43

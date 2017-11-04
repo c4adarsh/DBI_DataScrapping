@@ -1,0 +1,71 @@
+Z5000	https://www.devicespecifications.com/en/model/935a457c
+P5000	https://www.devicespecifications.com/en/model/1bb3457b
+Flash X1	https://www.devicespecifications.com/en/model/e45a457a
+Flash X2	https://www.devicespecifications.com/en/model/8b5d4556
+Speed X	https://www.devicespecifications.com/en/model/db5c43dd
+Color X5.5i	https://www.devicespecifications.com/en/model/ec4e430c
+Color M5i	https://www.devicespecifications.com/en/model/e66b430b
+Color M4i	https://www.devicespecifications.com/en/model/ed97430a
+Color M5	https://www.devicespecifications.com/en/model/574642bb
+Color M4	https://www.devicespecifications.com/en/model/f0f042aa
+Color X5.5	https://www.devicespecifications.com/en/model/837a428c
+Color C5i	https://www.devicespecifications.com/en/model/40624242
+Flash X Plus 2GB	https://www.devicespecifications.com/en/model/fd754241
+Flash X Plus	https://www.devicespecifications.com/en/model/40c141c9
+Color C5	https://www.devicespecifications.com/en/model/ab7b4175
+Flash G5 Plus	https://www.devicespecifications.com/en/model/24fc4006
+Color F3	https://www.devicespecifications.com/en/model/762c3f21
+Color F1	https://www.devicespecifications.com/en/model/0ae83f25
+Color C2	https://www.devicespecifications.com/en/model/b0053e6b
+Hero 2	https://www.devicespecifications.com/en/model/314c3d84
+Color C3	https://www.devicespecifications.com/en/model/3ee43d11
+Color F5	https://www.devicespecifications.com/en/model/a4ae3d0d
+Color F2	https://www.devicespecifications.com/en/model/67f63d0c
+Speed 8	https://www.devicespecifications.com/en/model/1f023a72
+Speed 7C	https://www.devicespecifications.com/en/model/926039af
+Color S5	https://www.devicespecifications.com/en/model/df7d3c21
+Color E5.5	https://www.devicespecifications.com/en/model/a4c238d1
+Color S5.5	https://www.devicespecifications.com/en/model/dc4f38d0
+Hero 1	https://www.devicespecifications.com/en/model/0b813895
+Color E1	https://www.devicespecifications.com/en/model/7ac73894
+Color C1	https://www.devicespecifications.com/en/model/1e543893
+Flash S	https://www.devicespecifications.com/en/model/e78336ab
+Flash E	https://www.devicespecifications.com/en/model/86b936aa
+Flash C	https://www.devicespecifications.com/en/model/292436a9
+Speed 7 GP	https://www.devicespecifications.com/en/model/e24636ac
+Speed 7 Plus	https://www.devicespecifications.com/en/model/77a53531
+Speed 7	https://www.devicespecifications.com/en/model/5c063530
+Color E ZP350	https://www.devicespecifications.com/en/model/3e933443
+Color C ZP330	https://www.devicespecifications.com/en/model/19c13442
+Touch ZP532	https://www.devicespecifications.com/en/model/52ff33dd
+Touch ZP530	https://www.devicespecifications.com/en/model/86e1327e
+Focus ZP720	https://www.devicespecifications.com/en/model/a24e31eb
+ZP520+	https://www.devicespecifications.com/en/model/f0bc31ea
+ZP320+	https://www.devicespecifications.com/en/model/1d8a31e9
+Magic ZP920	https://www.devicespecifications.com/en/model/b6b0319a
+3X	https://www.devicespecifications.com/en/model/a0a231e8
+Lion Heart ZP999	https://www.devicespecifications.com/en/model/9e192fcf
+ZP1000S	https://www.devicespecifications.com/en/model/858b302c
+ZP590	https://www.devicespecifications.com/en/model/ea982ec3
+ZP520	https://www.devicespecifications.com/en/model/f5902e0b
+ZP320	https://www.devicespecifications.com/en/model/b9272da3
+ZP580	https://www.devicespecifications.com/en/model/7e122c9a
+ZP780	https://www.devicespecifications.com/en/model/001b2c03
+Cuppy ZP700	https://www.devicespecifications.com/en/model/54be2c04
+ZP998	https://www.devicespecifications.com/en/model/945d2ab7
+ZP1000	https://www.devicespecifications.com/en/model/a6242b86
+ZP990+	https://www.devicespecifications.com/en/model/29d82adc
+ZP600+ Infinity	https://www.devicespecifications.com/en/model/8eae2ab9
+ZP990 Gold Edition	https://www.devicespecifications.com/en/model/3a7c2ab8
+ZP820 Raiden	https://www.devicespecifications.com/en/model/a3c12abb
+ZP980+	https://www.devicespecifications.com/en/model/1b9f2ac3
+ZP990 Captain S	https://www.devicespecifications.com/en/model/fc992abc
+C7	https://www.devicespecifications.com/en/model/86072ac2
+ZP980 Ultimate	https://www.devicespecifications.com/en/model/90502ac4
+C3	https://www.devicespecifications.com/en/model/d3d92ac5
+C2	https://www.devicespecifications.com/en/model/74972ac6
+ZP980 Scorpio	https://www.devicespecifications.com/en/model/32fa2bec
+Libero HD ZP800H	https://www.devicespecifications.com/en/model/56902ac7
+ZP910	https://www.devicespecifications.com/en/model/562c2cbe
+ZP950+	https://www.devicespecifications.com/en/model/39ee2ac8
+Libero ZP500	https://www.devicespecifications.com/en/model/d2de3423

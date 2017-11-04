@@ -1,0 +1,101 @@
+Grace 3201 4G	https://www.devicespecifications.com/en/model/d4c4468d
+Muze 3708 3G	https://www.devicespecifications.com/en/model/dca646ac
+Grace 3157 4G	https://www.devicespecifications.com/en/model/455846a9
+Grace 3157 3G	https://www.devicespecifications.com/en/model/2c8346a8
+Muze H3	https://www.devicespecifications.com/en/model/e24645a4
+Muze B7	https://www.devicespecifications.com/en/model/25274589
+Wize R3	https://www.devicespecifications.com/en/model/d3b64543
+Grace R5 LTE	https://www.devicespecifications.com/en/model/92c7454c
+Muze G3 LTE	https://www.devicespecifications.com/en/model/8fe44475
+Grace 3318 3G	https://www.devicespecifications.com/en/model/c56b445d
+MultiPad Wize 3618 4G	https://www.devicespecifications.com/en/model/64f7445c
+MultiPad Wize 3518 4G	https://www.devicespecifications.com/en/model/7af8445b
+MultiPad Wize 3418 4G	https://www.devicespecifications.com/en/model/569a445a
+Wize G3	https://www.devicespecifications.com/en/model/789345f9
+Grace S7 LTE	https://www.devicespecifications.com/en/model/6dd24430
+Muze B3	https://www.devicespecifications.com/en/model/f1454376
+MultiPad Visconte A	https://www.devicespecifications.com/en/model/008445f8
+Wize 3401 3G	https://www.devicespecifications.com/en/model/c844422f
+Wize 3131 3G	https://www.devicespecifications.com/en/model/89f6422e
+Grace Z3	https://www.devicespecifications.com/en/model/07054149
+Wize OK3	https://www.devicespecifications.com/en/model/26964147
+Wize NV3	https://www.devicespecifications.com/en/model/c2f14148
+Wize PX3	https://www.devicespecifications.com/en/model/2f7d4146
+Grace 3118 3G	https://www.devicespecifications.com/en/model/9f434018
+MultiPad Wize 3147 3G	https://www.devicespecifications.com/en/model/b92b3fc9
+Grace R7	https://www.devicespecifications.com/en/model/c80f3f82
+Grace Z5	https://www.devicespecifications.com/en/model/f2ca3efe
+Wize NK3	https://www.devicespecifications.com/en/model/b7003ee1
+MultiPad Color 2 3G	https://www.devicespecifications.com/en/model/4cf44230
+MultiPad Wize 3407 4G	https://www.devicespecifications.com/en/model/91733e61
+Wize P3	https://www.devicespecifications.com/en/model/2d013e13
+Muze K5	https://www.devicespecifications.com/en/model/446b3dfd
+MultiPad Wize 3351 3G	https://www.devicespecifications.com/en/model/0b4c3db8
+MultiPad Wize 3508 4G	https://www.devicespecifications.com/en/model/dde63db6
+MultiPad Wize 3108 3G	https://www.devicespecifications.com/en/model/df7e401a
+Wize М3	https://www.devicespecifications.com/en/model/f8713f00
+Wize L3	https://www.devicespecifications.com/en/model/df383eff
+Wize O3	https://www.devicespecifications.com/en/model/78223f01
+Muze A7	https://www.devicespecifications.com/en/model/e6de3ee3
+Muze A5	https://www.devicespecifications.com/en/model/61b33ee2
+MultiPad Visconte V	https://www.devicespecifications.com/en/model/01dd3d2b
+Wize N3	https://www.devicespecifications.com/en/model/34d23cbe
+MultiPad Wize 3408 4G	https://www.devicespecifications.com/en/model/16693ca9
+Muze F3	https://www.devicespecifications.com/en/model/16d73c7c
+MultiPad Wize 3797 3G	https://www.devicespecifications.com/en/model/22723c51
+MultiPad Wize 3331 3G	https://www.devicespecifications.com/en/model/71ab3fcc
+MultiPad Wize 3341 3G	https://www.devicespecifications.com/en/model/b2943db7
+Grace Q5	https://www.devicespecifications.com/en/model/b0a73a15
+Grace S5 LTE	https://www.devicespecifications.com/en/model/c4863b0b
+Muze E3	https://www.devicespecifications.com/en/model/a898380a
+Muze D3	https://www.devicespecifications.com/en/model/80563b0d
+Muze C3	https://www.devicespecifications.com/en/model/7fb43b0c
+MultiPad Visconte Quad 3G	https://www.devicespecifications.com/en/model/cdaa34a4
+Grace X7	https://www.devicespecifications.com/en/model/0157338c
+MultiPad Consul 7008 4G	https://www.devicespecifications.com/en/model/8f96333d
+Muze A3	https://www.devicespecifications.com/en/model/2313332f
+Wize A3	https://www.devicespecifications.com/en/model/033d332e
+Grace X5	https://www.devicespecifications.com/en/model/11ca32b5
+Grace X3	https://www.devicespecifications.com/en/model/bc6a32b0
+MultiPhone 5550 Duo	https://www.devicespecifications.com/en/model/de5f32b1
+MultiPad Muze 5011 3G	https://www.devicespecifications.com/en/model/a4e2317c
+MultiPad Wize 3057 3G	https://www.devicespecifications.com/en/model/89dd352e
+MultiPad Muze 5018 3G	https://www.devicespecifications.com/en/model/86ac3123
+MultiPad Muze 5021 3G	https://www.devicespecifications.com/en/model/187d3120
+MultiPad Wize 3047 3G	https://www.devicespecifications.com/en/model/62bb352d
+MultiPad Wize 3037 3G	https://www.devicespecifications.com/en/model/407c3115
+MultiPad Wize 3017	https://www.devicespecifications.com/en/model/eb1a3114
+MultiPad Visconte Quad	https://www.devicespecifications.com/en/model/acde3109
+MultiPhone 5507 DUO	https://www.devicespecifications.com/en/model/ff1030c2
+MultiPhone 5454 DUO	https://www.devicespecifications.com/en/model/93a030c1
+MultiPhone 3450 DUO	https://www.devicespecifications.com/en/model/b9d330c0
+MultiPhone 3405 DUO	https://www.devicespecifications.com/en/model/973c30bf
+MultiPhone 3404 DUO	https://www.devicespecifications.com/en/model/67bb30be
+MultiPad Visconte 3	https://www.devicespecifications.com/en/model/94412f99
+MultiPhone 5504 DUO	https://www.devicespecifications.com/en/model/9b082f84
+MultiPhone 5505 DUO	https://www.devicespecifications.com/en/model/728e2eb9
+MultiPhone 5455 DUO	https://www.devicespecifications.com/en/model/69772eae
+MultiPad Thunder 7.0i	https://www.devicespecifications.com/en/model/d1b32f74
+MultiPhone 5508 DUO	https://www.devicespecifications.com/en/model/269d2e62
+Grace	https://www.devicespecifications.com/en/model/54db2f38
+MultiPhone PAP5503 DUO	https://www.devicespecifications.com/en/model/70872e61
+MultiPhone 8500 DUO	https://www.devicespecifications.com/en/model/30062e64
+MultiPhone 8400 DUO	https://www.devicespecifications.com/en/model/e8bf2e63
+MultiPhone PAP5507 DUO	https://www.devicespecifications.com/en/model/70ca2ca5
+MultiPad 4 Quantum 10.1 3G	https://www.devicespecifications.com/en/model/6e552c11
+MultiPad 4 Quantum 9.7 Colombia	https://www.devicespecifications.com/en/model/d3ca2c12
+MultiPad 4 Ultra Quad 8.0 3G	https://www.devicespecifications.com/en/model/37082c13
+MultiPhone PAP7600 DUO	https://www.devicespecifications.com/en/model/b66e2c10
+MultiPhone 7500 32 GB	https://www.devicespecifications.com/en/model/63552c15
+MultiPhone 7500 16 GB	https://www.devicespecifications.com/en/model/75102c14
+MultiPhone 5501	https://www.devicespecifications.com/en/model/de422c16
+MultiPhone 5500 DUO	https://www.devicespecifications.com/en/model/d74f2c17
+MultiPhone 5451 DUO	https://www.devicespecifications.com/en/model/c5592c18
+MultiPhone 5450 DUO	https://www.devicespecifications.com/en/model/60572c19
+MultiPhone 3400 DUO	https://www.devicespecifications.com/en/model/91a42c1a
+MultiPhone 5400 DUO	https://www.devicespecifications.com/en/model/f1cb2c1c
+MultiPhone 5300 DUO	https://www.devicespecifications.com/en/model/a7542c1d
+Multireader Supreme 5664	https://www.devicespecifications.com/en/model/bf372e24
+MultiPhone PAP5430	https://www.devicespecifications.com/en/model/e5d82c1b
+MultiPhone PAP3501 DUO	https://www.devicespecifications.com/en/model/680a2d96
+MultiPhone 5044 DUO	https://www.devicespecifications.com/en/model/ce2e2c1e

@@ -1,0 +1,19 @@
+Arrows M04	https://www.devicespecifications.com/en/model/cd974460
+Arrows NX F-01J	https://www.devicespecifications.com/en/model/c8b53fe0
+Arrows M357	https://www.devicespecifications.com/en/model/28a63f47
+Arrows M03	https://www.devicespecifications.com/en/model/3a223d86
+Arrows SV F-03H	https://www.devicespecifications.com/en/model/96853c4d
+Arrows NX F-02H	https://www.devicespecifications.com/en/model/0b0b386d
+Arrows Tab M01T	https://www.devicespecifications.com/en/model/b6eb373b
+Arrows M02	https://www.devicespecifications.com/en/model/fd77373a
+Arrows NX F-04G	https://www.devicespecifications.com/en/model/734f3403
+Arrows M01	https://www.devicespecifications.com/en/model/6131310e
+Arrows M555/KA4	https://www.devicespecifications.com/en/model/3faa3054
+Arrows M305/KA4	https://www.devicespecifications.com/en/model/2abf3053
+Arrows Tab F-03G	https://www.devicespecifications.com/en/model/f296300e
+Arrows NX F-02G	https://www.devicespecifications.com/en/model/4545300d
+Arrows NX F-05F	https://www.devicespecifications.com/en/model/93a2301a
+Arrows A 301F	https://www.devicespecifications.com/en/model/e4a831f8
+Arrows Tab F-02F	https://www.devicespecifications.com/en/model/59b33179
+Arrows NX F-01F	https://www.devicespecifications.com/en/model/cbcf3076
+Arrows A 202F	https://www.devicespecifications.com/en/model/8f2b309b

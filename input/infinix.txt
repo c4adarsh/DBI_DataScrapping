@@ -1,0 +1,19 @@
+Smart	https://www.devicespecifications.com/en/model/0ee044ed
+Note 4 Pro	https://www.devicespecifications.com/en/model/690344d0
+Note 4	https://www.devicespecifications.com/en/model/78f044cf
+S2	https://www.devicespecifications.com/en/model/fdfa42a9
+Note 3 Pro	https://www.devicespecifications.com/en/model/56354336
+Note 3	https://www.devicespecifications.com/en/model/06fa414e
+Zero 4+	https://www.devicespecifications.com/en/model/92874082
+Zero 4	https://www.devicespecifications.com/en/model/983e3fe8
+Hot 4 Pro	https://www.devicespecifications.com/en/model/9665414d
+Hot 4 Lite	https://www.devicespecifications.com/en/model/3e4c414c
+Hot 4	https://www.devicespecifications.com/en/model/67e2414b
+Hot S	https://www.devicespecifications.com/en/model/bdb9414a
+Hot3 LTE	https://www.devicespecifications.com/en/model/37453d1c
+Hot 3	https://www.devicespecifications.com/en/model/be9a3d1b
+Zero 3	https://www.devicespecifications.com/en/model/676738e6
+Note 2	https://www.devicespecifications.com/en/model/e96c38e7
+Hot 2	https://www.devicespecifications.com/en/model/e4d836e9
+Zero 2	https://www.devicespecifications.com/en/model/32ed39a7
+Hot Note	https://www.devicespecifications.com/en/model/ab48370d

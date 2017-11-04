@@ -1,0 +1,32 @@
+XM300	https://www.devicespecifications.com/en/model/b00740ec
+Max	https://www.devicespecifications.com/en/model/85fe40ad
+XM200 Pro	https://www.devicespecifications.com/en/model/cf2440ac
+S7	https://www.devicespecifications.com/en/model/70c2406d
+XM100 Pro	https://www.devicespecifications.com/en/model/cb793cb3
+V11	https://www.devicespecifications.com/en/model/252c3c13
+V1	https://www.devicespecifications.com/en/model/e2413c11
+V6	https://www.devicespecifications.com/en/model/4c383b9e
+V2	https://www.devicespecifications.com/en/model/62d13b9b
+V9	https://www.devicespecifications.com/en/model/5b903bd1
+V81	https://www.devicespecifications.com/en/model/05293b93
+V7	https://www.devicespecifications.com/en/model/384a3da5
+V80	https://www.devicespecifications.com/en/model/88fd3a96
+V5	https://www.devicespecifications.com/en/model/d6a43a97
+XM100	https://www.devicespecifications.com/en/model/8f5338fb
+V3G	https://www.devicespecifications.com/en/model/35223bb3
+L8	https://www.devicespecifications.com/en/model/a79e3471
+L1	https://www.devicespecifications.com/en/model/08b63454
+S6	https://www.devicespecifications.com/en/model/5f3d343a
+L500S	https://www.devicespecifications.com/en/model/f8d93997
+L500	https://www.devicespecifications.com/en/model/ab073996
+L600 Pro	https://www.devicespecifications.com/en/model/75f93230
+L600S	https://www.devicespecifications.com/en/model/6de53186
+L600	https://www.devicespecifications.com/en/model/b1e83185
+L550	https://www.devicespecifications.com/en/model/61ab30d9
+L200S	https://www.devicespecifications.com/en/model/d74f321f
+L200G	https://www.devicespecifications.com/en/model/f6842ff4
+L200	https://www.devicespecifications.com/en/model/4e9e2ff5
+L900	https://www.devicespecifications.com/en/model/163a2ff6
+L100	https://www.devicespecifications.com/en/model/8c4f2ff8
+L800S	https://www.devicespecifications.com/en/model/236e3220
+L800	https://www.devicespecifications.com/en/model/9fcb2ff7

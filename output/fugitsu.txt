@@ -1,0 +1,379 @@
+Weight: 148 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 7.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cd974460/320/main.jpg
+name=Arrows M04;
+
+Weight: 169 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2850 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c8b53fe0/320/main.jpg
+name=Arrows NX F-01J;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/28a63f47/320/main.jpg
+name=Arrows M357;
+
+Weight: 141 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3a223d86
+imageUrl=https://www.devicespecifications.com/images/model/3a223d86/320/main.jpg
+name=Arrows M03;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2580 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/96853c4d/320/main.jpg
+name=Arrows SV F-03H;
+
+Weight: 167 g
+SoC: Qualcomm Snapdragon 808 MSM8992
+CPU: 2x 1.8 GHz ARM Cortex-A57, 4x 1.44 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 418, 600 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.4 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3390 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0b0b386d/320/main.jpg
+name=Arrows NX F-02H;
+
+Weight: 433 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.5 in, OLED, 2560 x 1600 pixels, 24 bit
+Battery: 7840 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b6eb373b/320/main.jpg
+name=Arrows Tab M01T;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 410 MSM8916
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 306, 400 MHz
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, OLED, 720 x 1280 pixels, 24 bit
+Battery: 2330 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fd77373a
+imageUrl=https://www.devicespecifications.com/images/model/fd77373a/320/main.jpg
+name=Arrows M02;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3120 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/734f3403
+imageUrl=https://www.devicespecifications.com/images/model/734f3403/320/main.jpg
+name=Arrows NX F-04G;
+
+Weight: 153 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, OLED, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6131310e/320/main.jpg
+name=Arrows M01;
+
+Weight: 610 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, LCD, 1280 x 800 pixels, 24 bit
+Battery: 9600 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3faa3054/320/main.jpg
+name=Arrows M555/KA4;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, OLED, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/2abf3053/320/main.jpg
+name=Arrows M305/KA4;
+
+Weight: 433 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.5 in, AMOLED, 2560 x 1600 pixels, 24 bit
+Battery: 7840 mAh
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f296300e/320/main.jpg
+name=Arrows Tab F-03G;
+
+Weight: 168 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3500 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 2560 x 1440 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/4545300d
+imageUrl=https://www.devicespecifications.com/images/model/4545300d/320/main.jpg
+name=Arrows NX F-02G;
+
+Weight: 159 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/93a2301a/320/main.jpg
+name=Arrows NX F-05F;
+
+Weight: 157 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e4a831f8/320/main.jpg
+name=Arrows A 301F;
+
+Weight: 519 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 2560 x 1600 pixels, 24 bit
+Battery: 9600 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/59b33179/320/main.jpg
+name=Arrows Tab F-02F;
+
+Weight: 150 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/cbcf3076
+imageUrl=https://www.devicespecifications.com/images/model/cbcf3076/320/main.jpg
+name=Arrows NX F-01F;
+
+Weight: 158 g
+SoC: Qualcomm Snapdragon 600 APQ8064T
+CPU: Krait 300, 1700 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3020 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8f2b309b/320/main.jpg
+name=Arrows A 202F;
+

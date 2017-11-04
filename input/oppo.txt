@@ -1,0 +1,69 @@
+R11s Plus	https://www.devicespecifications.com/en/model/52c446b3
+R11s	https://www.devicespecifications.com/en/model/6a22468f
+F5	https://www.devicespecifications.com/en/model/60904695
+R9S Pro	https://www.devicespecifications.com/en/model/b5ca463c
+A71	https://www.devicespecifications.com/en/model/bcde4582
+A77 MSM8953	https://www.devicespecifications.com/en/model/d9ef4489
+R11 Plus	https://www.devicespecifications.com/en/model/698c43ca
+R11	https://www.devicespecifications.com/en/model/1b8d43b0
+A77	https://www.devicespecifications.com/en/model/65fd4344
+F3	https://www.devicespecifications.com/en/model/9be142f8
+F3 Plus	https://www.devicespecifications.com/en/model/e16e4233
+A57	https://www.devicespecifications.com/en/model/2f4f3fd2
+A39	https://www.devicespecifications.com/en/model/ede43f4d
+R9S Plus	https://www.devicespecifications.com/en/model/a0473f27
+R9S	https://www.devicespecifications.com/en/model/5c2d3f26
+A59S	https://www.devicespecifications.com/en/model/30e63eea
+F1s	https://www.devicespecifications.com/en/model/7d2b3d93
+A59	https://www.devicespecifications.com/en/model/57f23c86
+A37	https://www.devicespecifications.com/en/model/9b903ea2
+A37 Octa Core	https://www.devicespecifications.com/en/model/e1fe3be8
+F1 Plus	https://www.devicespecifications.com/en/model/6b9c3b29
+R9 Plus	https://www.devicespecifications.com/en/model/7b3f3ac7
+R9	https://www.devicespecifications.com/en/model/42eb3ac6
+F1 ICC WT20	https://www.devicespecifications.com/en/model/ef4a3aac
+F1	https://www.devicespecifications.com/en/model/5667396d
+R7 Plus High Version	https://www.devicespecifications.com/en/model/260538a0
+Mirror 5 Lite	https://www.devicespecifications.com/en/model/e5063a0c
+A53	https://www.devicespecifications.com/en/model/f9c73841
+A33	https://www.devicespecifications.com/en/model/48a037e6
+Neo 7	https://www.devicespecifications.com/en/model/21e83795
+R7s	https://www.devicespecifications.com/en/model/887e376f
+A51	https://www.devicespecifications.com/en/model/d0903842
+R7 Lite	https://www.devicespecifications.com/en/model/3aab363a
+R5s	https://www.devicespecifications.com/en/model/166435f3
+Mirror 5	https://www.devicespecifications.com/en/model/a5573512
+Joy 3	https://www.devicespecifications.com/en/model/2e6d34c1
+Mirror 5s	https://www.devicespecifications.com/en/model/d69d34bf
+Neo 5 (2015)	https://www.devicespecifications.com/en/model/27da347a
+R7 Plus	https://www.devicespecifications.com/en/model/bece341f
+R7	https://www.devicespecifications.com/en/model/c49c341e
+Neo 5s	https://www.devicespecifications.com/en/model/8d1d3402
+A31	https://www.devicespecifications.com/en/model/1b2f338b
+Joy Plus	https://www.devicespecifications.com/en/model/2d603374
+3000	https://www.devicespecifications.com/en/model/b2b43282
+U3	https://www.devicespecifications.com/en/model/bc4d3222
+R1C	https://www.devicespecifications.com/en/model/9fb131f7
+Mirror 3	https://www.devicespecifications.com/en/model/1b333200
+3005	https://www.devicespecifications.com/en/model/cce631ff
+3007	https://www.devicespecifications.com/en/model/0a633187
+N3	https://www.devicespecifications.com/en/model/882f3063
+R5	https://www.devicespecifications.com/en/model/ca413062
+Neo 5 4G	https://www.devicespecifications.com/en/model/e8282ece
+N1 mini	https://www.devicespecifications.com/en/model/74582d0f
+R1K	https://www.devicespecifications.com/en/model/a2ac2e99
+Neo 3	https://www.devicespecifications.com/en/model/20df2f37
+R3	https://www.devicespecifications.com/en/model/56a22d57
+R6007	https://www.devicespecifications.com/en/model/583c2d1e
+Joy	https://www.devicespecifications.com/en/model/075b2c3e
+R2001 YoYo	https://www.devicespecifications.com/en/model/e31b2c2c
+R1S	https://www.devicespecifications.com/en/model/fdf62c22
+Find 7a	https://www.devicespecifications.com/en/model/f48d2b7c
+Find 7	https://www.devicespecifications.com/en/model/2f462b7b
+Neo	https://www.devicespecifications.com/en/model/fd6429f1
+R1	https://www.devicespecifications.com/en/model/53d62a0b
+Find 5 Mini	https://www.devicespecifications.com/en/model/58f32a82
+N1	https://www.devicespecifications.com/en/model/9b802992
+Mirror R819	https://www.devicespecifications.com/en/model/500a2994
+Find 5	https://www.devicespecifications.com/en/model/52712995
+Ulike 2	https://www.devicespecifications.com/en/model/25122996

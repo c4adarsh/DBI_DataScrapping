@@ -1,0 +1,12 @@
+Le X920	https://www.devicespecifications.com/en/model/99d24350
+Le Pro 3 AI Eco Edition	https://www.devicespecifications.com/en/model/749d428e
+Le Pro 3 AI Standard Edition	https://www.devicespecifications.com/en/model/a9b3428d
+Le Pro 3 Elite	https://www.devicespecifications.com/en/model/430441ed
+Le S3 Helio X20	https://www.devicespecifications.com/en/model/96bc4074
+Le S3	https://www.devicespecifications.com/en/model/6f6e3f2b
+Le Pro 3	https://www.devicespecifications.com/en/model/6c903e90
+Le 2 X520	https://www.devicespecifications.com/en/model/60313d30
+Le Max2	https://www.devicespecifications.com/en/model/847a3b81
+Le 2 Pro X25	https://www.devicespecifications.com/en/model/fba83b82
+Le 2 Pro X20	https://www.devicespecifications.com/en/model/a10b3c62
+Le 2	https://www.devicespecifications.com/en/model/77103b83

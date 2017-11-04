@@ -1,0 +1,59 @@
+BQ-1081G Grace	https://www.devicespecifications.com/en/model/0adf46a7
+BQ-7083G Light	https://www.devicespecifications.com/en/model/4c9f46a6
+BQ-4583 Fox Power	https://www.devicespecifications.com/en/model/2b9f4618
+BQ-7081G Charm	https://www.devicespecifications.com/en/model/bc7645e5
+BQ-7082G Armor	https://www.devicespecifications.com/en/model/cf5045e4
+BQ-5204 Strike Selfie	https://www.devicespecifications.com/en/model/a438457f
+BQ-5035 Velvet	https://www.devicespecifications.com/en/model/09b9457e
+BQ-4028 UP	https://www.devicespecifications.com/en/model/779b453a
+BQ-5054 Crystal	https://www.devicespecifications.com/en/model/22ba4510
+BQ-5504 Strike Selfie Max	https://www.devicespecifications.com/en/model/b25b44e6
+BQ-5000L Trend	https://www.devicespecifications.com/en/model/acbe44e5
+BQ-4500L Fox LTE	https://www.devicespecifications.com/en/model/cbfe44e4
+BQ-5590 Spring	https://www.devicespecifications.com/en/model/8c3244b5
+BQ-4072 Strike Mini	https://www.devicespecifications.com/en/model/4683449a
+BQ-5503 Nice 2	https://www.devicespecifications.com/en/model/cb4d4499
+BQ-5058 Strike Power Easy SE	https://www.devicespecifications.com/en/model/91654467
+BQ-5203 Vision	https://www.devicespecifications.com/en/model/9f83442d
+BQ-5044 Strike LTE	https://www.devicespecifications.com/en/model/734543fb
+BQ-5510 Strike Power Max 4G	https://www.devicespecifications.com/en/model/4f3b43c1
+BQ-5521 Strike Power Max	https://www.devicespecifications.com/en/model/e15a43c0
+BQ-5201 Space	https://www.devicespecifications.com/en/model/8ea443a9
+BQ-5202 Space Lite	https://www.devicespecifications.com/en/model/0cd743a8
+BQ-5033 Shark	https://www.devicespecifications.com/en/model/ec9b43a7
+BQ-5037 Strike Power 4G	https://www.devicespecifications.com/en/model/104342f4
+BQ-5082 Sense 2	https://www.devicespecifications.com/en/model/881a4281
+BQ-4526 Fox	https://www.devicespecifications.com/en/model/a7b34280
+BQ-5058 Strike Power Easy	https://www.devicespecifications.com/en/model/cd0a4278
+BQ-5059 Strike Power	https://www.devicespecifications.com/en/model/f1224269
+BQ-5057 Strike 2	https://www.devicespecifications.com/en/model/17c54268
+BQ-5020 Strike SE	https://www.devicespecifications.com/en/model/0a204200
+BQ-4026 UP	https://www.devicespecifications.com/en/model/2bc4416e
+BQ-5052 Sense	https://www.devicespecifications.com/en/model/95ad4104
+BQ-5060 Slim	https://www.devicespecifications.com/en/model/62fb40bd
+BQ-7021G Hit	https://www.devicespecifications.com/en/model/752a4052
+BQ-6050 Jumbo	https://www.devicespecifications.com/en/model/16c24043
+BQ-5071 Belief	https://www.devicespecifications.com/en/model/d2a74042
+BQ-5022 Bond	https://www.devicespecifications.com/en/model/d1ee3ffa
+BQ-5032 Element	https://www.devicespecifications.com/en/model/ebe43ff9
+BQS-5065 Choice	https://www.devicespecifications.com/en/model/53213f78
+BQS-5050 Strike Selfie	https://www.devicespecifications.com/en/model/d3b43f0e
+BQS-5520 Mercury	https://www.devicespecifications.com/en/model/95a93e9c
+BQS-5070 Magic	https://www.devicespecifications.com/en/model/6b5a3e95
+BQS-5040 Force	https://www.devicespecifications.com/en/model/e9013e8d
+BQS-5045 Fast	https://www.devicespecifications.com/en/model/3ecd3e8c
+BQ-1045G Orion	https://www.devicespecifications.com/en/model/73913e46
+BQS-5515 Wide	https://www.devicespecifications.com/en/model/ef333dd3
+BQS-5030 Fresh	https://www.devicespecifications.com/en/model/86f53dd6
+BQS-4800 Blade	https://www.devicespecifications.com/en/model/df3e3dd4
+BQS-4504 Nice	https://www.devicespecifications.com/en/model/69563dd7
+BQS-4570 Drive	https://www.devicespecifications.com/en/model/57813de5
+BQS-4560 Golf	https://www.devicespecifications.com/en/model/06783df1
+BQS-5025 HighWay	https://www.devicespecifications.com/en/model/d3433df2
+BQS-5502 Hammer	https://www.devicespecifications.com/en/model/62533df3
+BQS-5020 Strike	https://www.devicespecifications.com/en/model/f5ab3df4
+BQS-5505 Amsterdam	https://www.devicespecifications.com/en/model/b29e3e7f
+BQS-5011 Monte Carlo	https://www.devicespecifications.com/en/model/dca13e80
+BQS-5009 Sidney	https://www.devicespecifications.com/en/model/0e3a3e81
+BQS-5006 Los Angeles	https://www.devicespecifications.com/en/model/f5cf3e82
+BQS-4555 Turbo	https://www.devicespecifications.com/en/model/2ba23e8e

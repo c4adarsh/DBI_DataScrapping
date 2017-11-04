@@ -1,0 +1,52 @@
+Orion Pro s5205	https://www.devicespecifications.com/en/model/5bb446b8
+Bolt Pro II s5029	https://www.devicespecifications.com/en/model/653a46b7
+Cyprus Pro s6005X	https://www.devicespecifications.com/en/model/f8be466a
+Rocket SL5565	https://www.devicespecifications.com/en/model/683444dd
+Cosmo s5528	https://www.devicespecifications.com/en/model/2fa54483
+Alpha Pro s5527	https://www.devicespecifications.com/en/model/7d4a4476
+KolorPad IV T7445	https://www.devicespecifications.com/en/model/68634423
+Crystal s4009	https://www.devicespecifications.com/en/model/50814422
+Spear JR s5034	https://www.devicespecifications.com/en/model/ad0f42b3
+Spear s5035	https://www.devicespecifications.com/en/model/22814257
+Alpha s5526	https://www.devicespecifications.com/en/model/f9a14256
+Bolt s5028	https://www.devicespecifications.com/en/model/cb0e4255
+Luna II s4513	https://www.devicespecifications.com/en/model/2342423b
+Bolt Pro s5027	https://www.devicespecifications.com/en/model/1128423a
+Maverick Pro SL5560	https://www.devicespecifications.com/en/model/1c2c413c
+Wave Pro s5021	https://www.devicespecifications.com/en/model/f528411a
+Wave s5019	https://www.devicespecifications.com/en/model/ea2c411b
+Leo s4008	https://www.devicespecifications.com/en/model/90d0401f
+Eclipse SL5200	https://www.devicespecifications.com/en/model/462e3f8e
+Phantom SL5050	https://www.devicespecifications.com/en/model/3f4d3f5f
+Maverick III JR. s5524	https://www.devicespecifications.com/en/model/5e423e9f
+Cyprus JR. s6004	https://www.devicespecifications.com/en/model/bb943e84
+Lotus Plus s5007	https://www.devicespecifications.com/en/model/07b33e5d
+Jet II SL5008	https://www.devicespecifications.com/en/model/75903dd9
+KolorPad LTE TL8010	https://www.devicespecifications.com/en/model/84bb3d53
+Leo IV s4007	https://www.devicespecifications.com/en/model/b0a23d4f
+Cyprus II s6005	https://www.devicespecifications.com/en/model/eda63d4b
+Maverick III s5525	https://www.devicespecifications.com/en/model/61df3d4a
+Maverick II S5530	https://www.devicespecifications.com/en/model/6ed33c43
+Lotus JR. s5004	https://www.devicespecifications.com/en/model/5f623ba3
+Helix II s5030	https://www.devicespecifications.com/en/model/afdb3b45
+Lotus II s5005	https://www.devicespecifications.com/en/model/18b93aff
+Spark LTE SL5011	https://www.devicespecifications.com/en/model/3c173a13
+Leo LTE SL4050	https://www.devicespecifications.com/en/model/b63339f6
+KolorPad III T7442	https://www.devicespecifications.com/en/model/af3539f5
+Cyprus LTE SL6010	https://www.devicespecifications.com/en/model/13db39dc
+Fusion II SL4502	https://www.devicespecifications.com/en/model/b26e38cc
+Giant s5020	https://www.devicespecifications.com/en/model/57f338cd
+Maverick LTE SL5550	https://www.devicespecifications.com/en/model/800d384c
+Helix s5025	https://www.devicespecifications.com/en/model/2a5d384b
+Lotus s5001	https://www.devicespecifications.com/en/model/d9ce3820
+Leo JR s4005	https://www.devicespecifications.com/en/model/aa783821
+Jet SL5009	https://www.devicespecifications.com/en/model/285b380d
+Dorado s5017Q	https://www.devicespecifications.com/en/model/f9ac3811
+KolorPad II T7440	https://www.devicespecifications.com/en/model/dd1539f4
+Mystic II s3504	https://www.devicespecifications.com/en/model/adae3813
+Maverick JR. s5516	https://www.devicespecifications.com/en/model/5d213bc8
+Sol JR. s5002	https://www.devicespecifications.com/en/model/32cf3c4b
+Maverick s5518Q	https://www.devicespecifications.com/en/model/b613380c
+Sol Quatro s5016	https://www.devicespecifications.com/en/model/ba1b3c4c
+Fusion SL4500	https://www.devicespecifications.com/en/model/f8a53904
+Cyprus s6001	https://www.devicespecifications.com/en/model/33503b03

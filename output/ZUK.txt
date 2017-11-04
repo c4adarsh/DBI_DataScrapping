@@ -1,0 +1,114 @@
+Weight: 160 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.35 GHz Kryo, 2x 2.0 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 653 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou, Galileo    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0b42404e/320/main.jpg
+name=Edge L;
+
+Weight: 160 g
+SoC: Qualcomm Snapdragon 821 MSM8996 Pro
+CPU: 2x 2.35 GHz Kryo, 2x 2.0 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 653 MHz
+RAM: 4 GB, 6 GB, 1866 MHz
+Storage: 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou, Galileo    
+priceUrl=https://www.devicespecifications.com/en/price/d2a6404d
+imageUrl=https://www.devicespecifications.com/images/model/d2a6404d/320/main.jpg
+name=Edge;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 3 GB, 1866 MHz
+Storage: 32 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou, Galileo    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4a693d73/320/main.jpg
+name=Z2 Rio Edition;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 3 GB, 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou, Galileo    
+priceUrl=https://www.devicespecifications.com/en/price/b9793c54
+imageUrl=https://www.devicespecifications.com/images/model/b9793c54/320/main.jpg
+name=Z2;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 6 GB, 1866 MHz
+Storage: 64 GB, 128 GB
+Display: 5.2 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou, Galileo    
+priceUrl=https://www.devicespecifications.com/en/price/4ff23b8d
+imageUrl=https://www.devicespecifications.com/images/model/4ff23b8d/320/main.jpg
+name=Z2 Pro;
+
+Weight: 175 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: CyanogenMod 12.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/2d3a35b6
+imageUrl=https://www.devicespecifications.com/images/model/2d3a35b6/320/main.jpg
+name=Z1;
+

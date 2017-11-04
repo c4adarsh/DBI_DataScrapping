@@ -1,0 +1,5 @@
+Pixel 2 XL	https://www.devicespecifications.com/en/model/231a461a
+Pixel 2	https://www.devicespecifications.com/en/model/cd694619
+Pixel XL	https://www.devicespecifications.com/en/model/a95e3ed6
+Pixel	https://www.devicespecifications.com/en/model/00dc3ed5
+Pixel C	https://www.devicespecifications.com/en/model/bdc138a2

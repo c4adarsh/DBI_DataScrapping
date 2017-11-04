@@ -1,0 +1,36 @@
+Motion	https://www.devicespecifications.com/en/model/95d24637
+Aurora	https://www.devicespecifications.com/en/model/95b841f0
+KEYone	https://www.devicespecifications.com/en/model/31b441a2
+DTEK60	https://www.devicespecifications.com/en/model/19c93ec6
+DTEK50	https://www.devicespecifications.com/en/model/df3e3d6f
+Priv	https://www.devicespecifications.com/en/model/7d8d376c
+Passport Silver Edition	https://www.devicespecifications.com/en/model/ee813597
+Leap	https://www.devicespecifications.com/en/model/940d32f8
+Classic Non Camera	https://www.devicespecifications.com/en/model/c6ec32d2
+Classic Q20	https://www.devicespecifications.com/en/model/e71130f7
+Porsche Design P'9983	https://www.devicespecifications.com/en/model/a2462f91
+Passport	https://www.devicespecifications.com/en/model/89602d89
+Z3	https://www.devicespecifications.com/en/model/5ce22b2e
+Porsche Design P'9982	https://www.devicespecifications.com/en/model/174e29d5
+Z30	https://www.devicespecifications.com/en/model/e32d28ae
+9720	https://www.devicespecifications.com/en/model/2dc528ad
+Q5	https://www.devicespecifications.com/en/model/025a279c
+Q10	https://www.devicespecifications.com/en/model/15b4279e
+Z10	https://www.devicespecifications.com/en/model/5103279d
+Curve 9320	https://www.devicespecifications.com/en/model/e88a279f
+Curve 9220	https://www.devicespecifications.com/en/model/164327a0
+Curve 9380	https://www.devicespecifications.com/en/model/90db27a1
+Porsche Design	https://www.devicespecifications.com/en/model/550927a3
+Bold 9790	https://www.devicespecifications.com/en/model/8e4727a2
+Curve 9350	https://www.devicespecifications.com/en/model/f94227a6
+Curve 9370	https://www.devicespecifications.com/en/model/6f3727a4
+Torch 9860	https://www.devicespecifications.com/en/model/036527a8
+Torch 9850	https://www.devicespecifications.com/en/model/af4927a9
+Torch 9810	https://www.devicespecifications.com/en/model/ee2b27a7
+Curve 9360	https://www.devicespecifications.com/en/model/b8ad27a5
+Bold Touch 9900	https://www.devicespecifications.com/en/model/5e3a27aa
+Bold Touch 9930	https://www.devicespecifications.com/en/model/882427ab
+Bold 9780	https://www.devicespecifications.com/en/model/93e327ac
+Style 9670	https://www.devicespecifications.com/en/model/983627ad
+Curve 3G 9330	https://www.devicespecifications.com/en/model/872227ae
+Curve 3G 9300	https://www.devicespecifications.com/en/model/2bd027af

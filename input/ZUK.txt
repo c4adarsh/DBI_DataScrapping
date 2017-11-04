@@ -1,0 +1,6 @@
+Edge L	https://www.devicespecifications.com/en/model/0b42404e
+Edge	https://www.devicespecifications.com/en/model/d2a6404d
+Z2 Rio Edition	https://www.devicespecifications.com/en/model/4a693d73
+Z2	https://www.devicespecifications.com/en/model/b9793c54
+Z2 Pro	https://www.devicespecifications.com/en/model/4ff23b8d
+Z1	https://www.devicespecifications.com/en/model/2d3a35b6

@@ -1,0 +1,17 @@
+Terra T54P	https://www.devicespecifications.com/en/model/e86544a6
+Terra T51	https://www.devicespecifications.com/en/model/4da144aa
+G21	https://www.devicespecifications.com/en/model/bddb426d
+Ginger G7s	https://www.devicespecifications.com/en/model/50eb41d6
+Ginger G7	https://www.devicespecifications.com/en/model/47f641d5
+Leisure L7	https://www.devicespecifications.com/en/model/e6ff41d4
+Terra T53P	https://www.devicespecifications.com/en/model/e51e44a9
+G55	https://www.devicespecifications.com/en/model/e44f426e
+L56	https://www.devicespecifications.com/en/model/2a584270
+L55	https://www.devicespecifications.com/en/model/9034426f
+Esteem V4	https://www.devicespecifications.com/en/model/a6ef3948
+L53	https://www.devicespecifications.com/en/model/3e9238c9
+L52	https://www.devicespecifications.com/en/model/114538c8
+i701	https://www.devicespecifications.com/en/model/84da383c
+L50	https://www.devicespecifications.com/en/model/14eb38c7
+G100	https://www.devicespecifications.com/en/model/214d383d
+Voyage V5	https://www.devicespecifications.com/en/model/c21d38ca

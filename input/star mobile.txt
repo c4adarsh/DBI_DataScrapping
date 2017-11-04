@@ -1,0 +1,14 @@
+Up Prime	https://www.devicespecifications.com/en/model/133542f1
+Play Dash	https://www.devicespecifications.com/en/model/090a42f0
+Play LiTE	https://www.devicespecifications.com/en/model/08694007
+Play Boost	https://www.devicespecifications.com/en/model/49aa4009
+Play Five	https://www.devicespecifications.com/en/model/e512400e
+Up Rave	https://www.devicespecifications.com/en/model/c2044013
+Play Plus	https://www.devicespecifications.com/en/model/6e36400f
+Up Sense	https://www.devicespecifications.com/en/model/76c74012
+Up Ultra	https://www.devicespecifications.com/en/model/f1e138e2
+Jump HD	https://www.devicespecifications.com/en/model/0dbc38fd
+Knight Spectra	https://www.devicespecifications.com/en/model/54cb37f4
+Knight Elite	https://www.devicespecifications.com/en/model/062137f5
+Up Max	https://www.devicespecifications.com/en/model/838038e3
+Jump Neo	https://www.devicespecifications.com/en/model/361d38fe

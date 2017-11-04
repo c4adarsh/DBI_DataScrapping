@@ -1,0 +1,36 @@
+Aquaris V Plus	https://www.devicespecifications.com/en/model/823e45dc
+Aquaris V	https://www.devicespecifications.com/en/model/c96d45db
+Aquaris U2	https://www.devicespecifications.com/en/model/d3b645da
+Aquaris U2 Lite	https://www.devicespecifications.com/en/model/cbf645d9
+Aquaris M 2017	https://www.devicespecifications.com/en/model/653743c7
+Aquaris X Pro	https://www.devicespecifications.com/en/model/cbda420c
+Aquaris X	https://www.devicespecifications.com/en/model/5775420b
+Aquaris M8	https://www.devicespecifications.com/en/model/558c3f49
+Aquaris U Plus	https://www.devicespecifications.com/en/model/e9ce3eb8
+Aquaris U Lite	https://www.devicespecifications.com/en/model/892e3eb7
+Aquaris U	https://www.devicespecifications.com/en/model/7db73eb6
+Aquaris X5 Plus	https://www.devicespecifications.com/en/model/52a73a5e
+Aquaris M10 Ubuntu Edition	https://www.devicespecifications.com/en/model/f8283a2f
+Aquaris E5s	https://www.devicespecifications.com/en/model/ce33389b
+Aquaris M10 Full HD	https://www.devicespecifications.com/en/model/750639f1
+Aquaris M10 HD	https://www.devicespecifications.com/en/model/b0443803
+Aquaris X5	https://www.devicespecifications.com/en/model/c9b23800
+Aquaris A4.5	https://www.devicespecifications.com/en/model/895a36c2
+Aquaris M5.5	https://www.devicespecifications.com/en/model/f3b235bb
+Aquaris M5	https://www.devicespecifications.com/en/model/376c35a3
+Aquaris M4.5	https://www.devicespecifications.com/en/model/51d035ba
+Aquaris E5 HD Ubuntu Edition	https://www.devicespecifications.com/en/model/05f034d3
+Aquaris E4.5 Ubuntu Edition	https://www.devicespecifications.com/en/model/d75732bc
+Tesla 2 W8	https://www.devicespecifications.com/en/model/d437362b
+Edison 3 mini	https://www.devicespecifications.com/en/model/afd0311b
+Aquaris E10	https://www.devicespecifications.com/en/model/f84b311a
+Aquaris E5 4G	https://www.devicespecifications.com/en/model/ad803119
+Aquaris E6	https://www.devicespecifications.com/en/model/c71730e7
+Aquaris E5 FHD	https://www.devicespecifications.com/en/model/a75230e6
+Aquaris E5 HD	https://www.devicespecifications.com/en/model/741b30e5
+Aquaris E4.5	https://www.devicespecifications.com/en/model/a12a30e4
+Aquaris E4	https://www.devicespecifications.com/en/model/920230e3
+Aquaris 5.7	https://www.devicespecifications.com/en/model/59bb30eb
+Aquaris 5 HD	https://www.devicespecifications.com/en/model/445730ea
+Aquaris 4	https://www.devicespecifications.com/en/model/b18730e9
+Aquaris 3.5	https://www.devicespecifications.com/en/model/ccfc30e8

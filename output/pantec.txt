@@ -1,0 +1,312 @@
+Weight: 130 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.15 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3d6b3cc6/320/main.jpg
+name=IM-100;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 415 MSM8929
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/33a83ab1/320/main.jpg
+name=V955;
+
+Weight: 152 g
+SoC: Qualcomm Snapdragon 415 MSM8929
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405
+RAM: 2 GB, 667 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d7113ab0/320/main.jpg
+name=V950;
+
+Weight: 178 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3220 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/258f2ea2/320/main.jpg
+name=Vega Pop Up Note;
+
+Weight: 152 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB v3
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.3 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3220 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9fed2b69/320/main.jpg
+name=Vega Iron 2;
+
+Weight: 173 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3150 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/91822a33/320/main.jpg
+name=Vega Secret Up;
+
+Weight: 190 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.9 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b59e2a35/320/main.jpg
+name=Vega Secret Note;
+
+Weight: 181 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 5.6 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/662229fd/320/main.jpg
+name=Vega LTE-A;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.8 in, Super AMOLED, 720 x 1280 pixels, 24 bit
+Battery: 2020 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, E911    
+priceUrl=https://www.devicespecifications.com/en/price/1e7129f8
+imageUrl=https://www.devicespecifications.com/images/model/1e7129f8/320/main.jpg
+name=Perception;
+
+Weight: 154 g
+SoC: Qualcomm Snapdragon 600 APQ8064T
+CPU: Krait 300, 1700 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2150 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/39bc29f7/320/main.jpg
+name=Vega Iron;
+
+Weight: 210 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait 200, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.9 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3140 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, S-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a50a29f5/320/main.jpg
+name=Vega No 6;
+
+Weight: 135 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.8 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2100 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/330029f6
+imageUrl=https://www.devicespecifications.com/images/model/330029f6/320/main.jpg
+name=Discover;
+
+Weight: 134 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 2 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1810 mAh, Li-Polymer
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a36029fe/320/main.jpg
+name=Vega PTL21;
+
+Weight: 168 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait 200, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/92c329f9/320/main.jpg
+name=Vega R3;
+
+Weight: 132 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED, 540 x 960 pixels, 24 bit
+Battery: 1830 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f40229fa
+imageUrl=https://www.devicespecifications.com/images/model/f40229fa/320/main.jpg
+name=Flex;
+
+Weight: 128 g
+SoC: Qualcomm QSC6270
+Cores: 1
+RAM: 256 MB
+Storage: 185.344 MB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1000 mAh, Li-Ion
+OS: Brew Mobile Platform 1.0.4
+Camera: 2048 x 1536 pixels, 320 x 240 pixels, 15 fps
+SIM card: Mini-SIM
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/1b7d29ff/320/main.jpg
+name=Renue;
+

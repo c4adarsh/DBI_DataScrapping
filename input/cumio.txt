@@ -1,0 +1,5 @@
+A8	https://www.devicespecifications.com/en/model/d93a44c2
+i2	https://www.devicespecifications.com/en/model/735d44c4
+T9	https://www.devicespecifications.com/en/model/eb1544c3
+M1	https://www.devicespecifications.com/en/model/23e444c6
+C1	https://www.devicespecifications.com/en/model/b38144c5

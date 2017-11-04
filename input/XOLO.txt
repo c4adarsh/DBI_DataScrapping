@@ -1,0 +1,89 @@
+Era 2V	https://www.devicespecifications.com/en/model/b6c1464a
+Era 3X	https://www.devicespecifications.com/en/model/f4e74649
+Era 3	https://www.devicespecifications.com/en/model/aa774648
+Era 1X Pro	https://www.devicespecifications.com/en/model/99db447a
+Era 2X	https://www.devicespecifications.com/en/model/d4cd40a0
+Era 2	https://www.devicespecifications.com/en/model/93ca3f4b
+Era 1X	https://www.devicespecifications.com/en/model/bd473e70
+Era X	https://www.devicespecifications.com/en/model/9e513a70
+Era 4G	https://www.devicespecifications.com/en/model/76b13a2b
+Era 4K	https://www.devicespecifications.com/en/model/b7233a1b
+One HD	https://www.devicespecifications.com/en/model/cf79390b
+8X-1000i	https://www.devicespecifications.com/en/model/4b0e38ce
+Era HD	https://www.devicespecifications.com/en/model/3a2a37dc
+Black 1X	https://www.devicespecifications.com/en/model/b31137a3
+Black	https://www.devicespecifications.com/en/model/91ca3511
+Era	https://www.devicespecifications.com/en/model/8c8d3510
+Cube 5.0	https://www.devicespecifications.com/en/model/04f634ae
+Prime	https://www.devicespecifications.com/en/model/6a8c3404
+LT2000	https://www.devicespecifications.com/en/model/2e353345
+Q1001	https://www.devicespecifications.com/en/model/a77b3338
+Q600 Club	https://www.devicespecifications.com/en/model/3f42330b
+A1010	https://www.devicespecifications.com/en/model/3caf32d3
+Win Q1000	https://www.devicespecifications.com/en/model/7fe232b8
+Q520s	https://www.devicespecifications.com/en/model/d631323a
+8X-1020	https://www.devicespecifications.com/en/model/89153234
+Q700 Club	https://www.devicespecifications.com/en/model/7aac31b2
+Q900S Plus	https://www.devicespecifications.com/en/model/95a3315e
+Omega 5.5	https://www.devicespecifications.com/en/model/d46b313b
+Omega 5.0	https://www.devicespecifications.com/en/model/8a6e313a
+Opus 3	https://www.devicespecifications.com/en/model/2d3d3113
+Q710s	https://www.devicespecifications.com/en/model/2157313e
+Q1020	https://www.devicespecifications.com/en/model/821130a4
+One	https://www.devicespecifications.com/en/model/34ac3027
+Opus HD	https://www.devicespecifications.com/en/model/b2bc3016
+Q2100	https://www.devicespecifications.com/en/model/21b32fd0
+Play 8X-1100	https://www.devicespecifications.com/en/model/36952f36
+Q700s Plus	https://www.devicespecifications.com/en/model/f39b2f30
+Q1000s Plus	https://www.devicespecifications.com/en/model/0b132f2b
+Q610s	https://www.devicespecifications.com/en/model/2d012eec
+Q510s	https://www.devicespecifications.com/en/model/6c1a2ebd
+Play 8X-1200	https://www.devicespecifications.com/en/model/8d052e8a
+Play 8X-1000	https://www.devicespecifications.com/en/model/04f72e84
+A1000s	https://www.devicespecifications.com/en/model/175a2e8b
+A550s IPS	https://www.devicespecifications.com/en/model/24af2e79
+Q900S	https://www.devicespecifications.com/en/model/81692e48
+A700s	https://www.devicespecifications.com/en/model/b5b82e20
+Q1000 Opus2	https://www.devicespecifications.com/en/model/3dc32e1f
+Q500s IPS	https://www.devicespecifications.com/en/model/11e02dcb
+Play 6X 1000	https://www.devicespecifications.com/en/model/58232dca
+Win Q900s	https://www.devicespecifications.com/en/model/ee8b2db2
+Q2000L	https://www.devicespecifications.com/en/model/921d2dab
+Q1011	https://www.devicespecifications.com/en/model/6f692da4
+Win	https://www.devicespecifications.com/en/model/be252d63
+Q1200	https://www.devicespecifications.com/en/model/bbc22d44
+Q600s	https://www.devicespecifications.com/en/model/092b2d16
+A500s Lite	https://www.devicespecifications.com/en/model/2b0f2d15
+Q900T	https://www.devicespecifications.com/en/model/45162c8d
+Q1010i	https://www.devicespecifications.com/en/model/658e2be3
+Q2500	https://www.devicespecifications.com/en/model/636c2be4
+A510s	https://www.devicespecifications.com/en/model/47482be2
+Q1010	https://www.devicespecifications.com/en/model/50302ad0
+A500 Club	https://www.devicespecifications.com/en/model/09e62ac0
+Q1100	https://www.devicespecifications.com/en/model/4a4e2abf
+Q700s	https://www.devicespecifications.com/en/model/237c2a80
+Q3000	https://www.devicespecifications.com/en/model/a92d2a30
+LT900	https://www.devicespecifications.com/en/model/9a092a26
+Q1000 Opus	https://www.devicespecifications.com/en/model/aec22a1d
+Play Tegra Note	https://www.devicespecifications.com/en/model/31262a00
+Q500	https://www.devicespecifications.com/en/model/c0d129ac
+Q2000	https://www.devicespecifications.com/en/model/9826295f
+Q900	https://www.devicespecifications.com/en/model/c5d02961
+A600	https://www.devicespecifications.com/en/model/c7b02962
+A500L	https://www.devicespecifications.com/en/model/b9fa2963
+Play Tab 7.0	https://www.devicespecifications.com/en/model/0da72979
+Q700i	https://www.devicespecifications.com/en/model/918f296c
+Tab	https://www.devicespecifications.com/en/model/4c8a296d
+A500S IPS	https://www.devicespecifications.com/en/model/52132960
+Q1000S	https://www.devicespecifications.com/en/model/acf3296e
+A500S	https://www.devicespecifications.com/en/model/2baa296f
+Play	https://www.devicespecifications.com/en/model/e1532970
+Q600	https://www.devicespecifications.com/en/model/e8942971
+X910	https://www.devicespecifications.com/en/model/d9332973
+Q1000	https://www.devicespecifications.com/en/model/2ffd2975
+Q700	https://www.devicespecifications.com/en/model/b81f2977
+X1000	https://www.devicespecifications.com/en/model/e7c82972
+Q800	https://www.devicespecifications.com/en/model/db2b2976
+Q800 X-Edition	https://www.devicespecifications.com/en/model/da4a298b
+X500	https://www.devicespecifications.com/en/model/77cd2974
+A500	https://www.devicespecifications.com/en/model/03ab2978

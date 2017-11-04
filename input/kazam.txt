@@ -1,0 +1,12 @@
+Trooper 455	https://www.devicespecifications.com/en/model/8b67333f
+Trooper 445L	https://www.devicespecifications.com/en/model/3062333e
+Thunder 450WL	https://www.devicespecifications.com/en/model/b9983337
+Trooper 451	https://www.devicespecifications.com/en/model/53af3336
+Trooper 450	https://www.devicespecifications.com/en/model/c7383333
+Thunder 450W	https://www.devicespecifications.com/en/model/13af3307
+Tornado 552L	https://www.devicespecifications.com/en/model/18bc3306
+Tornado 350	https://www.devicespecifications.com/en/model/c46332c8
+Tornado 348	https://www.devicespecifications.com/en/model/41073065
+Thunder2 5.0	https://www.devicespecifications.com/en/model/45873b7b
+Thunder Q4.5	https://www.devicespecifications.com/en/model/2abb3057
+Trooper X5.5	https://www.devicespecifications.com/en/model/64a53067

@@ -1,0 +1,25 @@
+N7	https://www.devicespecifications.com/en/model/89e4469c
+W1S	https://www.devicespecifications.com/en/model/4be9378e
+Work W4	https://www.devicespecifications.com/en/model/85e134ee
+Work W6S	https://www.devicespecifications.com/en/model/5e9334ec
+Work W4S	https://www.devicespecifications.com/en/model/c1293394
+Work W3F	https://www.devicespecifications.com/en/model/b25e327f
+Work W7	https://www.devicespecifications.com/en/model/d3713695
+P9	https://www.devicespecifications.com/en/model/805d3a23
+Tab P7	https://www.devicespecifications.com/en/model/d8e734ed
+Work W6	https://www.devicespecifications.com/en/model/fbe63395
+W2	https://www.devicespecifications.com/en/model/e6213181
+T9S	https://www.devicespecifications.com/en/model/b1263a24
+M8Pro	https://www.devicespecifications.com/en/model/075b3696
+P8	https://www.devicespecifications.com/en/model/88d02e42
+T5	https://www.devicespecifications.com/en/model/929b2d3f
+Tab P1	https://www.devicespecifications.com/en/model/e5e12d83
+T8	https://www.devicespecifications.com/en/model/3d522d39
+P1	https://www.devicespecifications.com/en/model/4f81327d
+Titanium T9	https://www.devicespecifications.com/en/model/6c9f2d3a
+Smart T4	https://www.devicespecifications.com/en/model/97b02d3e
+U9T	https://www.devicespecifications.com/en/model/8bae2d41
+Work W1	https://www.devicespecifications.com/en/model/ac9b2d3b
+Smart S6	https://www.devicespecifications.com/en/model/ffd92d40
+M8HD	https://www.devicespecifications.com/en/model/96a42e41
+M9Pro	https://www.devicespecifications.com/en/model/a1622d42

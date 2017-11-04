@@ -1,0 +1,468 @@
+Weight: 300 g
+SoC: MediaTek MT8163A
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 2800 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 2595 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/89e4469c
+imageUrl=https://www.devicespecifications.com/images/model/89e4469c/320/main.jpg
+name=N7;
+
+Weight: 590 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 2 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 6700 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/4be9378e
+imageUrl=https://www.devicespecifications.com/images/model/4be9378e/320/main.jpg
+name=W1S;
+
+Weight: 360 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/85e134ee
+imageUrl=https://www.devicespecifications.com/images/model/85e134ee/320/main.jpg
+name=Work W4;
+
+Weight: 460 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC
+Display: 8.9 in, PLS, 1920 x 1200 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5e9334ec/320/main.jpg
+name=Work W6S;
+
+Weight: 360 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c1293394/320/main.jpg
+name=Work W4S;
+
+Weight: 580 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 7800 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 3.0, Micro USB
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b25e327f
+imageUrl=https://www.devicespecifications.com/images/model/b25e327f/320/main.jpg
+name=Work W3F;
+
+Weight: 250 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/d3713695
+imageUrl=https://www.devicespecifications.com/images/model/d3713695/320/main.jpg
+name=Work W7;
+
+Weight: 580 g
+SoC: Rockchip RK3288
+CPU: ARM Cortex-A17, 1600 MHz, Cores: 4
+GPU: ARM Mali-T764 MP4, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8800 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/805d3a23
+imageUrl=https://www.devicespecifications.com/images/model/805d3a23/320/main.jpg
+name=P9;
+
+Weight: 510 g
+SoC: Rockchip RK3288
+CPU: ARM Cortex-A17, 1800 MHz, Cores: 4
+GPU: ARM Mali-T764 MP4, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 9.4 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6400 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d8e734ed/320/main.jpg
+name=Tab P7;
+
+Weight: 460 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 8.9 in, PLS, 1920 x 1200 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2560 x 1920 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fbe63395
+imageUrl=https://www.devicespecifications.com/images/model/fbe63395/320/main.jpg
+name=Work W6;
+
+Weight: 360 g
+SoC: Intel Atom Z3735
+CPU: Intel Silvermont, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 1 GB, 2 GB, 1333 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e6213181/320/main.jpg
+name=W2;
+
+Weight: 430 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8.9 in, PLS, 1920 x 1200 pixels, 24 bit
+Battery: 7300 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4096 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b1263a24
+imageUrl=https://www.devicespecifications.com/images/model/b1263a24/320/main.jpg
+name=T9S;
+
+Weight: 522 g
+SoC: Rockchip RK3188
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 9.4 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Android 4.1.1 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/075b3696
+imageUrl=https://www.devicespecifications.com/images/model/075b3696/320/main.jpg
+name=M8Pro;
+
+Weight: 570 g
+SoC: Rockchip RK3288
+CPU: ARM Cortex-A17, 1800 MHz, Cores: 4
+GPU: ARM Mali-T764 MP4, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7.8 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/88d02e42
+imageUrl=https://www.devicespecifications.com/images/model/88d02e42/320/main.jpg
+name=P8;
+
+Weight: 400 g
+SoC: MediaTek MT8382
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.95 in, LCD, 1024 x 600 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM, Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/929b2d3f
+imageUrl=https://www.devicespecifications.com/images/model/929b2d3f/320/main.jpg
+name=T5;
+
+Weight: 655 g
+SoC: Rockchip RK3288
+CPU: ARM Cortex-A17, 1800 MHz, Cores: 4
+GPU: ARM Mali-T764 MP4, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 10000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e5e12d83/320/main.jpg
+name=Tab P1;
+
+Weight: 230 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.44 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3d522d39/320/main.jpg
+name=T8;
+
+Weight: 620 g
+SoC: Rockchip RK3288
+CPU: ARM Cortex-A17, 1600 MHz, Cores: 4
+GPU: ARM Mali-T764 MP4, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 10000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4f81327d
+imageUrl=https://www.devicespecifications.com/images/model/4f81327d/320/main.jpg
+name=P1;
+
+Weight: 430 g
+SoC: MediaTek MT6592
+CPU: ARM Cortex-A7, 1700 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8.9 in, PLS, 1920 x 1200 pixels, 24 bit
+Battery: 7300 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 4096 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6c9f2d3a/320/main.jpg
+name=Titanium T9;
+
+Weight: 230 g
+SoC: MediaTek MT6572
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, 500 MHz, Cores: 1
+RAM: 512 MB, 266 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.5 in, IPS, 480 x 800 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels, 800 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/97b02d3e/320/main.jpg
+name=Smart T4;
+
+Weight: 310 g
+SoC: Rockchip RK3188
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 3700 mAh
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8bae2d41/320/main.jpg
+name=U9T;
+
+Weight: 570 g
+SoC: Intel Atom Z3740D
+CPU: Intel Bay Trail-T, 1800 MHz, Cores: 4
+GPU: Intel Gen 7, 313 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 8000 mAh, Li-Ion
+OS: Microsoft Windows 8.1 Pro
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/ac9b2d3b
+imageUrl=https://www.devicespecifications.com/images/model/ac9b2d3b/320/main.jpg
+name=Work W1;
+
+Weight: 315 g
+SoC: Rockchip RK3188
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, Cores: 4
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7.9 in, IPS, 1024 x 768 pixels, 24 bit
+Battery: 4250 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels, 800 x 480 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ffd92d40/320/main.jpg
+name=Smart S6;
+
+Weight: 580 g
+SoC: Rockchip RK3188
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, Cores: 4
+RAM: 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1900 x 1200 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/96a42e41/320/main.jpg
+name=M8HD;
+
+Weight: 596 g
+SoC: Rockchip RK3188
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, Cores: 4
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 7600 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a1622d42
+imageUrl=https://www.devicespecifications.com/images/model/a1622d42/320/main.jpg
+name=M9Pro;
+

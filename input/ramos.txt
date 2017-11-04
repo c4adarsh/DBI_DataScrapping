@@ -1,0 +1,9 @@
+M7	https://www.devicespecifications.com/en/model/c5d33910
+R9	https://www.devicespecifications.com/en/model/0d2e391e
+MOS1 Max	https://www.devicespecifications.com/en/model/cbd637a4
+MOS1	https://www.devicespecifications.com/en/model/105a3520
+i9s Pro	https://www.devicespecifications.com/en/model/0ec63542
+i10s	https://www.devicespecifications.com/en/model/0b023538
+i9s	https://www.devicespecifications.com/en/model/89173541
+i12c	https://www.devicespecifications.com/en/model/76ad36cd
+i10	https://www.devicespecifications.com/en/model/751c3537

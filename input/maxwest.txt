@@ -1,0 +1,13 @@
+Astro X55 LTE	https://www.devicespecifications.com/en/model/9418432b
+Astro X55s	https://www.devicespecifications.com/en/model/99c4432c
+Nitro 55M	https://www.devicespecifications.com/en/model/bd254101
+Nitro 55 LTE	https://www.devicespecifications.com/en/model/c22d4100
+Nitro 5M	https://www.devicespecifications.com/en/model/caef40fb
+Nitro 4 LTE	https://www.devicespecifications.com/en/model/7a8a40fa
+Nitro 4s	https://www.devicespecifications.com/en/model/79b840f7
+Nitro 4	https://www.devicespecifications.com/en/model/79e540f6
+Astro 5S	https://www.devicespecifications.com/en/model/0dad3f65
+Astro X4	https://www.devicespecifications.com/en/model/7ae33a44
+Astro X55	https://www.devicespecifications.com/en/model/446539db
+Gravity 5 LTE	https://www.devicespecifications.com/en/model/fa6c39e3
+Gravity 5.5 LTE	https://www.devicespecifications.com/en/model/56a339e1

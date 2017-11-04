@@ -1,0 +1,76 @@
+Sunny 2 Plus	https://www.devicespecifications.com/en/model/2c154630
+Lenny 4 Plus	https://www.devicespecifications.com/en/model/329d4588
+Tommy 2 Plus	https://www.devicespecifications.com/en/model/ffe64587
+View Prime	https://www.devicespecifications.com/en/model/5d864579
+View XL	https://www.devicespecifications.com/en/model/688a4578
+View	https://www.devicespecifications.com/en/model/fa444577
+Lenny 4	https://www.devicespecifications.com/en/model/7d0a455c
+Sunny 2	https://www.devicespecifications.com/en/model/8a794503
+Jerry 2	https://www.devicespecifications.com/en/model/5e214461
+Tommy 2	https://www.devicespecifications.com/en/model/7d2b4415
+Harry	https://www.devicespecifications.com/en/model/1efb439b
+Kenny	https://www.devicespecifications.com/en/model/abac4372
+Sunny Max	https://www.devicespecifications.com/en/model/ebd441ff
+Jerry Max	https://www.devicespecifications.com/en/model/413c41e4
+Wim	https://www.devicespecifications.com/en/model/84bc41c8
+Wim Lite	https://www.devicespecifications.com/en/model/57da41c7
+U Pulse Lite	https://www.devicespecifications.com/en/model/412441c6
+U Pulse	https://www.devicespecifications.com/en/model/2df641c5
+Lenny 3 Max	https://www.devicespecifications.com/en/model/904741c4
+U Feel Go	https://www.devicespecifications.com/en/model/6ef33f6c
+Freddy	https://www.devicespecifications.com/en/model/4ae63e42
+U Feel Fab	https://www.devicespecifications.com/en/model/fdc53e41
+U Feel Prime	https://www.devicespecifications.com/en/model/b3513e40
+Jerry	https://www.devicespecifications.com/en/model/78f43c1a
+K-Kool	https://www.devicespecifications.com/en/model/954f3bf7
+Robby	https://www.devicespecifications.com/en/model/72da3b9a
+Sunny	https://www.devicespecifications.com/en/model/53473b50
+Fever Special Edition	https://www.devicespecifications.com/en/model/3c693a7b
+U Feel	https://www.devicespecifications.com/en/model/a58e3a7a
+U Feel Lite	https://www.devicespecifications.com/en/model/1ce13a7c
+Lenny 3	https://www.devicespecifications.com/en/model/d1ce3a79
+Tommy	https://www.devicespecifications.com/en/model/ed5a3a78
+Pulp	https://www.devicespecifications.com/en/model/3b6838ad
+Slide 2	https://www.devicespecifications.com/en/model/90603858
+Pulp Fab 4G	https://www.devicespecifications.com/en/model/823e3808
+Pulp 4G	https://www.devicespecifications.com/en/model/3b9b3807
+Fever 4G	https://www.devicespecifications.com/en/model/e2f23806
+Rainbow Jam 4G	https://www.devicespecifications.com/en/model/9f4736dd
+Rainbow Jam	https://www.devicespecifications.com/en/model/bd2536dc
+Lenny 2	https://www.devicespecifications.com/en/model/72d83652
+Selfy	https://www.devicespecifications.com/en/model/6ca73cc2
+Selfy 4G	https://www.devicespecifications.com/en/model/cfcd35da
+Rainbow Up 4G	https://www.devicespecifications.com/en/model/2ec135d9
+Rainbow Lite 4G	https://www.devicespecifications.com/en/model/e69035d8
+Bloom 2	https://www.devicespecifications.com/en/model/3faf3518
+Rainbow Lite	https://www.devicespecifications.com/en/model/fade34e0
+Rainbow Up	https://www.devicespecifications.com/en/model/534f34df
+Sunset 2	https://www.devicespecifications.com/en/model/635134de
+Highway Pure 4G	https://www.devicespecifications.com/en/model/6b7232f7
+Highway Star 4G	https://www.devicespecifications.com/en/model/212632f6
+Ridge Fab 4G	https://www.devicespecifications.com/en/model/596332cb
+Ridge 4G	https://www.devicespecifications.com/en/model/81cf32ca
+Ridge	https://www.devicespecifications.com/en/model/9d3232c9
+Jimmy	https://www.devicespecifications.com/en/model/844230ed
+Rainbow 4G	https://www.devicespecifications.com/en/model/11a830c3
+Highway Signs	https://www.devicespecifications.com/en/model/4d8a2faa
+Highway 4G	https://www.devicespecifications.com/en/model/29b12f5d
+Birdy 4G	https://www.devicespecifications.com/en/model/db6f2f29
+Sunset	https://www.devicespecifications.com/en/model/19702f12
+Goa	https://www.devicespecifications.com/en/model/85602ee9
+Kite 4G	https://www.devicespecifications.com/en/model/a2c82eab
+Lenny	https://www.devicespecifications.com/en/model/775d2e77
+Getaway	https://www.devicespecifications.com/en/model/4f7e2e76
+Slide	https://www.devicespecifications.com/en/model/28d32e75
+Bloom	https://www.devicespecifications.com/en/model/c6442e74
+Cink Slim 2	https://www.devicespecifications.com/en/model/e9cd2cd3
+Rainbow	https://www.devicespecifications.com/en/model/02642cd7
+WAX	https://www.devicespecifications.com/en/model/6e572cd4
+Highway	https://www.devicespecifications.com/en/model/62ff2cd6
+Barry	https://www.devicespecifications.com/en/model/d9d82cdf
+Darkfull	https://www.devicespecifications.com/en/model/b02a2cd9
+Darkmoon	https://www.devicespecifications.com/en/model/98bd2cec
+Darknight	https://www.devicespecifications.com/en/model/09bb2ce0
+Stairway	https://www.devicespecifications.com/en/model/65fc2ce1
+Darkside	https://www.devicespecifications.com/en/model/56d52cd8
+Cink Five	https://www.devicespecifications.com/en/model/0cb52ced

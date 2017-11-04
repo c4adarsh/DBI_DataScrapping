@@ -1,0 +1,7 @@
+StrongPhone Q9	https://www.devicespecifications.com/en/model/97c94396
+StrongPhone G4	https://www.devicespecifications.com/en/model/d04040a2
+StrongPhone Q5	https://www.devicespecifications.com/en/model/359c40a3
+StrongPhone Q7 LTE	https://www.devicespecifications.com/en/model/1ff63c61
+StrongPhone Q6 LTE	https://www.devicespecifications.com/en/model/67db40a4
+StrongPhone Q8 LTE	https://www.devicespecifications.com/en/model/ef3e36c9
+StrongPhone D2	https://www.devicespecifications.com/en/model/22bd36cb

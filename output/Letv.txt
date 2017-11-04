@@ -1,0 +1,95 @@
+Weight: 204 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB, 128 GB
+Display: 6.33 in, LCD, 1440 x 2560 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ad, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/566e3946/320/main.jpg
+name=Le Max Pro;
+
+Weight: 169 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2200 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/cbf6379b
+imageUrl=https://www.devicespecifications.com/images/model/cbf6379b/320/main.jpg
+name=Le 1s;
+
+Weight: 204 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB, 128 GB
+Display: 6.33 in, IPS, 2560 x 1440 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 3.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/2c1933a0
+imageUrl=https://www.devicespecifications.com/images/model/2c1933a0/320/main.jpg
+name=One Max;
+
+Weight: 177 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Display: 5.5 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 4208 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM, Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/6ed4339f
+imageUrl=https://www.devicespecifications.com/images/model/6ed4339f/320/main.jpg
+name=One Pro;
+
+Weight: 170 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/b8a3339e
+imageUrl=https://www.devicespecifications.com/images/model/b8a3339e/320/main.jpg
+name=One;
+

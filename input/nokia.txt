@@ -1,0 +1,74 @@
+7	https://www.devicespecifications.com/en/model/3b214671
+9	https://www.devicespecifications.com/en/model/f4b545cc
+2	https://www.devicespecifications.com/en/model/d82445bc
+3310 3G Dual	https://www.devicespecifications.com/en/model/1f334606
+3310 3G	https://www.devicespecifications.com/en/model/580b4605
+130 (2017)	https://www.devicespecifications.com/en/model/9e79447c
+105 (2017)	https://www.devicespecifications.com/en/model/7920447b
+8	https://www.devicespecifications.com/en/model/f3524454
+3310 (2017)	https://www.devicespecifications.com/en/model/097141a7
+3	https://www.devicespecifications.com/en/model/e30c41a6
+5	https://www.devicespecifications.com/en/model/143741a5
+6	https://www.devicespecifications.com/en/model/52ee40aa
+150 Dual SIM	https://www.devicespecifications.com/en/model/7247402e
+150	https://www.devicespecifications.com/en/model/1e4d402d
+230 Dual SIM	https://www.devicespecifications.com/en/model/88d5384f
+230	https://www.devicespecifications.com/en/model/ee25384e
+N1	https://www.devicespecifications.com/en/model/3e0c30c7
+Lumia 730 Dual SIM	https://www.devicespecifications.com/en/model/e9342f4c
+Lumia 735	https://www.devicespecifications.com/en/model/75722f4b
+Lumia 830	https://www.devicespecifications.com/en/model/ffee2f4a
+130 Dual SIM	https://www.devicespecifications.com/en/model/cb452ea0
+130	https://www.devicespecifications.com/en/model/233c2ea1
+Lumia 530	https://www.devicespecifications.com/en/model/db3b2e27
+X2	https://www.devicespecifications.com/en/model/ad152cee
+Lumia 638	https://www.devicespecifications.com/en/model/22753172
+Lumia 636	https://www.devicespecifications.com/en/model/d94e2cc4
+225 Dual SIM	https://www.devicespecifications.com/en/model/0bd32bf0
+225	https://www.devicespecifications.com/en/model/cc502bef
+Lumia 930	https://www.devicespecifications.com/en/model/f2732b99
+Lumia 635	https://www.devicespecifications.com/en/model/75e32bd9
+Lumia 630 Dual SIM	https://www.devicespecifications.com/en/model/22212bda
+Lumia 630	https://www.devicespecifications.com/en/model/b1b72bce
+XL	https://www.devicespecifications.com/en/model/ed052b21
+X+	https://www.devicespecifications.com/en/model/ba122b20
+X	https://www.devicespecifications.com/en/model/a8b82b1f
+220	https://www.devicespecifications.com/en/model/43392b1e
+Asha 230	https://www.devicespecifications.com/en/model/608f2b1d
+Lumia Icon	https://www.devicespecifications.com/en/model/fc742adb
+Lumia 525	https://www.devicespecifications.com/en/model/157929a2
+Asha 500 Dual	https://www.devicespecifications.com/en/model/61982919
+Asha 500	https://www.devicespecifications.com/en/model/8eb92918
+Asha 502	https://www.devicespecifications.com/en/model/7b932917
+Asha 503 Dual	https://www.devicespecifications.com/en/model/2caa2916
+Asha 503	https://www.devicespecifications.com/en/model/29572915
+Lumia 2520	https://www.devicespecifications.com/en/model/4b582914
+Lumia 1320 LTE	https://www.devicespecifications.com/en/model/a4172a27
+Lumia 1320	https://www.devicespecifications.com/en/model/55362913
+Lumia 1520	https://www.devicespecifications.com/en/model/c3cb2912
+515	https://www.devicespecifications.com/en/model/6a7a28b0
+Lumia 625	https://www.devicespecifications.com/en/model/b26c28af
+Lumia 1020	https://www.devicespecifications.com/en/model/049a275f
+208	https://www.devicespecifications.com/en/model/03862760
+Lumia 925	https://www.devicespecifications.com/en/model/c5052761
+Lumia 928	https://www.devicespecifications.com/en/model/71a32762
+Asha 501	https://www.devicespecifications.com/en/model/13e82763
+105	https://www.devicespecifications.com/en/model/93852768
+Asha 210	https://www.devicespecifications.com/en/model/6f1d2764
+Lumia 521	https://www.devicespecifications.com/en/model/434536ed
+Lumia 720	https://www.devicespecifications.com/en/model/ae482765
+Lumia 520	https://www.devicespecifications.com/en/model/58002766
+301	https://www.devicespecifications.com/en/model/d2482767
+Asha 310	https://www.devicespecifications.com/en/model/57152769
+Lumia 505	https://www.devicespecifications.com/en/model/556b276a
+Lumia 620	https://www.devicespecifications.com/en/model/2042276b
+114	https://www.devicespecifications.com/en/model/f43e276c
+Asha 205	https://www.devicespecifications.com/en/model/31a1276e
+109	https://www.devicespecifications.com/en/model/f681276f
+Lumia 822	https://www.devicespecifications.com/en/model/38c72770
+206	https://www.devicespecifications.com/en/model/c784276d
+Lumia 820	https://www.devicespecifications.com/en/model/b11939b6
+Lumia 510	https://www.devicespecifications.com/en/model/33a52771
+Lumia 810	https://www.devicespecifications.com/en/model/28582772
+Asha 309	https://www.devicespecifications.com/en/model/037b2773
+808 PureView	https://www.devicespecifications.com/en/model/1612298a

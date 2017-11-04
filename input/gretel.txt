@@ -1,0 +1,5 @@
+S55	https://www.devicespecifications.com/en/model/5ae644a8
+GT6000	https://www.devicespecifications.com/en/model/94804364
+A6	https://www.devicespecifications.com/en/model/5ffa4308
+A9	https://www.devicespecifications.com/en/model/c23241ec
+A7	https://www.devicespecifications.com/en/model/fe2e41eb

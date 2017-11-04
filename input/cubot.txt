@@ -1,0 +1,64 @@
+King Kong	https://www.devicespecifications.com/en/model/5d7845ef
+H3	https://www.devicespecifications.com/en/model/ffe345ee
+X18	https://www.devicespecifications.com/en/model/2d934539
+Note Plus	https://www.devicespecifications.com/en/model/d1134520
+Magic	https://www.devicespecifications.com/en/model/de554463
+R9	https://www.devicespecifications.com/en/model/381a4406
+Rainbow 2	https://www.devicespecifications.com/en/model/a3024145
+Cheetah 2	https://www.devicespecifications.com/en/model/58873f53
+Manito	https://www.devicespecifications.com/en/model/b61a3e69
+Z100 Pro	https://www.devicespecifications.com/en/model/71f63db1
+Echo	https://www.devicespecifications.com/en/model/c7cd3d9f
+Max	https://www.devicespecifications.com/en/model/f69a3d3a
+X16 S	https://www.devicespecifications.com/en/model/08713cc3
+Rainbow	https://www.devicespecifications.com/en/model/b7723ba5
+Dinosaur	https://www.devicespecifications.com/en/model/d54b3b2b
+X17 S	https://www.devicespecifications.com/en/model/312d3b12
+H2	https://www.devicespecifications.com/en/model/98db3aa6
+S500	https://www.devicespecifications.com/en/model/e3503a80
+CheetahPhone	https://www.devicespecifications.com/en/model/d73e3a6a
+Z100	https://www.devicespecifications.com/en/model/38193999
+S550 Pro	https://www.devicespecifications.com/en/model/22ee3c93
+S550	https://www.devicespecifications.com/en/model/38ec3979
+Note S	https://www.devicespecifications.com/en/model/31bf392a
+S600	https://www.devicespecifications.com/en/model/34c638b2
+P12	https://www.devicespecifications.com/en/model/ab9d37ed
+X17	https://www.devicespecifications.com/en/model/8e2237ca
+X16	https://www.devicespecifications.com/en/model/2c9f374e
+P11	https://www.devicespecifications.com/en/model/0f0836bb
+H1	https://www.devicespecifications.com/en/model/ba3d365e
+X15	https://www.devicespecifications.com/en/model/c67a35a5
+X12	https://www.devicespecifications.com/en/model/41f8347c
+X11	https://www.devicespecifications.com/en/model/0b2b33e1
+X10	https://www.devicespecifications.com/en/model/50e13397
+S350	https://www.devicespecifications.com/en/model/cc58335c
+X9	https://www.devicespecifications.com/en/model/12383117
+S200	https://www.devicespecifications.com/en/model/896430a7
+Zorro 001	https://www.devicespecifications.com/en/model/975f3034
+S168	https://www.devicespecifications.com/en/model/49a82fc0
+P10	https://www.devicespecifications.com/en/model/49042f77
+GT95	https://www.devicespecifications.com/en/model/e4c82dd5
+GT88	https://www.devicespecifications.com/en/model/93d62df6
+P7	https://www.devicespecifications.com/en/model/3dc42df4
+S108	https://www.devicespecifications.com/en/model/8c8c2dd4
+S308	https://www.devicespecifications.com/en/model/47322d14
+S222	https://www.devicespecifications.com/en/model/2bb72cb4
+S208	https://www.devicespecifications.com/en/model/0d792c39
+X6	https://www.devicespecifications.com/en/model/494e2b39
+P6	https://www.devicespecifications.com/en/model/c9bf2a98
+One	https://www.devicespecifications.com/en/model/1f6c2a92
+C11	https://www.devicespecifications.com/en/model/196c2a9a
+Bobby	https://www.devicespecifications.com/en/model/d0e12a93
+GT90	https://www.devicespecifications.com/en/model/b9472a97
+P5	https://www.devicespecifications.com/en/model/25e72a95
+C6	https://www.devicespecifications.com/en/model/96dc2a96
+P9	https://www.devicespecifications.com/en/model/1e732a99
+C7+	https://www.devicespecifications.com/en/model/684e2a9b
+GT72	https://www.devicespecifications.com/en/model/fa712a8d
+C9W	https://www.devicespecifications.com/en/model/b8fc2a9c
+C9+	https://www.devicespecifications.com/en/model/68c62a9d
+C10+	https://www.devicespecifications.com/en/model/b09e2a9e
+GT99	https://www.devicespecifications.com/en/model/c3cc2a8e
+A6589S	https://www.devicespecifications.com/en/model/a0652a8f
+A890	https://www.devicespecifications.com/en/model/363e2fa3
+T9	https://www.devicespecifications.com/en/model/0d9b2a90

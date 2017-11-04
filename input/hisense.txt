@@ -1,0 +1,51 @@
+Hali	https://www.devicespecifications.com/en/model/8c13469d
+A2 Pro	https://www.devicespecifications.com/en/model/32bb4584
+T5 Plus	https://www.devicespecifications.com/en/model/aa7b44f6
+T5	https://www.devicespecifications.com/en/model/c67b449f
+H10	https://www.devicespecifications.com/en/model/98a04443
+F22 MT6737	https://www.devicespecifications.com/en/model/0f8a43cc
+F23	https://www.devicespecifications.com/en/model/1ac442f3
+F10	https://www.devicespecifications.com/en/model/a3c742f2
+C30 Lite	https://www.devicespecifications.com/en/model/68554377
+C30	https://www.devicespecifications.com/en/model/3fcc417b
+A2	https://www.devicespecifications.com/en/model/c15e4154
+F22	https://www.devicespecifications.com/en/model/bad84051
+U989 Pro	https://www.devicespecifications.com/en/model/d9624050
+Infinity Faith	https://www.devicespecifications.com/en/model/a7b33fdc
+Infinity Elegance	https://www.devicespecifications.com/en/model/315d3fd6
+U972	https://www.devicespecifications.com/en/model/62ad417c
+U989	https://www.devicespecifications.com/en/model/59f63fde
+L676	https://www.devicespecifications.com/en/model/11e23d78
+M30	https://www.devicespecifications.com/en/model/01354023
+Infinity Lite S	https://www.devicespecifications.com/en/model/59b73fdd
+F20	https://www.devicespecifications.com/en/model/0dd73d57
+Infinity H3S	https://www.devicespecifications.com/en/model/48633af3
+Infinity KO C20	https://www.devicespecifications.com/en/model/26b13af1
+A1	https://www.devicespecifications.com/en/model/f2e83ab4
+C1	https://www.devicespecifications.com/en/model/05ac3961
+L671	https://www.devicespecifications.com/en/model/50613d83
+L695	https://www.devicespecifications.com/en/model/bf893d82
+King Kong II C20	https://www.devicespecifications.com/en/model/185e3962
+D2	https://www.devicespecifications.com/en/model/be253a42
+PureShot+	https://www.devicespecifications.com/en/model/38b5367f
+PureShot	https://www.devicespecifications.com/en/model/9b07367e
+VIDAA Mirror	https://www.devicespecifications.com/en/model/413d35f6
+K8	https://www.devicespecifications.com/en/model/ff08341c
+Sero 8 Pro	https://www.devicespecifications.com/en/model/e1fd390d
+I635T	https://www.devicespecifications.com/en/model/76fd33a1
+L681	https://www.devicespecifications.com/en/model/31293287
+G610M	https://www.devicespecifications.com/en/model/6acf324f
+I632M	https://www.devicespecifications.com/en/model/fa4d324e
+E625T	https://www.devicespecifications.com/en/model/1406324d
+E602T	https://www.devicespecifications.com/en/model/ed4d3250
+H910	https://www.devicespecifications.com/en/model/6ecf328f
+L696	https://www.devicespecifications.com/en/model/8e393362
+I639T	https://www.devicespecifications.com/en/model/17f730c5
+L690	https://www.devicespecifications.com/en/model/94aa3361
+Nana	https://www.devicespecifications.com/en/model/b34130c6
+Sero 5	https://www.devicespecifications.com/en/model/52863289
+Sero 8	https://www.devicespecifications.com/en/model/848f2da7
+X5T	https://www.devicespecifications.com/en/model/feb52dcd
+X1	https://www.devicespecifications.com/en/model/cd012dce
+Sero 7 Pro	https://www.devicespecifications.com/en/model/87212dac
+Sero 7 LT	https://www.devicespecifications.com/en/model/d9a02dcc

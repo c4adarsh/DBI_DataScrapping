@@ -1,0 +1,45 @@
+iPhone X	https://www.devicespecifications.com/en/model/36ea45ae
+iPhone 8 Plus	https://www.devicespecifications.com/en/model/0bee45ad
+iPhone 8	https://www.devicespecifications.com/en/model/d85c45ac
+iPad Pro 2 12.9 Wi-Fi	https://www.devicespecifications.com/en/model/20c943b4
+iPad Pro 2 12.9	https://www.devicespecifications.com/en/model/073b43b3
+iPad Pro 2 10.5 Wi-Fi	https://www.devicespecifications.com/en/model/b18443b2
+iPad Pro 2 10.5	https://www.devicespecifications.com/en/model/921b43b1
+iPad 9.7 Wi-Fi	https://www.devicespecifications.com/en/model/6dcc422b
+iPad 9.7	https://www.devicespecifications.com/en/model/2ce6422a
+iPhone 7 Plus	https://www.devicespecifications.com/en/model/35703e53
+iPhone 7	https://www.devicespecifications.com/en/model/dc363e52
+iPad Pro 9.7 Wi-Fi	https://www.devicespecifications.com/en/model/0bbe3ada
+iPad Pro 9.7	https://www.devicespecifications.com/en/model/06fc3ad8
+iPhone SE	https://www.devicespecifications.com/en/model/7a423ad7
+iPad mini 4	https://www.devicespecifications.com/en/model/a17e3679
+iPhone 6s Plus	https://www.devicespecifications.com/en/model/13ea3678
+iPad Pro Wi-Fi	https://www.devicespecifications.com/en/model/e3533ad9
+iPad Pro	https://www.devicespecifications.com/en/model/4daa3677
+iPhone 6s	https://www.devicespecifications.com/en/model/df6f3676
+iPad Air 2	https://www.devicespecifications.com/en/model/ad8a3023
+iPad mini 3	https://www.devicespecifications.com/en/model/404d3022
+iPhone 6 Plus	https://www.devicespecifications.com/en/model/6efb2f5e
+iPhone 6	https://www.devicespecifications.com/en/model/5d342ce2
+iPad Air	https://www.devicespecifications.com/en/model/ec552922
+iPad mini 2	https://www.devicespecifications.com/en/model/147c2921
+iPhone 5c	https://www.devicespecifications.com/en/model/ec4628ab
+iPhone 5s	https://www.devicespecifications.com/en/model/70af28ac
+iPad 4 Wi-Fi + 4G	https://www.devicespecifications.com/en/model/b6572726
+iPad 4 Wi-Fi	https://www.devicespecifications.com/en/model/3e302725
+iPad mini Wi-Fi + Cellular	https://www.devicespecifications.com/en/model/7d532724
+iPad mini Wi-Fi	https://www.devicespecifications.com/en/model/35c82723
+iPhone 5	https://www.devicespecifications.com/en/model/d15c2727
+iPad 3 Wi-Fi + 4G	https://www.devicespecifications.com/en/model/cea02728
+iPad 3 Wi-Fi	https://www.devicespecifications.com/en/model/c3842729
+iPhone 4S	https://www.devicespecifications.com/en/model/95ba272a
+iPad 2 Wi-Fi	https://www.devicespecifications.com/en/model/3c82272c
+iPad 2 Wi-Fi + 3G	https://www.devicespecifications.com/en/model/dd48272b
+iPad 2 CDMA	https://www.devicespecifications.com/en/model/d103272d
+iPhone 4 CDMA	https://www.devicespecifications.com/en/model/0d0b272f
+iPhone 4	https://www.devicespecifications.com/en/model/710a272e
+iPad Wi-Fi + 3G	https://www.devicespecifications.com/en/model/44c42730
+iPad Wi-Fi	https://www.devicespecifications.com/en/model/36ae2731
+iPhone 3GS	https://www.devicespecifications.com/en/model/39d02732
+iPhone 3G	https://www.devicespecifications.com/en/model/36092733
+iPhone	https://www.devicespecifications.com/en/model/48792734

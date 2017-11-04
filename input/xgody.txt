@@ -1,0 +1,7 @@
+S11	https://www.devicespecifications.com/en/model/796145c3
+M20 Pro	https://www.devicespecifications.com/en/model/e19b4517
+D18	https://www.devicespecifications.com/en/model/11be446c
+X19	https://www.devicespecifications.com/en/model/5634429b
+M20	https://www.devicespecifications.com/en/model/490d42c9
+Y14	https://www.devicespecifications.com/en/model/8e07429c
+G12	https://www.devicespecifications.com/en/model/f06f42e7

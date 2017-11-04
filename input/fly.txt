@@ -1,0 +1,71 @@
+Cirrus 16	https://www.devicespecifications.com/en/model/02b1466d
+Stratus 8	https://www.devicespecifications.com/en/model/4ef245c0
+Power Plus FHD	https://www.devicespecifications.com/en/model/19704596
+Knockout	https://www.devicespecifications.com/en/model/9d414590
+Power Plus 1	https://www.devicespecifications.com/en/model/5dca4550
+Stratus 9	https://www.devicespecifications.com/en/model/58ba4537
+Stratus 7	https://www.devicespecifications.com/en/model/9ab9452b
+Nimbus 16	https://www.devicespecifications.com/en/model/fa41450d
+Selfie 1	https://www.devicespecifications.com/en/model/b8f944e3
+Nimbus 14	https://www.devicespecifications.com/en/model/afef4474
+5S	https://www.devicespecifications.com/en/model/89c2443d
+Cirrus 14	https://www.devicespecifications.com/en/model/d21343cd
+Nimbus 15	https://www.devicespecifications.com/en/model/d17c439e
+Cirrus 13	https://www.devicespecifications.com/en/model/9ece4330
+Cirrus 12	https://www.devicespecifications.com/en/model/e8834297
+Cirrus 11	https://www.devicespecifications.com/en/model/16f84235
+Cirrus 6	https://www.devicespecifications.com/en/model/c5be4173
+Cirrus 9	https://www.devicespecifications.com/en/model/d2544036
+Nimbus 12	https://www.devicespecifications.com/en/model/01a13fc3
+Nimbus 11	https://www.devicespecifications.com/en/model/9f9f3f8d
+Cirrus 8	https://www.devicespecifications.com/en/model/0e123f77
+Cirrus 7	https://www.devicespecifications.com/en/model/66ed3f61
+Nimbus 10	https://www.devicespecifications.com/en/model/db473ef4
+Stratus 6	https://www.devicespecifications.com/en/model/423e3ebd
+Nimbus 9	https://www.devicespecifications.com/en/model/23943e86
+Stratus 5	https://www.devicespecifications.com/en/model/47a93dcf
+Cirrus 4	https://www.devicespecifications.com/en/model/a7343ca3
+Nimbus 8	https://www.devicespecifications.com/en/model/31b93c80
+Cirrus 3	https://www.devicespecifications.com/en/model/73eb3c5f
+Stratus 4	https://www.devicespecifications.com/en/model/53c03c0a
+Nimbus 7	https://www.devicespecifications.com/en/model/48063b5a
+Stratus 3	https://www.devicespecifications.com/en/model/57fa3b54
+Stratus 2	https://www.devicespecifications.com/en/model/bfe7399d
+Cumulus 1	https://www.devicespecifications.com/en/model/2d3d37f3
+Cirrus 2	https://www.devicespecifications.com/en/model/a92437c0
+Cirrus 1	https://www.devicespecifications.com/en/model/d57d35f2
+Nimbus 4	https://www.devicespecifications.com/en/model/7f51356f
+Nimbus 2	https://www.devicespecifications.com/en/model/baf5356e
+Nimbus 3	https://www.devicespecifications.com/en/model/2fd4351f
+Nimbus 1	https://www.devicespecifications.com/en/model/e528351e
+Stratus 1	https://www.devicespecifications.com/en/model/77ec34fa
+Evo Energy 1	https://www.devicespecifications.com/en/model/2abb33c2
+Era Energy 2	https://www.devicespecifications.com/en/model/be2733c1
+Era Life 7	https://www.devicespecifications.com/en/model/37cf30ba
+Tornado Slim	https://www.devicespecifications.com/en/model/fd2f30b5
+Evo Tech 4	https://www.devicespecifications.com/en/model/eddd306b
+Evo Energy 5	https://www.devicespecifications.com/en/model/7708306a
+Era Nano 10	https://www.devicespecifications.com/en/model/52533002
+Evo Chic 4	https://www.devicespecifications.com/en/model/95de2ffd
+Era Life 6	https://www.devicespecifications.com/en/model/57942ffc
+Era Style 4	https://www.devicespecifications.com/en/model/35642ffb
+Era Energy 3	https://www.devicespecifications.com/en/model/04a62fbe
+Tornado One	https://www.devicespecifications.com/en/model/25372fb0
+Era Windows	https://www.devicespecifications.com/en/model/bf6e2f8c
+Flylife Connect 10.1 3G 2	https://www.devicespecifications.com/en/model/c14c2f00
+Era Life 4	https://www.devicespecifications.com/en/model/17762f31
+Evo Tech 3	https://www.devicespecifications.com/en/model/24412e5f
+Evo Chic 3	https://www.devicespecifications.com/en/model/92c32e45
+Evo Chic 2	https://www.devicespecifications.com/en/model/bcaf2e44
+Ego Art 2	https://www.devicespecifications.com/en/model/8ad12e3c
+Flylife Connect 7.85 3G 2	https://www.devicespecifications.com/en/model/8e2a2e46
+Era Style 3	https://www.devicespecifications.com/en/model/89bf2cdd
+Evo Tech 2	https://www.devicespecifications.com/en/model/348b2cdb
+Evo Energy 4	https://www.devicespecifications.com/en/model/8e3c2cdc
+Flylife Web 7.85 Slim	https://www.devicespecifications.com/en/model/dee12cde
+Era Life 2	https://www.devicespecifications.com/en/model/b90b2c9f
+Evo Chic 1	https://www.devicespecifications.com/en/model/449d2c9b
+Ego Vision 1	https://www.devicespecifications.com/en/model/adea2ca1
+Evo Energy 3	https://www.devicespecifications.com/en/model/21a22e60
+Universe 5.7	https://www.devicespecifications.com/en/model/693c2c9c
+Luminor	https://www.devicespecifications.com/en/model/69df2ca0

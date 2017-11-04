@@ -1,0 +1,500 @@
+Weight: 377 g
+SoC: Intel Atom x5-Z8500
+CPU: Intel Cherry Trail, 2240 MHz, Cores: 4
+GPU: Intel HD Graphics, 600 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1900 x 1200 pixels, 24 bit
+Battery: Li-Ion
+OS: Microsoft Windows 10 Pro
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/5eed3994
+imageUrl=https://www.devicespecifications.com/images/model/5eed3994/320/main.jpg
+name=Venue 8 Pro 5855;
+
+Weight: 656 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/73323506/320/main.jpg
+name=Venue 10 Pro LTE 64 GB;
+
+Weight: 656 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f7e93505/320/main.jpg
+name=Venue 10 Pro 64 GB;
+
+Weight: 656 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/56b63504/320/main.jpg
+name=Venue 10 Pro LTE;
+
+Weight: 656 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1330 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6500 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/70a23503/320/main.jpg
+name=Venue 10 Pro;
+
+Weight: 597 g
+SoC: Intel Atom Z3580
+CPU: Intel Silvermont, 2300 MHz, Cores: 4
+GPU: PowerVR G6430 MP4, 533 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.5 in, OLED, 2560 x 1600 pixels, 24 bit
+Battery: 7000 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, ac, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0d893502/320/main.jpg
+name=Venue 10 7000;
+
+Weight: 315 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.95 in, LCD, 1024 x 600 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: Android 4.4.3 KitKat
+Camera: 1600 x 1200 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7b57357f/320/main.jpg
+name=Venue 7 3741;
+
+Weight: 305 g
+SoC: Intel Atom Z3580
+CPU: Intel Silvermont, 2300 MHz, Cores: 4
+GPU: PowerVR G6430 MP4, 533 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 8.4 in, OLED, 2560 x 1600 pixels, 24 bit
+Battery: 5670 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, ac, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/65cd2fdd
+imageUrl=https://www.devicespecifications.com/images/model/65cd2fdd/320/main.jpg
+name=Venue 8 7000;
+
+Weight: 338 g
+SoC: Intel Atom Z3480
+CPU: Intel Silvermont, 2100 MHz, Cores: 2
+GPU: PowerVR G6400 MP4, 533 MHz, Cores: 4
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4550 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e22d2e18/320/main.jpg
+name=Venue 8 3840;
+
+Weight: 395 g
+SoC: Intel Atom Z3740D
+CPU: Intel Bay Trail-T, 1800 MHz, Cores: 4
+GPU: Intel Gen 7, 313 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4830 mAh, Li-Ion
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/d0f62e16
+imageUrl=https://www.devicespecifications.com/images/model/d0f62e16/320/main.jpg
+name=Venue 8 Pro;
+
+Weight: 771 g
+SoC: Intel Atom Z3775
+CPU: Intel Silvermont, 2400 MHz, Cores: 4
+GPU: Intel Gen 7
+RAM: 2 GB, 778 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.8 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 4800 mAh, Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: n, Wi-Fi Direct
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/06db2e17
+imageUrl=https://www.devicespecifications.com/images/model/06db2e17/320/main.jpg
+name=Venue 11 Pro;
+
+Weight: 292 g
+SoC: Intel Atom Z2580
+CPU: Intel Saltwell HT, 2000 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 533 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4100 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 800 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a3a829bb/320/main.jpg
+name=Venue 8;
+
+Weight: 314 g
+SoC: Intel Atom Z2560
+CPU: Intel Clover Trail+, 1600 MHz, Cores: 2
+GPU: PowerVR SGX544 MP2, 400 MHz, Cores: 2
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4100 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2048 x 1536 pixels, 720 x 480 pixels, 14 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ff3a29ba/320/main.jpg
+name=Venue 7;
+
+Weight: 635 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 500 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 1366 x 768 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Microsoft Windows RT
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a6322804/320/main.jpg
+name=XPS 10;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1500 MHz, Cores: 2
+GPU: Qualcomm adreno 220
+RAM: 1 GB, 333 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, Super AMOLED, 540 x 960 pixels, 24 bit
+Battery: 1520 mAh, Li-Ion
+OS: Android 2.3.x Gingerbread
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5cba2806/320/main.jpg
+name=Streak Pro D43;
+
+Weight: 727 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 1 GB, 300 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, TFT, 1280 x 800 pixels, 24 bit
+Battery: 6930 mAh, Li-Ion
+OS: Android 3.2.x Honeycomb
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.1
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/99342805/320/main.jpg
+name=Streak 10 Pro;
+
+Weight: 453 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 512 MB, 300 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 800 x 480 pixels, 24 bit
+Battery: 2780 mAh, Li-Ion
+OS: Android 2.2 Froyo
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.1
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/43272808
+imageUrl=https://www.devicespecifications.com/images/model/43272808/320/main.jpg
+name=Streak 7 Wi-Fi;
+
+Weight: 453 g
+SoC: Nvidia Tegra 2 250 T20
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ULP GeForce, 333 MHz, Cores: 8
+RAM: 512 MB, 300 MHz
+Storage: 16 GB
+Memory cards: SDHC, SD
+Display: 7 in, TFT, 800 x 480 pixels, 24 bit
+Battery: 2780 mAh, Li-Ion
+OS: Android 2.2 Froyo
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/2e522807
+imageUrl=https://www.devicespecifications.com/images/model/2e522807/320/main.jpg
+name=Streak 7;
+
+Weight: 164 g
+SoC: Qualcomm Snapdragon S1 QSD8250
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Memory cards: microSD, microSDHC
+Display: 4.1 in, AMOLED, 480 x 800 pixels, 24 bit
+Battery: 1400 mAh, Li-Ion
+OS: Android 2.2 Froyo
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/91f72809
+imageUrl=https://www.devicespecifications.com/images/model/91f72809/320/main.jpg
+name=Venue;
+
+Weight: 120 g
+CPU: ARM11, 600 MHz, Cores: 1
+RAM: 256 MB
+Storage: 199.68 MB
+Memory cards: microSD
+Display: 3.5 in, TFT, 480 x 800 pixels, 18 bit
+Battery: 1250 mAh, Li-Ion
+OS: Android 2.1 Eclair
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9a74280a/320/main.jpg
+name=XCD35;
+
+Weight: 100 g
+SoC: Qualcomm Snapdragon S1 MSM7227
+CPU: ARM11, 600 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 256 MB
+Storage: 199.68 MB
+Memory cards: microSD
+Display: 2.8 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1100 mAh, Li-Ion
+OS: Android 2.1 Eclair
+Camera: 2048 x 1536 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/626b280b/320/main.jpg
+name=XCD28;
+
+Weight: 192 g
+SoC: Qualcomm Snapdragon S1 QSD8250
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.1 in, AMOLED, 480 x 800 pixels, 24 bit
+Battery: 1400 mAh, Li-Ion
+OS: Microsoft Windows Phone 7
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b887280c
+imageUrl=https://www.devicespecifications.com/images/model/b887280c/320/main.jpg
+name=Venue Pro;
+
+Weight: 104 g
+SoC: Marvell PXA310
+CPU: Marvell Sheeva, 624 MHz, Cores: 1
+RAM: 256 MB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 360 x 640 pixels, 18 bit
+Battery: 1000 mAh, Li-Ion
+OS: Android 1.5 Cupcake
+Camera: 2592 x 1944 pixels, 352 x 288 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Mini USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e9b5280e/320/main.jpg
+name=Aero;
+
+Weight: 220 g
+SoC: Qualcomm Snapdragon S1 QSD8250
+CPU: Scorpion, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1530 mAh, Li-Ion
+OS: Android 1.6 Donut
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 20 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/aed3280d/320/main.jpg
+name=Streak;
+
+Weight: 108 g
+SoC: Marvell PXA935
+CPU: Marvell Sheeva, 624 MHz, Cores: 1
+RAM: 256 MB
+Storage: 256 MB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 360 x 640 pixels, 18 bit
+Battery: 1000 mAh, Li-Ion
+OS: Android 1.5 Cupcake
+Camera: 2048 x 1536 pixels, 320 x 240 pixels, 30 fps
+SIM card: Mini-SIM
+USB: 2.0, Mini USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7b272810/320/main.jpg
+name=Mini 3iX;
+
+Weight: 102 g
+SoC: Marvell PXA935
+CPU: Marvell Sheeva, 624 MHz, Cores: 1
+RAM: 256 MB
+Storage: 256 MB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 360 x 640 pixels, 18 bit
+Battery: 1000 mAh, Li-Ion
+OS: Borqs OPhone 1.0
+Camera: 2048 x 1536 pixels, 320 x 240 pixels, 30 fps
+SIM card: Mini-SIM
+USB: 2.0, Mini USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ab6e280f/320/main.jpg
+name=Mini 3i;
+

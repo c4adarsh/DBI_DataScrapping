@@ -1,0 +1,17 @@
+N6	https://www.devicespecifications.com/en/model/62984179
+N10	https://www.devicespecifications.com/en/model/32d0401d
+S3	https://www.devicespecifications.com/en/model/43693f14
+S20	https://www.devicespecifications.com/en/model/96c03f13
+S10	https://www.devicespecifications.com/en/model/12a13f12
+S2	https://www.devicespecifications.com/en/model/0be13b72
+Z1 Plus	https://www.devicespecifications.com/en/model/ac8538b6
+N5	https://www.devicespecifications.com/en/model/ade8354d
+K2 Turbo	https://www.devicespecifications.com/en/model/18dd3779
+K2	https://www.devicespecifications.com/en/model/f8413f08
+N3 Plus	https://www.devicespecifications.com/en/model/84d7328e
+Z1	https://www.devicespecifications.com/en/model/58653292
+N3	https://www.devicespecifications.com/en/model/afe92f70
+KingPad 1	https://www.devicespecifications.com/en/model/a1352e32
+S1	https://www.devicespecifications.com/en/model/a02e2de4
+K1 Pro	https://www.devicespecifications.com/en/model/d9d92de3
+K1 Turbo	https://www.devicespecifications.com/en/model/e5be2de2

@@ -1,0 +1,10 @@
+S7	https://www.devicespecifications.com/en/model/c4f44604
+S8	https://www.devicespecifications.com/en/model/376a4603
+GW6000	https://www.devicespecifications.com/en/model/286543a2
+M9 Mini+	https://www.devicespecifications.com/en/model/7a034328
+M15	https://www.devicespecifications.com/en/model/89f5419b
+M7	https://www.devicespecifications.com/en/model/fe5c3fa0
+M8	https://www.devicespecifications.com/en/model/d77a3f9f
+M3	https://www.devicespecifications.com/en/model/1d953fa1
+M13 Plus	https://www.devicespecifications.com/en/model/bb803fa5
+M17	https://www.devicespecifications.com/en/model/f2773fcd

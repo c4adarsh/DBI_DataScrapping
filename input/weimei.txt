@@ -1,0 +1,8 @@
+Neon 2	https://www.devicespecifications.com/en/model/7d7b4687
+Force 2	https://www.devicespecifications.com/en/model/efdf459f
+We Plus 2	https://www.devicespecifications.com/en/model/e757409e
+Force X	https://www.devicespecifications.com/en/model/2b553fb5
+Force	https://www.devicespecifications.com/en/model/fbf43da6
+Neon	https://www.devicespecifications.com/en/model/89793c79
+We Plus	https://www.devicespecifications.com/en/model/2bee3a2a
+We	https://www.devicespecifications.com/en/model/91163a2d

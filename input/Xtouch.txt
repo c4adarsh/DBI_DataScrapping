@@ -1,0 +1,8 @@
+Unix Pro	https://www.devicespecifications.com/en/model/065342fc
+A2 Plus	https://www.devicespecifications.com/en/model/7c9b42fb
+R3 LTE	https://www.devicespecifications.com/en/model/aba842fa
+T3	https://www.devicespecifications.com/en/model/f13942f9
+Unix	https://www.devicespecifications.com/en/model/5e133b1e
+A2 Air	https://www.devicespecifications.com/en/model/e91c3b20
+A2	https://www.devicespecifications.com/en/model/f46a3b1f
+E1	https://www.devicespecifications.com/en/model/62903b21

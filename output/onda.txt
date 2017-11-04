@@ -1,0 +1,555 @@
+Weight: 576 g
+SoC: MediaTek MT8173
+CPU: 2x 2.0 GHz ARM Cortex-A72, 2x 1.6 GHz ARM Cortex-A53, Cores: 4
+GPU: PowerVR GX6250, 700 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 2560 x 1600 pixels, 24 bit
+Battery: 6600 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, n 5GHz, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/05f340c9
+imageUrl=https://www.devicespecifications.com/images/model/05f340c9/320/main.jpg
+name=V10 Pro;
+
+Weight: 576 g
+SoC: MediaTek MT8173
+CPU: 2x 2.0 GHz ARM Cortex-A72, 2x 1.6 GHz ARM Cortex-A53, Cores: 4
+GPU: PowerVR GX6250, 700 MHz, Cores: 2
+RAM: 2 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 2560 x 1600 pixels, 24 bit
+Battery: 6600 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, n 5GHz, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/290c40ca
+imageUrl=https://www.devicespecifications.com/images/model/290c40ca/320/main.jpg
+name=V10 Plus;
+
+Weight: 534 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 1 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/dc3d4046
+imageUrl=https://www.devicespecifications.com/images/model/dc3d4046/320/main.jpg
+name=V10 4G;
+
+Weight: 534 g
+SoC: MediaTek MT8321
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/29864045
+imageUrl=https://www.devicespecifications.com/images/model/29864045/320/main.jpg
+name=V10 3G;
+
+Weight: 312 g
+SoC: Allwinner A64
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/ad654655
+imageUrl=https://www.devicespecifications.com/images/model/ad654655/320/main.jpg
+name=V80 SE Allwinner A64;
+
+Weight: 312 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/12573ffe
+imageUrl=https://www.devicespecifications.com/images/model/12573ffe/320/main.jpg
+name=V80 SE;
+
+Weight: 325 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1440 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/84f53d69
+imageUrl=https://www.devicespecifications.com/images/model/84f53d69/320/main.jpg
+name=V80 Plus;
+
+Weight: 308 g
+SoC: Allwinner A83T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR SGX544
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, miniSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/317b3d68/320/main.jpg
+name=V80 Octa Core;
+
+Weight: 439 g
+SoC: Allwinner A83T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR SGX544
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.6 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4500 mAh, Li-Polymer
+OS: Remix OS 2.0
+Camera: 1600 x 1200 pixels, 640 x 480 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/25b93cc9
+imageUrl=https://www.devicespecifications.com/images/model/25b93cc9/320/main.jpg
+name=V96 Octa Core;
+
+Weight: 575 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.1 Lollipop
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/29e53b92
+imageUrl=https://www.devicespecifications.com/images/model/29e53b92/320/main.jpg
+name=OBook10 Dual OS;
+
+Weight: 575 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/463b3aad
+imageUrl=https://www.devicespecifications.com/images/model/463b3aad/320/main.jpg
+name=OBook10;
+
+Weight: 450 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IGZO, 2048 x 1536 pixels, 24 bit
+Battery: 7200 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 1600 x 1200 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/c8d23a94
+imageUrl=https://www.devicespecifications.com/images/model/c8d23a94/320/main.jpg
+name=V919 3G Air Z3735;
+
+Weight: 450 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/0b4d36bc
+imageUrl=https://www.devicespecifications.com/images/model/0b4d36bc/320/main.jpg
+name=V919 Air CH;
+
+Weight: 583 g
+SoC: Intel Core M-5Y10c
+CPU: 2000 MHz, Cores: 4
+GPU: Intel HD Graphics 5300, 800 MHz
+RAM: 4 GB
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3a6b39b0/320/main.jpg
+name=V919 3G Core M;
+
+Weight: 518 g
+SoC: MediaTek MT8752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1675339c
+imageUrl=https://www.devicespecifications.com/images/model/1675339c/320/main.jpg
+name=V919 4G Air;
+
+Weight: 450 g
+SoC: Allwinner A83T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR SGX544
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8200 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 3.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e15139b1/320/main.jpg
+name=V989 Air Plus;
+
+Weight: 484 g
+SoC: Allwinner A83T
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR SGX544
+RAM: 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.4.4 KitKat
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 3.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/874b33e8
+imageUrl=https://www.devicespecifications.com/images/model/874b33e8/320/main.jpg
+name=V989 Air;
+
+Weight: 749 g
+SoC: Intel Atom Z3736F
+CPU: Intel Bay Trail, 2160 MHz, Cores: 4
+GPU: Intel Gen 7, 646 MHz
+RAM: 2 GB
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 11.6 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 8800 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/df21337e
+imageUrl=https://www.devicespecifications.com/images/model/df21337e/320/main.jpg
+name=V116w;
+
+Weight: 450 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8.9 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/b7f43228
+imageUrl=https://www.devicespecifications.com/images/model/b7f43228/320/main.jpg
+name=V891w Dual OS;
+
+Weight: 496 g
+SoC: Intel Atom Z3736F
+CPU: Intel Bay Trail, 2160 MHz, Cores: 4
+GPU: Intel Gen 7, 646 MHz
+RAM: 2 GB
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 7000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/347e3226
+imageUrl=https://www.devicespecifications.com/images/model/347e3226/320/main.jpg
+name=V919 3G Air;
+
+Weight: 428 g
+SoC: MediaTek MT8392
+CPU: ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: ARM Mali-450 MP4, 700 MHz, Cores: 4
+RAM: 2 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 5800 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/72633227
+imageUrl=https://www.devicespecifications.com/images/model/72633227/320/main.jpg
+name=V919 3G Air (octa core);
+
+Weight: 627 g
+SoC: Intel Atom Z3735
+CPU: Intel Silvermont, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8200 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/d97d31a1
+imageUrl=https://www.devicespecifications.com/images/model/d97d31a1/320/main.jpg
+name=V102w;
+
+Weight: 335 g
+SoC: Intel Atom Z3735F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/f68031a0
+imageUrl=https://www.devicespecifications.com/images/model/f68031a0/320/main.jpg
+name=V820w;
+
+Weight: 490 g
+SoC: Allwinner A80T
+CPU: 4x 2.0 ARM Cortex-A15, 4x ARM Cortex-A7, 2000 MHz, Cores: 8
+GPU: PowerVR G6230, Cores: 64
+RAM: 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 3.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/fbe72e4f/320/main.jpg
+name=V989;
+
+Weight: 345 g
+SoC: Marvell PXA1920
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: Vivante GC2000, 646 MHz
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Android 4.3 Jelly Bean
+Camera: 1600 x 1200 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c9872efa/320/main.jpg
+name=V819 4G;
+
+Weight: 592 g
+SoC: MediaTek MT8382
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 1024 x 768 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/80162d9b
+imageUrl=https://www.devicespecifications.com/images/model/80162d9b/320/main.jpg
+name=V919 3G;
+
+Weight: 495 g
+SoC: Intel Atom Z3735D
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 2 GB
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 7800 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/69ad2d9c
+imageUrl=https://www.devicespecifications.com/images/model/69ad2d9c/320/main.jpg
+name=V975i;
+
+Weight: 280 g
+SoC: MediaTek MT8382
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, LCD, 1024 x 600 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 1920 x 1152 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3f792d9d
+imageUrl=https://www.devicespecifications.com/images/model/3f792d9d/320/main.jpg
+name=V719 3G;
+
+Weight: 345 g
+SoC: Intel Atom Z3735E
+CPU: Intel Silvermont, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics, 646 MHz
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3800 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=https://www.devicespecifications.com/en/price/6f812d9e
+imageUrl=https://www.devicespecifications.com/images/model/6f812d9e/320/main.jpg
+name=V819i;
+
+Weight: 560 g
+SoC: Amlogic AML-M802
+CPU: ARM Cortex-A9, 2000 MHz, Cores: 4
+GPU: ARM Mali-450 MP8, 600 MHz, Cores: 8
+RAM: 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 9.7 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 8200 mAh, Li-Polymer
+OS: Android 4.3 Jelly Bean
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 3.0    
+priceUrl=https://www.devicespecifications.com/en/price/3ec62d9f
+imageUrl=https://www.devicespecifications.com/images/model/3ec62d9f/320/main.jpg
+name=V975m;
+

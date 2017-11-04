@@ -1,0 +1,45 @@
+S7	https://www.devicespecifications.com/en/model/8aa1465b
+Tiger X	https://www.devicespecifications.com/en/model/9cee463b
+Mix 2	https://www.devicespecifications.com/en/model/f99a463a
+Mix	https://www.devicespecifications.com/en/model/3bdd45f0
+S8 Pro	https://www.devicespecifications.com/en/model/ebd844af
+T1	https://www.devicespecifications.com/en/model/54044472
+S8	https://www.devicespecifications.com/en/model/e9fb43e1
+Tiger Lite	https://www.devicespecifications.com/en/model/e2404397
+Gemini Pro	https://www.devicespecifications.com/en/model/588b41cc
+Power 2	https://www.devicespecifications.com/en/model/fc6a41cb
+Armor 2	https://www.devicespecifications.com/en/model/6dff41ca
+Gemini	https://www.devicespecifications.com/en/model/755840b6
+GQ3028	https://www.devicespecifications.com/en/model/b963409d
+Metal Lite	https://www.devicespecifications.com/en/model/56ce4061
+U008 Pro	https://www.devicespecifications.com/en/model/ad9c4028
+Armor	https://www.devicespecifications.com/en/model/7f313f8f
+U007 Pro	https://www.devicespecifications.com/en/model/86353ee6
+Tiger	https://www.devicespecifications.com/en/model/161c3ee5
+Be Pure Lite	https://www.devicespecifications.com/en/model/106a3dcc
+Metal	https://www.devicespecifications.com/en/model/c4e13d2e
+Paris Lite	https://www.devicespecifications.com/en/model/c70b3cc0
+U007	https://www.devicespecifications.com/en/model/5d5e3c42
+Future	https://www.devicespecifications.com/en/model/25323b7c
+Vienna	https://www.devicespecifications.com/en/model/ac363aca
+Power	https://www.devicespecifications.com/en/model/f52e390e
+Paris X	https://www.devicespecifications.com/en/model/c27438aa
+Be Touch 3	https://www.devicespecifications.com/en/model/64db37d4
+Be Pro 2	https://www.devicespecifications.com/en/model/190837d3
+Paris	https://www.devicespecifications.com/en/model/2fd93671
+Be Touch 2	https://www.devicespecifications.com/en/model/f4d4347f
+Be Touch	https://www.devicespecifications.com/en/model/075833d8
+Be Pure	https://www.devicespecifications.com/en/model/9e313365
+Be Pro	https://www.devicespecifications.com/en/model/6cf731ee
+Be X	https://www.devicespecifications.com/en/model/b6d33224
+Be One	https://www.devicespecifications.com/en/model/81f03223
+L55	https://www.devicespecifications.com/en/model/0c36314a
+U5	https://www.devicespecifications.com/en/model/8c072c7f
+U69	https://www.devicespecifications.com/en/model/11c92c5d
+U7	https://www.devicespecifications.com/en/model/af012c82
+U692	https://www.devicespecifications.com/en/model/298a2c5f
+U9592	https://www.devicespecifications.com/en/model/bb142c5e
+P6+	https://www.devicespecifications.com/en/model/fce32c80
+P6	https://www.devicespecifications.com/en/model/4e6f2c81
+U650+	https://www.devicespecifications.com/en/model/97cc2c83
+U650	https://www.devicespecifications.com/en/model/5e2f2c84

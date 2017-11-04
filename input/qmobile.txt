@@ -1,0 +1,57 @@
+S8	https://www.devicespecifications.com/en/model/3d8046ae
+i9i	https://www.devicespecifications.com/en/model/7df846ad
+Evok Power	https://www.devicespecifications.com/en/model/305f4547
+LT550	https://www.devicespecifications.com/en/model/52774546
+Noir J2	https://www.devicespecifications.com/en/model/6b3d44e9
+Noir J1	https://www.devicespecifications.com/en/model/0ec844e8
+CS1 Plus	https://www.devicespecifications.com/en/model/b71644df
+Noir X1s	https://www.devicespecifications.com/en/model/601344d8
+Noir LT600 Pro	https://www.devicespecifications.com/en/model/421144d7
+QNote	https://www.devicespecifications.com/en/model/aa6144d6
+A1 Lite	https://www.devicespecifications.com/en/model/143a4450
+CS1	https://www.devicespecifications.com/en/model/70f64451
+Noir A1	https://www.devicespecifications.com/en/model/c77b4400
+Noir E2	https://www.devicespecifications.com/en/model/d31a43ff
+Noir J7 Pro	https://www.devicespecifications.com/en/model/7a0b432f
+M6	https://www.devicespecifications.com/en/model/26ea424f
+M6 Lite	https://www.devicespecifications.com/en/model/21164201
+X32 Power	https://www.devicespecifications.com/en/model/f1f4416b
+Energy X2	https://www.devicespecifications.com/en/model/ac74414f
+King Kong Max	https://www.devicespecifications.com/en/model/9d2c4469
+Energy X1	https://www.devicespecifications.com/en/model/7e8f4158
+M350 Pro	https://www.devicespecifications.com/en/model/930f415e
+Noir E1	https://www.devicespecifications.com/en/model/cdff416c
+i7i Pro	https://www.devicespecifications.com/en/model/38c74159
+X700 Pro II	https://www.devicespecifications.com/en/model/e5df4085
+X700 Pro Lite	https://www.devicespecifications.com/en/model/f7a74084
+Noir i2 Pro	https://www.devicespecifications.com/en/model/149d4083
+Noir S6	https://www.devicespecifications.com/en/model/dad54142
+Noir J7	https://www.devicespecifications.com/en/model/9a183fe7
+Noir J5	https://www.devicespecifications.com/en/model/b0a23fe6
+Noir Z14	https://www.devicespecifications.com/en/model/6fda3eba
+Noir Z12 Pro	https://www.devicespecifications.com/en/model/598a3eb9
+Noir LT700 Pro	https://www.devicespecifications.com/en/model/19a74020
+Noir S4	https://www.devicespecifications.com/en/model/5b614021
+Noir A6	https://www.devicespecifications.com/en/model/bad73ed3
+Noir LT750	https://www.devicespecifications.com/en/model/13134141
+Noir i6 Metal HD	https://www.devicespecifications.com/en/model/1bd53ed4
+Noir i6 Metal One	https://www.devicespecifications.com/en/model/d2594022
+Noir Z9 Plus	https://www.devicespecifications.com/en/model/230a3b4c
+Noir S9	https://www.devicespecifications.com/en/model/24cc3b4d
+Noir Z12	https://www.devicespecifications.com/en/model/062d3ae9
+Noir S3	https://www.devicespecifications.com/en/model/61e33949
+Noir W50	https://www.devicespecifications.com/en/model/ce674140
+Noir E8	https://www.devicespecifications.com/en/model/f6f23873
+Noir Z10	https://www.devicespecifications.com/en/model/36673872
+Noir S2	https://www.devicespecifications.com/en/model/a9ef3871
+X700i	https://www.devicespecifications.com/en/model/c99f3907
+Noir S5	https://www.devicespecifications.com/en/model/624835e5
+Linq L15	https://www.devicespecifications.com/en/model/e1573584
+Noir Z9	https://www.devicespecifications.com/en/model/803535e6
+Noir S1	https://www.devicespecifications.com/en/model/a2d234fc
+A1	https://www.devicespecifications.com/en/model/6d7634f1
+Noir X950	https://www.devicespecifications.com/en/model/4cb934fb
+Bolt T50	https://www.devicespecifications.com/en/model/2e3e34f3
+Noir Z8 Plus	https://www.devicespecifications.com/en/model/70cb34f2
+Noir Z8	https://www.devicespecifications.com/en/model/1b6f34f4
+Noir LT600	https://www.devicespecifications.com/en/model/96d734fd

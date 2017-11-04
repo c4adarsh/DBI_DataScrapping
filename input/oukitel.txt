@@ -1,0 +1,43 @@
+C8 4G	https://www.devicespecifications.com/en/model/bb5946b9
+K8000	https://www.devicespecifications.com/en/model/3b0e4639
+Mix 2	https://www.devicespecifications.com/en/model/15bd4614
+K5000	https://www.devicespecifications.com/en/model/a44945fa
+C8	https://www.devicespecifications.com/en/model/837f45ab
+K3	https://www.devicespecifications.com/en/model/251e446a
+K4000 Plus	https://www.devicespecifications.com/en/model/b27b4325
+K10000 Pro	https://www.devicespecifications.com/en/model/11f442c2
+K10000 Max	https://www.devicespecifications.com/en/model/661642be
+U22	https://www.devicespecifications.com/en/model/aea042bd
+U11 Plus	https://www.devicespecifications.com/en/model/576a42ba
+U16 Max	https://www.devicespecifications.com/en/model/42c74190
+C5	https://www.devicespecifications.com/en/model/64d74162
+U7 Max	https://www.devicespecifications.com/en/model/2bba413d
+K6000 Plus	https://www.devicespecifications.com/en/model/01574213
+U13	https://www.devicespecifications.com/en/model/76034080
+C5 Pro	https://www.devicespecifications.com/en/model/8af74060
+U20 Plus	https://www.devicespecifications.com/en/model/36253fba
+U15S	https://www.devicespecifications.com/en/model/62aa3f32
+U15 Pro	https://www.devicespecifications.com/en/model/31fd3eb3
+K7000	https://www.devicespecifications.com/en/model/74793e87
+C4	https://www.devicespecifications.com/en/model/3ada3e11
+U7 Plus	https://www.devicespecifications.com/en/model/80383d77
+K4000 Lite	https://www.devicespecifications.com/en/model/dfec3d8b
+C3	https://www.devicespecifications.com/en/model/b37f3b99
+C2	https://www.devicespecifications.com/en/model/f6f73a5c
+K4000 Pro	https://www.devicespecifications.com/en/model/78e238dd
+K6000 Premium	https://www.devicespecifications.com/en/model/f70b385c
+K6000 Pro	https://www.devicespecifications.com/en/model/a501385b
+K10000	https://www.devicespecifications.com/en/model/ff5837d5
+U7 Pro	https://www.devicespecifications.com/en/model/e66c3778
+K6000	https://www.devicespecifications.com/en/model/bebd3771
+K4000	https://www.devicespecifications.com/en/model/f0643689
+U7	https://www.devicespecifications.com/en/model/d4883608
+U6	https://www.devicespecifications.com/en/model/ae6235ee
+C1	https://www.devicespecifications.com/en/model/f57735ac
+U2	https://www.devicespecifications.com/en/model/37063594
+Black Bull P2	https://www.devicespecifications.com/en/model/89293564
+U10	https://www.devicespecifications.com/en/model/1de43551
+U9 Kindo Thranduil	https://www.devicespecifications.com/en/model/c57a34f7
+U8 Universe Tap	https://www.devicespecifications.com/en/model/13e933e7
+Original Pure	https://www.devicespecifications.com/en/model/b3d9337a
+Original One	https://www.devicespecifications.com/en/model/c3993379

@@ -1,0 +1,260 @@
+G Pad F2 8.0	https://www.devicespecifications.com/en/model/09fb46a5
+LS7 4G LTE	https://www.devicespecifications.com/en/model/a2e1461c
+K7i Mosquito Away	https://www.devicespecifications.com/en/model/7cfc4602
+V30+	https://www.devicespecifications.com/en/model/fcc34570
+V30	https://www.devicespecifications.com/en/model/2336456f
+G Pad X2 8.0 Plus	https://www.devicespecifications.com/en/model/5ac744f1
+Q8	https://www.devicespecifications.com/en/model/b64e4494
+Q6+	https://www.devicespecifications.com/en/model/e3d54459
+Q6	https://www.devicespecifications.com/en/model/ef5b4458
+Q6α	https://www.devicespecifications.com/en/model/c6704457
+G Pad IV 8.0 FHD LTE	https://www.devicespecifications.com/en/model/a0d54439
+X Charge	https://www.devicespecifications.com/en/model/ecf9442e
+G6+	https://www.devicespecifications.com/en/model/8d2643f9
+Exalt LTE	https://www.devicespecifications.com/en/model/4b2043c8
+X500	https://www.devicespecifications.com/en/model/264d43ae
+Fiesta LTE	https://www.devicespecifications.com/en/model/f04d43a3
+X venture	https://www.devicespecifications.com/en/model/c0cb4362
+Grace LTE	https://www.devicespecifications.com/en/model/50aa4358
+Stylo 3 Plus	https://www.devicespecifications.com/en/model/727b434f
+K10 Pro	https://www.devicespecifications.com/en/model/4236433b
+Harmony	https://www.devicespecifications.com/en/model/808442a1
+U+ Pad 8	https://www.devicespecifications.com/en/model/22ec429f
+K10 Novo	https://www.devicespecifications.com/en/model/2862427f
+Rebel 2	https://www.devicespecifications.com/en/model/00864394
+K10 Power	https://www.devicespecifications.com/en/model/ecdb424d
+K8 (2017) X240	https://www.devicespecifications.com/en/model/6ecf424a
+K20 V	https://www.devicespecifications.com/en/model/28f4423c
+K20 Plus	https://www.devicespecifications.com/en/model/04814222
+Stylo 3	https://www.devicespecifications.com/en/model/b0324205
+Fortune	https://www.devicespecifications.com/en/model/7fb741fb
+Phoenix 3	https://www.devicespecifications.com/en/model/882841f6
+K7 (2017)	https://www.devicespecifications.com/en/model/5a3e43c2
+X Power2	https://www.devicespecifications.com/en/model/f2034197
+X400	https://www.devicespecifications.com/en/model/6e174185
+G6	https://www.devicespecifications.com/en/model/da33417d
+Aristo	https://www.devicespecifications.com/en/model/063d40d2
+K4 Novo	https://www.devicespecifications.com/en/model/940d433c
+X300	https://www.devicespecifications.com/en/model/a8b440d3
+Stylus 3	https://www.devicespecifications.com/en/model/1ac6405b
+K10 (2017)	https://www.devicespecifications.com/en/model/a8fa405a
+K8 (2017)	https://www.devicespecifications.com/en/model/42d74059
+K4 (2017)	https://www.devicespecifications.com/en/model/5bce4058
+K3 (2017)	https://www.devicespecifications.com/en/model/689e4057
+G Pad III 10.1 FHD	https://www.devicespecifications.com/en/model/356f4048
+Stylo 2 V	https://www.devicespecifications.com/en/model/9f2a3f28
+U	https://www.devicespecifications.com/en/model/04bc3f57
+Tribute HD	https://www.devicespecifications.com/en/model/03493ed1
+X max	https://www.devicespecifications.com/en/model/5b673ea8
+V20	https://www.devicespecifications.com/en/model/36143e4e
+X Power LS755	https://www.devicespecifications.com/en/model/0a853f1d
+G Pad X II 10.1	https://www.devicespecifications.com/en/model/92f43ea3
+G Pad F 8.0 2nd Gen	https://www.devicespecifications.com/en/model/3b583ea4
+X mach	https://www.devicespecifications.com/en/model/f8d33e21
+X Fast	https://www.devicespecifications.com/en/model/f8c73e1b
+K3 K100	https://www.devicespecifications.com/en/model/ab343dbc
+Phoenix 2	https://www.devicespecifications.com/en/model/f6763d47
+X style	https://www.devicespecifications.com/en/model/0cb53d2f
+Stylo 2 Plus	https://www.devicespecifications.com/en/model/a1ba3d20
+X5	https://www.devicespecifications.com/en/model/bfd93cff
+X Power K450	https://www.devicespecifications.com/en/model/6bc03e35
+X Power	https://www.devicespecifications.com/en/model/87993d00
+G Pad III 8.0 FHD	https://www.devicespecifications.com/en/model/9e5a4015
+X Skin	https://www.devicespecifications.com/en/model/866e3cdc
+K8V	https://www.devicespecifications.com/en/model/c3ec3cbb
+K3 4G	https://www.devicespecifications.com/en/model/7b963cb0
+G Pad X 8.0	https://www.devicespecifications.com/en/model/68d93c5c
+Stylus 2 Plus	https://www.devicespecifications.com/en/model/1b563c38
+K8 4G US375	https://www.devicespecifications.com/en/model/59fd3c0c
+Escape 3	https://www.devicespecifications.com/en/model/3c853bff
+L5000	https://www.devicespecifications.com/en/model/907d3b75
+Stylo 2	https://www.devicespecifications.com/en/model/3bb73b6c
+K4 LTE K121	https://www.devicespecifications.com/en/model/13f33ae1
+G5 SE	https://www.devicespecifications.com/en/model/f6993ace
+K5	https://www.devicespecifications.com/en/model/dd913acd
+K5 LTE	https://www.devicespecifications.com/en/model/54b63abc
+Spree	https://www.devicespecifications.com/en/model/372e3aab
+G5	https://www.devicespecifications.com/en/model/d5483a45
+Stylus 2	https://www.devicespecifications.com/en/model/36693a1f
+K8 4G	https://www.devicespecifications.com/en/model/224d3a1c
+X screen	https://www.devicespecifications.com/en/model/c5ee3a18
+X cam	https://www.devicespecifications.com/en/model/42ed3a17
+K7	https://www.devicespecifications.com/en/model/3ff13a09
+K7 LTE	https://www.devicespecifications.com/en/model/8e203a08
+K4 LTE	https://www.devicespecifications.com/en/model/d08839b9
+K10 LTE	https://www.devicespecifications.com/en/model/fc1b3ab5
+K10 LTE K430	https://www.devicespecifications.com/en/model/744e39bb
+K10	https://www.devicespecifications.com/en/model/b02b39ba
+Tribute 5	https://www.devicespecifications.com/en/model/7b81399c
+Optimus Zone 3	https://www.devicespecifications.com/en/model/aa2e3983
+Smart Folder	https://www.devicespecifications.com/en/model/ed564667
+Gentle F660L	https://www.devicespecifications.com/en/model/0e7739d5
+G4 Stylus 3G	https://www.devicespecifications.com/en/model/3d91398e
+G Pad II 8.3 LTE	https://www.devicespecifications.com/en/model/372f38eb
+Zero	https://www.devicespecifications.com/en/model/46f137e9
+Ray	https://www.devicespecifications.com/en/model/f02b382f
+G Vista 2	https://www.devicespecifications.com/en/model/7e95379a
+V10	https://www.devicespecifications.com/en/model/d7823714
+Nexus 5X	https://www.devicespecifications.com/en/model/d23f3709
+Wine Smart Jazz	https://www.devicespecifications.com/en/model/d09136d3
+Class	https://www.devicespecifications.com/en/model/9ae836d2
+G Pad X 10.1	https://www.devicespecifications.com/en/model/23f23b32
+Lucky	https://www.devicespecifications.com/en/model/1ee93834
+Sunrise	https://www.devicespecifications.com/en/model/0aef3837
+G Pad II 10.1	https://www.devicespecifications.com/en/model/544035f9
+G Pad II 8.0 LTE	https://www.devicespecifications.com/en/model/18c835cc
+G Pad II 8.0 Wi-Fi	https://www.devicespecifications.com/en/model/ed6c375f
+Gentle F580L	https://www.devicespecifications.com/en/model/7ba0355d
+G4 Beat	https://www.devicespecifications.com/en/model/7187350b
+Volt 2	https://www.devicespecifications.com/en/model/d77334d5
+Tribute 2	https://www.devicespecifications.com/en/model/d69434d4
+band Play	https://www.devicespecifications.com/en/model/306d34ba
+G Pad X8.3	https://www.devicespecifications.com/en/model/03943480
+G4c	https://www.devicespecifications.com/en/model/4eec341b
+Escape2	https://www.devicespecifications.com/en/model/fe933411
+Lancet	https://www.devicespecifications.com/en/model/b8273408
+Volt F540	https://www.devicespecifications.com/en/model/aaaf34d1
+G4	https://www.devicespecifications.com/en/model/52f833d1
+G Stylo	https://www.devicespecifications.com/en/model/f6bb33be
+Magna LTE	https://www.devicespecifications.com/en/model/61e032db
+Magna	https://www.devicespecifications.com/en/model/194b32da
+Spirit 4G LTE	https://www.devicespecifications.com/en/model/e5a032d9
+Spirit	https://www.devicespecifications.com/en/model/dc5532d8
+Leon 4G LTE	https://www.devicespecifications.com/en/model/f3e032c2
+Leon	https://www.devicespecifications.com/en/model/42d932c1
+Joy LTE	https://www.devicespecifications.com/en/model/754732c0
+Joy	https://www.devicespecifications.com/en/model/295e32bf
+Ice Cream Smart	https://www.devicespecifications.com/en/model/8be5323b
+G Flex 2	https://www.devicespecifications.com/en/model/404a31bf
+Bello II	https://www.devicespecifications.com/en/model/7585353e
+Fx0	https://www.devicespecifications.com/en/model/28e73190
+G Pad 10.1 LTE	https://www.devicespecifications.com/en/model/2320311f
+Transpyre	https://www.devicespecifications.com/en/model/597430f2
+Aka H788N	https://www.devicespecifications.com/en/model/c48533ad
+Aka	https://www.devicespecifications.com/en/model/9f2f30af
+G2 Lite	https://www.devicespecifications.com/en/model/0f9f308b
+L Prime	https://www.devicespecifications.com/en/model/d8e2308a
+L45 Dual (X132)	https://www.devicespecifications.com/en/model/b2cf32bb
+Isai VL	https://www.devicespecifications.com/en/model/e3ca305b
+G3 Screen	https://www.devicespecifications.com/en/model/e386304a
+Tribute	https://www.devicespecifications.com/en/model/55f5300b
+F60	https://www.devicespecifications.com/en/model/67f12fce
+Wine Smart	https://www.devicespecifications.com/en/model/05e22fa8
+G Watch R	https://www.devicespecifications.com/en/model/7c902f27
+G3 Stylus	https://www.devicespecifications.com/en/model/97272f13
+L60 Dual	https://www.devicespecifications.com/en/model/441c2f28
+L Bello	https://www.devicespecifications.com/en/model/a9182eef
+L Fino	https://www.devicespecifications.com/en/model/5b5b2eee
+G Pad 8.0 LTE	https://www.devicespecifications.com/en/model/4db22e9a
+L60	https://www.devicespecifications.com/en/model/d2c22e95
+G3 A	https://www.devicespecifications.com/en/model/cdd62e89
+G Pad 7.0 LTE	https://www.devicespecifications.com/en/model/737f2e7e
+Realm	https://www.devicespecifications.com/en/model/a8aa2eba
+L50	https://www.devicespecifications.com/en/model/5c9c2e66
+L30	https://www.devicespecifications.com/en/model/95fd2e71
+L20	https://www.devicespecifications.com/en/model/3cd92e70
+G3 Cat.6	https://www.devicespecifications.com/en/model/dc702e21
+G Vista	https://www.devicespecifications.com/en/model/a2212dbe
+G3 S D724	https://www.devicespecifications.com/en/model/ee4d2f88
+G3 S	https://www.devicespecifications.com/en/model/e4962daf
+G Watch	https://www.devicespecifications.com/en/model/f7512da9
+G Pad 10.1	https://www.devicespecifications.com/en/model/28b42d66
+G Pad 8.0	https://www.devicespecifications.com/en/model/f5b62d65
+G Pad 7.0	https://www.devicespecifications.com/en/model/72c22c9d
+L65	https://www.devicespecifications.com/en/model/e0612d31
+L35	https://www.devicespecifications.com/en/model/20962cc8
+Volt	https://www.devicespecifications.com/en/model/22302cbb
+Isai FL	https://www.devicespecifications.com/en/model/aba92c86
+G3	https://www.devicespecifications.com/en/model/6da82bff
+L80	https://www.devicespecifications.com/en/model/5cfc3294
+L80 Dual	https://www.devicespecifications.com/en/model/064d2c49
+L65 Dual	https://www.devicespecifications.com/en/model/8d6d2c21
+Optimus Exceed 2	https://www.devicespecifications.com/en/model/c5f42d00
+F90 Lucid 3	https://www.devicespecifications.com/en/model/f8182c20
+F90 LTE	https://www.devicespecifications.com/en/model/18392c1f
+F90	https://www.devicespecifications.com/en/model/070b2bf1
+G Pad 8.3 LTE VK810	https://www.devicespecifications.com/en/model/122a2b68
+F70	https://www.devicespecifications.com/en/model/23602b23
+G2 Mini LTE Tegra	https://www.devicespecifications.com/en/model/f2ed2afe
+G2 Mini LTE	https://www.devicespecifications.com/en/model/a4642afd
+G2 Mini	https://www.devicespecifications.com/en/model/f2ae2afc
+L90	https://www.devicespecifications.com/en/model/f4e72b25
+L90 Dual	https://www.devicespecifications.com/en/model/fba72c09
+L70	https://www.devicespecifications.com/en/model/5e912c07
+L70 Dual	https://www.devicespecifications.com/en/model/e7a82b24
+L40	https://www.devicespecifications.com/en/model/07402c08
+L40 Dual	https://www.devicespecifications.com/en/model/ab722af4
+G Pro 2	https://www.devicespecifications.com/en/model/33a62ada
+Optimus L1 II Tri	https://www.devicespecifications.com/en/model/b7f32abd
+Optimus F3Q	https://www.devicespecifications.com/en/model/6aee2aa4
+GX	https://www.devicespecifications.com/en/model/b8a02a0a
+Google Nexus 5	https://www.devicespecifications.com/en/model/3dfd2923
+G Flex	https://www.devicespecifications.com/en/model/9ae4291c
+Fireweb	https://www.devicespecifications.com/en/model/c3332a44
+G Pro Lite	https://www.devicespecifications.com/en/model/0b03291f
+G Pro Lite Dual	https://www.devicespecifications.com/en/model/04222920
+Optimus L2 II	https://www.devicespecifications.com/en/model/dcdf291e
+G Pad 8.3 LTE V507L	https://www.devicespecifications.com/en/model/80012a28
+G Pad 8.3 V500	https://www.devicespecifications.com/en/model/734b291d
+Optimus Vu 3	https://www.devicespecifications.com/en/model/8dfc2a48
+Optimus L9 II	https://www.devicespecifications.com/en/model/02ee28ef
+G2	https://www.devicespecifications.com/en/model/21dc28a2
+Optimus F6	https://www.devicespecifications.com/en/model/197c2a49
+Enact	https://www.devicespecifications.com/en/model/78a728a1
+Optimus L4 II Dual	https://www.devicespecifications.com/en/model/90022789
+Optimus F3	https://www.devicespecifications.com/en/model/83f3278b
+Optimus L4 II	https://www.devicespecifications.com/en/model/5dbe28d4
+Optimus Zone	https://www.devicespecifications.com/en/model/4a47278a
+Optimus GJ	https://www.devicespecifications.com/en/model/d3a92788
+Lucid2	https://www.devicespecifications.com/en/model/7fd0278c
+Optimus F7	https://www.devicespecifications.com/en/model/52e6278d
+Optimus L3 II Dual	https://www.devicespecifications.com/en/model/c7ac2794
+Optimus F5	https://www.devicespecifications.com/en/model/25a3278e
+Optimus G Pro	https://www.devicespecifications.com/en/model/0eb2278f
+Optimus L5 II Dual	https://www.devicespecifications.com/en/model/c8ce2792
+Optimus L5 II	https://www.devicespecifications.com/en/model/2bfc2793
+Optimus L3 II	https://www.devicespecifications.com/en/model/402b2795
+Optimus L7 II Dual	https://www.devicespecifications.com/en/model/11e42790
+Optimus L7 II	https://www.devicespecifications.com/en/model/fa382791
+Nexus 4	https://www.devicespecifications.com/en/model/73c42796
+Mach	https://www.devicespecifications.com/en/model/4af82799
+Optimus G E970	https://www.devicespecifications.com/en/model/a40628f0
+Optimus G LS970	https://www.devicespecifications.com/en/model/064d28f1
+Spectrum 2	https://www.devicespecifications.com/en/model/789e2798
+Tri Chip C333	https://www.devicespecifications.com/en/model/e15f2797
+Optimus VU II	https://www.devicespecifications.com/en/model/29b5279b
+Escape	https://www.devicespecifications.com/en/model/f56028f5
+Intuition	https://www.devicespecifications.com/en/model/9a3e28f3
+Splendor	https://www.devicespecifications.com/en/model/4fbe28f4
+Optimus L9	https://www.devicespecifications.com/en/model/b617279a
+Optimus G	https://www.devicespecifications.com/en/model/c4be28f2
+Optimus L5 Dual	https://www.devicespecifications.com/en/model/709d28f6
+Optimus Vu	https://www.devicespecifications.com/en/model/6b4028f7
+Optimus LTE II	https://www.devicespecifications.com/en/model/5be128f9
+Optimus True HD LTE P936	https://www.devicespecifications.com/en/model/d38328fa
+Optimus 4X HD	https://www.devicespecifications.com/en/model/fa4a28fb
+Optimus 3D MAX	https://www.devicespecifications.com/en/model/a8c628fc
+Optimus L3 Dual	https://www.devicespecifications.com/en/model/915628f8
+Optimus L7	https://www.devicespecifications.com/en/model/a5e228fd
+Optimus L5	https://www.devicespecifications.com/en/model/da9728fe
+Optimus L3	https://www.devicespecifications.com/en/model/e9f22900
+Optimus Vu F100L	https://www.devicespecifications.com/en/model/655728ff
+A290	https://www.devicespecifications.com/en/model/3bee290c
+Optimus Pad LTE	https://www.devicespecifications.com/en/model/2e9a2901
+Optimus Vu F100S	https://www.devicespecifications.com/en/model/cd4f2a47
+Prada 3.0	https://www.devicespecifications.com/en/model/04ac2902
+Optimus 4G LTE	https://www.devicespecifications.com/en/model/7abb3620
+Nitro HD	https://www.devicespecifications.com/en/model/33c02903
+Doubleplay	https://www.devicespecifications.com/en/model/23f12904
+S367	https://www.devicespecifications.com/en/model/46e32905
+Optimus Slider	https://www.devicespecifications.com/en/model/c49f2906
+Optimus Hub	https://www.devicespecifications.com/en/model/d8d02907
+Optimus Sol	https://www.devicespecifications.com/en/model/462e2908
+Optimus Net	https://www.devicespecifications.com/en/model/61882909
+Optimus Black	https://www.devicespecifications.com/en/model/4750290a
+Optimus Pro	https://www.devicespecifications.com/en/model/cfbf290b
+Genesis	https://www.devicespecifications.com/en/model/341e290e
+Phoenix P505	https://www.devicespecifications.com/en/model/5467290f
+Thrive	https://www.devicespecifications.com/en/model/a6c62910
+Thrill 4G	https://www.devicespecifications.com/en/model/3eb02911
+Optimus 3D	https://www.devicespecifications.com/en/model/640a2eff

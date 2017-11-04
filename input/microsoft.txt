@@ -1,0 +1,32 @@
+Lumia 650 Dual SIM	https://www.devicespecifications.com/en/model/915c3a1a
+Lumia 650	https://www.devicespecifications.com/en/model/22163a19
+Surface Pro 4 128 GB	https://www.devicespecifications.com/en/model/d480394f
+Lumia 550	https://www.devicespecifications.com/en/model/f8b83732
+Lumia 950 XL Dual SIM	https://www.devicespecifications.com/en/model/8cda3730
+Lumia 950 XL	https://www.devicespecifications.com/en/model/77fd372f
+Lumia 950 Dual SIM	https://www.devicespecifications.com/en/model/19413731
+Lumia 950	https://www.devicespecifications.com/en/model/712f372e
+Lumia 540 Dual SIM	https://www.devicespecifications.com/en/model/c2c933a4
+Lumia 430 Dual SIM	https://www.devicespecifications.com/en/model/e10e3342
+Lumia 640 XL LTE Dual SIM	https://www.devicespecifications.com/en/model/347432f0
+Lumia 640 XL LTE	https://www.devicespecifications.com/en/model/d94b32ef
+Lumia 640 XL Dual SIM	https://www.devicespecifications.com/en/model/9e1732ee
+Lumia 640 XL	https://www.devicespecifications.com/en/model/faca32ed
+Lumia 640 LTE Dual SIM	https://www.devicespecifications.com/en/model/f79232ec
+Lumia 640 LTE	https://www.devicespecifications.com/en/model/006832eb
+Lumia 640 Dual SIM	https://www.devicespecifications.com/en/model/f75132ea
+Lumia 532 Dual SIM	https://www.devicespecifications.com/en/model/646831fe
+Lumia 532	https://www.devicespecifications.com/en/model/2db331fd
+Lumia 435 Dual SIM	https://www.devicespecifications.com/en/model/5b8631fc
+Lumia 435	https://www.devicespecifications.com/en/model/46be31fb
+Lumia 535 Dual SIM	https://www.devicespecifications.com/en/model/740530a3
+Lumia 535	https://www.devicespecifications.com/en/model/785430a2
+Surface Pro 3 i7	https://www.devicespecifications.com/en/model/ebae2ccc
+Surface Pro 3 i5	https://www.devicespecifications.com/en/model/93642cca
+Surface Pro 3 i3	https://www.devicespecifications.com/en/model/607a2ccb
+1573 Surface 2	https://www.devicespecifications.com/en/model/a5742b9d
+Surface Pro 2 512 GB	https://www.devicespecifications.com/en/model/95dc2a74
+Surface Pro 2 128 GB	https://www.devicespecifications.com/en/model/55222a73
+Surface 2	https://www.devicespecifications.com/en/model/91382a72
+Surface Pro	https://www.devicespecifications.com/en/model/89b32a77
+Surface	https://www.devicespecifications.com/en/model/fc652a76

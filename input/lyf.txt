@@ -1,0 +1,38 @@
+C451	https://www.devicespecifications.com/en/model/5af2450b
+C459	https://www.devicespecifications.com/en/model/2ec844d9
+Water 7S	https://www.devicespecifications.com/en/model/7d8240d1
+Water 3	https://www.devicespecifications.com/en/model/a8e64081
+F1S	https://www.devicespecifications.com/en/model/f26f4069
+Wind 7S	https://www.devicespecifications.com/en/model/e4754065
+Wind 7i	https://www.devicespecifications.com/en/model/94bb3f9e
+F8	https://www.devicespecifications.com/en/model/e09a3f73
+Water 9	https://www.devicespecifications.com/en/model/2c6d3f52
+F1	https://www.devicespecifications.com/en/model/1e363f2d
+Wind 4S	https://www.devicespecifications.com/en/model/067c3ee7
+Flame 7s	https://www.devicespecifications.com/en/model/677c3ee0
+Water 11	https://www.devicespecifications.com/en/model/4cba3e2c
+Water 10	https://www.devicespecifications.com/en/model/2bf53dfe
+Wind 7	https://www.devicespecifications.com/en/model/db4a3dc1
+Flame 7	https://www.devicespecifications.com/en/model/18223dc0
+Wind 3	https://www.devicespecifications.com/en/model/f4a23daf
+Flame 8	https://www.devicespecifications.com/en/model/23333dae
+Wind 2	https://www.devicespecifications.com/en/model/18a23d8c
+Water 8	https://www.devicespecifications.com/en/model/c66d3d75
+Water 6	https://www.devicespecifications.com/en/model/062c3d35
+Water 4	https://www.devicespecifications.com/en/model/5ff83d34
+Earth 2	https://www.devicespecifications.com/en/model/d8123cd8
+Flame 5	https://www.devicespecifications.com/en/model/39c63cd7
+Wind 1	https://www.devicespecifications.com/en/model/f2143c90
+Wind 5	https://www.devicespecifications.com/en/model/e9ea3c7f
+Flame 6	https://www.devicespecifications.com/en/model/e0993c63
+Flame 4	https://www.devicespecifications.com/en/model/2a1b3c3b
+Flame 3	https://www.devicespecifications.com/en/model/0e3f3c3a
+Water 5	https://www.devicespecifications.com/en/model/6a303bdb
+Water 7	https://www.devicespecifications.com/en/model/e8323ad5
+Flame 2	https://www.devicespecifications.com/en/model/8bac3ad4
+Wind 4	https://www.devicespecifications.com/en/model/0e193ad3
+Wind 6	https://www.devicespecifications.com/en/model/6c3e3a7d
+Flame 1	https://www.devicespecifications.com/en/model/7b5339f9
+Water 2	https://www.devicespecifications.com/en/model/3de039c9
+Water 1	https://www.devicespecifications.com/en/model/3d0d39c8
+Earth 1	https://www.devicespecifications.com/en/model/0c6d39c7

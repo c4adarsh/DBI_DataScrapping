@@ -1,0 +1,31 @@
+S8	https://www.devicespecifications.com/en/model/eea14627
+Mix	https://www.devicespecifications.com/en/model/300045e1
+T2 Plus	https://www.devicespecifications.com/en/model/c59045d1
+Mix Plus	https://www.devicespecifications.com/en/model/05d2442a
+F2	https://www.devicespecifications.com/en/model/b59043a4
+S3	https://www.devicespecifications.com/en/model/2ecc438a
+T1 Plus	https://www.devicespecifications.com/en/model/32133e06
+G1 Giant	https://www.devicespecifications.com/en/model/3dd73bf8
+T5 SE	https://www.devicespecifications.com/en/model/1f383bf4
+T5	https://www.devicespecifications.com/en/model/43263bf3
+T6	https://www.devicespecifications.com/en/model/b9323b64
+T3	https://www.devicespecifications.com/en/model/2c1a3afe
+T2	https://www.devicespecifications.com/en/model/893b3afd
+V6	https://www.devicespecifications.com/en/model/c9173ad6
+F1	https://www.devicespecifications.com/en/model/f2f93a81
+VK700 Max	https://www.devicespecifications.com/en/model/7f6e396c
+VK800X	https://www.devicespecifications.com/en/model/488538e8
+VK6735X	https://www.devicespecifications.com/en/model/41ab3889
+Discovery S2	https://www.devicespecifications.com/en/model/20d63839
+VK700X	https://www.devicespecifications.com/en/model/87c93794
+VK700 Pro	https://www.devicespecifications.com/en/model/506936f1
+Discovery S1	https://www.devicespecifications.com/en/model/b14835bc
+VK560	https://www.devicespecifications.com/en/model/b32d355b
+VK700	https://www.devicespecifications.com/en/model/0c51361a
+VK6050S	https://www.devicespecifications.com/en/model/600635a8
+VK6050	https://www.devicespecifications.com/en/model/7a7b34b2
+VK6735	https://www.devicespecifications.com/en/model/75f3348c
+VK2015	https://www.devicespecifications.com/en/model/26d23490
+VK1000	https://www.devicespecifications.com/en/model/d44f2fda
+A88	https://www.devicespecifications.com/en/model/2e442d23
+VK500	https://www.devicespecifications.com/en/model/11d32d24

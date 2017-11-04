@@ -1,0 +1,61 @@
+X-driver 4G	https://www.devicespecifications.com/en/model/ae794111
+TM-4510	https://www.devicespecifications.com/en/model/f0f44110
+X-selfie	https://www.devicespecifications.com/en/model/f87c40c3
+X-omega	https://www.devicespecifications.com/en/model/99da407c
+X-force	https://www.devicespecifications.com/en/model/0b19407b
+X-Plus	https://www.devicespecifications.com/en/model/fd6d4076
+TM-4513	https://www.devicespecifications.com/en/model/4507406a
+TM-8044	https://www.devicespecifications.com/en/model/081a3ef3
+TM-5513	https://www.devicespecifications.com/en/model/ea953ecb
+TM-5017	https://www.devicespecifications.com/en/model/3ec53ec9
+TM-8043	https://www.devicespecifications.com/en/model/dda73eaf
+TX-4003	https://www.devicespecifications.com/en/model/8b3e3e9e
+TM-7053	https://www.devicespecifications.com/en/model/60cf3ef1
+TM-7052	https://www.devicespecifications.com/en/model/30ee3ef2
+TM-6003	https://www.devicespecifications.com/en/model/c4e13ecc
+TM-4083	https://www.devicespecifications.com/en/model/75463e57
+TM-5505	https://www.devicespecifications.com/en/model/32ea3eca
+TM-5005	https://www.devicespecifications.com/en/model/cb503ec7
+TM-5003	https://www.devicespecifications.com/en/model/0d403ec8
+X-pad Quad 7	https://www.devicespecifications.com/en/model/8e3a3777
+X-shine	https://www.devicespecifications.com/en/model/81b63738
+X-maxi 2	https://www.devicespecifications.com/en/model/505c3737
+X-cosmo	https://www.devicespecifications.com/en/model/a6063736
+X-pad Quad 7 3G	https://www.devicespecifications.com/en/model/6cc23776
+X-mini 2	https://www.devicespecifications.com/en/model/19213628
+X-pad Quad 10 3G	https://www.devicespecifications.com/en/model/1d613591
+X-pad Rapid 7.1 4G	https://www.devicespecifications.com/en/model/85123773
+X-style	https://www.devicespecifications.com/en/model/51c6357b
+X-smart	https://www.devicespecifications.com/en/model/07d2357a
+X-quad	https://www.devicespecifications.com/en/model/c2dc3579
+X-mega	https://www.devicespecifications.com/en/model/9f683578
+X-line	https://www.devicespecifications.com/en/model/c7af3577
+X-pad HIT 7 3G	https://www.devicespecifications.com/en/model/9c503576
+X-pad Navi 7.6 3G	https://www.devicespecifications.com/en/model/d2763775
+X-pad Rapid 8 4G	https://www.devicespecifications.com/en/model/2b073453
+X-pad Rapid 7 4G	https://www.devicespecifications.com/en/model/96993452
+X-pad Navi 10 3G	https://www.devicespecifications.com/en/model/ca1e3427
+X-pad Navi 8.2 3G	https://www.devicespecifications.com/en/model/38663418
+X-driver Quad	https://www.devicespecifications.com/en/model/36df3268
+iX-maxi	https://www.devicespecifications.com/en/model/017d3267
+X4	https://www.devicespecifications.com/en/model/1b1d31cd
+X-alpha	https://www.devicespecifications.com/en/model/ceb331cc
+X-square	https://www.devicespecifications.com/en/model/4fd43122
+X-mini	https://www.devicespecifications.com/en/model/445c30ce
+X-pad Style 10.1 3G	https://www.devicespecifications.com/en/model/221d3096
+iX-mini	https://www.devicespecifications.com/en/model/3aec2f8d
+X-pad SKY 8.1 3G	https://www.devicespecifications.com/en/model/f3342f2a
+X-pad Navi 8.1 3G	https://www.devicespecifications.com/en/model/7a7d2edc
+X-slim	https://www.devicespecifications.com/en/model/baa42ed4
+X8	https://www.devicespecifications.com/en/model/48562ed5
+X-basic 2	https://www.devicespecifications.com/en/model/b22e2ed7
+X-Watch TW-200	https://www.devicespecifications.com/en/model/d53d2f68
+X-medium plus	https://www.devicespecifications.com/en/model/26f62ed6
+X-maxi qHD	https://www.devicespecifications.com/en/model/70192ed8
+X-pad Style 10	https://www.devicespecifications.com/en/model/7cef2edd
+TM-511R	https://www.devicespecifications.com/en/model/dcf331cb
+iX	https://www.devicespecifications.com/en/model/aa872edb
+X-driver	https://www.devicespecifications.com/en/model/3ada2eda
+TM-3204R	https://www.devicespecifications.com/en/model/81bc2ed9
+X-medium	https://www.devicespecifications.com/en/model/876a2f61
+X-basic	https://www.devicespecifications.com/en/model/0f8e2f60

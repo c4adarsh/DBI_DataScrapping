@@ -1,0 +1,14 @@
+A6 Vanilla	https://www.devicespecifications.com/en/model/ddef3ea1
+C8 Patrol	https://www.devicespecifications.com/en/model/a0753e92
+C5 Blade	https://www.devicespecifications.com/en/model/d5f23ba4
+R2 Phantom	https://www.devicespecifications.com/en/model/d6703b95
+i8 Panther	https://www.devicespecifications.com/en/model/bcc23875
+C50A Longbow	https://www.devicespecifications.com/en/model/bc783684
+A5 Chocolate	https://www.devicespecifications.com/en/model/b864348a
+A4+ Chocolate	https://www.devicespecifications.com/en/model/062934a1
+C55 Longbow	https://www.devicespecifications.com/en/model/d4533440
+A4 Chocolate	https://www.devicespecifications.com/en/model/2f43343c
+R9 Darkmoon	https://www.devicespecifications.com/en/model/92dd3410
+C50 Longbow	https://www.devicespecifications.com/en/model/300a3351
+i7 Cooper	https://www.devicespecifications.com/en/model/f99132a6
+R8 Monster	https://www.devicespecifications.com/en/model/7dd332a5

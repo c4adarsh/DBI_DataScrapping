@@ -1,0 +1,23 @@
+S5220	https://www.devicespecifications.com/en/model/1f094361
+S5001	https://www.devicespecifications.com/en/model/1cad4214
+S4030	https://www.devicespecifications.com/en/model/5878420a
+S5510	https://www.devicespecifications.com/en/model/e50f4182
+S5120	https://www.devicespecifications.com/en/model/d9644181
+GT-8010	https://www.devicespecifications.com/en/model/213440cb
+S4020	https://www.devicespecifications.com/en/model/52b43ff2
+RS71D	https://www.devicespecifications.com/en/model/4f373ff1
+S5050	https://www.devicespecifications.com/en/model/cad740dc
+S5110	https://www.devicespecifications.com/en/model/ced83ff3
+RS74 Dual	https://www.devicespecifications.com/en/model/734a3ff0
+S5140	https://www.devicespecifications.com/en/model/650d3b8e
+S5040	https://www.devicespecifications.com/en/model/2f493b48
+ST6040	https://www.devicespecifications.com/en/model/ffb73a01
+S5030	https://www.devicespecifications.com/en/model/37953b47
+S5020	https://www.devicespecifications.com/en/model/66933b46
+GT-X890	https://www.devicespecifications.com/en/model/d4c53747
+GT-W853	https://www.devicespecifications.com/en/model/cf353743
+GT-X870	https://www.devicespecifications.com/en/model/97723746
+GT-W170	https://www.devicespecifications.com/en/model/746e36ba
+RS94	https://www.devicespecifications.com/en/model/820435eb
+ST6030	https://www.devicespecifications.com/en/model/068035ed
+RS93 DUAL	https://www.devicespecifications.com/en/model/553b35ec

@@ -1,0 +1,194 @@
+Studio G3	https://www.devicespecifications.com/en/model/74824698
+C5 LTE	https://www.devicespecifications.com/en/model/d1914692
+Grand M2 LTE	https://www.devicespecifications.com/en/model/d7bd4691
+Grand M2	https://www.devicespecifications.com/en/model/93654658
+C5	https://www.devicespecifications.com/en/model/66f74632
+Dash L3 8G	https://www.devicespecifications.com/en/model/516b4631
+Vivo 8L	https://www.devicespecifications.com/en/model/07e545ed
+S1	https://www.devicespecifications.com/en/model/01e4459d
+Studio Pro	https://www.devicespecifications.com/en/model/ff084572
+Studio G Mini	https://www.devicespecifications.com/en/model/671d455a
+Grand XL LTE	https://www.devicespecifications.com/en/model/714f450c
+Studio J8 LTE	https://www.devicespecifications.com/en/model/942e4509
+Studio J8	https://www.devicespecifications.com/en/model/684e4508
+Touchbook M7 Pro	https://www.devicespecifications.com/en/model/65204507
+Grand Mini	https://www.devicespecifications.com/en/model/f1d444c7
+Vivo 8	https://www.devicespecifications.com/en/model/447344a1
+Advance A5 Plus LTE	https://www.devicespecifications.com/en/model/c16f44a5
+Advance A5 LTE	https://www.devicespecifications.com/en/model/4d1544a4
+Advance A5	https://www.devicespecifications.com/en/model/da3544a3
+Advance A4	https://www.devicespecifications.com/en/model/241044a2
+R2 LTE	https://www.devicespecifications.com/en/model/57874480
+R2	https://www.devicespecifications.com/en/model/c8eb447f
+Studio Selfie 3	https://www.devicespecifications.com/en/model/a9f64434
+Studio J1	https://www.devicespecifications.com/en/model/63d34433
+Tank Xtreme Pro	https://www.devicespecifications.com/en/model/2b024426
+Grand X LTE	https://www.devicespecifications.com/en/model/826443eb
+Grand XL	https://www.devicespecifications.com/en/model/5d2a43b7
+Studio Mega	https://www.devicespecifications.com/en/model/0d7843b6
+Studio J2	https://www.devicespecifications.com/en/model/e47f4393
+R1 Plus	https://www.devicespecifications.com/en/model/f8744282
+Grand Energy	https://www.devicespecifications.com/en/model/737141f1
+Dash L3	https://www.devicespecifications.com/en/model/2fe34120
+Grand Max	https://www.devicespecifications.com/en/model/ec064119
+Advance 4.0 L3	https://www.devicespecifications.com/en/model/c092410f
+Vivo 5 Mini	https://www.devicespecifications.com/en/model/58c540f5
+Grand X	https://www.devicespecifications.com/en/model/d7da40e2
+Life One X2 Mini	https://www.devicespecifications.com/en/model/975c40da
+Grand M	https://www.devicespecifications.com/en/model/103440cd
+Studio J5	https://www.devicespecifications.com/en/model/3c9340c4
+Tank Extreme 5.0	https://www.devicespecifications.com/en/model/f44740bc
+Tank Extreme 4.0	https://www.devicespecifications.com/en/model/abd140bb
+Vivo XL 2	https://www.devicespecifications.com/en/model/85944078
+Life Max	https://www.devicespecifications.com/en/model/e1a24011
+Dash XL	https://www.devicespecifications.com/en/model/1f264010
+Neo X2	https://www.devicespecifications.com/en/model/497d400a
+Studio Max	https://www.devicespecifications.com/en/model/68e53ff6
+Studio G2 HD	https://www.devicespecifications.com/en/model/de483ff5
+Advance 4.0M	https://www.devicespecifications.com/en/model/ccd73f9b
+Dash G	https://www.devicespecifications.com/en/model/bc693f9a
+Studio XL 2	https://www.devicespecifications.com/en/model/ec323f86
+Studio G Max	https://www.devicespecifications.com/en/model/011c3f68
+Vivo 6	https://www.devicespecifications.com/en/model/ffc23f5c
+Energy X Plus 2	https://www.devicespecifications.com/en/model/337f3eda
+Studio G Plus HD	https://www.devicespecifications.com/en/model/a1793ed9
+Life One X2	https://www.devicespecifications.com/en/model/0e333e96
+Vivo 5R	https://www.devicespecifications.com/en/model/1c8d3e5e
+Studio G HD LTE	https://www.devicespecifications.com/en/model/94273e50
+Studio G2	https://www.devicespecifications.com/en/model/e1803e4f
+Pure XR	https://www.devicespecifications.com/en/model/ccfc3e19
+Studio M LTE	https://www.devicespecifications.com/en/model/9caf3dfc
+Energy M	https://www.devicespecifications.com/en/model/12753dfb
+Diamond M	https://www.devicespecifications.com/en/model/00373dad
+Studio C 8 + 8	https://www.devicespecifications.com/en/model/26563daa
+Studio C 8 + 8 LTE	https://www.devicespecifications.com/en/model/ad973da9
+Neo X LTE	https://www.devicespecifications.com/en/model/9ffa3d97
+Dash 4.5 (2016)	https://www.devicespecifications.com/en/model/56e83d64
+Neo X Mini	https://www.devicespecifications.com/en/model/00933d21
+Energy Diamond	https://www.devicespecifications.com/en/model/87693d0e
+Energy Diamond Mini	https://www.devicespecifications.com/en/model/3b463d06
+Energy XL	https://www.devicespecifications.com/en/model/b8443d05
+R1 HD	https://www.devicespecifications.com/en/model/75a93ce9
+Grand 5.5 HD	https://www.devicespecifications.com/en/model/923c3cdb
+Studio Touch	https://www.devicespecifications.com/en/model/ff503c97
+Dash L2	https://www.devicespecifications.com/en/model/08fa3c94
+Touchbook M7	https://www.devicespecifications.com/en/model/c3db4506
+Studio Selfie 2	https://www.devicespecifications.com/en/model/46903c30
+Studio X5	https://www.devicespecifications.com/en/model/08ed3c2f
+Neo Energy mini	https://www.devicespecifications.com/en/model/22323bd0
+Energy JR	https://www.devicespecifications.com/en/model/1c903bcf
+Neo XL	https://www.devicespecifications.com/en/model/6b3b3b80
+Neo X	https://www.devicespecifications.com/en/model/3b8d3b7f
+Studio X8 HD	https://www.devicespecifications.com/en/model/c0643b6d
+Advance 4.0 L2	https://www.devicespecifications.com/en/model/022d3b42
+Dash M2	https://www.devicespecifications.com/en/model/eac93b41
+Dash X2	https://www.devicespecifications.com/en/model/0f1c3b40
+Studio X Mini	https://www.devicespecifications.com/en/model/68753b00
+Energy X LTE	https://www.devicespecifications.com/en/model/9aa33adc
+Dash X Plus LTE	https://www.devicespecifications.com/en/model/c17d3adb
+Life XL 4G	https://www.devicespecifications.com/en/model/ff2d3aa4
+Life XL 3G	https://www.devicespecifications.com/en/model/d28c3aa3
+Studio 5.5 HD	https://www.devicespecifications.com/en/model/48773a99
+Studio G HD	https://www.devicespecifications.com/en/model/4b143a31
+Studio Selfie LTE	https://www.devicespecifications.com/en/model/2ffb3a30
+Life Mark	https://www.devicespecifications.com/en/model/1c0a3a22
+Studio One	https://www.devicespecifications.com/en/model/fd053a21
+Energy X 2	https://www.devicespecifications.com/en/model/cc5f3a14
+Neo X Plus	https://www.devicespecifications.com/en/model/98bd39ff
+Studio M HD	https://www.devicespecifications.com/en/model/a7f439d3
+Studio C HD	https://www.devicespecifications.com/en/model/e7e73977
+Studio One Plus	https://www.devicespecifications.com/en/model/645f3976
+Vivo XL	https://www.devicespecifications.com/en/model/71993956
+Vivo 5	https://www.devicespecifications.com/en/model/834f3955
+Neo 5.5	https://www.devicespecifications.com/en/model/681738cf
+Life One X (2016)	https://www.devicespecifications.com/en/model/fd2138b5
+Studio G Plus	https://www.devicespecifications.com/en/model/ffd63851
+Dash X LTE	https://www.devicespecifications.com/en/model/39783850
+Studio 7.0 LTE	https://www.devicespecifications.com/en/model/f0e637ad
+Studio Selfie	https://www.devicespecifications.com/en/model/59a937ac
+Advance 5.0	https://www.devicespecifications.com/en/model/c6cf38f8
+Dash X	https://www.devicespecifications.com/en/model/6d3e37a9
+Dash M	https://www.devicespecifications.com/en/model/460b3798
+Studio G LTE	https://www.devicespecifications.com/en/model/257b3790
+Studio Energy 2	https://www.devicespecifications.com/en/model/b9c63769
+Energy X	https://www.devicespecifications.com/en/model/22ee3767
+Dash X Plus	https://www.devicespecifications.com/en/model/cc983749
+Studio C 5 + 5 LTE	https://www.devicespecifications.com/en/model/400136f5
+Dash L	https://www.devicespecifications.com/en/model/eddc36f4
+Vivo Air LTE	https://www.devicespecifications.com/en/model/812e3674
+Pure XL	https://www.devicespecifications.com/en/model/07f83673
+Studio XL	https://www.devicespecifications.com/en/model/88eb362e
+Touchbook G7	https://www.devicespecifications.com/en/model/488035e9
+Life X8	https://www.devicespecifications.com/en/model/aae335d7
+Studio 7.0 II	https://www.devicespecifications.com/en/model/a13d35cf
+Studio C Super Camera	https://www.devicespecifications.com/en/model/b8fd35ce
+Vivo Selfie	https://www.devicespecifications.com/en/model/6d35356b
+Energy X Plus	https://www.devicespecifications.com/en/model/61173563
+Studio C 5 + 5	https://www.devicespecifications.com/en/model/7e4a3562
+Life 8 XL	https://www.devicespecifications.com/en/model/70be3492
+Studio 5.5 C	https://www.devicespecifications.com/en/model/1928348d
+Advance 4.0 L	https://www.devicespecifications.com/en/model/291e3462
+Studio C	https://www.devicespecifications.com/en/model/089c342b
+Selfie	https://www.devicespecifications.com/en/model/f24233d0
+Win JR LTE	https://www.devicespecifications.com/en/model/e9fe33a8
+Win HD LTE	https://www.devicespecifications.com/en/model/b0d0339b
+Star 4.5 Design Edition	https://www.devicespecifications.com/en/model/dd4e3319
+Touchbook 8.0	https://www.devicespecifications.com/en/model/c84c3283
+Life One (2015)	https://www.devicespecifications.com/en/model/100f31d8
+Life One XL	https://www.devicespecifications.com/en/model/08da31d7
+Studio G	https://www.devicespecifications.com/en/model/058e31d6
+Studio X Plus	https://www.devicespecifications.com/en/model/06bf31d5
+Studio X	https://www.devicespecifications.com/en/model/2e1731d4
+Studio Energy	https://www.devicespecifications.com/en/model/a1b531d3
+Vivo Air	https://www.devicespecifications.com/en/model/c7c531d2
+Studio 6.0 LTE	https://www.devicespecifications.com/en/model/d2ee3196
+Studio 5.0 HD LTE	https://www.devicespecifications.com/en/model/2a72317b
+Studio 7.0	https://www.devicespecifications.com/en/model/f216317a
+Dash Jr K	https://www.devicespecifications.com/en/model/a2b630d1
+Studio Mini LTE	https://www.devicespecifications.com/en/model/6ab030ca
+Star 4.5	https://www.devicespecifications.com/en/model/3d5130a5
+Sport 4.5	https://www.devicespecifications.com/en/model/ea5730a6
+Life View 8.0	https://www.devicespecifications.com/en/model/4abc309e
+Life Play 2	https://www.devicespecifications.com/en/model/49cb2f9d
+Win HD	https://www.devicespecifications.com/en/model/00302f6a
+Win JR	https://www.devicespecifications.com/en/model/86e52f69
+Studio 5.0 C HD	https://www.devicespecifications.com/en/model/12fc2e92
+Studio 5.0 C mini	https://www.devicespecifications.com/en/model/24e02e91
+Studio 5.0 C	https://www.devicespecifications.com/en/model/650c2e90
+Studio 5.0 CE	https://www.devicespecifications.com/en/model/5b6a2e8f
+Dash 5.5	https://www.devicespecifications.com/en/model/76652e3e
+Studio 5.0 K	https://www.devicespecifications.com/en/model/0c0d2e7a
+Life 8	https://www.devicespecifications.com/en/model/97752d29
+Vivo IV	https://www.devicespecifications.com/en/model/e25e2d28
+Life Pure XL 32 GB	https://www.devicespecifications.com/en/model/ba9a2c59
+Life Pure XL 16 GB	https://www.devicespecifications.com/en/model/e33d2c5a
+Studio 5.0 LTE	https://www.devicespecifications.com/en/model/c3dc2c51
+Studio 6.0 HD	https://www.devicespecifications.com/en/model/c5862c3d
+Neo 4.5	https://www.devicespecifications.com/en/model/21222c06
+Neo 3.5	https://www.devicespecifications.com/en/model/234c2c05
+Studio 5.0 S II	https://www.devicespecifications.com/en/model/dec92be7
+Studio 5.5 S	https://www.devicespecifications.com/en/model/17f82be5
+Studio 5.0 E	https://www.devicespecifications.com/en/model/bb112be6
+Life Pure Mini	https://www.devicespecifications.com/en/model/abc52ac1
+Vivo 4.8 HD	https://www.devicespecifications.com/en/model/ab882a94
+Life View Tab	https://www.devicespecifications.com/en/model/40fa2a66
+Life Play S	https://www.devicespecifications.com/en/model/86f42a65
+Life One X	https://www.devicespecifications.com/en/model/24772a64
+Life One M	https://www.devicespecifications.com/en/model/db762a63
+Life Play X	https://www.devicespecifications.com/en/model/8b652a62
+Life Pure	https://www.devicespecifications.com/en/model/64c42a20
+Studio 5.0 II	https://www.devicespecifications.com/en/model/6eaa2a1f
+Advance 4.0	https://www.devicespecifications.com/en/model/710b2a1e
+Life Pro	https://www.devicespecifications.com/en/model/25bc29a7
+Studio 5.5	https://www.devicespecifications.com/en/model/dadc299c
+Dash 5.0	https://www.devicespecifications.com/en/model/45bd29a3
+Dash Music 4.0	https://www.devicespecifications.com/en/model/667629aa
+Dash 4.5	https://www.devicespecifications.com/en/model/1f9929a9
+Dash Jr	https://www.devicespecifications.com/en/model/e7fd2a67
+Studio 5.3 S	https://www.devicespecifications.com/en/model/54b2299e
+Studio 5.0 S	https://www.devicespecifications.com/en/model/7d9e29a8
+Studio 5.0	https://www.devicespecifications.com/en/model/464429a6
+Life View	https://www.devicespecifications.com/en/model/594f299d
+Life One	https://www.devicespecifications.com/en/model/054a29a4
+Life Play	https://www.devicespecifications.com/en/model/d78829a5
+Tank 4.5	https://www.devicespecifications.com/en/model/a6e429ab

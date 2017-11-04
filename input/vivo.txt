@@ -1,0 +1,92 @@
+Y65	https://www.devicespecifications.com/en/model/8d1a46aa
+Y79	https://www.devicespecifications.com/en/model/8e5d464b
+X20 Plus	https://www.devicespecifications.com/en/model/adf445e7
+X20	https://www.devicespecifications.com/en/model/a1ed45e6
+V7Plus	https://www.devicespecifications.com/en/model/fd6e458b
+V7	https://www.devicespecifications.com/en/model/89d6458a
+Y69	https://www.devicespecifications.com/en/model/f8064545
+X9s Plus	https://www.devicespecifications.com/en/model/dd2c444d
+X9s	https://www.devicespecifications.com/en/model/a35a444c
+V5s	https://www.devicespecifications.com/en/model/1bc342da
+X9i	https://www.devicespecifications.com/en/model/74a742d8
+Y25 4G	https://www.devicespecifications.com/en/model/f9f541e8
+Y55S	https://www.devicespecifications.com/en/model/58e1419f
+Y53	https://www.devicespecifications.com/en/model/022d418b
+V5Plus	https://www.devicespecifications.com/en/model/153040cc
+V5Lite	https://www.devicespecifications.com/en/model/2e7f40ba
+Y66 MT6750	https://www.devicespecifications.com/en/model/02b24312
+Y66	https://www.devicespecifications.com/en/model/1150401c
+Xplay6	https://www.devicespecifications.com/en/model/df2c3fa4
+X9Plus	https://www.devicespecifications.com/en/model/2c383fa3
+X9	https://www.devicespecifications.com/en/model/5d1b3fa2
+V5	https://www.devicespecifications.com/en/model/8ee53f98
+Y67	https://www.devicespecifications.com/en/model/e13c3f2c
+Y55	https://www.devicespecifications.com/en/model/a09d3f06
+Y55L	https://www.devicespecifications.com/en/model/9baf3ed7
+Y21L	https://www.devicespecifications.com/en/model/3c683de1
+X7 Plus	https://www.devicespecifications.com/en/model/bf853cef
+X7	https://www.devicespecifications.com/en/model/17153cea
+V3Max	https://www.devicespecifications.com/en/model/d4f23b2d
+V3	https://www.devicespecifications.com/en/model/afe23b2c
+X6S Plus	https://www.devicespecifications.com/en/model/cfc63b1c
+X6S	https://www.devicespecifications.com/en/model/d5ac3b1b
+Y31L	https://www.devicespecifications.com/en/model/45343af2
+Xplay5 Ultimate	https://www.devicespecifications.com/en/model/b0253a89
+Xplay5	https://www.devicespecifications.com/en/model/e9f13a88
+Y31A	https://www.devicespecifications.com/en/model/b2553a36
+Y21	https://www.devicespecifications.com/en/model/40f63978
+X6Plus A	https://www.devicespecifications.com/en/model/0fdd38da
+X6Plus L	https://www.devicespecifications.com/en/model/892e38d9
+X6A	https://www.devicespecifications.com/en/model/633c38d8
+X6L	https://www.devicespecifications.com/en/model/3cb138d7
+Y51A	https://www.devicespecifications.com/en/model/345738d6
+Y51	https://www.devicespecifications.com/en/model/1ae3386c
+Y51L	https://www.devicespecifications.com/en/model/dc7339ce
+X6Plus	https://www.devicespecifications.com/en/model/3d2f3869
+X6	https://www.devicespecifications.com/en/model/151a3868
+Y31	https://www.devicespecifications.com/en/model/ced836f9
+Y27L	https://www.devicespecifications.com/en/model/67ca36ec
+V1 Max	https://www.devicespecifications.com/en/model/0d1f3629
+Y37A	https://www.devicespecifications.com/en/model/26eb3bd5
+Y37	https://www.devicespecifications.com/en/model/e999360d
+Y15s	https://www.devicespecifications.com/en/model/6c5f360c
+V1	https://www.devicespecifications.com/en/model/74043546
+Y35A	https://www.devicespecifications.com/en/model/dcee37f7
+Y35	https://www.devicespecifications.com/en/model/05553547
+X5Pro Telecom Edition	https://www.devicespecifications.com/en/model/6dde352c
+Y33	https://www.devicespecifications.com/en/model/fa9f3509
+X5Max Platinum Edition	https://www.devicespecifications.com/en/model/c2d13473
+X5Pro	https://www.devicespecifications.com/en/model/dae53405
+X5Max V	https://www.devicespecifications.com/en/model/54cd3327
+X5Max F	https://www.devicespecifications.com/en/model/36d3346f
+X5Max+	https://www.devicespecifications.com/en/model/2868328c
+Y29L	https://www.devicespecifications.com/en/model/a26c32ab
+X5Max	https://www.devicespecifications.com/en/model/2aad3153
+Y23L	https://www.devicespecifications.com/en/model/040c310d
+Y28L	https://www.devicespecifications.com/en/model/7a8f30d0
+X5M	https://www.devicespecifications.com/en/model/d71e3436
+X5S	https://www.devicespecifications.com/en/model/5abf31f1
+X5V	https://www.devicespecifications.com/en/model/cc683133
+Y27	https://www.devicespecifications.com/en/model/9dcc2fac
+Y13L	https://www.devicespecifications.com/en/model/efa72fab
+X5	https://www.devicespecifications.com/en/model/86182f17
+X3V	https://www.devicespecifications.com/en/model/bedb2dd9
+X3F	https://www.devicespecifications.com/en/model/4a0f2f33
+Y18L	https://www.devicespecifications.com/en/model/842e2d6d
+Y22L	https://www.devicespecifications.com/en/model/9cf12d6c
+Y22	https://www.devicespecifications.com/en/model/b9532d71
+X3L	https://www.devicespecifications.com/en/model/9ca72c9e
+Xshot Ultimate	https://www.devicespecifications.com/en/model/39702c78
+Xshot Elite	https://www.devicespecifications.com/en/model/17452c79
+Y13	https://www.devicespecifications.com/en/model/4ecb2b78
+X3S	https://www.devicespecifications.com/en/model/4b402b77
+Y11	https://www.devicespecifications.com/en/model/5cac33c8
+Y20	https://www.devicespecifications.com/en/model/b1c32b79
+Xplay 3S	https://www.devicespecifications.com/en/model/802d2984
+Y11i	https://www.devicespecifications.com/en/model/b8da2a79
+Y17w	https://www.devicespecifications.com/en/model/ddc42dda
+Y15	https://www.devicespecifications.com/en/model/6160298f
+X3t	https://www.devicespecifications.com/en/model/b8f52990
+Xplay	https://www.devicespecifications.com/en/model/98d52991
+Y19t	https://www.devicespecifications.com/en/model/848d2a78
+X1S	https://www.devicespecifications.com/en/model/683b2a29

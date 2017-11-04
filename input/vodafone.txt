@@ -1,0 +1,25 @@
+Smart Tab N8	https://www.devicespecifications.com/en/model/7aee43fa
+Smart V8	https://www.devicespecifications.com/en/model/1d2f43e9
+Smart E8	https://www.devicespecifications.com/en/model/437043e8
+Smart N8	https://www.devicespecifications.com/en/model/553743b8
+Tab Prime 7	https://www.devicespecifications.com/en/model/099a3d63
+Smart turbo 7	https://www.devicespecifications.com/en/model/2e933d14
+Smart ultra 7	https://www.devicespecifications.com/en/model/22293cc5
+Smart Platinum 7	https://www.devicespecifications.com/en/model/97863c9c
+Smart mini 7	https://www.devicespecifications.com/en/model/b24c404a
+Smart style 7	https://www.devicespecifications.com/en/model/01a63d85
+Smart First 7	https://www.devicespecifications.com/en/model/dbf93bfc
+Smart Prime 7	https://www.devicespecifications.com/en/model/fa5c3bfb
+Tab speed 6	https://www.devicespecifications.com/en/model/48b139ad
+Smart Grand	https://www.devicespecifications.com/en/model/927737b2
+Smart speed 6	https://www.devicespecifications.com/en/model/3150371a
+Smart ultra 6	https://www.devicespecifications.com/en/model/656934aa
+Tab prime 6	https://www.devicespecifications.com/en/model/ee8834b8
+Smart prime 6	https://www.devicespecifications.com/en/model/6f0e34ab
+Smart first 6	https://www.devicespecifications.com/en/model/fb7134b4
+Smart Tab 4G	https://www.devicespecifications.com/en/model/cc5f34dd
+Smart 4 max	https://www.devicespecifications.com/en/model/8dc034bd
+Smart 4 turbo	https://www.devicespecifications.com/en/model/b1f834c0
+Smart 4 power	https://www.devicespecifications.com/en/model/4f6434c4
+Smart 4	https://www.devicespecifications.com/en/model/3f5534ea
+Smart 4 Mini	https://www.devicespecifications.com/en/model/c96d37b3

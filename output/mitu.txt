@@ -1,0 +1,226 @@
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 875 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB, 128 GB
+Display: 5.49 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: MEIOS 4.0 (Android 7.1 Nougat)
+Camera: 4032 x 3024 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/30ef46ab/320/main.jpg
+name=V6;
+
+Weight: 168 g
+SoC: MediaTek Helio X27 (MT6797X)
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 875 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB, 128 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: MEIOS 4.0 (Android 7.1 Nougat)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/f04a4662
+imageUrl=https://www.devicespecifications.com/images/model/f04a4662/320/main.jpg
+name=M8s;
+
+Weight: 170 g
+SoC: MediaTek Helio X25 (MT6797T)
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.55 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 850 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 128 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3580 mAh, Li-Polymer
+OS: MEIOS 4.0 (Android 7.0 Nougat)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6f71461f
+imageUrl=https://www.devicespecifications.com/images/model/6f71461f/320/main.jpg
+name=T8s;
+
+Weight: 168 g
+SoC: MediaTek Helio X20 (MT6797M)
+CPU: 2x 2.0 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Display: 5.15 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: MEIOS 3.5 (Android 6.0 Marshmallow)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a73e431f/320/main.jpg
+name=M8 5.15-in;
+
+Weight: 170 g
+SoC: MediaTek Helio X20 (MT6797M)
+CPU: 2x 2.0 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: MEIOS 3.5 (Android 6.0 Marshmallow)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a85f431e
+imageUrl=https://www.devicespecifications.com/images/model/a85f431e/320/main.jpg
+name=M8;
+
+Weight: 170 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 128 GB
+Display: 5.2 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3580 mAh, Li-Polymer
+OS: MEIOS 3.5 (Android 6.0 Marshmallow)
+Camera: 5312 x 3984 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/20f04188
+imageUrl=https://www.devicespecifications.com/images/model/20f04188/320/main.jpg
+name=T8;
+
+Weight: 156 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 4 GB, 933 MHz
+Storage: 64 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: MEIOS 3.3 (Android 6.0 Marshmallow)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/ea123ffd
+imageUrl=https://www.devicespecifications.com/images/model/ea123ffd/320/main.jpg
+name=M6s;
+
+Weight: 156 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 3 GB, 933 MHz
+Storage: 64 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: MEIOS 3.0 (Android 5.1 Lollipop)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/14f83c99
+imageUrl=https://www.devicespecifications.com/images/model/14f83c99/320/main.jpg
+name=M6;
+
+Weight: 145 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 128 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2650 mAh, Li-Polymer
+OS: MEIOS 3.0 (Android 5.1 Lollipop)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8b193c98/320/main.jpg
+name=V4S;
+
+Weight: 145 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 64 GB
+Display: 5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2650 mAh, Li-Polymer
+OS: MEIOS 2.5 (Android 5.1 Lollipop)
+Camera: 5344 x 4016 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/94ae3824/320/main.jpg
+name=V4;
+
+Weight: 150 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 3 GB, 800 MHz
+Storage: 64 GB
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2160 mAh, Li-Polymer
+OS: MEIOS 2 (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/b8583836
+imageUrl=https://www.devicespecifications.com/images/model/b8583836/320/main.jpg
+name=M4s;
+
+Weight: 150 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Display: 4.7 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2160 mAh, Li-Polymer
+OS: MEIOS 2 (Android 4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/dcf03920
+imageUrl=https://www.devicespecifications.com/images/model/dcf03920/320/main.jpg
+name=M4;
+

@@ -1,0 +1,8 @@
+P5 Pro	https://www.devicespecifications.com/en/model/6975466e
+P5	https://www.devicespecifications.com/en/model/2bae466f
+P3	https://www.devicespecifications.com/en/model/847945d2
+C1 Pro	https://www.devicespecifications.com/en/model/f8754420
+P2 Pro	https://www.devicespecifications.com/en/model/9a7d441f
+P1 Pro	https://www.devicespecifications.com/en/model/eca2441e
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

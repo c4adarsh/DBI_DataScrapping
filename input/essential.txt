@@ -1,0 +1,3 @@
+PH-1	https://www.devicespecifications.com/en/model/1c714390
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

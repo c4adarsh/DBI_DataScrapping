@@ -1,0 +1,7 @@
+GS270 Plus	https://www.devicespecifications.com/en/model/6c81453f
+GS270	https://www.devicespecifications.com/en/model/fd1a453e
+GS170	https://www.devicespecifications.com/en/model/8a9e44ee
+GS160	https://www.devicespecifications.com/en/model/a71644f7
+ME Pro	https://www.devicespecifications.com/en/model/55613634
+ME Pure	https://www.devicespecifications.com/en/model/e9ac3633
+ME	https://www.devicespecifications.com/en/model/6ed33631

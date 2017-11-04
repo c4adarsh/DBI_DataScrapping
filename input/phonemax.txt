@@ -1,0 +1,3 @@
+Rocky 2	https://www.devicespecifications.com/en/model/7cd045f2
+Ace 1 Plus	https://www.devicespecifications.com/en/model/cab84515
+Saturn X	https://www.devicespecifications.com/en/model/2b4b45f1

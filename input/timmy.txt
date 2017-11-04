@@ -1,0 +1,17 @@
+Y2017	https://www.devicespecifications.com/en/model/3e70469e
+M50	https://www.devicespecifications.com/en/model/223d44ec
+M20	https://www.devicespecifications.com/en/model/6d9e43aa
+M29 Pro	https://www.devicespecifications.com/en/model/8a424294
+M28	https://www.devicespecifications.com/en/model/f2d540ed
+M23	https://www.devicespecifications.com/en/model/32c43efd
+X9	https://www.devicespecifications.com/en/model/6e803da1
+M20 Pro	https://www.devicespecifications.com/en/model/599e3d8f
+M13 Pro	https://www.devicespecifications.com/en/model/433e3b8b
+M12	https://www.devicespecifications.com/en/model/23e33b8c
+P7000 Pro	https://www.devicespecifications.com/en/model/ce7f3c64
+M9	https://www.devicespecifications.com/en/model/65203861
+P7000 Plus	https://www.devicespecifications.com/en/model/461736a5
+M7	https://www.devicespecifications.com/en/model/57ab36a6
+E85	https://www.devicespecifications.com/en/model/f7533700
+E86	https://www.devicespecifications.com/en/model/d0a236a7
+E88	https://www.devicespecifications.com/en/model/cd8e3701

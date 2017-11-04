@@ -1,0 +1,13 @@
+К01	https://www.devicespecifications.com/en/model/b10c4651
+MX	https://www.devicespecifications.com/en/model/4f8545d8
+Max 2	https://www.devicespecifications.com/en/model/914b44c9
+Note 4	https://www.devicespecifications.com/en/model/42ef4432
+A6	https://www.devicespecifications.com/en/model/c35643c6
+S3	https://www.devicespecifications.com/en/model/edd542a3
+U300	https://www.devicespecifications.com/en/model/4b463fcf
+H5000	https://www.devicespecifications.com/en/model/062e3f64
+A101S	https://www.devicespecifications.com/en/model/ebb93f33
+A101	https://www.devicespecifications.com/en/model/5f223dc6
+S1	https://www.devicespecifications.com/en/model/53b33b84
+U200	https://www.devicespecifications.com/en/model/5a8e3862
+U100	https://www.devicespecifications.com/en/model/9bc9368f

@@ -1,0 +1,102 @@
+Z90	https://www.devicespecifications.com/en/model/0abd462a
+Z80	https://www.devicespecifications.com/en/model/e83a4629
+Z70	https://www.devicespecifications.com/en/model/540a4628
+Z60	https://www.devicespecifications.com/en/model/c4c945ff
+A97 2GB+	https://www.devicespecifications.com/en/model/c21444ba
+A93	https://www.devicespecifications.com/en/model/6b83445f
+A77	https://www.devicespecifications.com/en/model/09884359
+Z25	https://www.devicespecifications.com/en/model/1c934232
+Z10	https://www.devicespecifications.com/en/model/f5ef4231
+A73	https://www.devicespecifications.com/en/model/d6974198
+X28+	https://www.devicespecifications.com/en/model/6272418f
+X41+	https://www.devicespecifications.com/en/model/9897410d
+A55	https://www.devicespecifications.com/en/model/3f8640d8
+A50	https://www.devicespecifications.com/en/model/591b40d7
+X19	https://www.devicespecifications.com/en/model/e75440a1
+X50 Plus	https://www.devicespecifications.com/en/model/4ed33fef
+A51	https://www.devicespecifications.com/en/model/aef03f7f
+A76+	https://www.devicespecifications.com/en/model/78953f20
+A97	https://www.devicespecifications.com/en/model/696e44b9
+A56	https://www.devicespecifications.com/en/model/80613e91
+X28	https://www.devicespecifications.com/en/model/5faa3e7d
+P7+	https://www.devicespecifications.com/en/model/beef3e0c
+A48 8GB	https://www.devicespecifications.com/en/model/cfe03de2
+X38	https://www.devicespecifications.com/en/model/0bf33d9b
+A68	https://www.devicespecifications.com/en/model/d7b23d4e
+X17	https://www.devicespecifications.com/en/model/29d13d40
+X50	https://www.devicespecifications.com/en/model/77ec3d3d
+X80	https://www.devicespecifications.com/en/model/02ac3d23
+X81	https://www.devicespecifications.com/en/model/c9ba3c7e
+X46	https://www.devicespecifications.com/en/model/267f3c75
+A48	https://www.devicespecifications.com/en/model/7ab33cbd
+A82	https://www.devicespecifications.com/en/model/2f9d3c5d
+IvoryS 4G	https://www.devicespecifications.com/en/model/c1ad3c40
+A59	https://www.devicespecifications.com/en/model/e31a3c3f
+A79	https://www.devicespecifications.com/en/model/f3213c32
+A67	https://www.devicespecifications.com/en/model/24273bdf
+A89	https://www.devicespecifications.com/en/model/b9653bba
+A76	https://www.devicespecifications.com/en/model/913b3bb9
+A72	https://www.devicespecifications.com/en/model/64b03bb8
+Iris Fuel F2	https://www.devicespecifications.com/en/model/18513b0a
+V2s	https://www.devicespecifications.com/en/model/564c3acb
+Flair S1	https://www.devicespecifications.com/en/model/69e63ac9
+X11	https://www.devicespecifications.com/en/model/a5eb3a8f
+A88	https://www.devicespecifications.com/en/model/4e773a11
+A71	https://www.devicespecifications.com/en/model/fb883a06
+X3	https://www.devicespecifications.com/en/model/6d4339f0
+P7	https://www.devicespecifications.com/en/model/8ec83e0b
+V5	https://www.devicespecifications.com/en/model/6f9439c6
+Iris Atom	https://www.devicespecifications.com/en/model/33fc395f
+Ivory M4	https://www.devicespecifications.com/en/model/5437391d
+Iris Atom 3	https://www.devicespecifications.com/en/model/9cc33913
+X10	https://www.devicespecifications.com/en/model/acfb385a
+Iris Atom 2x	https://www.devicespecifications.com/en/model/20ee3835
+Iris Fuel F1	https://www.devicespecifications.com/en/model/d07c3762
+Iris Fuel F1 Mini	https://www.devicespecifications.com/en/model/67813761
+Flair E2	https://www.devicespecifications.com/en/model/a4e43713
+Pixel V2	https://www.devicespecifications.com/en/model/6ff3366c
+Iris Atom 2	https://www.devicespecifications.com/en/model/cb4b35e3
+Flair P1i	https://www.devicespecifications.com/en/model/d28635e2
+Iris X5 4G	https://www.devicespecifications.com/en/model/b77835a2
+Iris X1 Selfie	https://www.devicespecifications.com/en/model/0279358e
+Pixel V1	https://www.devicespecifications.com/en/model/5bd8355c
+Flair Z1	https://www.devicespecifications.com/en/model/497b3556
+Iris X1 Atom S	https://www.devicespecifications.com/en/model/f6c235e1
+Flair P1	https://www.devicespecifications.com/en/model/903f3550
+Iris X1 Atom	https://www.devicespecifications.com/en/model/41ec35e0
+Iris Alfa L	https://www.devicespecifications.com/en/model/f57333c5
+Iris Icon	https://www.devicespecifications.com/en/model/bf84338e
+Iris Fuel25	https://www.devicespecifications.com/en/model/6301332a
+Iris Fuel10	https://www.devicespecifications.com/en/model/252e3329
+Iris Fuel20	https://www.devicespecifications.com/en/model/85643291
+Xtron Mega	https://www.devicespecifications.com/en/model/caf0328d
+Iris 465	https://www.devicespecifications.com/en/model/40003285
+Iris X8	https://www.devicespecifications.com/en/model/97a83261
+Iris 470	https://www.devicespecifications.com/en/model/adab3274
+Iris X1 mini	https://www.devicespecifications.com/en/model/228b323d
+Iris X1 Grand	https://www.devicespecifications.com/en/model/55a8323c
+Iris Alfa	https://www.devicespecifications.com/en/model/14713213
+Iris fuel60	https://www.devicespecifications.com/en/model/456a3173
+Iris 401	https://www.devicespecifications.com/en/model/b0ea3273
+Iris win 1	https://www.devicespecifications.com/en/model/1e673128
+Iris selfie 50	https://www.devicespecifications.com/en/model/615830a8
+Iris fuel50	https://www.devicespecifications.com/en/model/57473073
+Xtron Z704	https://www.devicespecifications.com/en/model/7f883026
+IvoryE	https://www.devicespecifications.com/en/model/e46d2fd2
+Iris 410	https://www.devicespecifications.com/en/model/caf22f76
+Iris 404 Flair	https://www.devicespecifications.com/en/model/25453082
+Iris X5	https://www.devicespecifications.com/en/model/e8e22f5a
+Iris Pro 30+	https://www.devicespecifications.com/en/model/40322eed
+Iris 360 Music	https://www.devicespecifications.com/en/model/09132ec0
+Iris 460	https://www.devicespecifications.com/en/model/44f12e3f
+Magnum X604	https://www.devicespecifications.com/en/model/64552dcf
+Iris 402e	https://www.devicespecifications.com/en/model/f1dc2dbc
+Iris 350M	https://www.devicespecifications.com/en/model/d75a2dbb
+3G 412	https://www.devicespecifications.com/en/model/9a252dba
+Iris X1	https://www.devicespecifications.com/en/model/60652d0e
+3G 354	https://www.devicespecifications.com/en/model/09e82d11
+3G 415	https://www.devicespecifications.com/en/model/51542d10
+Iris 504q+	https://www.devicespecifications.com/en/model/2ac32d12
+Iris 450 Colour	https://www.devicespecifications.com/en/model/f2fc2d13
+Iris 406Q	https://www.devicespecifications.com/en/model/b8732d17
+Iris Pro 30	https://www.devicespecifications.com/en/model/cf592f71

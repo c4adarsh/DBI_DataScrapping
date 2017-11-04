@@ -1,0 +1,4 @@
+G	https://www.devicespecifications.com/en/model/aa9d45f5
+E	https://www.devicespecifications.com/en/model/26724595
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

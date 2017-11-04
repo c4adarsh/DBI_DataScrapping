@@ -1,0 +1,182 @@
+Tab 7	https://www.devicespecifications.com/en/model/ac204675
+K8 Plus	https://www.devicespecifications.com/en/model/12214593
+K8	https://www.devicespecifications.com/en/model/b1b14592
+K8 Note	https://www.devicespecifications.com/en/model/cd8844fb
+Tab 4 10 Plus	https://www.devicespecifications.com/en/model/83b741b8
+Tab 4 8 Plus	https://www.devicespecifications.com/en/model/235341b7
+Tab 4 10	https://www.devicespecifications.com/en/model/398241b6
+Tab 4 8	https://www.devicespecifications.com/en/model/f6c341b5
+Yoga Tab 3 Pro Z8550	https://www.devicespecifications.com/en/model/a5214031
+Z2 Plus	https://www.devicespecifications.com/en/model/1f1d3e94
+A7700	https://www.devicespecifications.com/en/model/eb8e3e66
+A6600 Plus	https://www.devicespecifications.com/en/model/31ee3e65
+A6600	https://www.devicespecifications.com/en/model/69623e64
+A Plus	https://www.devicespecifications.com/en/model/71603e43
+P2	https://www.devicespecifications.com/en/model/afb63e3f
+K6 Note	https://www.devicespecifications.com/en/model/155f3e3e
+K6 Power	https://www.devicespecifications.com/en/model/28203e3d
+K6	https://www.devicespecifications.com/en/model/22343e3c
+Yoga Tab 3 Plus	https://www.devicespecifications.com/en/model/2a3f3e29
+Vibe B	https://www.devicespecifications.com/en/model/2e2a3e28
+Vibe C2 Power	https://www.devicespecifications.com/en/model/4b713da7
+Vibe A	https://www.devicespecifications.com/en/model/16723dee
+503LV	https://www.devicespecifications.com/en/model/b53b3d36
+Vibe C2	https://www.devicespecifications.com/en/model/65063d25
+Tab3 7 Wi-Fi	https://www.devicespecifications.com/en/model/882f43ed
+Phab 2 Pro	https://www.devicespecifications.com/en/model/444a3c89
+Phab 2 Plus	https://www.devicespecifications.com/en/model/813b3c88
+Phab 2	https://www.devicespecifications.com/en/model/27383c87
+Vibe C	https://www.devicespecifications.com/en/model/f64c3bcc
+IdeaPad Miix 700 256GB	https://www.devicespecifications.com/en/model/a4d34000
+IdeaPad Miix 700 128GB	https://www.devicespecifications.com/en/model/dfda3fff
+Tab3 8 LTE	https://www.devicespecifications.com/en/model/38353a65
+Tab3 7 LTE	https://www.devicespecifications.com/en/model/ac5a3a64
+Tab3 10 Business LTE	https://www.devicespecifications.com/en/model/95963a66
+Tab3 10 Business Wi-Fi	https://www.devicespecifications.com/en/model/b0ac3c16
+Vibe K5 Plus	https://www.devicespecifications.com/en/model/529e3a50
+Vibe K5	https://www.devicespecifications.com/en/model/da9c3a4f
+K5 Note	https://www.devicespecifications.com/en/model/b56839b8
+Lemon 3	https://www.devicespecifications.com/en/model/48dc3970
+K4 Note	https://www.devicespecifications.com/en/model/4cf23938
+Vibe S1 Lite	https://www.devicespecifications.com/en/model/f3dc392d
+A7010	https://www.devicespecifications.com/en/model/455c389a
+Vibe X3 X3c70	https://www.devicespecifications.com/en/model/6fac381a
+Vibe X3	https://www.devicespecifications.com/en/model/21fa3819
+Vibe X3 Youth	https://www.devicespecifications.com/en/model/35113818
+Phab	https://www.devicespecifications.com/en/model/f5f738ae
+K3 Note Music	https://www.devicespecifications.com/en/model/33703792
+A3690	https://www.devicespecifications.com/en/model/35db374f
+Vibe P1 Turbo	https://www.devicespecifications.com/en/model/1c9a3a0a
+A2860	https://www.devicespecifications.com/en/model/a76c3921
+A1000	https://www.devicespecifications.com/en/model/5c5c369d
+A7000 Plus	https://www.devicespecifications.com/en/model/4462369c
+A6010 Plus	https://www.devicespecifications.com/en/model/a4013be2
+A6010	https://www.devicespecifications.com/en/model/ad513670
+Yoga Tab 3 Pro	https://www.devicespecifications.com/en/model/ab043651
+Yoga Tab 3 (10-in)	https://www.devicespecifications.com/en/model/efb03650
+Yoga Tab 3 (10-in) Wi-Fi	https://www.devicespecifications.com/en/model/2ea6364f
+Yoga Tab 3 (8-in)	https://www.devicespecifications.com/en/model/1032364e
+Yoga Tab 3 (8-in) Wi-Fi	https://www.devicespecifications.com/en/model/8420364d
+Vibe P1m	https://www.devicespecifications.com/en/model/686c3646
+Vibe P1	https://www.devicespecifications.com/en/model/591d3645
+Vibe S1	https://www.devicespecifications.com/en/model/ff873643
+A7000 Turbo	https://www.devicespecifications.com/en/model/24373966
+Phab Plus	https://www.devicespecifications.com/en/model/b08135ea
+A2010	https://www.devicespecifications.com/en/model/e51035d5
+P90 Pro	https://www.devicespecifications.com/en/model/1b093a1d
+A3900	https://www.devicespecifications.com/en/model/e74533e0
+K80	https://www.devicespecifications.com/en/model/2fb333cf
+Golden Warrior S8 A7600	https://www.devicespecifications.com/en/model/e0dc33af
+A6000 Plus	https://www.devicespecifications.com/en/model/d63d33a5
+A1900	https://www.devicespecifications.com/en/model/db70338d
+K3 Note	https://www.devicespecifications.com/en/model/06dd3354
+A7000	https://www.devicespecifications.com/en/model/ea6232e9
+Vibe Shot	https://www.devicespecifications.com/en/model/2c6a32e8
+IdeaPad Miix 300	https://www.devicespecifications.com/en/model/f2ba32e7
+Tab 2 A8	https://www.devicespecifications.com/en/model/7f5232e6
+Tab 2 A8 Wi-Fi	https://www.devicespecifications.com/en/model/e87432e5
+Tab 2 A10-70	https://www.devicespecifications.com/en/model/a55332e4
+Tab 2 A10-70 Wi-Fi	https://www.devicespecifications.com/en/model/14b532e3
+S60	https://www.devicespecifications.com/en/model/d4063378
+A6000	https://www.devicespecifications.com/en/model/0bd431e7
+A5000	https://www.devicespecifications.com/en/model/9ed83377
+Tab 2 A7-30 Wi-Fi	https://www.devicespecifications.com/en/model/63a43804
+Tab 2 A7-30	https://www.devicespecifications.com/en/model/f4e531d1
+Tab 2 A7-20	https://www.devicespecifications.com/en/model/47823766
+Tab 2 A7-10	https://www.devicespecifications.com/en/model/6ec031d0
+Vibe X2 Pro	https://www.devicespecifications.com/en/model/400e31c6
+P90	https://www.devicespecifications.com/en/model/e12f31c5
+A616	https://www.devicespecifications.com/en/model/6a9634e8
+A3600	https://www.devicespecifications.com/en/model/faf9334e
+P70	https://www.devicespecifications.com/en/model/f6ed327a
+P70-t	https://www.devicespecifications.com/en/model/bb7d31ca
+A399	https://www.devicespecifications.com/en/model/9a613182
+A588t	https://www.devicespecifications.com/en/model/dec93166
+K3	https://www.devicespecifications.com/en/model/1d66313c
+Golden Warrior Note 8	https://www.devicespecifications.com/en/model/aefb3124
+A858T	https://www.devicespecifications.com/en/model/ae903118
+Yoga Tablet 2 (Windows)	https://www.devicespecifications.com/en/model/70a23068
+Sisley S90	https://www.devicespecifications.com/en/model/5545305c
+RocStar (A319)	https://www.devicespecifications.com/en/model/77cc3038
+Yoga Tablet 2 Pro	https://www.devicespecifications.com/en/model/50a93009
+Yoga Tablet 2 (10")	https://www.devicespecifications.com/en/model/ec523008
+Yoga Tablet 2 (8")	https://www.devicespecifications.com/en/model/2f1c3007
+A328	https://www.devicespecifications.com/en/model/edca2fe8
+A330E	https://www.devicespecifications.com/en/model/90712f95
+S856	https://www.devicespecifications.com/en/model/ed593005
+S580	https://www.devicespecifications.com/en/model/06033004
+Vibe Z2	https://www.devicespecifications.com/en/model/f7f22f51
+Tab S8	https://www.devicespecifications.com/en/model/13bf2f45
+Vibe X2	https://www.devicespecifications.com/en/model/427a2f32
+A606	https://www.devicespecifications.com/en/model/056b2f6e
+A916	https://www.devicespecifications.com/en/model/a9512f01
+Vibe Z2 Pro	https://www.devicespecifications.com/en/model/e25d2cfd
+A536	https://www.devicespecifications.com/en/model/09aa2f3a
+Golden Warrior A8	https://www.devicespecifications.com/en/model/2daf2dbf
+A805e	https://www.devicespecifications.com/en/model/f8222db1
+S668T	https://www.devicespecifications.com/en/model/6ffe3247
+ThinkPad 10	https://www.devicespecifications.com/en/model/e8412cba
+A316i	https://www.devicespecifications.com/en/model/f9732c0e
+A526	https://www.devicespecifications.com/en/model/80332bfc
+A10-70	https://www.devicespecifications.com/en/model/3cc02bfa
+A10-70 Wi-Fi	https://www.devicespecifications.com/en/model/54a22bfb
+A8-50	https://www.devicespecifications.com/en/model/c2c52bf9
+A8-50 Wi-Fi	https://www.devicespecifications.com/en/model/2a542bf8
+A7-50	https://www.devicespecifications.com/en/model/05e12bf5
+A7-50 Wi-Fi	https://www.devicespecifications.com/en/model/f1ba2bf7
+A7-30	https://www.devicespecifications.com/en/model/6be22bf4
+A7-30 Wi-Fi	https://www.devicespecifications.com/en/model/a9c52bf6
+Golden Warrior S8	https://www.devicespecifications.com/en/model/aecd2b75
+S898T+ 8 GB	https://www.devicespecifications.com/en/model/45cc2b95
+A560	https://www.devicespecifications.com/en/model/b9622cbc
+A850+	https://www.devicespecifications.com/en/model/e3a02b7a
+S860	https://www.devicespecifications.com/en/model/38842b1b
+S850	https://www.devicespecifications.com/en/model/1ac92b1a
+S660	https://www.devicespecifications.com/en/model/66702b18
+Yoga Tablet 10 HD+	https://www.devicespecifications.com/en/model/e4a42b19
+Yoga Tablet 10 HD+ Wi-Fi	https://www.devicespecifications.com/en/model/cc5c2b29
+A628T	https://www.devicespecifications.com/en/model/495d2ad9
+A889	https://www.devicespecifications.com/en/model/057e2cb5
+ThinkPad 8	https://www.devicespecifications.com/en/model/6cca2ad3
+A880	https://www.devicespecifications.com/en/model/23e52ad2
+Miix 2 11	https://www.devicespecifications.com/en/model/98bd2a6a
+Miix 2 10	https://www.devicespecifications.com/en/model/06602a69
+Miix 2 8	https://www.devicespecifications.com/en/model/4a5b329c
+A859	https://www.devicespecifications.com/en/model/8b372a68
+Vibe Z LTE	https://www.devicespecifications.com/en/model/a00b2a46
+S939	https://www.devicespecifications.com/en/model/ad912a39
+A680	https://www.devicespecifications.com/en/model/6eac2c44
+S930	https://www.devicespecifications.com/en/model/d0942a03
+S650	https://www.devicespecifications.com/en/model/2d7b2a02
+Vibe Z	https://www.devicespecifications.com/en/model/6d652a01
+Yoga Tablet 10	https://www.devicespecifications.com/en/model/b4ec2951
+Yoga Tablet 8	https://www.devicespecifications.com/en/model/fd4e2950
+IdeaTab S5000	https://www.devicespecifications.com/en/model/89c1292a
+Vibe X	https://www.devicespecifications.com/en/model/2f3f2929
+A630	https://www.devicespecifications.com/en/model/26dd294a
+A850i	https://www.devicespecifications.com/en/model/7a3534dc
+A850	https://www.devicespecifications.com/en/model/9e28292b
+A706	https://www.devicespecifications.com/en/model/c551292c
+P780	https://www.devicespecifications.com/en/model/a018292d
+S820	https://www.devicespecifications.com/en/model/55dd292e
+A390	https://www.devicespecifications.com/en/model/bb3c292f
+S920	https://www.devicespecifications.com/en/model/157b2933
+IdeaTab S6000	https://www.devicespecifications.com/en/model/be3c2934
+IdeaTab A1000	https://www.devicespecifications.com/en/model/cd6f2936
+K900	https://www.devicespecifications.com/en/model/d6fd2937
+IdeaTab A3000	https://www.devicespecifications.com/en/model/1f0a2935
+S890	https://www.devicespecifications.com/en/model/51ef2938
+IdeaTab A2107	https://www.devicespecifications.com/en/model/05e42939
+A830	https://www.devicespecifications.com/en/model/66a1293a
+A820	https://www.devicespecifications.com/en/model/7210293b
+A800	https://www.devicespecifications.com/en/model/3f4a293c
+A690	https://www.devicespecifications.com/en/model/b418293f
+S720	https://www.devicespecifications.com/en/model/a885294d
+P770	https://www.devicespecifications.com/en/model/d3da294e
+A60+	https://www.devicespecifications.com/en/model/eef7294f
+S560	https://www.devicespecifications.com/en/model/7b3a2952
+A660	https://www.devicespecifications.com/en/model/74c22954
+P700i	https://www.devicespecifications.com/en/model/b6652955
+S880	https://www.devicespecifications.com/en/model/6b8d2953
+K860	https://www.devicespecifications.com/en/model/cade294b
+A789	https://www.devicespecifications.com/en/model/a206293d

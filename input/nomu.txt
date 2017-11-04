@@ -1,0 +1,5 @@
+S10 Pro	https://www.devicespecifications.com/en/model/e39445d3
+S30 Mini	https://www.devicespecifications.com/en/model/a58f4425
+S30	https://www.devicespecifications.com/en/model/b0e73f1b
+S20	https://www.devicespecifications.com/en/model/1d7a3f1a
+S10	https://www.devicespecifications.com/en/model/db573f19

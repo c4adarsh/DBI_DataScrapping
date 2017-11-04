@@ -1,0 +1,30 @@
+V10 Pro	https://www.devicespecifications.com/en/model/05f340c9
+V10 Plus	https://www.devicespecifications.com/en/model/290c40ca
+V10 4G	https://www.devicespecifications.com/en/model/dc3d4046
+V10 3G	https://www.devicespecifications.com/en/model/29864045
+V80 SE Allwinner A64	https://www.devicespecifications.com/en/model/ad654655
+V80 SE	https://www.devicespecifications.com/en/model/12573ffe
+V80 Plus	https://www.devicespecifications.com/en/model/84f53d69
+V80 Octa Core	https://www.devicespecifications.com/en/model/317b3d68
+V96 Octa Core	https://www.devicespecifications.com/en/model/25b93cc9
+OBook10 Dual OS	https://www.devicespecifications.com/en/model/29e53b92
+OBook10	https://www.devicespecifications.com/en/model/463b3aad
+V919 3G Air Z3735	https://www.devicespecifications.com/en/model/c8d23a94
+V919 Air CH	https://www.devicespecifications.com/en/model/0b4d36bc
+V919 3G Core M	https://www.devicespecifications.com/en/model/3a6b39b0
+V919 4G Air	https://www.devicespecifications.com/en/model/1675339c
+V989 Air Plus	https://www.devicespecifications.com/en/model/e15139b1
+V989 Air	https://www.devicespecifications.com/en/model/874b33e8
+V116w	https://www.devicespecifications.com/en/model/df21337e
+V891w Dual OS	https://www.devicespecifications.com/en/model/b7f43228
+V919 3G Air	https://www.devicespecifications.com/en/model/347e3226
+V919 3G Air (octa core)	https://www.devicespecifications.com/en/model/72633227
+V102w	https://www.devicespecifications.com/en/model/d97d31a1
+V820w	https://www.devicespecifications.com/en/model/f68031a0
+V989	https://www.devicespecifications.com/en/model/fbe72e4f
+V819 4G	https://www.devicespecifications.com/en/model/c9872efa
+V919 3G	https://www.devicespecifications.com/en/model/80162d9b
+V975i	https://www.devicespecifications.com/en/model/69ad2d9c
+V719 3G	https://www.devicespecifications.com/en/model/3f792d9d
+V819i	https://www.devicespecifications.com/en/model/6f812d9e
+V975m	https://www.devicespecifications.com/en/model/3ec62d9f

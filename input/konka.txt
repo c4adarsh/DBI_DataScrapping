@@ -1,0 +1,6 @@
+D7	https://www.devicespecifications.com/en/model/1cf44516
+S3	https://www.devicespecifications.com/en/model/b3304340
+E2	https://www.devicespecifications.com/en/model/2f7e41e0
+R9	https://www.devicespecifications.com/en/model/10a141ce
+R8	https://www.devicespecifications.com/en/model/d2bd41cf
+R7	https://www.devicespecifications.com/en/model/2a5541d1

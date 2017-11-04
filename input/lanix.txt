@@ -1,0 +1,20 @@
+Ilium L1120	https://www.devicespecifications.com/en/model/c20e4533
+Ilium L920	https://www.devicespecifications.com/en/model/b27a4532
+Ilium L620	https://www.devicespecifications.com/en/model/ecc24528
+Ilium LT520	https://www.devicespecifications.com/en/model/b2694527
+Ilium X710	https://www.devicespecifications.com/en/model/5236421e
+Ilium L610	https://www.devicespecifications.com/en/model/0415421d
+Ilium X210	https://www.devicespecifications.com/en/model/59ad421c
+Ilium L910	https://www.devicespecifications.com/en/model/da574002
+Ilium LT510	https://www.devicespecifications.com/en/model/88d54004
+Ilium X510	https://www.devicespecifications.com/en/model/10e14003
+Ilium L1200	https://www.devicespecifications.com/en/model/8b8f3ccd
+Ilium L1050	https://www.devicespecifications.com/en/model/fb0d3ccc
+Ilium X500B	https://www.devicespecifications.com/en/model/094d3ccb
+Ilium LT500	https://www.devicespecifications.com/en/model/64e5385d
+Ilium L950	https://www.devicespecifications.com/en/model/849f38e5
+Ilium Pad L8	https://www.devicespecifications.com/en/model/5b723853
+Ilium L1100	https://www.devicespecifications.com/en/model/43a23855
+Ilium L1000	https://www.devicespecifications.com/en/model/d20639c5
+Ilium X200	https://www.devicespecifications.com/en/model/9cec3d2d
+Ilium L900	https://www.devicespecifications.com/en/model/815138e4

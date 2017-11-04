@@ -1,0 +1,35 @@
+Hi13	https://www.devicespecifications.com/en/model/ca204599
+Hi10 Plus Z8350	https://www.devicespecifications.com/en/model/e3e93f70
+Hi10 Plus	https://www.devicespecifications.com/en/model/5a5f3e55
+HiBook Pro	https://www.devicespecifications.com/en/model/22df3ddf
+Hi10 Pro	https://www.devicespecifications.com/en/model/28433dc9
+Vi10 Plus	https://www.devicespecifications.com/en/model/58cb3d9a
+HiBook	https://www.devicespecifications.com/en/model/15a13b02
+Hi8 Pro	https://www.devicespecifications.com/en/model/65193960
+Hi12	https://www.devicespecifications.com/en/model/2d7d3958
+Vi8 Plus	https://www.devicespecifications.com/en/model/dd7d38c6
+eBook	https://www.devicespecifications.com/en/model/f2de380b
+Vi10 Ultimate	https://www.devicespecifications.com/en/model/5d1737fc
+Hi10	https://www.devicespecifications.com/en/model/da3636e2
+Vi10 Pro	https://www.devicespecifications.com/en/model/da3236e1
+Vi7	https://www.devicespecifications.com/en/model/c16c34b7
+Hi8 Redux	https://www.devicespecifications.com/en/model/736d37fd
+Hi8	https://www.devicespecifications.com/en/model/ca7e346c
+Vi8 Ultimate Edition	https://www.devicespecifications.com/en/model/a22234b6
+Vi10 Dual Boot	https://www.devicespecifications.com/en/model/8fe33413
+Vi8	https://www.devicespecifications.com/en/model/9231341a
+VL8	https://www.devicespecifications.com/en/model/22223235
+V89	https://www.devicespecifications.com/en/model/b5bf3393
+DX1	https://www.devicespecifications.com/en/model/b20a3079
+VX8 3G Buisness Edition	https://www.devicespecifications.com/en/model/1005307a
+V10HD 3G	https://www.devicespecifications.com/en/model/4d0b2fcd
+V99i	https://www.devicespecifications.com/en/model/7e432e68
+VX8	https://www.devicespecifications.com/en/model/42172d56
+VX3	https://www.devicespecifications.com/en/model/98be2ca7
+V17HD	https://www.devicespecifications.com/en/model/0c492ca8
+VX2	https://www.devicespecifications.com/en/model/1ebd2cf4
+VX1	https://www.devicespecifications.com/en/model/95752ca9
+V8S	https://www.devicespecifications.com/en/model/a1cc2cce
+V17Pro	https://www.devicespecifications.com/en/model/48c22cc0
+V99X	https://www.devicespecifications.com/en/model/55de2cf5
+V88HD	https://www.devicespecifications.com/en/model/8e9a2cf6

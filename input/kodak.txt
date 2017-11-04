@@ -1,0 +1,4 @@
+Tablet 10	https://www.devicespecifications.com/en/model/a8c74405
+Tablet 7	https://www.devicespecifications.com/en/model/01e64404
+Ektra	https://www.devicespecifications.com/en/model/aef83f2e
+IM5	https://www.devicespecifications.com/en/model/86d93498

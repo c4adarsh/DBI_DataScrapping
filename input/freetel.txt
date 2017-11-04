@@ -1,0 +1,11 @@
+Priori 4	https://www.devicespecifications.com/en/model/67314108
+Kiwami 2	https://www.devicespecifications.com/en/model/36303edd
+Samurai Raijin	https://www.devicespecifications.com/en/model/f22e3edc
+Samurai Rei	https://www.devicespecifications.com/en/model/e67c3c0b
+Priori 3S LTE	https://www.devicespecifications.com/en/model/32fa3975
+Katana 01	https://www.devicespecifications.com/en/model/b462385e
+Priori 3 LTE	https://www.devicespecifications.com/en/model/03f737ae
+Samurai Miyabi	https://www.devicespecifications.com/en/model/045f371b
+XM	https://www.devicespecifications.com/en/model/429c36b8
+Priori2	https://www.devicespecifications.com/en/model/918636b7
+nico	https://www.devicespecifications.com/en/model/d84936b6

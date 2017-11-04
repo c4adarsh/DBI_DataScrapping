@@ -1,0 +1,8 @@
+Stellar	https://www.devicespecifications.com/en/model/e14845d0
+Stellar 4G	https://www.devicespecifications.com/en/model/ae3c45cf
+Holi	https://www.devicespecifications.com/en/model/fc6a45ce
+Flow	https://www.devicespecifications.com/en/model/f2e345cb
+Moss	https://www.devicespecifications.com/en/model/942045ca
+Plum	https://www.devicespecifications.com/en/model/cc3545c9
+AGM X1 mini	https://www.devicespecifications.com/en/model/4c10447d
+Alcatel Pixi Glory	https://www.devicespecifications.com/en/model/ac093f87

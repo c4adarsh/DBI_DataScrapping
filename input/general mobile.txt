@@ -1,0 +1,10 @@
+GM 6	https://www.devicespecifications.com/en/model/0c5f41bf
+GM 5	https://www.devicespecifications.com/en/model/9bab3f81
+GM 5 Plus	https://www.devicespecifications.com/en/model/e2e33a62
+Discovery Elite Plus	https://www.devicespecifications.com/en/model/66aa3a63
+4G	https://www.devicespecifications.com/en/model/451833fe
+Discovery Air	https://www.devicespecifications.com/en/model/3a16340f
+Discovery II mini	https://www.devicespecifications.com/en/model/46ea3407
+Discovery II +	https://www.devicespecifications.com/en/model/31b3343d
+Discovery II	https://www.devicespecifications.com/en/model/4c193412
+Discovery Elite	https://www.devicespecifications.com/en/model/84a93417

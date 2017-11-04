@@ -1,0 +1,64 @@
+H1	https://www.devicespecifications.com/en/model/ee70453c
+S8	https://www.devicespecifications.com/en/model/e7104535
+A8	https://www.devicespecifications.com/en/model/51b2446f
+P8 Mini	https://www.devicespecifications.com/en/model/f9e54352
+P8 (2017)	https://www.devicespecifications.com/en/model/edbb4351
+A1	https://www.devicespecifications.com/en/model/d61b4318
+C1 Mini	https://www.devicespecifications.com/en/model/39504309
+C1Max	https://www.devicespecifications.com/en/model/5ae54234
+Z1	https://www.devicespecifications.com/en/model/e13e41dd
+C1X	https://www.devicespecifications.com/en/model/c20840f2
+S7 Special Edition	https://www.devicespecifications.com/en/model/1ed04056
+S7 Mini	https://www.devicespecifications.com/en/model/020b3f11
+S7	https://www.devicespecifications.com/en/model/92803f10
+R9	https://www.devicespecifications.com/en/model/98993f0f
+C1	https://www.devicespecifications.com/en/model/23893e79
+S3 Lite	https://www.devicespecifications.com/en/model/b21f3d41
+S3	https://www.devicespecifications.com/en/model/69303b63
+M3 (3GB)	https://www.devicespecifications.com/en/model/2f303986
+M3 (2GB)	https://www.devicespecifications.com/en/model/b0d23985
+P9000	https://www.devicespecifications.com/en/model/7da9397e
+P9000 Lite	https://www.devicespecifications.com/en/model/6e963981
+S1	https://www.devicespecifications.com/en/model/e075397d
+Ivory	https://www.devicespecifications.com/en/model/a162383b
+M1	https://www.devicespecifications.com/en/model/28ff36fe
+Vowney Lite	https://www.devicespecifications.com/en/model/74153692
+M2	https://www.devicespecifications.com/en/model/c7d6366b
+Q	https://www.devicespecifications.com/en/model/2f8c364c
+Trunk	https://www.devicespecifications.com/en/model/077335a7
+P6000 Pro	https://www.devicespecifications.com/en/model/703d34e2
+S2 Plus	https://www.devicespecifications.com/en/model/eb983430
+S2	https://www.devicespecifications.com/en/model/322d342f
+P8000	https://www.devicespecifications.com/en/model/3a353426
+P4000	https://www.devicespecifications.com/en/model/b66a33f3
+G9	https://www.devicespecifications.com/en/model/733133f2
+Vowney	https://www.devicespecifications.com/en/model/978433d6
+P3000s (6752)	https://www.devicespecifications.com/en/model/1f6a336a
+G2	https://www.devicespecifications.com/en/model/23ac3286
+P3000 (MT6732)	https://www.devicespecifications.com/en/model/0d623238
+G1	https://www.devicespecifications.com/en/model/d9e13209
+P7000 Pioneer	https://www.devicespecifications.com/en/model/f9d43199
+P5000	https://www.devicespecifications.com/en/model/af7e3174
+G7	https://www.devicespecifications.com/en/model/c1c730fa
+P6000	https://www.devicespecifications.com/en/model/c77b30f9
+P8 Pro	https://www.devicespecifications.com/en/model/21d330d3
+P4000 MT6592	https://www.devicespecifications.com/en/model/b283308c
+G5	https://www.devicespecifications.com/en/model/0fb82f8e
+G6	https://www.devicespecifications.com/en/model/174b2f75
+G4	https://www.devicespecifications.com/en/model/eb892feb
+G4c	https://www.devicespecifications.com/en/model/1bf62f55
+P3000s	https://www.devicespecifications.com/en/model/017d2f18
+G3	https://www.devicespecifications.com/en/model/8de02e67
+P6i	https://www.devicespecifications.com/en/model/d7e22df3
+P3000	https://www.devicespecifications.com/en/model/5e792dc3
+P2000	https://www.devicespecifications.com/en/model/d0602d98
+P2000c	https://www.devicespecifications.com/en/model/d20e2df5
+P10	https://www.devicespecifications.com/en/model/d6f22d8c
+P10c	https://www.devicespecifications.com/en/model/6c4e2d8b
+P9c	https://www.devicespecifications.com/en/model/1d652c88
+P9 Water	https://www.devicespecifications.com/en/model/aff32b58
+P6S	https://www.devicespecifications.com/en/model/64ed2b53
+P8	https://www.devicespecifications.com/en/model/7c862b54
+P7 mini	https://www.devicespecifications.com/en/model/cc7c2b57
+P7	https://www.devicespecifications.com/en/model/97f62b56
+P6	https://www.devicespecifications.com/en/model/68e72b55

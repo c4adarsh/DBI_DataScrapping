@@ -1,0 +1,819 @@
+Weight: 143 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3070 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/0fb545df
+imageUrl=https://www.devicespecifications.com/images/model/0fb545df/320/main.jpg
+name=M6;
+
+Weight: 173 g
+SoC: Qualcomm Snapdragon 625 MSM8953
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: Qualcomm Adreno 506
+RAM: 3 GB, 4 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 7.1 Nougat)
+Camera: 4032 x 3024 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/ecb1453d
+imageUrl=https://www.devicespecifications.com/images/model/ecb1453d/320/main.jpg
+name=M6 note;
+
+Weight: 170 g
+SoC: MediaTek Helio X30 (MT6799)
+CPU: 2x 2.6 GHz ARM Cortex-A72, 4x 2.2 GHz ARM Cortex-A53, 4x 1.9 GHz ARM Cortex-A53
+GPU: PowerVR GT7400 Plus, 800 MHz
+RAM: 6 GB, 1866 MHz
+Storage: 64 GB, 128 GB
+Display: 5.7 in, Super AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3500 mAh, Li-Polymer
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 4000 x 3000 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/d31744b8
+imageUrl=https://www.devicespecifications.com/images/model/d31744b8/320/main.jpg
+name=Pro 7 Plus;
+
+Weight: 163 g
+SoC: MediaTek Helio X30 (MT6799)
+CPU: 2x 2.6 GHz ARM Cortex-A72, 4x 2.2 GHz ARM Cortex-A53, 4x 1.9 GHz ARM Cortex-A53
+GPU: PowerVR GT7400 Plus, 800 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 128 GB
+Display: 5.2 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 4000 x 3000 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/9adb44b7
+imageUrl=https://www.devicespecifications.com/images/model/9adb44b7/320/main.jpg
+name=Pro 7;
+
+Weight: 163 g
+SoC: MediaTek Helio P25 (MT6757CD)
+CPU: 4x 2.5 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Display: 5.2 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 4000 x 3000 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/03c044b6
+imageUrl=https://www.devicespecifications.com/images/model/03c044b6/320/main.jpg
+name=Pro 7 Standard Edition;
+
+Weight: 140 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3060 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/72784438
+imageUrl=https://www.devicespecifications.com/images/model/72784438/320/main.jpg
+name=A5;
+
+Weight: 135 g
+SoC: MediaTek MT6737
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 7.0 Nougat)
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1bac436d
+imageUrl=https://www.devicespecifications.com/images/model/1bac436d/320/main.jpg
+name=M5c;
+
+Weight: 155 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: FlyMe 6.0 (Yun OS)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/451042d9
+imageUrl=https://www.devicespecifications.com/images/model/451042d9/320/main.jpg
+name=E2;
+
+Weight: 143 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 3 GB, 666 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 6.0 Marshmallow)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d6c3415f
+imageUrl=https://www.devicespecifications.com/images/model/d6c3415f/320/main.jpg
+name=M5s;
+
+Weight: 175 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4000 mAh, Li-Ion
+OS: FlyMe 6.0 (Android 6.0 Marshmallow)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/79a14005
+imageUrl=https://www.devicespecifications.com/images/model/79a14005/320/main.jpg
+name=M5 note;
+
+Weight: 158 g
+SoC: Samsung Exynos 8 Octa 8890
+CPU: 4x 2.3 GHz Exynos M1 Mongoose, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP12, 650 MHz, Cores: 12
+RAM: 4 GB, 1794 MHz
+Storage: 128 GB
+Display: 5.7 in, Super AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: FlyMe 5.2 (Android 6.0 Marshmallow)
+Camera: 4000 x 3008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/6adf3feb
+imageUrl=https://www.devicespecifications.com/images/model/6adf3feb/320/main.jpg
+name=Pro 6 Plus 128GB;
+
+Weight: 158 g
+SoC: Samsung Exynos 8 Octa 8890
+CPU: 4x 2.0 GHz Exynos M1 Mongoose, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP10, Cores: 10
+RAM: 4 GB, 1794 MHz
+Storage: 64 GB
+Display: 5.7 in, Super AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: FlyMe 5.2 (Android 6.0 Marshmallow)
+Camera: 4000 x 3008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/aeec3fea
+imageUrl=https://www.devicespecifications.com/images/model/aeec3fea/320/main.jpg
+name=Pro 6 Plus 64GB;
+
+Weight: 165 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Display: 5.5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Polymer
+OS: FlyMe 5.2 (Android 6.0 Marshmallow)
+Camera: 4000 x 3008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/2b0f3fe9
+imageUrl=https://www.devicespecifications.com/images/model/2b0f3fe9/320/main.jpg
+name=X;
+
+Weight: 163 g
+SoC: MediaTek Helio X25 (MT6797T)
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.55 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 850 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 64 GB
+Display: 5.2 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3060 mAh, Li-Polymer
+OS: FlyMe 5.2 (Android 6.0 Marshmallow)
+Camera: 4000 x 3008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/769c3f67
+imageUrl=https://www.devicespecifications.com/images/model/769c3f67/320/main.jpg
+name=Pro 6s;
+
+Weight: 138 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3070 mAh, Li-Ion
+OS: FlyMe 5.5 (Yun OS)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/496c3f50
+imageUrl=https://www.devicespecifications.com/images/model/496c3f50/320/main.jpg
+name=M5;
+
+Weight: 189 g
+SoC: MediaTek Helio P10 (MT6755M)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 550 MHz, Cores: 2
+RAM: 3 GB, 933 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: FlyMe (Android 6.0 Marshmallow)
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/97573e44
+imageUrl=https://www.devicespecifications.com/images/model/97573e44/320/main.jpg
+name=M3 Max;
+
+Weight: 158 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3260 mAh, Li-Polymer
+OS: FlyMe (Yun OS)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/7b5d3e01
+imageUrl=https://www.devicespecifications.com/images/model/7b5d3e01/320/main.jpg
+name=U20;
+
+Weight: 139 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2760 mAh, Li-Polymer
+OS: FlyMe (Yun OS)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/fc773e00
+imageUrl=https://www.devicespecifications.com/images/model/fc773e00/320/main.jpg
+name=U10;
+
+Weight: 172 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: FlyMe (Yun OS)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/60813db3
+imageUrl=https://www.devicespecifications.com/images/model/60813db3/320/main.jpg
+name=M3E;
+
+Weight: 155 g
+SoC: MediaTek Helio X20 (MT6797)
+CPU: 2x 2.3 GHz ARM Cortex-A72, 4x 1.85 GHz ARM Cortex-A53, 4x 1.4 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 780 MHz, Cores: 4
+RAM: 3 GB, 4 GB, 800 MHz
+Storage: 32 GB
+Display: 5.5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3060 mAh, Li-Polymer
+OS: FlyMe 5.2.2 (Android 6.0 Marshmallow)
+Camera: 4000 x 3008 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/0ebd3d48
+imageUrl=https://www.devicespecifications.com/images/model/0ebd3d48/320/main.jpg
+name=MX6;
+
+Weight: 138 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3020 mAh, Li-Ion
+OS: FlyMe 5.1 (Android 5.1.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bf343c8d
+imageUrl=https://www.devicespecifications.com/images/model/bf343c8d/320/main.jpg
+name=m3s;
+
+Weight: 132 g
+SoC: MediaTek MT6750
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 520 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 667 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2870 mAh, Li-Ion
+OS: FlyMe 5.1 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/64b73b98
+imageUrl=https://www.devicespecifications.com/images/model/64b73b98/320/main.jpg
+name=m3;
+
+Weight: 160 g
+SoC: MediaTek Helio X25 (MT6797T)
+CPU: 2x 2.5 GHz ARM Cortex-A72, 4x 2.0 GHz ARM Cortex-A53, 4x 1.55 GHz ARM Cortex-A53
+GPU: ARM Mali-T880 MP4, 850 MHz, Cores: 4
+RAM: 4 GB, 800 MHz
+Storage: 32 GB, 64 GB
+Display: 5.2 in, Super AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 2560 mAh, Li-Polymer
+OS: FlyMe 5.2 (Android 6.0 Marshmallow)
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Display
+USB: 3.1, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/16313b57
+imageUrl=https://www.devicespecifications.com/images/model/16313b57/320/main.jpg
+name=Pro 6;
+
+Weight: 163 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 1.8 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: FlyMe 5.1 (Android 5.1 Lollipop)
+Camera: 4208 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/88043b31
+imageUrl=https://www.devicespecifications.com/images/model/88043b31/320/main.jpg
+name=m3 note;
+
+Weight: 149 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3150 mAh, Li-Polymer
+OS: FlyMe 4.5 (Android 5.0 Lollipop)
+Camera: 4608 x 3456 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/527c3b2a
+imageUrl=https://www.devicespecifications.com/images/model/527c3b2a/320/main.jpg
+name=MX5e;
+
+Weight: 168 g
+SoC: Samsung Exynos 7 Octa 7420
+CPU: 4x 2.1 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T760 MP8, 772 MHz, Cores: 8
+RAM: 3 GB, 1552 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Polymer
+OS: Ubuntu Touch
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3b443a2e/320/main.jpg
+name=Pro 5 Ubuntu Edition;
+
+Weight: 162 g
+SoC: MediaTek MT6753T
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3140 mAh, Li-Polymer
+OS: FlyMe 5.0 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/85de39d2/320/main.jpg
+name=Blue Charm Metal Telecom;
+
+Weight: 162 g
+SoC: MediaTek Helio X10 (MT6795M)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 550 MHz
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3140 mAh, Li-Polymer
+OS: FlyMe 5.0 (Android 5.1 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/9bb83781
+imageUrl=https://www.devicespecifications.com/images/model/9bb83781/320/main.jpg
+name=Blue Charm Metal;
+
+Weight: 168 g
+SoC: Samsung Exynos 7 Octa 7420
+CPU: 4x 2.1 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T760 MP8, 772 MHz, Cores: 8
+RAM: 3 GB, 4 GB, 1552 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.7 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Polymer
+OS: FlyMe 5.0 (Android 5.1 Lollipop)
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, USB Type-C
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/50b536e4
+imageUrl=https://www.devicespecifications.com/images/model/50b536e4/320/main.jpg
+name=Pro 5;
+
+Weight: 131 g
+SoC: MediaTek MT6735
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 600 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: FlyMe 4.5 (Android 5.0 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/bf1f3570
+imageUrl=https://www.devicespecifications.com/images/model/bf1f3570/320/main.jpg
+name=m2;
+
+Weight: 149 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2200 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 5.5 in, AMOLED, 1080 x 1920 pixels, 24 bit
+Battery: 3150 mAh, Li-Polymer
+OS: FlyMe 4.5 (Android 5.0 Lollipop)
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/92be34d9
+imageUrl=https://www.devicespecifications.com/images/model/92be34d9/320/main.jpg
+name=MX5;
+
+Weight: 149 g
+SoC: MediaTek MT6753
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 8
+GPU: ARM Mali-T720 MP3, 450 MHz, Cores: 3
+RAM: 2 GB, 666 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: FlyMe 4.5 (Android 5.0 Lollipop)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b11d3461
+imageUrl=https://www.devicespecifications.com/images/model/b11d3461/320/main.jpg
+name=m2 note;
+
+Weight: 147 g
+SoC: MediaTek MT6595
+CPU: 4x 2.2 GHz ARM Cortex-A17, 4x 1.7 GHz ARM Cortex-A7, Cores: 8
+GPU: PowerVR G6200, 600 MHz
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 5.36 in, JDI IPS, 1152 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: Ubuntu Touch
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou, QZSS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4e843414/320/main.jpg
+name=MX4 Ubuntu Edition;
+
+Weight: 145 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 3140 mAh, Li-Ion
+OS: FlyMe 4.0 (Android 4.4.4 KitKat)
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/304f3260/320/main.jpg
+name=m1 note Telecom;
+
+Weight: 128 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 768 x 1280 pixels, 24 bit
+Battery: 2610 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/c0e7323e
+imageUrl=https://www.devicespecifications.com/images/model/c0e7323e/320/main.jpg
+name=m1;
+
+Weight: 145 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Display: 5.5 in, IGZO, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: FlyMe 4.0 (Android 4.4.4 KitKat)
+Camera: 4192 x 3104 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3d7d318c/320/main.jpg
+name=m1 note;
+
+Weight: 158 g
+SoC: Samsung Exynos 5 Octa 5430
+CPU: 4x 2.0 GHz ARM Cortex-A15, 4x 1.5 GHz ARM Cortex-A7, Cores: 8
+GPU: ARM Mali-T628 MP6, 600 MHz, Cores: 6
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 5.5 in, JDI IPS, 1536 x 2560 pixels, 24 bit
+Battery: 3350 mAh, Li-Polymer
+OS: FlyMe 4.1.1 (Android 4.4.4 KitKat)
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou, QZSS    
+priceUrl=https://www.devicespecifications.com/en/price/136530cc
+imageUrl=https://www.devicespecifications.com/images/model/136530cc/320/main.jpg
+name=MX4 Pro;
+
+Weight: 147 g
+SoC: MediaTek MT6595
+CPU: 4x 2.2 GHz ARM Cortex-A17, 4x 1.7 GHz ARM Cortex-A7, Cores: 8
+GPU: PowerVR G6200, 600 MHz
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 5.36 in, JDI IPS, 1152 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Polymer
+OS: FlyMe 4.0.4 (Android 4.4.2 KitKat)
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou, QZSS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/94432f39/320/main.jpg
+name=MX4;
+
+Weight: 143 g
+SoC: Samsung Exynos 5 Octa 5410
+CPU: 4x 1.6 GHz ARM Cortex-A15, 4x 1.2 GHz ARM Cortex-A7, Cores: 8
+GPU: PowerVR SGX544 MP3, 533 MHz, Cores: 3
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB, 64 GB, 128 GB
+Display: 5.1 in, JDI IPS, 1080 x 1800 pixels, 24 bit
+Battery: 2400 mAh, Li-Polymer
+OS: FlyMe 3.0 (Android 4.2.1 Jelly Bean)
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, n 5GHz, Dual band, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d09f297f/320/main.jpg
+name=MX3;
+
+Weight: 142 g
+SoC: Samsung Exynos 4 Quad 4412
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, 533 MHz, Cores: 4
+RAM: 2 GB, 400 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Display: 4.4 in, LCD, 800 x 1280 pixels, 24 bit
+Battery: 1800 mAh, Li-Ion
+OS: Android 4.1.1
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/03762980
+imageUrl=https://www.devicespecifications.com/images/model/03762980/320/main.jpg
+name=MX2;
+
+Weight: 139 g
+SoC: Samsung Exynos 4 Quad 4412
+CPU: ARM Cortex-A9, 1400 MHz, Cores: 4
+GPU: ARM Mali-400 MP4, 440 MHz, Cores: 4
+RAM: 1 GB, 400 MHz
+Storage: 32 GB, 64 GB
+Display: 4 in, ASV TFT, 640 x 960 pixels, 24 bit
+Battery: 1700 mAh, Li-Polymer
+OS: Android 4.0 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/da912981/320/main.jpg
+name=MX Quad core;
+
+Weight: 139 g
+SoC: Samsung Exynos 4 Dual 4210
+CPU: ARM Cortex-A9, 1400 MHz, Cores: 2
+GPU: ARM Mali-400 MP4, 266 MHz, Cores: 4
+RAM: 1 GB
+Storage: 16 GB
+Display: 4 in, ASV TFT, 640 x 960 pixels, 24 bit
+Battery: 1600 mAh, Li-Ion
+OS: Android 2.3.5 Gingerbread
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/756f2982
+imageUrl=https://www.devicespecifications.com/images/model/756f2982/320/main.jpg
+name=MX;
+

@@ -1,0 +1,9 @@
+Prime 2	https://www.devicespecifications.com/en/model/40044676
+Hammer Blade	https://www.devicespecifications.com/en/model/b12d4677
+Power	https://www.devicespecifications.com/en/model/7ff8462f
+City	https://www.devicespecifications.com/en/model/53c6462c
+Go!	https://www.devicespecifications.com/en/model/492441e5
+Prime Plus	https://www.devicespecifications.com/en/model/629641e1
+Hammer Axe Pro	https://www.devicespecifications.com/en/model/2bc64678
+Hammer Energy	https://www.devicespecifications.com/en/model/916241d8
+Hammer Axe M	https://www.devicespecifications.com/en/model/1f9d41de

@@ -1,0 +1,31 @@
+i-Style 712	https://www.devicespecifications.com/en/model/70ae3d59
+i-Style 711	https://www.devicespecifications.com/en/model/71333d5a
+IQ Z Pro	https://www.devicespecifications.com/en/model/41863936
+IQ Z Bright	https://www.devicespecifications.com/en/model/f0513703
+IQ II	https://www.devicespecifications.com/en/model/84de3598
+IQ X Pro 3	https://www.devicespecifications.com/en/model/ca473535
+IQ X Pro 2	https://www.devicespecifications.com/en/model/6dce3513
+IQ Z	https://www.devicespecifications.com/en/model/6b0434b9
+IQ Big2	https://www.devicespecifications.com/en/model/fde434bc
+IQ Big	https://www.devicespecifications.com/en/model/f23534bb
+IQ X Pro	https://www.devicespecifications.com/en/model/38f333cd
+IQ X Lucus	https://www.devicespecifications.com/en/model/134d33b6
+IQ X Leon	https://www.devicespecifications.com/en/model/eee131c3
+i-style 216	https://www.devicespecifications.com/en/model/2d0d30e0
+IQ X Wiz	https://www.devicespecifications.com/en/model/cc3430cb
+IQ X Ozzy	https://www.devicespecifications.com/en/model/502330bd
+i-Tab Fun	https://www.devicespecifications.com/en/model/a49d2f9e
+IQ 511	https://www.devicespecifications.com/en/model/d7902efd
+IQ 6.9 DTV	https://www.devicespecifications.com/en/model/ff782efe
+IQ X OCCO	https://www.devicespecifications.com/en/model/2da92e11
+IQ X Slim 2	https://www.devicespecifications.com/en/model/c52a2e10
+i-Style 7.8 DTV	https://www.devicespecifications.com/en/model/1adf2e0f
+i-Style 7.7 DTV	https://www.devicespecifications.com/en/model/ca362e0e
+IQ X OKU	https://www.devicespecifications.com/en/model/707f2ca6
+IQ X Slim	https://www.devicespecifications.com/en/model/6c1a2c2d
+IQ X Ken	https://www.devicespecifications.com/en/model/1e502c0c
+IQ X Octo	https://www.devicespecifications.com/en/model/3d912b6f
+IQ 6.3	https://www.devicespecifications.com/en/model/f51e34c2
+i-Style 2.4a	https://www.devicespecifications.com/en/model/a3912b70
+IQ X3	https://www.devicespecifications.com/en/model/a5ef2b72
+IQ X	https://www.devicespecifications.com/en/model/5e1e2b71

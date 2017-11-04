@@ -1,0 +1,18 @@
+X15	https://www.devicespecifications.com/en/model/5d5840de
+R8	https://www.devicespecifications.com/en/model/d52240cf
+X18	https://www.devicespecifications.com/en/model/49a040ab
+X10	https://www.devicespecifications.com/en/model/91d53fad
+R9 Max	https://www.devicespecifications.com/en/model/2c833e99
+R700	https://www.devicespecifications.com/en/model/27303e49
+A5000	https://www.devicespecifications.com/en/model/b8f63d51
+R900	https://www.devicespecifications.com/en/model/b0383d54
+M1 Max	https://www.devicespecifications.com/en/model/95b83c45
+R200	https://www.devicespecifications.com/en/model/218f3bc0
+R300	https://www.devicespecifications.com/en/model/deaf3bb1
+V10	https://www.devicespecifications.com/en/model/27e83b70
+H8	https://www.devicespecifications.com/en/model/84de3ae0
+H3000	https://www.devicespecifications.com/en/model/a7613adf
+H2000	https://www.devicespecifications.com/en/model/fbf7394b
+H6	https://www.devicespecifications.com/en/model/f11f394c
+H9	https://www.devicespecifications.com/en/model/59303a32
+MG100	https://www.devicespecifications.com/en/model/bf8f394e

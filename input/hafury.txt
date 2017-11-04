@@ -1,0 +1,3 @@
+Safari	https://www.devicespecifications.com/en/model/c9064285
+Mix	https://www.devicespecifications.com/en/model/58e54284
+UMax	https://www.devicespecifications.com/en/model/3baa4187

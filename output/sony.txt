@@ -1,0 +1,2263 @@
+Weight: 154 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 3 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2620 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a69e469a/320/main.jpg
+name=Xperia R1 Plus;
+
+Weight: 154 g
+SoC: Qualcomm Snapdragon 430 MSM8937
+CPU: 4x 1.4 GHz ARM Cortex-A53, 4x 1.1 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 505
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2620 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5ba64699/320/main.jpg
+name=Xperia R1;
+
+Weight: 190 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3430 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5520 x 4140 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/1a1945de
+imageUrl=https://www.devicespecifications.com/images/model/1a1945de/320/main.jpg
+name=Xperia XA1 Plus Dual;
+
+Weight: 189 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3430 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5520 x 4140 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/404e4571
+imageUrl=https://www.devicespecifications.com/images/model/404e4571/320/main.jpg
+name=Xperia XA1 Plus;
+
+Weight: 140 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 8.0 Oreo
+Camera: 5057 x 3796 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/92c44555
+imageUrl=https://www.devicespecifications.com/images/model/92c44555/320/main.jpg
+name=Xperia XZ1 Compact;
+
+Weight: 156 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 8.0 Oreo
+Camera: 5057 x 3796 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/3ff345dd
+imageUrl=https://www.devicespecifications.com/images/model/3ff345dd/320/main.jpg
+name=Xperia XZ1 Dual;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 8.0 Oreo
+Camera: 5057 x 3796 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/dacf4554
+imageUrl=https://www.devicespecifications.com/images/model/dacf4554/320/main.jpg
+name=Xperia XZ1;
+
+Weight: 349 g
+SoC: Marvell IAP140
+CPU: ARM Cortex-A53, 1200 MHz, Cores: 4
+Storage: 16 GB
+Display: 13.3 in, E Ink Mobius, 1650 x 2200 pixels
+Battery: Li-Ion
+Wi-Fi: a, b, g, n, n 5GHz, ac
+USB: 2.0, Micro USB
+Bluetooth: 4.2    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/db01429a/320/main.jpg
+name=DPT-RP1;
+
+Weight: 180 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1450 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 450 MHz, Cores: 2
+RAM: 2 GB, 733 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2620 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4096 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/c82f4227
+imageUrl=https://www.devicespecifications.com/images/model/c82f4227/320/main.jpg
+name=Xperia L1 Dual;
+
+Weight: 180 g
+SoC: MediaTek MT6737T
+CPU: ARM Cortex-A53, 1450 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 450 MHz, Cores: 2
+RAM: 2 GB, 733 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2620 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 4096 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/129a4224
+imageUrl=https://www.devicespecifications.com/images/model/129a4224/320/main.jpg
+name=Xperia L1;
+
+Weight: 188 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5488 x 4008 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/286f41bc
+imageUrl=https://www.devicespecifications.com/images/model/286f41bc/320/main.jpg
+name=Xperia XA1 Ultra Dual;
+
+Weight: 188 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5488 x 4008 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/962c41b0
+imageUrl=https://www.devicespecifications.com/images/model/962c41b0/320/main.jpg
+name=Xperia XA1 Ultra;
+
+Weight: 143 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5488 x 4008 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a70941bb
+imageUrl=https://www.devicespecifications.com/images/model/a70941bb/320/main.jpg
+name=Xperia XA1 Dual;
+
+Weight: 143 g
+SoC: MediaTek Helio P20 (MT6757)
+CPU: 4x 2.3 GHz ARM Cortex-A53, 4x 1.6 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T880 MP2, 900 MHz, Cores: 2
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 7.0 Nougat
+Camera: 5488 x 4008 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/dae541af
+imageUrl=https://www.devicespecifications.com/images/model/dae541af/320/main.jpg
+name=Xperia XA1;
+
+Weight: 161 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 5056 x 3792 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/a93d41ae
+imageUrl=https://www.devicespecifications.com/images/model/a93d41ae/320/main.jpg
+name=Xperia XZs;
+
+Weight: 195 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 2160 x 3840 pixels, 24 bit
+Battery: 3230 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 5057 x 3796 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/6cf641ba
+imageUrl=https://www.devicespecifications.com/images/model/6cf641ba/320/main.jpg
+name=Xperia XZ Premium Dual;
+
+Weight: 195 g
+SoC: Qualcomm Snapdragon 835 MSM8998
+CPU: 4x 2.45 GHz Kryo, 4x 1.9 GHz Kryo, Cores: 8
+GPU: Qualcomm Adreno 540, 710 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 2160 x 3840 pixels, 24 bit
+Battery: 3230 mAh, Li-Polymer
+OS: Android 7.1.1 Nougat
+Camera: 5057 x 3796 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.1, USB Type-C
+Bluetooth: 5.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/3d2c41ad
+imageUrl=https://www.devicespecifications.com/images/model/3d2c41ad/320/main.jpg
+name=Xperia XZ Premium;
+
+Weight: 161 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 3 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/21a23e34
+imageUrl=https://www.devicespecifications.com/images/model/21a23e34/320/main.jpg
+name=Xperia XZ Dual;
+
+Weight: 161 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 3 GB, 1866 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/7a833e33
+imageUrl=https://www.devicespecifications.com/images/model/7a833e33/320/main.jpg
+name=Xperia XZ;
+
+Weight: 135 g
+SoC: Qualcomm Snapdragon 650 MSM8956
+CPU: 2x 1.8 GHz ARM Cortex-A72, 4x 1.2 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 510, 550 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5520 x 4140 pixels, 1920 x 1080 pixels, 60 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, USB Type-C
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/37103e32
+imageUrl=https://www.devicespecifications.com/images/model/37103e32/320/main.jpg
+name=Xperia X Compact;
+
+Weight: 147 g
+SoC: MediaTek MT6735A
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 450 MHz, Cores: 2
+RAM: 1.5 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Ion
+OS: Android 6.0 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/06403c55
+imageUrl=https://www.devicespecifications.com/images/model/06403c55/320/main.jpg
+name=Xperia E5;
+
+Weight: 202 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Ion
+OS: Android 6.0.1 Marshmallow
+Camera: 5312 x 3984 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/656d3c06
+imageUrl=https://www.devicespecifications.com/images/model/656d3c06/320/main.jpg
+name=Xperia XA Ultra;
+
+Weight: 165 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 3 GB, 1866 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5520 x 4140 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/822b3a58
+imageUrl=https://www.devicespecifications.com/images/model/822b3a58/320/main.jpg
+name=Xperia X Performance;
+
+Weight: 137 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/04ca3a5b
+imageUrl=https://www.devicespecifications.com/images/model/04ca3a5b/320/main.jpg
+name=Xperia XA Dual;
+
+Weight: 137 g
+SoC: MediaTek Helio P10 (MT6755)
+CPU: 4x 2.0 GHz ARM Cortex-A53, 4x 1.2 GHz ARM Cortex-A53, Cores: 8
+GPU: ARM Mali-T860 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/61f43a57
+imageUrl=https://www.devicespecifications.com/images/model/61f43a57/320/main.jpg
+name=Xperia XA;
+
+Weight: 153 g
+SoC: Qualcomm Snapdragon 650 MSM8956
+CPU: 2x 1.8 GHz ARM Cortex-A72, 4x 1.2 GHz ARM Cortex-A53, Cores: 6
+GPU: Qualcomm Adreno 510, 550 MHz
+RAM: 3 GB, 933 MHz
+Storage: 32 GB, 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2620 mAh, Li-Polymer
+OS: Android 6.0.1 Marshmallow
+Camera: 5520 x 4140 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.2
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/e9563a56
+imageUrl=https://www.devicespecifications.com/images/model/e9563a56/320/main.jpg
+name=Xperia X;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2700 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/4f2f3641
+imageUrl=https://www.devicespecifications.com/images/model/4f2f3641/320/main.jpg
+name=Xperia Z5 Compact;
+
+Weight: 180 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 2160 x 3840 pixels, 24 bit
+Battery: 3430 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/b7be3640
+imageUrl=https://www.devicespecifications.com/images/model/b7be3640/320/main.jpg
+name=Xperia Z5 Premium Dual;
+
+Weight: 157 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/c518363f
+imageUrl=https://www.devicespecifications.com/images/model/c518363f/320/main.jpg
+name=Xperia Z5 Dual;
+
+Weight: 180 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 2160 x 3840 pixels, 24 bit
+Battery: 3430 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/ab88363e
+imageUrl=https://www.devicespecifications.com/images/model/ab88363e/320/main.jpg
+name=Xperia Z5 Premium;
+
+Weight: 154 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 600 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2900 mAh, Li-Polymer
+OS: Android 5.1.1 Lollipop
+Camera: 5520 x 4140 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/3134363d
+imageUrl=https://www.devicespecifications.com/images/model/3134363d/320/main.jpg
+name=Xperia Z5;
+
+Weight: 187 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2930 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d8be358d
+imageUrl=https://www.devicespecifications.com/images/model/d8be358d/320/main.jpg
+name=Xperia C5 Ultra Dual;
+
+Weight: 187 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2930 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/2c89358c
+imageUrl=https://www.devicespecifications.com/images/model/2c89358c/320/main.jpg
+name=Xperia C5 Ultra;
+
+Weight: 142 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/9868358b
+imageUrl=https://www.devicespecifications.com/images/model/9868358b/320/main.jpg
+name=Xperia M5 Dual;
+
+Weight: 142 g
+SoC: MediaTek Helio X10 (MT6795)
+CPU: ARM Cortex-A53, 2000 MHz, Cores: 8
+GPU: PowerVR G6200, 700 MHz
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 5312 x 3984 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/7277358a
+imageUrl=https://www.devicespecifications.com/images/model/7277358a/320/main.jpg
+name=Xperia M5;
+
+Weight: 161 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1440 x 2560 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6dcd349b/320/main.jpg
+name=Xperia Z4v;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 810 MSM8994 v2.1
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2930 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 5344 x 4016 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/49c5343f
+imageUrl=https://www.devicespecifications.com/images/model/49c5343f/320/main.jpg
+name=Xperia Z3+ Dual;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 810 MSM8994 v2.1
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2930 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/49e2343e
+imageUrl=https://www.devicespecifications.com/images/model/49e2343e/320/main.jpg
+name=Xperia Z3+;
+
+Weight: 129 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Polymer
+OS: Android 5.0 Lollipop
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e3ac33ff/320/main.jpg
+name=Xperia A4 SO-04G;
+
+Weight: 147 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/2aaf33ec
+imageUrl=https://www.devicespecifications.com/images/model/2aaf33ec/320/main.jpg
+name=Xperia C4 Dual;
+
+Weight: 147 g
+SoC: MediaTek MT6752
+CPU: ARM Cortex-A53, 1700 MHz, Cores: 8
+GPU: ARM Mali-T760 MP2, 700 MHz, Cores: 2
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4096 x 3072 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/3b4933eb
+imageUrl=https://www.devicespecifications.com/images/model/3b4933eb/320/main.jpg
+name=Xperia C4;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 2930 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d4ce33b0/320/main.jpg
+name=Xperia Z4;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/cc8e3344/320/main.jpg
+name=Xperia J1 Compact;
+
+Weight: 389 g
+SoC: Qualcomm Snapdragon 810 MSM8994 v2.1
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 2560 x 1600 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3f0036f3/320/main.jpg
+name=Xperia Z4 Tablet SGP712;
+
+Weight: 393 g
+SoC: Qualcomm Snapdragon 810 MSM8994
+CPU: 4x 2.0 GHz ARM Cortex-A57, 4x 1.5 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 430, 650 MHz
+RAM: 3 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 2560 x 1600 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 5.0.2 Lollipop
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/12b032f3
+imageUrl=https://www.devicespecifications.com/images/model/12b032f3/320/main.jpg
+name=Xperia Z4 Tablet SGP771;
+
+Weight: 135 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/44fb32f2
+imageUrl=https://www.devicespecifications.com/images/model/44fb32f2/320/main.jpg
+name=Xperia M4 Aqua Dual;
+
+Weight: 136 g
+SoC: Qualcomm Snapdragon 615 MSM8939
+CPU: 4x 1.5 GHz ARM Cortex-A53, 4x 1.0 GHz ARM Cortex-A53, Cores: 8
+GPU: Qualcomm Adreno 405, 550 MHz
+RAM: 2 GB, 800 MHz
+Storage: 8 GB, 16 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2400 mAh, Li-Ion
+OS: Android 5.0 Lollipop
+Camera: 4160 x 3120 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/730932f1
+imageUrl=https://www.devicespecifications.com/images/model/730932f1/320/main.jpg
+name=Xperia M4 Aqua;
+
+Weight: 135 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/6f2832ba
+imageUrl=https://www.devicespecifications.com/images/model/6f2832ba/320/main.jpg
+name=Xperia E4g Dual;
+
+Weight: 135 g
+SoC: MediaTek MT6732
+CPU: ARM Cortex-A53, 1500 MHz, Cores: 4
+GPU: ARM Mali-T760 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 800 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.7 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/43f432b9
+imageUrl=https://www.devicespecifications.com/images/model/43f432b9/320/main.jpg
+name=Xperia E4g;
+
+Weight: 144 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/4c943279
+imageUrl=https://www.devicespecifications.com/images/model/4c943279/320/main.jpg
+name=Xperia E4 Dual;
+
+Weight: 144 g
+SoC: MediaTek MT6582
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, IPS, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 2560 x 1920 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/58f53278
+imageUrl=https://www.devicespecifications.com/images/model/58f53278/320/main.jpg
+name=Xperia E4;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b7a73003
+imageUrl=https://www.devicespecifications.com/images/model/b7a73003/320/main.jpg
+name=Xperia Z3v;
+
+Weight: 38 g
+SoC: Qualcomm Snapdragon 400 APQ8026
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 512 MB
+Storage: 4 GB
+Display: 1.6 in, TFT, 320 x 320 pixels, 16 bit
+Battery: 420 mAh, Li-Polymer
+OS: Android Wear
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/07092f83/320/main.jpg
+name=SmartWatch 3;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2330 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/62192f41/320/main.jpg
+name=Xperia E3 Dual;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2330 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/c63d2f40
+imageUrl=https://www.devicespecifications.com/images/model/c63d2f40/320/main.jpg
+name=Xperia E3 4G;
+
+Weight: 143 g
+SoC: Qualcomm Snapdragon 400 MSM8226
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.5 in, IPS, 480 x 854 pixels, 24 bit
+Battery: 2330 mAh, Li-Ion
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/33a72f3f/320/main.jpg
+name=Xperia E3;
+
+Weight: 129 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 2 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2600 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/22bf2f3d
+imageUrl=https://www.devicespecifications.com/images/model/22bf2f3d/320/main.jpg
+name=Xperia Z3 Compact;
+
+Weight: 152 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/26b42f3e
+imageUrl=https://www.devicespecifications.com/images/model/26b42f3e/320/main.jpg
+name=Xperia Z3 Dual;
+
+Weight: 152 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3100 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/ce992e54
+imageUrl=https://www.devicespecifications.com/images/model/ce992e54/320/main.jpg
+name=Xperia Z3;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 400 MSM8926-2
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.8 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/cb7e2ee1
+imageUrl=https://www.devicespecifications.com/images/model/cb7e2ee1/320/main.jpg
+name=Xperia M2 Aqua;
+
+Weight: 149 g
+SoC: Qualcomm Snapdragon 400 MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.5 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/82f42dde
+imageUrl=https://www.devicespecifications.com/images/model/82f42dde/320/main.jpg
+name=Xperia C3;
+
+Weight: 163 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB v3
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c65b2d84/320/main.jpg
+name=Xperia Z2a;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon 400 MSM8228
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b8ab2d2b/320/main.jpg
+name=Xperia T3 3G;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon 400 MSM8928-2
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2500 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b8622d2a
+imageUrl=https://www.devicespecifications.com/images/model/b8622d2a/320/main.jpg
+name=Xperia T3 LTE;
+
+Weight: 270 g
+SoC: Qualcomm Snapdragon 801 MSM8974AC
+CPU: Krait 400, 2500 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4500 mAh, Li-Ion
+OS: Android 4.4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/efe52f42
+imageUrl=https://www.devicespecifications.com/images/model/efe52f42/320/main.jpg
+name=Xperia Z3 Tablet Compact;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/10482caa
+imageUrl=https://www.devicespecifications.com/images/model/10482caa/320/main.jpg
+name=Xperia A2 SO-04F;
+
+Weight: 167 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB v3
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, LCD, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3e2e2c7e/320/main.jpg
+name=Xperia ZL2 SOL25;
+
+Weight: 358 g
+SoC: Freescale i.MX508
+CPU: ARM Cortex-A8, 1000 MHz, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 13.3 in, E Ink Mobius, 1200 x 1600 pixels
+Battery: 1270 mAh, Li-Ion
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/795e2e2e/320/main.jpg
+name=Digital Paper System;
+
+Weight: 439 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB v3
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 1920 x 1200 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3104 x 1746 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/b2962b16
+imageUrl=https://www.devicespecifications.com/images/model/b2962b16/320/main.jpg
+name=Xperia Z2 Tablet LTE;
+
+Weight: 426 g
+SoC: Qualcomm Snapdragon 801 APQ8074AB
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 3 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 1920 x 1200 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3104 x 1746 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d9c82b17
+imageUrl=https://www.devicespecifications.com/images/model/d9c82b17/320/main.jpg
+name=Xperia Z2 Tablet Wi-Fi;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon 400 MSM8226-0
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, 450 MHz, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.8 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/dc7a2b14
+imageUrl=https://www.devicespecifications.com/images/model/dc7a2b14/320/main.jpg
+name=Xperia M2 Dual;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon 400 MSM8226/MSM8926
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.8 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/4ac52b13
+imageUrl=https://www.devicespecifications.com/images/model/4ac52b13/320/main.jpg
+name=Xperia M2;
+
+Weight: 163 g
+SoC: Qualcomm Snapdragon 801 MSM8974AB v3
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 578 MHz, Cores: 4
+RAM: 3 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.2 in, IPS, 1080 x 1920 pixels, 24 bit
+Battery: 3200 mAh, Li-Ion
+OS: Android 4.4.2 KitKat
+Camera: 5248 x 3936 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/59d22b02/320/main.jpg", "https://www.devicespecifications.com/images/model/59d22b02/320/gallery_0.jpg", "https://www.devicespecifications.com/images/model/59d22b02/320/gallery_1.jpg", "https://www.devicespecifications.com/images/model/59d22b02/320/gallery_2.jpg"]
+name=Xperia Z2;
+
+Weight: 122 g
+SoC: Qualcomm Snapdragon 200 MSM8210
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1700 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2048 x 1536 pixels, 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/e51d2a6f
+imageUrl=https://www.devicespecifications.com/images/model/e51d2a6f/320/main.jpg
+name=Xperia E1 Dual;
+
+Weight: 120 g
+SoC: Qualcomm Snapdragon 200 MSM8210
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 302
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1700 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 2048 x 1536 pixels, 640 x 480 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/45a82a6e
+imageUrl=https://www.devicespecifications.com/images/model/45a82a6e/320/main.jpg
+name=Xperia E1;
+
+Weight: 172 g
+SoC: Qualcomm Snapdragon 400 MSM8228
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d5252a71
+imageUrl=https://www.devicespecifications.com/images/model/d5252a71/320/main.jpg
+name=Xperia T2 Ultra Dual;
+
+Weight: 172 g
+SoC: Qualcomm Snapdragon 400 MSM8928
+CPU: ARM Cortex-A7, 1400 MHz, Cores: 4
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/743e2a6d/320/main.jpg", "https://www.devicespecifications.com/images/model/743e2a6d/320/gallery_0.jpg", "https://www.devicespecifications.com/images/model/743e2a6d/320/gallery_1.jpg", "https://www.devicespecifications.com/images/model/743e2a6d/320/gallery_2.jpg", "https://www.devicespecifications.com/images/model/743e2a6d/320/gallery_3.jpg"]
+name=Xperia T2 Ultra;
+
+Weight: 162 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/45322a58/320/main.jpg
+name=Xperia Z1s;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon 800 MSM8974AA
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 4.3 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.3 Jelly Bean
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e2442a53/320/main.jpg", "https://www.devicespecifications.com/images/model/e2442a53/320/gallery_0.jpg", "https://www.devicespecifications.com/images/model/e2442a53/320/gallery_1.jpg", "https://www.devicespecifications.com/images/model/e2442a53/320/gallery_2.jpg", "https://www.devicespecifications.com/images/model/e2442a53/320/gallery_3.jpg"]
+name=Xperia Z1 Compact;
+
+Weight: 122 g
+SoC: ST-Microelectronics STM32F439
+CPU: ARM Cortex-M4, 180 MHz, Cores: 1
+RAM: 256 MB
+Display: 1.6 in, LCD, 220 x 176 pixels
+Battery: 225 mAh, Li-Polymer
+USB: 2.0, Micro USB
+Bluetooth: 3.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/518829ce/320/main.jpg
+name=Smartwatch 2;
+
+Weight: 200 g
+SoC: Freescale i.MX508
+CPU: ARM Cortex-A8, 800 MHz, Cores: 1
+RAM: 512 MB
+Storage: 2 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, E Ink Pearl, 758 x 1024 pixels
+Battery: 1000 mAh, Li-Ion
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9fff2e4a/320/main.jpg
+name=PRS-T3;
+
+Weight: 170 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 5248 x 3936 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, ac, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/8bca28a6
+imageUrl=https://www.devicespecifications.com/images/model/8bca28a6/320/main.jpg
+name=Xperia Z1;
+
+Weight: 153 g
+SoC: MediaTek MT6589
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: PowerVR SGX544 MP, 286 MHz, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 5 in, TFT, 540 x 960 pixels, 24 bit
+Battery: 2390 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/fa5328a4
+imageUrl=https://www.devicespecifications.com/images/model/fa5328a4/320/main.jpg
+name=Xperia C;
+
+Weight: 212 g
+SoC: Qualcomm Snapdragon 800 MSM8274/MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.4 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/f5952a21
+imageUrl=https://www.devicespecifications.com/images/model/f5952a21/320/main.jpg
+name=Xperia Z Ultra C6802;
+
+Weight: 212 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2200 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6.4 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 3050 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/4ba528a5
+imageUrl=https://www.devicespecifications.com/images/model/4ba528a5/320/main.jpg
+name=Xperia Z Ultra;
+
+Weight: 115 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8227
+CPU: Krait, 1000 MHz, Cores: 2
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/432328a3
+imageUrl=https://www.devicespecifications.com/images/model/432328a3/320/main.jpg
+name=Xperia M;
+
+Weight: 138 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.55 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2300 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/9f622774
+imageUrl=https://www.devicespecifications.com/images/model/9f622774/320/main.jpg
+name=Xperia ZR;
+
+Weight: 137 g
+SoC: Qualcomm Snapdragon 400 MSM8230
+CPU: Krait 200, 1000 MHz, Cores: 2
+GPU: Qualcomm Adreno 305, Cores: 1
+RAM: 1 GB, 533 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c0d12775
+imageUrl=https://www.devicespecifications.com/images/model/c0d12775/320/main.jpg
+name=Xperia L;
+
+Weight: 155 g
+SoC: Qualcomm Snapdragon S4 Pro MSM8960T
+CPU: Krait, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.6 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 2370 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/e7f92776
+imageUrl=https://www.devicespecifications.com/images/model/e7f92776/320/main.jpg
+name=Xperia SP;
+
+Weight: 495 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 1920 x 1200 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/406b2777/320/main.jpg
+name=Xperia Tablet Z LTE;
+
+Weight: 495 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, TFT, 1920 x 1200 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 4.1.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/3f0f2778
+imageUrl=https://www.devicespecifications.com/images/model/3f0f2778/320/main.jpg
+name=Xperia Tablet Z Wi-Fi;
+
+Weight: 146 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 2330 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/76f72779
+imageUrl=https://www.devicespecifications.com/images/model/76f72779/320/main.jpg
+name=Xperia Z;
+
+Weight: 151 g
+SoC: Qualcomm Snapdragon S4 Pro APQ8064
+CPU: Krait, 1500 MHz, Cores: 4
+GPU: Qualcomm Adreno 320, 400 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5 in, TFT, 1080 x 1920 pixels, 24 bit
+Battery: 2370 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/46db277a
+imageUrl=https://www.devicespecifications.com/images/model/46db277a/320/main.jpg
+name=Xperia ZL;
+
+Weight: 41 g
+SoC: ST-Microelectronics STM32F205
+CPU: Arm Cortex-M3, 120 MHz, Cores: 1
+RAM: 128 KB
+Storage: 1.00352 MB
+Display: 1.3 in, OLED, 128 x 128 pixels, 16 bit
+Battery: 110 mAh
+Bluetooth: 3.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3fa72a45/320/main.jpg
+name=Smartwatch;
+
+Weight: 115 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1530 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2048 x 1536 pixels, 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/daaa277d
+imageUrl=https://www.devicespecifications.com/images/model/daaa277d/320/main.jpg
+name=Xperia E;
+
+Weight: 115 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1530 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels, 640 x 480 pixels, 25 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a8c9277b
+imageUrl=https://www.devicespecifications.com/images/model/a8c9277b/320/main.jpg
+name=Xperia E Dual;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.55 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1850 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4192 x 3144 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a40d2aa3/320/main.jpg
+name=Xperia TL;
+
+Weight: 148 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1850 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4192 x 3144 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e8d4277e/320/main.jpg
+name=Xperia T LTE;
+
+Weight: 120 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4192 x 3144 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d37c2780
+imageUrl=https://www.devicespecifications.com/images/model/d37c2780/320/main.jpg
+name=Xperia V;
+
+Weight: 585 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9 MPCore, 1300 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: SDHC, SDXC, SD
+Display: 9.4 in, LCD, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c16d277c/320/main.jpg
+name=Xperia Tablet S 3G;
+
+Weight: 124 g
+SoC: Qualcomm Snapdragon S1 MSM7227A
+CPU: ARM Cortex-A5, 1000 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB, 200 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 4 in, TFT, 480 x 854 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 800 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/90962781
+imageUrl=https://www.devicespecifications.com/images/model/90962781/320/main.jpg
+name=Xperia J;
+
+Weight: 127 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8260A
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.55 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4192 x 3144 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, n 5GHz, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/586b2782
+imageUrl=https://www.devicespecifications.com/images/model/586b2782/320/main.jpg
+name=Xperia TX;
+
+Weight: 570 g
+SoC: Nvidia Tegra 3 T30L
+CPU: ARM Cortex-A9, 1300 MHz, Cores: 5
+GPU: ULP GeForce, 416 MHz, Cores: 12
+RAM: 1 GB, 1500 MHz
+Storage: 16 GB, 32 GB, 64 GB
+Memory cards: SDHC, SD
+Display: 9.4 in, TFT, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5f7d277f/320/main.jpg
+name=Xperia Tablet S;
+
+Weight: 139 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8260A
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.55 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1850 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4192 x 3144 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/82eb2783
+imageUrl=https://www.devicespecifications.com/images/model/82eb2783/320/main.jpg
+name=Xperia T;
+
+Weight: 164 g
+SoC: Freescale i.MX508
+CPU: ARM Cortex-A8, 800 MHz, Cores: 1
+RAM: 512 MB
+Storage: 2 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, E Ink Pearl, 600 x 800 pixels
+Battery: 1000 mAh, Li-Ion
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/38c22e4b/320/main.jpg
+name=PRS-T2;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1700 MHz, Cores: 2
+GPU: Qualcomm Adreno 220
+RAM: 1 GB, 500 MHz
+Storage: 32 GB
+Display: 4.3 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/33332784
+imageUrl=https://www.devicespecifications.com/images/model/33332784/320/main.jpg
+name=Xperia SL;
+
+Weight: 99 g
+SoC: Qualcomm Snapdragon S1 MSM7225A
+CPU: ARM Cortex-A5, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 2.9 GB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.3 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels, 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8acd2785/320/main.jpg
+name=Xperia tipo dual;
+
+Weight: 110 g
+SoC: Qualcomm Snapdragon S1 MSM7225A
+CPU: ARM Cortex-A5, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, TFT, 320 x 480 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2592 x 1944 pixels, 640 x 480 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/e7b32787
+imageUrl=https://www.devicespecifications.com/images/model/e7b32787/320/main.jpg
+name=Xperia miro;
+
+Weight: 99 g
+SoC: Qualcomm Snapdragon S1 MSM7225A
+CPU: ARM Cortex-A5, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 200
+RAM: 512 MB
+Storage: 2.9 GB
+Memory cards: microSD, microSDHC
+Display: 3.2 in, TFT, 320 x 480 pixels, 18 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 2048 x 1536 pixels, 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8f3f2786
+imageUrl=https://www.devicespecifications.com/images/model/8f3f2786/320/main.jpg
+name=Xperia tipo;
+
+Weight: 110 g
+SoC: ST-Ericsson NovaThor U8500
+CPU: ARM Cortex-A9, 1000 MHz, Cores: 2
+GPU: ARM Mali-400 MP1, Cores: 1
+RAM: 512 MB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 3.5 in, LCD, 320 x 480 pixels, 24 bit
+Battery: 1305 mAh, Li-Ion
+OS: Android 2.3.7 Gingerbread
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/3901299b
+imageUrl=https://www.devicespecifications.com/images/model/3901299b/320/main.jpg
+name=Xperia go;
+
+Weight: 147 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1500 MHz, Cores: 1
+GPU: Qualcomm Adreno 220
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.3 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1910 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/41bb2cb9
+imageUrl=https://www.devicespecifications.com/images/model/41bb2cb9/320/main.jpg
+name=Xperia acro S;
+
+Weight: 95 g
+SoC: Qualcomm Snapdragon S4 Plus MSM8960
+CPU: Krait, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 225
+RAM: 1 GB, 500 MHz
+Storage: 4 GB
+Memory cards: microSD, microSDHC
+Display: 3.7 in, LCD, 540 x 960 pixels, 24 bit
+Battery: 1500 mAh, Li-Ion
+OS: Android 4.0.4 Ice Cream Sandwich
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 3.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a9202a9f/320/main.jpg
+name=Xperia SX;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 220
+RAM: 1 GB, 500 MHz
+Storage: 13.2 GB
+Memory cards: microSD, microSDHC
+Display: 4.55 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: Android 2.3 Gingerbread
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/a5992aa2
+imageUrl=https://www.devicespecifications.com/images/model/a5992aa2/320/main.jpg
+name=Xperia ion HSPA;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 220
+RAM: 1 GB, 500 MHz
+Storage: 32 GB
+Display: 4.3 in, LCD, 720 x 1280 pixels, 24 bit
+Battery: 1750 mAh, Li-Ion
+OS: Android 2.3 Gingerbread
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/414b2aa0
+imageUrl=https://www.devicespecifications.com/images/model/414b2aa0/320/main.jpg
+name=Xperia S;
+
+Weight: 144 g
+SoC: Qualcomm Snapdragon S3 MSM8260
+CPU: Scorpion, 1500 MHz, Cores: 2
+GPU: Qualcomm Adreno 220
+RAM: 1 GB, 500 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 4.5 in, TFT, 720 x 1280 pixels, 24 bit
+Battery: 1900 mAh, Li-Ion
+OS: Android 2.3 Gingerbread
+Camera: 4000 x 3000 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=https://www.devicespecifications.com/en/price/d2a12aa1
+imageUrl=https://www.devicespecifications.com/images/model/d2a12aa1/320/main.jpg
+name=Xperia ion LTE;
+
+Weight: 164 g
+SoC: Freescale i.MX508
+CPU: ARM Cortex-A8, 800 MHz, Cores: 1
+RAM: 512 MB
+Storage: 2 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, E Ink Pearl, 600 x 800 pixels
+Battery: 1000 mAh, Li-Ion
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/8bcc2e4c/320/main.jpg
+name=PRS-T1;
+

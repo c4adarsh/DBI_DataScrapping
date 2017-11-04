@@ -1,0 +1,13 @@
+Halo H9L	https://www.devicespecifications.com/en/model/cc1c4538
+S11	https://www.devicespecifications.com/en/model/b786448e
+S600	https://www.devicespecifications.com/en/model/0061448d
+Halo H9	https://www.devicespecifications.com/en/model/21e7448c
+Max5	https://www.devicespecifications.com/en/model/2ca74293
+Halo H7	https://www.devicespecifications.com/en/model/77e83abe
+Halo H6	https://www.devicespecifications.com/en/model/64e23abd
+Halo H5	https://www.devicespecifications.com/en/model/80f9372b
+Star S3 Plus	https://www.devicespecifications.com/en/model/d44c372d
+Star S3	https://www.devicespecifications.com/en/model/b758372c
+Halo H3	https://www.devicespecifications.com/en/model/7e0d36a1
+Halo H2	https://www.devicespecifications.com/en/model/414336a4
+Max3	https://www.devicespecifications.com/en/model/56f236a0

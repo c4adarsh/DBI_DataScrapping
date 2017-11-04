@@ -1,0 +1,42 @@
+M6	https://www.devicespecifications.com/en/model/0fb545df
+M6 note	https://www.devicespecifications.com/en/model/ecb1453d
+Pro 7 Plus	https://www.devicespecifications.com/en/model/d31744b8
+Pro 7	https://www.devicespecifications.com/en/model/9adb44b7
+Pro 7 Standard Edition	https://www.devicespecifications.com/en/model/03c044b6
+A5	https://www.devicespecifications.com/en/model/72784438
+M5c	https://www.devicespecifications.com/en/model/1bac436d
+E2	https://www.devicespecifications.com/en/model/451042d9
+M5s	https://www.devicespecifications.com/en/model/d6c3415f
+M5 note	https://www.devicespecifications.com/en/model/79a14005
+Pro 6 Plus 128GB	https://www.devicespecifications.com/en/model/6adf3feb
+Pro 6 Plus 64GB	https://www.devicespecifications.com/en/model/aeec3fea
+X	https://www.devicespecifications.com/en/model/2b0f3fe9
+Pro 6s	https://www.devicespecifications.com/en/model/769c3f67
+M5	https://www.devicespecifications.com/en/model/496c3f50
+M3 Max	https://www.devicespecifications.com/en/model/97573e44
+U20	https://www.devicespecifications.com/en/model/7b5d3e01
+U10	https://www.devicespecifications.com/en/model/fc773e00
+M3E	https://www.devicespecifications.com/en/model/60813db3
+MX6	https://www.devicespecifications.com/en/model/0ebd3d48
+m3s	https://www.devicespecifications.com/en/model/bf343c8d
+m3	https://www.devicespecifications.com/en/model/64b73b98
+Pro 6	https://www.devicespecifications.com/en/model/16313b57
+m3 note	https://www.devicespecifications.com/en/model/88043b31
+MX5e	https://www.devicespecifications.com/en/model/527c3b2a
+Pro 5 Ubuntu Edition	https://www.devicespecifications.com/en/model/3b443a2e
+Blue Charm Metal Telecom	https://www.devicespecifications.com/en/model/85de39d2
+Blue Charm Metal	https://www.devicespecifications.com/en/model/9bb83781
+Pro 5	https://www.devicespecifications.com/en/model/50b536e4
+m2	https://www.devicespecifications.com/en/model/bf1f3570
+MX5	https://www.devicespecifications.com/en/model/92be34d9
+m2 note	https://www.devicespecifications.com/en/model/b11d3461
+MX4 Ubuntu Edition	https://www.devicespecifications.com/en/model/4e843414
+m1 note Telecom	https://www.devicespecifications.com/en/model/304f3260
+m1	https://www.devicespecifications.com/en/model/c0e7323e
+m1 note	https://www.devicespecifications.com/en/model/3d7d318c
+MX4 Pro	https://www.devicespecifications.com/en/model/136530cc
+MX4	https://www.devicespecifications.com/en/model/94432f39
+MX3	https://www.devicespecifications.com/en/model/d09f297f
+MX2	https://www.devicespecifications.com/en/model/03762980
+MX Quad core	https://www.devicespecifications.com/en/model/da912981
+MX	https://www.devicespecifications.com/en/model/756f2982

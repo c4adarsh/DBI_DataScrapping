@@ -1,0 +1,8 @@
+S8	https://www.devicespecifications.com/en/model/fe98446b
+Xplay6	https://www.devicespecifications.com/en/model/b97642e3
+R9s	https://www.devicespecifications.com/en/model/5a8242a4
+X9	https://www.devicespecifications.com/en/model/ef32417e
+X7	https://www.devicespecifications.com/en/model/48fe417f
+V8	https://www.devicespecifications.com/en/model/0c3d4183
+L7 Max	https://www.devicespecifications.com/en/model/5e63418e
+V3 Max	https://www.devicespecifications.com/en/model/2adb4184

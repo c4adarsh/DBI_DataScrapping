@@ -1,0 +1,9 @@
+Zoro 4G	https://www.devicespecifications.com/en/model/90bc4419
+Zumbo J2	https://www.devicespecifications.com/en/model/d164435f
+Zumbo S2	https://www.devicespecifications.com/en/model/8c4a435e
+Zumbo J 2017	https://www.devicespecifications.com/en/model/5381435d
+Prime X1	https://www.devicespecifications.com/en/model/01cc4068
+Prime X 2017	https://www.devicespecifications.com/en/model/b6c74067
+Prime X Max	https://www.devicespecifications.com/en/model/74123992
+Prime X Grand	https://www.devicespecifications.com/en/model/cff83993
+Prime X Plus	https://www.devicespecifications.com/en/model/181c3c29

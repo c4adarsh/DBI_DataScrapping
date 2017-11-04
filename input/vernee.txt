@@ -1,0 +1,10 @@
+Mix 2	https://www.devicespecifications.com/en/model/206545eb
+M5	https://www.devicespecifications.com/en/model/fdf6453b
+Thor Plus	https://www.devicespecifications.com/en/model/903244e1
+Mars Pro	https://www.devicespecifications.com/en/model/70414408
+Thor E	https://www.devicespecifications.com/en/model/5f4f42af
+Apollo X	https://www.devicespecifications.com/en/model/95fa4209
+Apollo	https://www.devicespecifications.com/en/model/079e3fd3
+Mars	https://www.devicespecifications.com/en/model/0ef93e6a
+Apollo Lite	https://www.devicespecifications.com/en/model/15c13c0f
+Thor	https://www.devicespecifications.com/en/model/1e853b1a

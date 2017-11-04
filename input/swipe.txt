@@ -1,0 +1,21 @@
+Elite Pro	https://www.devicespecifications.com/en/model/a0214636
+Elite 4G	https://www.devicespecifications.com/en/model/a603451f
+Konnect Power	https://www.devicespecifications.com/en/model/4e0c4512
+Elite VR	https://www.devicespecifications.com/en/model/083644f5
+Elite Sense	https://www.devicespecifications.com/en/model/c0bd41d9
+Elite 3	https://www.devicespecifications.com/en/model/fea84180
+Elite Power	https://www.devicespecifications.com/en/model/f242410c
+Konnect Grand	https://www.devicespecifications.com/en/model/a12c4169
+Konnect 4G	https://www.devicespecifications.com/en/model/28854079
+Elite Max	https://www.devicespecifications.com/en/model/1d53403b
+Elite Star	https://www.devicespecifications.com/en/model/7fd54044
+Elite 2 Plus	https://www.devicespecifications.com/en/model/22a53f34
+Elite Plus	https://www.devicespecifications.com/en/model/77803c60
+Elite Note	https://www.devicespecifications.com/en/model/7d2b3ba2
+Konnect 5.1	https://www.devicespecifications.com/en/model/c1933a28
+Virtue	https://www.devicespecifications.com/en/model/311a39ae
+Elite 2	https://www.devicespecifications.com/en/model/2cb937d8
+Marathon 1GB	https://www.devicespecifications.com/en/model/0d4d3707
+Konnect Trio	https://www.devicespecifications.com/en/model/bb0235fe
+Elite	https://www.devicespecifications.com/en/model/2b0835e7
+Konnect Me	https://www.devicespecifications.com/en/model/ee0835fd

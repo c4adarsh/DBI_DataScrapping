@@ -1,0 +1,43 @@
+A3	https://www.devicespecifications.com/en/model/0863460c
+Snap 4	https://www.devicespecifications.com/en/model/b54545b0
+Turbo 5 Plus	https://www.devicespecifications.com/en/model/2b3a45aa
+A1	https://www.devicespecifications.com/en/model/7d38454d
+Turbo 5	https://www.devicespecifications.com/en/model/8df1441d
+M5s	https://www.devicespecifications.com/en/model/6e7043bf
+Epic 1	https://www.devicespecifications.com/en/model/664d3f36
+Bingo 50+	https://www.devicespecifications.com/en/model/04293def
+M535+	https://www.devicespecifications.com/en/model/31b93d50
+S1	https://www.devicespecifications.com/en/model/10593c4f
+Bingo 10	https://www.devicespecifications.com/en/model/172a3ad0
+Bingo 50	https://www.devicespecifications.com/en/model/9e193abb
+Bingo 20	https://www.devicespecifications.com/en/model/62183aa8
+Bingo 21	https://www.devicespecifications.com/en/model/d5d639ef
+M372	https://www.devicespecifications.com/en/model/2a1639e0
+M680	https://www.devicespecifications.com/en/model/f98e38bd
+M535	https://www.devicespecifications.com/en/model/049537bd
+M260	https://www.devicespecifications.com/en/model/a6e03799
+M560	https://www.devicespecifications.com/en/model/855d3af0
+M812	https://www.devicespecifications.com/en/model/f5a7361d
+M808	https://www.devicespecifications.com/en/model/6e87361c
+M370	https://www.devicespecifications.com/en/model/a17c361b
+M550 3D	https://www.devicespecifications.com/en/model/12333493
+M350e	https://www.devicespecifications.com/en/model/e19c33dc
+M350	https://www.devicespecifications.com/en/model/6d8233c6
+M530	https://www.devicespecifications.com/en/model/489631fa
+M518	https://www.devicespecifications.com/en/model/802b31e1
+M330	https://www.devicespecifications.com/en/model/199a3138
+M2 3G	https://www.devicespecifications.com/en/model/3b983139
+M2 / M2+ LTE	https://www.devicespecifications.com/en/model/55b63021
+M810	https://www.devicespecifications.com/en/model/127e2e58
+M510	https://www.devicespecifications.com/en/model/28232e59
+M512	https://www.devicespecifications.com/en/model/f6fc2d70
+M210	https://www.devicespecifications.com/en/model/e3472d7f
+M320	https://www.devicespecifications.com/en/model/c6f82b96
+New Tab F1	https://www.devicespecifications.com/en/model/59ba2b97
+IN815	https://www.devicespecifications.com/en/model/e2382e5b
+M310 Charm Purple	https://www.devicespecifications.com/en/model/e47f2b98
+IN260	https://www.devicespecifications.com/en/model/8fc42d80
+IN610	https://www.devicespecifications.com/en/model/aa972b9e
+IN810	https://www.devicespecifications.com/en/model/140f2b9f
+IN320	https://www.devicespecifications.com/en/model/26552e5d
+IN310	https://www.devicespecifications.com/en/model/20732e5c

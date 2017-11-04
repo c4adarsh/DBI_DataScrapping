@@ -1,0 +1,3 @@
+P8	https://www.devicespecifications.com/en/model/207d44ab
+D6	https://www.devicespecifications.com/en/model/51fd44b1
+X8-G	https://www.devicespecifications.com/en/model/e6d744b2

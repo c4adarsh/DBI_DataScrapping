@@ -1,0 +1,116 @@
+Xperia R1 Plus	https://www.devicespecifications.com/en/model/a69e469a
+Xperia R1	https://www.devicespecifications.com/en/model/5ba64699
+Xperia XA1 Plus Dual	https://www.devicespecifications.com/en/model/1a1945de
+Xperia XA1 Plus	https://www.devicespecifications.com/en/model/404e4571
+Xperia XZ1 Compact	https://www.devicespecifications.com/en/model/92c44555
+Xperia XZ1 Dual	https://www.devicespecifications.com/en/model/3ff345dd
+Xperia XZ1	https://www.devicespecifications.com/en/model/dacf4554
+DPT-RP1	https://www.devicespecifications.com/en/model/db01429a
+Xperia L1 Dual	https://www.devicespecifications.com/en/model/c82f4227
+Xperia L1	https://www.devicespecifications.com/en/model/129a4224
+Xperia XA1 Ultra Dual	https://www.devicespecifications.com/en/model/286f41bc
+Xperia XA1 Ultra	https://www.devicespecifications.com/en/model/962c41b0
+Xperia XA1 Dual	https://www.devicespecifications.com/en/model/a70941bb
+Xperia XA1	https://www.devicespecifications.com/en/model/dae541af
+Xperia XZs	https://www.devicespecifications.com/en/model/a93d41ae
+Xperia XZ Premium Dual	https://www.devicespecifications.com/en/model/6cf641ba
+Xperia XZ Premium	https://www.devicespecifications.com/en/model/3d2c41ad
+Xperia XZ Dual	https://www.devicespecifications.com/en/model/21a23e34
+Xperia XZ	https://www.devicespecifications.com/en/model/7a833e33
+Xperia X Compact	https://www.devicespecifications.com/en/model/37103e32
+Xperia E5	https://www.devicespecifications.com/en/model/06403c55
+Xperia XA Ultra	https://www.devicespecifications.com/en/model/656d3c06
+Xperia X Performance	https://www.devicespecifications.com/en/model/822b3a58
+Xperia XA Dual	https://www.devicespecifications.com/en/model/04ca3a5b
+Xperia XA	https://www.devicespecifications.com/en/model/61f43a57
+Xperia X	https://www.devicespecifications.com/en/model/e9563a56
+Xperia Z5 Compact	https://www.devicespecifications.com/en/model/4f2f3641
+Xperia Z5 Premium Dual	https://www.devicespecifications.com/en/model/b7be3640
+Xperia Z5 Dual	https://www.devicespecifications.com/en/model/c518363f
+Xperia Z5 Premium	https://www.devicespecifications.com/en/model/ab88363e
+Xperia Z5	https://www.devicespecifications.com/en/model/3134363d
+Xperia C5 Ultra Dual	https://www.devicespecifications.com/en/model/d8be358d
+Xperia C5 Ultra	https://www.devicespecifications.com/en/model/2c89358c
+Xperia M5 Dual	https://www.devicespecifications.com/en/model/9868358b
+Xperia M5	https://www.devicespecifications.com/en/model/7277358a
+Xperia Z4v	https://www.devicespecifications.com/en/model/6dcd349b
+Xperia Z3+ Dual	https://www.devicespecifications.com/en/model/49c5343f
+Xperia Z3+	https://www.devicespecifications.com/en/model/49e2343e
+Xperia A4 SO-04G	https://www.devicespecifications.com/en/model/e3ac33ff
+Xperia C4 Dual	https://www.devicespecifications.com/en/model/2aaf33ec
+Xperia C4	https://www.devicespecifications.com/en/model/3b4933eb
+Xperia Z4	https://www.devicespecifications.com/en/model/d4ce33b0
+Xperia J1 Compact	https://www.devicespecifications.com/en/model/cc8e3344
+Xperia Z4 Tablet SGP712	https://www.devicespecifications.com/en/model/3f0036f3
+Xperia Z4 Tablet SGP771	https://www.devicespecifications.com/en/model/12b032f3
+Xperia M4 Aqua Dual	https://www.devicespecifications.com/en/model/44fb32f2
+Xperia M4 Aqua	https://www.devicespecifications.com/en/model/730932f1
+Xperia E4g Dual	https://www.devicespecifications.com/en/model/6f2832ba
+Xperia E4g	https://www.devicespecifications.com/en/model/43f432b9
+Xperia E4 Dual	https://www.devicespecifications.com/en/model/4c943279
+Xperia E4	https://www.devicespecifications.com/en/model/58f53278
+Xperia Z3v	https://www.devicespecifications.com/en/model/b7a73003
+SmartWatch 3	https://www.devicespecifications.com/en/model/07092f83
+Xperia E3 Dual	https://www.devicespecifications.com/en/model/62192f41
+Xperia E3 4G	https://www.devicespecifications.com/en/model/c63d2f40
+Xperia E3	https://www.devicespecifications.com/en/model/33a72f3f
+Xperia Z3 Compact	https://www.devicespecifications.com/en/model/22bf2f3d
+Xperia Z3 Dual	https://www.devicespecifications.com/en/model/26b42f3e
+Xperia Z3	https://www.devicespecifications.com/en/model/ce992e54
+Xperia M2 Aqua	https://www.devicespecifications.com/en/model/cb7e2ee1
+Xperia C3	https://www.devicespecifications.com/en/model/82f42dde
+Xperia Z2a	https://www.devicespecifications.com/en/model/c65b2d84
+Xperia T3 3G	https://www.devicespecifications.com/en/model/b8ab2d2b
+Xperia T3 LTE	https://www.devicespecifications.com/en/model/b8622d2a
+Xperia Z3 Tablet Compact	https://www.devicespecifications.com/en/model/efe52f42
+Xperia A2 SO-04F	https://www.devicespecifications.com/en/model/10482caa
+Xperia ZL2 SOL25	https://www.devicespecifications.com/en/model/3e2e2c7e
+Digital Paper System	https://www.devicespecifications.com/en/model/795e2e2e
+Xperia Z2 Tablet LTE	https://www.devicespecifications.com/en/model/b2962b16
+Xperia Z2 Tablet Wi-Fi	https://www.devicespecifications.com/en/model/d9c82b17
+Xperia M2 Dual	https://www.devicespecifications.com/en/model/dc7a2b14
+Xperia M2	https://www.devicespecifications.com/en/model/4ac52b13
+Xperia Z2	https://www.devicespecifications.com/en/model/59d22b02
+Xperia E1 Dual	https://www.devicespecifications.com/en/model/e51d2a6f
+Xperia E1	https://www.devicespecifications.com/en/model/45a82a6e
+Xperia T2 Ultra Dual	https://www.devicespecifications.com/en/model/d5252a71
+Xperia T2 Ultra	https://www.devicespecifications.com/en/model/743e2a6d
+Xperia Z1s	https://www.devicespecifications.com/en/model/45322a58
+Xperia Z1 Compact	https://www.devicespecifications.com/en/model/e2442a53
+Smartwatch 2	https://www.devicespecifications.com/en/model/518829ce
+PRS-T3	https://www.devicespecifications.com/en/model/9fff2e4a
+Xperia Z1	https://www.devicespecifications.com/en/model/8bca28a6
+Xperia C	https://www.devicespecifications.com/en/model/fa5328a4
+Xperia Z Ultra C6802	https://www.devicespecifications.com/en/model/f5952a21
+Xperia Z Ultra	https://www.devicespecifications.com/en/model/4ba528a5
+Xperia M	https://www.devicespecifications.com/en/model/432328a3
+Xperia ZR	https://www.devicespecifications.com/en/model/9f622774
+Xperia L	https://www.devicespecifications.com/en/model/c0d12775
+Xperia SP	https://www.devicespecifications.com/en/model/e7f92776
+Xperia Tablet Z LTE	https://www.devicespecifications.com/en/model/406b2777
+Xperia Tablet Z Wi-Fi	https://www.devicespecifications.com/en/model/3f0f2778
+Xperia Z	https://www.devicespecifications.com/en/model/76f72779
+Xperia ZL	https://www.devicespecifications.com/en/model/46db277a
+Smartwatch	https://www.devicespecifications.com/en/model/3fa72a45
+Xperia E	https://www.devicespecifications.com/en/model/daaa277d
+Xperia E Dual	https://www.devicespecifications.com/en/model/a8c9277b
+Xperia TL	https://www.devicespecifications.com/en/model/a40d2aa3
+Xperia T LTE	https://www.devicespecifications.com/en/model/e8d4277e
+Xperia V	https://www.devicespecifications.com/en/model/d37c2780
+Xperia Tablet S 3G	https://www.devicespecifications.com/en/model/c16d277c
+Xperia J	https://www.devicespecifications.com/en/model/90962781
+Xperia TX	https://www.devicespecifications.com/en/model/586b2782
+Xperia Tablet S	https://www.devicespecifications.com/en/model/5f7d277f
+Xperia T	https://www.devicespecifications.com/en/model/82eb2783
+PRS-T2	https://www.devicespecifications.com/en/model/38c22e4b
+Xperia SL	https://www.devicespecifications.com/en/model/33332784
+Xperia tipo dual	https://www.devicespecifications.com/en/model/8acd2785
+Xperia miro	https://www.devicespecifications.com/en/model/e7b32787
+Xperia tipo	https://www.devicespecifications.com/en/model/8f3f2786
+Xperia go	https://www.devicespecifications.com/en/model/3901299b
+Xperia acro S	https://www.devicespecifications.com/en/model/41bb2cb9
+Xperia SX	https://www.devicespecifications.com/en/model/a9202a9f
+Xperia ion HSPA	https://www.devicespecifications.com/en/model/a5992aa2
+Xperia S	https://www.devicespecifications.com/en/model/414b2aa0
+Xperia ion LTE	https://www.devicespecifications.com/en/model/d2a12aa1
+PRS-T1	https://www.devicespecifications.com/en/model/8bcc2e4c

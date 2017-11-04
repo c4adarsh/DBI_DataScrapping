@@ -1,0 +1,4 @@
+Alpha X	https://www.devicespecifications.com/en/model/f87f4644
+Comet	https://www.devicespecifications.com/en/model/9cb94643
+Alpha	https://www.devicespecifications.com/en/model/4c7743f3
+Blade	https://www.devicespecifications.com/en/model/f39b4261

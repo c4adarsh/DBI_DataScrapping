@@ -1,0 +1,34 @@
+Pandora R9	https://www.devicespecifications.com/en/model/e5b23efc
+U5F	https://www.devicespecifications.com/en/model/7bd93ec3
+Fire1	https://www.devicespecifications.com/en/model/e90a3d5b
+U9 Plus	https://www.devicespecifications.com/en/model/443c3d38
+U8W	https://www.devicespecifications.com/en/model/b4423d2c
+L7	https://www.devicespecifications.com/en/model/1425418c
+U7 4G	https://www.devicespecifications.com/en/model/1841418a
+U9	https://www.devicespecifications.com/en/model/dfc53cb4
+U7	https://www.devicespecifications.com/en/model/2d943cb5
+U3W	https://www.devicespecifications.com/en/model/57bb3bbb
+L5	https://www.devicespecifications.com/en/model/0aff3c71
+U3	https://www.devicespecifications.com/en/model/a6e23995
+U5W	https://www.devicespecifications.com/en/model/757f3b0f
+U5	https://www.devicespecifications.com/en/model/fb743621
+L3	https://www.devicespecifications.com/en/model/9db7360e
+L4	https://www.devicespecifications.com/en/model/7c0a3428
+V8 Plus	https://www.devicespecifications.com/en/model/aaa9342a
+V1	https://www.devicespecifications.com/en/model/ad1f33b5
+V3C	https://www.devicespecifications.com/en/model/c93433b4
+L1	https://www.devicespecifications.com/en/model/1d6430d8
+V7	https://www.devicespecifications.com/en/model/593c30d5
+V3 Plus	https://www.devicespecifications.com/en/model/4df43060
+V8	https://www.devicespecifications.com/en/model/14e32d55
+i8000	https://www.devicespecifications.com/en/model/6a7e2c62
+i4000s	https://www.devicespecifications.com/en/model/33222cd0
+i6000+	https://www.devicespecifications.com/en/model/d5552b5d
+V3	https://www.devicespecifications.com/en/model/ab922b5e
+i6000	https://www.devicespecifications.com/en/model/04322b5f
+i7000	https://www.devicespecifications.com/en/model/b13d2b61
+i4000 HD	https://www.devicespecifications.com/en/model/4c8c2b62
+i3000 HD	https://www.devicespecifications.com/en/model/2bb62b64
+i3000	https://www.devicespecifications.com/en/model/9f112b63
+M2	https://www.devicespecifications.com/en/model/0da52b65
+i2000	https://www.devicespecifications.com/en/model/f1822b66

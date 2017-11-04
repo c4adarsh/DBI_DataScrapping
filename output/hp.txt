@@ -1,0 +1,977 @@
+Weight: 488 g
+SoC: MediaTek MT8735V/W
+CPU: ARM Cortex-A53, 1300 MHz, Cores: 4
+GPU: ARM Mali-T720 MP2, 450 MHz, Cores: 2
+RAM: 2 GB, 640 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Android 6.0 Marshmallow
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/37bd4597/320/main.jpg
+name=Pro 8 Tablet;
+
+Weight: 195 g
+SoC: Qualcomm Snapdragon 820 MSM8996
+CPU: 2x 2.15 GHz Kryo, 2x 1.6 GHz Kryo, Cores: 4
+GPU: Qualcomm Adreno 530, 624 MHz
+RAM: 4 GB, 1866 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 5.96 in, AMOLED, 1440 x 2560 pixels, 24 bit
+Battery: 4150 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 4608 x 3456 pixels, 3840 x 2160 pixels, 30 fps
+SIM card: Nano-SIM, Nano-SIM / microSD
+Wi-Fi: a, b, g, n, n 5GHz, ac, Dual band, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 3.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS, BeiDou    
+priceUrl=https://www.devicespecifications.com/en/price/181c3a48
+imageUrl=https://www.devicespecifications.com/images/model/181c3a48/320/main.jpg
+name=Elite x3;
+
+Weight: 368 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e2ab38b7/320/main.jpg
+name=Envy 8 Note;
+
+Weight: 420 g
+SoC: Intel Atom x5-Z8500
+CPU: Intel Cherry Trail, 2240 MHz, Cores: 4
+GPU: Intel HD Graphics, 600 MHz
+RAM: 2 GB, 4 GB, 1600 MHz
+Storage: 32 GB, 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7.9 in, TFT, 2048 x 1536 pixels, 24 bit
+Battery: Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, ac, Wi-Fi Display
+USB: 2.0, USB Type-C
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c49034a9
+imageUrl=https://www.devicespecifications.com/images/model/c49034a9/320/main.jpg
+name=Pro Tablet 608 G1;
+
+Weight: 850 g
+SoC: Intel Atom Z3735G/F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 8380 mAh, Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/a303321d/320/main.jpg
+name=Pro Tablet 10 EE;
+
+Weight: 855 g
+SoC: Intel Atom Z3735G/F
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 2 GB
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/6c16321c/320/main.jpg
+name=Pro Slate 10 EE;
+
+Weight: 850 g
+SoC: Qualcomm Snapdragon 800 MSM8974
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 12.3 in, IPS, 1600 x 1200 pixels, 24 bit
+Battery: Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4e4d321b/320/main.jpg
+name=Pro Slate 12;
+
+Weight: 350 g
+SoC: Qualcomm Snapdragon 800
+CPU: Krait 400, 2300 MHz, Cores: 4
+GPU: Qualcomm Adreno 330, 450 MHz, Cores: 4
+RAM: 2 GB, 800 MHz
+Storage: 16 GB, 32 GB
+Memory cards: microSD, microSDHC
+Display: 7.9 in, IPS, 2048 x 1536 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 4.4 KitKat
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Nano-SIM
+Wi-Fi: a, b, g, n, ac, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/b4d7321a
+imageUrl=https://www.devicespecifications.com/images/model/b4d7321a/320/main.jpg
+name=Pro Slate 8;
+
+Weight: 239 g
+SoC: Huawei HiSilicon V9R1 KIRIN 910
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 533 MHz, Cores: 4
+RAM: 2 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 5000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 4128 x 3096 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Display
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f088345e/320/main.jpg
+name=Slate 7 VoiceTab Ultra;
+
+Weight: 410 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b9f031b4/320/main.jpg
+name=Stream 8;
+
+Weight: 364 g
+SoC: Intel Atom Z3735G
+CPU: Intel Bay Trail, 1830 MHz, Cores: 4
+GPU: Intel HD Graphics
+RAM: 1 GB, 1333 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Microsoft Windows 8.1
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/945931b5/320/main.jpg
+name=Stream 7;
+
+Weight: 160 g
+SoC: Marvell PXA1088
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Vivante GC1000, 600 MHz, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 3264 x 2448 pixels
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/f6863102/320/main.jpg
+name=Slate 6 VoiceTab II;
+
+Weight: 305 g
+SoC: MediaTek MT8382
+CPU: ARM Cortex-A7, 1300 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, 500 MHz, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1024 x 600 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels
+SIM card: Micro-SIM
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/3ce2309f/320/main.jpg
+name=7 VoiceTab;
+
+Weight: 660 g
+SoC: Allwinner A31
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 4
+GPU: PowerVR SGX544 MP2, Cores: 2
+RAM: 2 GB, 1600 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, LCD, 1920 x 1200 pixels, 24 bit
+Battery: 7700 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4b372fb6/320/main.jpg
+name=10 Plus 2201;
+
+Weight: 372 g
+SoC: Allwinner A33
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7.85 in, IPS, 1024 x 768 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 1920 x 1080 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/92d22f9b/320/main.jpg
+name=8 G2;
+
+Weight: 256 g
+SoC: Allwinner A33
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: ARM Mali-400 MP2, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 720 pixels, 24 bit
+Battery: 3000 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 1920 x 1080 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/52dd2f9a/320/main.jpg
+name=7 G2;
+
+Weight: 360 g
+SoC: Huawei HiSilicon V9R1 KIRIN 910
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 4
+GPU: ARM Mali-450 MP4, 533 MHz, Cores: 4
+RAM: 1.5 GB, 533 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4800 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/7c172e22/320/main.jpg
+name=Slate 8 Plus;
+
+Weight: 295 g
+SoC: Allwinner A31
+CPU: ARM Cortex-A7, 1000 MHz, Cores: 4
+GPU: PowerVR SGX544 MP2, Cores: 2
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1024 x 600 pixels, 24 bit
+Battery: 2800 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/85782cd1/320/main.jpg
+name=7 Plus;
+
+Weight: 319 g
+SoC: Nvidia Tegra 4 T40X
+CPU: 4x ARM Cortex-A15, 1x ARM Cortex-A9, 1800 MHz, Cores: 5
+GPU: ULP GeForce, 672 MHz, Cores: 72
+RAM: 1 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: Android 4.4.2 KitKat
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Direct
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS, GLONASS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5f7f2c58/320/main.jpg
+name=Slate 7 Beats Special Edition;
+
+Weight: 680 g
+SoC: Intel Atom Z3795
+CPU: Intel Silvermont, 1600 MHz, Cores: 4
+GPU: Intel Gen 7, Cores: 1
+RAM: 4 GB, 1067 MHz
+Storage: 64 GB, 128 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+Wi-Fi: a, b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/74942b50
+imageUrl=https://www.devicespecifications.com/images/model/74942b50/320/main.jpg
+name=ElitePad 1000 G2;
+
+Weight: 652 g
+SoC: Intel Atom Z3795
+CPU: Intel Silvermont, 1600 MHz, Cores: 4
+GPU: Intel Gen 7, Cores: 1
+RAM: 4 GB, 1067 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8380 mAh, Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 3264 x 2448 pixels
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c1f12b4f/320/main.jpg
+name=ProPad 600 G1 (64-bit);
+
+Weight: 652 g
+SoC: Intel Atom Z3775
+CPU: Intel Silvermont, 1460 MHz, Cores: 4
+GPU: Intel Gen 7, Cores: 4
+RAM: 2 GB, 1067 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.1 in, IPS, 1920 x 1200 pixels, 24 bit
+Battery: 8380 mAh, Li-Polymer
+OS: Microsoft Windows 8.1 Pro
+Camera: 3264 x 2448 pixels
+Wi-Fi: a, b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 4.0    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9c2e2b4e/320/main.jpg
+name=ProPad 600 G1 (32-bit);
+
+Weight: 630 g
+SoC: Intel Atom Z2760
+CPU: Intel Saltwell HT, 1800 MHz, Cores: 2
+GPU: PowerVR SGX545, 533 MHz
+RAM: 2 GB, 1066 MHz
+Storage: 32 GB, 64 GB, 128 GB
+Memory cards: microSD, microSDHC
+Display: 10.1 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 3400 mAh, Li-Polymer
+OS: Microsoft Windows 8 Pro
+Camera: 3264 x 2448 pixels, 1920 x 1080 pixels, 30 fps
+SIM card: Micro-SIM
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/98db3105/320/main.jpg
+name=ElitePad 900 G1;
+
+Weight: 325 g
+SoC: Marvell PXA1088
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Vivante GC1000, 600 MHz, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+SIM card: Mini-SIM, Micro-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/e27e2b4d/320/main.jpg
+name=Slate 7 VoiceTab;
+
+Weight: 160 g
+SoC: Marvell PXA1088
+CPU: ARM Cortex-A7, 1200 MHz, Cores: 4
+GPU: Vivante GC1000, 600 MHz, Cores: 2
+RAM: 1 GB, 1333 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 6 in, IPS, 720 x 1280 pixels, 24 bit
+Battery: 3000 mAh, Li-Ion
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/9f182abe/320/main.jpg
+name=Slate 6 VoiceTab;
+
+Weight: 453 g
+SoC: Nvidia Tegra 4 Wayne
+CPU: 4x ARM Cortex-A15, 1x ARM Cortex-A9, 1800 MHz, Cores: 5
+GPU: ULP GeForce, 672 MHz, Cores: 72
+RAM: 1 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 8 in, IPS, 1600 x 1200 pixels, 24 bit
+Battery: 5680 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 3264 x 2448 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 4.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/228d29cc/320/main.jpg
+name=Slate 8 Pro;
+
+Weight: 626 g
+SoC: Marvell PXA986
+CPU: ARM Cortex-A9, 1200 MHz, Cores: 2
+GPU: Vivante GC1000, 600 MHz, Cores: 2
+RAM: 1 GB
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 10 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 7000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1920 x 1080 pixels
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/319229cb/320/main.jpg
+name=Slate 10 HD;
+
+Weight: 319 g
+SoC: Nvidia Tegra 4 Wayne
+CPU: 4x ARM Cortex-A15, 1x ARM Cortex-A9, 1800 MHz, Cores: 5
+GPU: ULP GeForce, 672 MHz, Cores: 72
+RAM: 1 GB, 933 MHz
+Storage: 16 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4100 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d74b29ca/320/main.jpg
+name=Slate 7 Extreme;
+
+Weight: 342 g
+SoC: Nvidia Tegra 3
+CPU: ARM Cortex-A9, 1300 MHz, Cores: 4
+GPU: ULP GeForce, Cores: 12
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, TFT, 1280 x 800 pixels, 24 bit
+Battery: 4000 mAh, Li-Polymer
+OS: Android 4.2.2 Jelly Bean
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 3.0
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/939a29c9
+imageUrl=https://www.devicespecifications.com/images/model/939a29c9/320/main.jpg
+name=Slate 7 Plus;
+
+Weight: 372 g
+SoC: Rockchip RK3066
+CPU: ARM Cortex-A9, 1600 MHz, Cores: 2
+GPU: ARM Mali-400 MP4, 250 MHz, Cores: 4
+RAM: 1 GB
+Storage: 8 GB
+Memory cards: microSD, microSDHC
+Display: 7 in, HFFS+ LCD, 1024 x 600 pixels, 24 bit
+Battery: 3500 mAh, Li-Ion
+OS: Android 4.1.2 Jelly Bean
+Camera: 2048 x 1536 pixels, 1280 x 720 pixels, 30 fps
+Wi-Fi: b, g, n
+USB: 2.0, Micro USB
+Bluetooth: 2.1    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/39f827b0/320/main.jpg
+name=Slate 7;
+
+Weight: 740 g
+SoC: Qualcomm Snapdragon S3 APQ8060
+CPU: Scorpion, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 220
+RAM: 1 GB
+Storage: 32 GB
+Display: 9.7 in, LCD, 1024 x 768 pixels, 24 bit
+Battery: 6300 mAh, Li-Ion
+OS: HP webOS 3.0
+Camera: 1280 x 1024 pixels
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/b52e27b1/320/main.jpg
+name=Touchpad 4G;
+
+Weight: 156 g
+SoC: Qualcomm Snapdragon S2 MSM8655
+CPU: Scorpion, 1400 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 8 GB, 16 GB
+Display: 3.58 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1230 mAh, Li-Ion
+OS: HP webOS 2.2
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Dual band
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/88a627b4/320/main.jpg
+name=Pre3 CDMA;
+
+Weight: 156 g
+SoC: Qualcomm Snapdragon S2 MSM8255
+CPU: Scorpion, 1400 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB, 500 MHz
+Storage: 8 GB
+Display: 3.58 in, TFT, 480 x 800 pixels, 24 bit
+Battery: 1230 mAh, Li-Ion
+OS: HP webOS 2.2
+Camera: 2592 x 1944 pixels, 1280 x 720 pixels
+SIM card: Mini-SIM
+Wi-Fi: a, b, g, n, Dual band, Wi-Fi Hotspot
+USB: 2.0, Micro USB
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/ab7f27b5/320/main.jpg
+name=Pre3;
+
+Weight: 740 g
+SoC: Qualcomm Snapdragon S3 APQ8060
+CPU: Scorpion, 1200 MHz, Cores: 2
+GPU: Qualcomm Adreno 205
+RAM: 1 GB, 500 MHz
+Storage: 16 GB, 32 GB
+Display: 9.7 in, LCD, 1024 x 768 pixels, 24 bit
+Battery: 6300 mAh, Li-Ion
+OS: HP webOS 3.0
+Camera: 1280 x 1024 pixels
+Wi-Fi: a, b, g, n, Dual band
+USB: 2.0, Micro USB    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/438427b6/320/main.jpg
+name=Touchpad;
+
+Weight: 103 g
+SoC: Qualcomm Snapdragon S2 MSM7230
+CPU: Scorpion, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB
+Storage: 8 GB
+Display: 2.6 in, TFT, 320 x 400 pixels, 18 bit
+Battery: 910 mAh, Li-Ion
+OS: HP webOS 2.2
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/30f927b3/320/main.jpg
+name=Veer;
+
+Weight: 103 g
+SoC: Qualcomm Snapdragon S2 MSM7230
+CPU: Scorpion, 800 MHz, Cores: 1
+GPU: Qualcomm Adreno 205
+RAM: 512 MB
+Storage: 8 GB
+Display: 2.6 in, TFT, 320 x 400 pixels, 18 bit
+Battery: 910 mAh, Li-Ion
+OS: HP webOS 2.1
+Camera: 2592 x 1944 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g, n, Wi-Fi Hotspot
+USB: 2.0
+Bluetooth: 2.1
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/9edc27b2
+imageUrl=https://www.devicespecifications.com/images/model/9edc27b2/320/main.jpg
+name=Veer 4G;
+
+Weight: 132 g
+SoC: Qualcomm MSM7200
+CPU: ARM1136EJ-S, 533 MHz, Cores: 1
+RAM: 256 MB
+Memory cards: microSD, microSDHC
+Display: 2.5 in, AMOLED, 320 x 240 pixels, 18 bit
+Battery: 1590 mAh, Li-Polymer
+OS: Microsoft Windows Mobile 6.5 Professional
+Camera: 2048 x 1536 pixels, 320 x 240 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d38827b7/320/main.jpg
+name=iPAQ Glisten;
+
+Weight: 160 g
+SoC: Qualcomm MSM7201
+CPU: ARM1136EJ-S, 528 MHz, Cores: 1
+GPU: Qualcomm Adreno 130
+RAM: 128 MB
+Memory cards: microSD, microSDHC
+Display: 2.81 in, TFT, 240 x 320 pixels
+Battery: 1140 mAh, Li-Polymer
+OS: Microsoft Windows Mobile 6.1 Professional
+Camera: 2048 x 1536 pixels, 320 x 240 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/c37927b9
+imageUrl=https://www.devicespecifications.com/images/model/c37927b9/320/main.jpg
+name=iPAQ Data Messenger;
+
+Weight: 107 g
+SoC: Qualcomm MSM7201
+CPU: ARM1136EJ-S, 528 MHz, Cores: 1
+GPU: Qualcomm Adreno 130
+RAM: 128 MB
+Memory cards: microSD, microSDHC
+Display: 2.4 in, TFT, 240 x 320 pixels
+Battery: 1260 mAh, Li-Polymer
+OS: Microsoft Windows Mobile 6.1 Standard
+Camera: 2048 x 1536 pixels, 320 x 240 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Micro USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/0ecb27b8/320/main.jpg
+name=iPAQ Voice Messenger;
+
+Weight: 146 g
+SoC: Marvell PXA270
+CPU: 416 MHz, Cores: 1
+RAM: 128 MB
+Memory cards: microSD
+Display: 2.46 in, TFT, 320 x 240 pixels, 16 bit
+Battery: 1840 mAh, Li-Ion
+OS: Microsoft Windows Mobile 6.1 Professional
+Camera: 2048 x 1536 pixels, 176 x 144 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Mini USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/451627ba/320/main.jpg
+name=iPAQ 910c;
+
+Weight: 145 g
+SoC: Intel XScale PXA270
+CPU: Intel XScale, 520 MHz, Cores: 1
+RAM: 128 MB
+Memory cards: microSD
+Display: 2.8 in, TFT, 240 x 320 pixels
+Battery: 1590 mAh, Li-Polymer
+OS: Microsoft Windows Mobile 6 Professional
+Camera: 2048 x 1536 pixels, 176 x 144 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 2.0, Mini USB
+Bluetooth: 2.0
+Positioning: GPS, A-GPS    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/bec427bb/320/main.jpg
+name=iPAQ 610c;
+
+Weight: 102 g
+SoC: Texas Instruments OMAP 850
+CPU: ARM926EJ-S, 201 MHz
+RAM: 64 MB
+Memory cards: microSD
+Display: 2 in, TFT, 176 x 220 pixels
+Battery: 1100 mAh, Li-Ion
+OS: Microsoft Windows Mobile 6.0 Standard
+Camera: 1280 x 1024 pixels
+SIM card: Mini-SIM
+Wi-Fi: b, g
+USB: 1.1, Mini USB
+Bluetooth: 1.2    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/4bb927bc/320/main.jpg
+name=iPAQ 514;
+
+Weight: 140 g
+SoC: Intel XScale PXA272
+CPU: Intel XScale, 416 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD
+Display: 2.7 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1530 mAh, Li-Ion
+OS: Microsoft Windows Mobile 5.0 PocketPC
+Camera: 1600 x 1200 pixels, 352 x 288 pixels
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1, Mini USB
+Bluetooth: 1.2    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/180d27bd/320/main.jpg
+name=iPAQ rw6815;
+
+Weight: 140 g
+SoC: Intel XScale PXA272
+CPU: Intel XScale, 416 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD
+Display: 2.7 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1530 mAh, Li-Ion
+OS: Microsoft Windows Mobile 5.0 PocketPC
+Camera: 1600 x 1200 pixels, 352 x 288 pixels
+SIM card: Mini-SIM
+USB: 1.1, Mini USB
+Bluetooth: 1.2    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/d06327bf/320/main.jpg
+name=iPAQ rw6818;
+
+Weight: 140 g
+SoC: Intel XScale PXA272
+CPU: Intel XScale, 416 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD
+Display: 2.7 in, TFT, 240 x 320 pixels, 18 bit
+Battery: 1530 mAh, Li-Ion
+OS: Microsoft Windows Mobile 5.0 PocketPC
+Camera: 1600 x 1200 pixels, 352 x 288 pixels
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1, Mini USB
+Bluetooth: 1.2    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/363527be/320/main.jpg
+name=iPAQ rw6828;
+
+Weight: 179 g
+SoC: Intel XScale PXA270
+CPU: Intel XScale, 416 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD
+Display: 3 in, TFT, 240 x 240 pixels, 16 bit
+Battery: 1200 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2005 PocketPC
+Camera: 1280 x 1024 pixels, 352 x 288 pixels
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.2
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/2dbc27c0
+imageUrl=https://www.devicespecifications.com/images/model/2dbc27c0/320/main.jpg
+name=iPAQ hw6915;
+
+Weight: 179 g
+SoC: Intel XScale PXA270
+CPU: Intel XScale, 416 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD
+Display: 3 in, TFT, 240 x 240 pixels
+Battery: 1200 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2005 PocketPC
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.2
+Positioning: GPS    
+priceUrl=https://www.devicespecifications.com/en/price/707e27c1
+imageUrl=https://www.devicespecifications.com/images/model/707e27c1/320/main.jpg
+name=iPAQ hw6910;
+
+Weight: 165 g
+SoC: Intel XScale PXA272
+CPU: Intel XScale, 312 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD, MMC, SD
+Display: 3 in, TFT, 240 x 240 pixels
+Battery: 1200 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+SIM card: Mini-SIM
+USB: 1.1
+Bluetooth: 1.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/8ed727c3
+imageUrl=https://www.devicespecifications.com/images/model/8ed727c3/320/main.jpg
+name=iPAQ hw6510;
+
+Weight: 165 g
+SoC: Intel XScale PXA272
+CPU: Intel XScale, 312 MHz, Cores: 1
+RAM: 64 MB
+Memory cards: miniSD, MMC, SD
+Display: 3 in, TFT, 240 x 240 pixels
+Battery: 1200 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+Camera: 1280 x 1024 pixels, 352 x 288 pixels
+SIM card: Mini-SIM
+USB: 1.1
+Bluetooth: 1.2
+Positioning: GPS, A-GPS    
+priceUrl=https://www.devicespecifications.com/en/price/a9b127c2
+imageUrl=https://www.devicespecifications.com/images/model/a9b127c2/320/main.jpg
+name=iPAQ hw6515;
+
+Weight: 190 g
+SoC: Texas Instruments OMAP 1 1510
+CPU: ARM925T
+RAM: 64 MB
+Memory cards: MMC, SD
+Display: 3.5 in, TFT, 240 x 320 pixels
+Battery: 1800 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+Camera: 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.1    
+priceUrl=https://www.devicespecifications.com/en/price/73cc27c4
+imageUrl=https://www.devicespecifications.com/images/model/73cc27c4/320/main.jpg
+name=iPAQ h6325;
+
+Weight: 190 g
+SoC: Texas Instruments OMAP 1 1510
+CPU: ARM925T
+RAM: 64 MB
+Memory cards: MMC, SD
+Display: 3.5 in, TFT, 240 x 320 pixels
+Battery: 1800 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.1    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/c60327c5/320/main.jpg
+name=iPAQ h6320;
+
+Weight: 190 g
+SoC: Texas Instruments OMAP 1 1510
+CPU: ARM925T
+RAM: 64 MB
+Memory cards: MMC, SD
+Display: 3.5 in, TFT, 240 x 320 pixels
+Battery: 1800 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+Camera: 640 x 480 pixels
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.1    
+priceUrl=https://www.devicespecifications.com/en/price/edbd27c6
+imageUrl=https://www.devicespecifications.com/images/model/edbd27c6/320/main.jpg
+name=iPAQ h6315;
+
+Weight: 190 g
+SoC: Texas Instruments OMAP 1 1510
+CPU: ARM925T
+RAM: 64 MB
+Memory cards: MMC, SD
+Display: 3.5 in, TFT, 240 x 320 pixels
+Battery: 1800 mAh, Li-Ion
+OS: Microsoft Windows Mobile 2003 PocketPC Phone Edition
+SIM card: Mini-SIM
+Wi-Fi: b
+USB: 1.1
+Bluetooth: 1.1    
+priceUrl=
+imageUrl=https://www.devicespecifications.com/images/model/5c8f27c7/320/main.jpg
+name=iPAQ h6310;
+

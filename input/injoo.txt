@@ -1,0 +1,28 @@
+I4	https://www.devicespecifications.com/en/model/43474683
+I3	https://www.devicespecifications.com/en/model/cff64682
+Halo4 mini LTE	https://www.devicespecifications.com/en/model/e7f84672
+Vision	https://www.devicespecifications.com/en/model/add44642
+Halo4	https://www.devicespecifications.com/en/model/aeee4580
+Fire4	https://www.devicespecifications.com/en/model/6b214389
+Max4 Pro	https://www.devicespecifications.com/en/model/56db4339
+Fire4 Plus	https://www.devicespecifications.com/en/model/3e764338
+4	https://www.devicespecifications.com/en/model/582b4287
+Halo3	https://www.devicespecifications.com/en/model/57f54260
+Halo X LTE	https://www.devicespecifications.com/en/model/66b9425e
+Halo2 3G	https://www.devicespecifications.com/en/model/6b7540f1
+Halo2 LTE	https://www.devicespecifications.com/en/model/c15440f0
+Pro2	https://www.devicespecifications.com/en/model/cdb640b1
+3	https://www.devicespecifications.com/en/model/4c0440b0
+Fire3 Pro LTE	https://www.devicespecifications.com/en/model/8e1740b3
+Fire3 mini	https://www.devicespecifications.com/en/model/1bf440b4
+Fire3 LTE	https://www.devicespecifications.com/en/model/261c40b2
+Halo X	https://www.devicespecifications.com/en/model/15c040ef
+Max3 Pro	https://www.devicespecifications.com/en/model/4bdb40b9
+Max3 LTE	https://www.devicespecifications.com/en/model/b75440b8
+Max3 3G	https://www.devicespecifications.com/en/model/649440b7
+Halo Plus	https://www.devicespecifications.com/en/model/2e2f40ee
+Fire2 Plus	https://www.devicespecifications.com/en/model/253c3a8a
+Fire2 LTE	https://www.devicespecifications.com/en/model/9e4d38a7
+Two	https://www.devicespecifications.com/en/model/ccce38a8
+Max 2 Plus	https://www.devicespecifications.com/en/model/58b738b0
+Max 2	https://www.devicespecifications.com/en/model/d1d638af

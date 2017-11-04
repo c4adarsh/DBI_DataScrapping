@@ -1,0 +1,65 @@
+Ixion M545	https://www.devicespecifications.com/en/model/7ace4621
+Ixion EL450 Force	https://www.devicespecifications.com/en/model/937e4620
+Ixion M340 Steel	https://www.devicespecifications.com/en/model/1f0b4544
+Ixion M445 Onyx 2	https://www.devicespecifications.com/en/model/b1a643d7
+Ixion ES355 Ice	https://www.devicespecifications.com/en/model/a37543d6
+Ixion E345 Jet	https://www.devicespecifications.com/en/model/663343d5
+Ixion ES750	https://www.devicespecifications.com/en/model/c389434e
+Ixion MS550	https://www.devicespecifications.com/en/model/9a8a42dd
+Ixion M240 Strike 3 Pro	https://www.devicespecifications.com/en/model/cda942dc
+Ixion E245 Evo 2	https://www.devicespecifications.com/en/model/b0814168
+Ixion E340 Strike	https://www.devicespecifications.com/en/model/b2594176
+Ixion P245 Arctic	https://www.devicespecifications.com/en/model/c91640af
+Ixion ML250 Amper M	https://www.devicespecifications.com/en/model/e4cd42e4
+Ixion MS155 Coil	https://www.devicespecifications.com/en/model/d24e42db
+Ixion ES255 Fire	https://www.devicespecifications.com/en/model/06e3426b
+Ixion ES550 Soul 3 Pro	https://www.devicespecifications.com/en/model/516541dc
+Ixion E350 Soul 3	https://www.devicespecifications.com/en/model/4cb54093
+Ixion MS450 Born	https://www.devicespecifications.com/en/model/5c624166
+Ixion P350 Tundra	https://www.devicespecifications.com/en/model/55e84126
+Ixion X245 Rock mini	https://www.devicespecifications.com/en/model/70bc426a
+Ixion ES650 Omega	https://www.devicespecifications.com/en/model/f0c54094
+Ixion ES450 Astra	https://www.devicespecifications.com/en/model/f10b4095
+Ixion ES260 Navigator	https://www.devicespecifications.com/en/model/209b3f45
+Ixion MS250 Sky	https://www.devicespecifications.com/en/model/80b54288
+Ixion E250 Soul 2	https://www.devicespecifications.com/en/model/ed05416a
+Ixion M345 Onyx	https://www.devicespecifications.com/en/model/8f173d6d
+Ixion E240 Strike 2	https://www.devicespecifications.com/en/model/094b4167
+Ixion X355 Zenith	https://www.devicespecifications.com/en/model/6bcd3bad
+Ixion EL250 Amper E	https://www.devicespecifications.com/en/model/5b1842e5
+Ixion EL350 Volt 8	https://www.devicespecifications.com/en/model/1de24177
+Ixion ES350 Rage Plus	https://www.devicespecifications.com/en/model/52d64096
+Ixion X255 Hotline	https://www.devicespecifications.com/en/model/284b3a87
+Ixion XL145 Snatch SE	https://www.devicespecifications.com/en/model/61d73a84
+Ursus GX180 Armor	https://www.devicespecifications.com/en/model/ab203a83
+Ixion M350 Rock	https://www.devicespecifications.com/en/model/9f4d39d6
+Ixion ML150 Amper M	https://www.devicespecifications.com/en/model/a567397c
+Ixion P145 Dominator	https://www.devicespecifications.com/en/model/62683915
+Ixion XL140 Flash	https://www.devicespecifications.com/en/model/b3ba388a
+Ixion X147 Puzzle	https://www.devicespecifications.com/en/model/b5f937ec
+Ixion X145 Nova	https://www.devicespecifications.com/en/model/cc903885
+Ixion M250 Ferrum	https://www.devicespecifications.com/en/model/98cf37cb
+Ursus KX110i AVA	https://www.devicespecifications.com/en/model/ea903765
+Ursus KX110 AVA	https://www.devicespecifications.com/en/model/31c33764
+Ixion XL240 Triforce	https://www.devicespecifications.com/en/model/9ef536d9
+Ursus NS110	https://www.devicespecifications.com/en/model/6b1d3604
+Ixion XL145 Snatch	https://www.devicespecifications.com/en/model/4f0135c4
+Ixion EL150 Charger	https://www.devicespecifications.com/en/model/d8ba35b7
+Ixion X250 OctaVa	https://www.devicespecifications.com/en/model/f18c354e
+Ixion X LTE 4.5	https://www.devicespecifications.com/en/model/83373514
+Ixion M LTE 5	https://www.devicespecifications.com/en/model/859d3499
+Ixion ML2 5	https://www.devicespecifications.com/en/model/3f2238df
+Ursus 9X 3G	https://www.devicespecifications.com/en/model/ed5734cc
+Ursus 8X 4G	https://www.devicespecifications.com/en/model/781334c3
+Ursus 7W	https://www.devicespecifications.com/en/model/6999344c
+Ixion W 5	https://www.devicespecifications.com/en/model/63eb335e
+Ixion X 5	https://www.devicespecifications.com/en/model/a2c03321
+Ixion Y 5	https://www.devicespecifications.com/en/model/0bca3434
+Ixion M 5	https://www.devicespecifications.com/en/model/92523322
+Ixion ES 4	https://www.devicespecifications.com/en/model/5a843382
+Ixion X 4.7	https://www.devicespecifications.com/en/model/4918332d
+Ixion P 4	https://www.devicespecifications.com/en/model/115f332b
+Ixion ML 5	https://www.devicespecifications.com/en/model/c2fe3323
+Ixion Energy	https://www.devicespecifications.com/en/model/493c3599
+Ursus 10W 3G	https://www.devicespecifications.com/en/model/98ad3330
+Ixion XL 5	https://www.devicespecifications.com/en/model/40023320

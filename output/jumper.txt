@@ -1,0 +1,105 @@
+Weight: 650 g
+SoC: Intel Atom x5-Z8350
+CPU: Intel Cherry Trail, 1920 MHz, Cores: 4
+GPU: Intel HD Graphics 400, 500 MHz, Cores: 12
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.6 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 6600 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/837d450a
+imageUrl=https://www.devicespecifications.com/images/model/837d450a/320/main.jpg
+name=EZpad 4s Pro;
+
+Weight: 700 g
+SoC: Intel Atom x5-Z8350
+CPU: Intel Cherry Trail, 1920 MHz, Cores: 4
+GPU: Intel HD Graphics 400, 500 MHz, Cores: 12
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 11.6 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 7000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/3fe84212
+imageUrl=https://www.devicespecifications.com/images/model/3fe84212/320/main.jpg
+name=EZpad 6;
+
+Weight: 640 g
+SoC: Intel Atom x5-Z8350
+CPU: Intel Cherry Trail, 1920 MHz, Cores: 4
+GPU: Intel HD Graphics 400, 500 MHz, Cores: 12
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.8 in, IPS, 1366 x 768 pixels, 24 bit
+Battery: 6000 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/d1c54211
+imageUrl=https://www.devicespecifications.com/images/model/d1c54211/320/main.jpg
+name=EZpad 6 M6;
+
+Weight: 339 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1440 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 8 in, IPS, 1280 x 800 pixels, 24 bit
+Battery: 4200 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/43bb3bae
+imageUrl=https://www.devicespecifications.com/images/model/43bb3bae/320/main.jpg
+name=EZpad mini3;
+
+Weight: 927 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 4 GB, 1600 MHz
+Storage: 64 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 11.6 in, IPS, 1920 x 1080 pixels, 24 bit
+Battery: 8500 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 2592 x 1944 pixels
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/77693baf
+imageUrl=https://www.devicespecifications.com/images/model/77693baf/320/main.jpg
+name=EZpad 5s;
+
+Weight: 540 g
+SoC: Intel Atom x5-Z8300
+CPU: Intel Cherry Trail, 1840 MHz, Cores: 4
+GPU: Intel HD Graphics, 500 MHz
+RAM: 2 GB, 1600 MHz
+Storage: 32 GB
+Memory cards: microSD, microSDHC, microSDXC
+Display: 10.6 in, IPS, 1366 x 768 pixels, 24 bit
+Battery: 6600 mAh, Li-Polymer
+OS: Microsoft Windows 10
+Camera: 1600 x 1200 pixels
+Wi-Fi: b, g, n
+USB: 3.0, Standard USB
+Bluetooth: 4.0    
+priceUrl=https://www.devicespecifications.com/en/price/638b3bb0
+imageUrl=https://www.devicespecifications.com/images/model/638b3bb0/320/main.jpg
+name=EZpad 4s;
+

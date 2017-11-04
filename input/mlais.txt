@@ -1,0 +1,15 @@
+M7 Plus	https://www.devicespecifications.com/en/model/aaa53814
+MX Base	https://www.devicespecifications.com/en/model/323b3489
+M7	https://www.devicespecifications.com/en/model/850b33fc
+M4 Note	https://www.devicespecifications.com/en/model/6d5f336c
+M52 Red Note	https://www.devicespecifications.com/en/model/64c83302
+M9	https://www.devicespecifications.com/en/model/4f783301
+MX69w	https://www.devicespecifications.com/en/model/50c22c65
+Note Pro	https://www.devicespecifications.com/en/model/c5082c66
+MX65	https://www.devicespecifications.com/en/model/e0802b41
+MX69T Pro	https://www.devicespecifications.com/en/model/13a92b3c
+MX69 Pro	https://www.devicespecifications.com/en/model/5bb92b3d
+MX28	https://www.devicespecifications.com/en/model/53592b42
+MX69	https://www.devicespecifications.com/en/model/10422b3e
+MX68	https://www.devicespecifications.com/en/model/ccd52b3f
+MX59	https://www.devicespecifications.com/en/model/0b3c2b40

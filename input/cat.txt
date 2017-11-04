@@ -1,0 +1,12 @@
+T20	https://www.devicespecifications.com/en/model/b4584575
+S41	https://www.devicespecifications.com/en/model/c2cb4574
+S31	https://www.devicespecifications.com/en/model/8ac44573
+S60	https://www.devicespecifications.com/en/model/75203bc3
+S50c	https://www.devicespecifications.com/en/model/964b39e9
+S30	https://www.devicespecifications.com/en/model/03743667
+S40	https://www.devicespecifications.com/en/model/343e3571
+S50	https://www.devicespecifications.com/en/model/62da2f50
+B15Q	https://www.devicespecifications.com/en/model/a5d02d30
+B100	https://www.devicespecifications.com/en/model/56e92a4b
+B15	https://www.devicespecifications.com/en/model/5ba22a4a
+B25	https://www.devicespecifications.com/en/model/8c572aac

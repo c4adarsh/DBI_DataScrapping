@@ -1,0 +1,4 @@
+G1 Terminator	https://www.devicespecifications.com/en/model/d08244be
+Amigo	https://www.devicespecifications.com/en/model/112543a1
+Note	https://www.devicespecifications.com/en/model/f33341ea
+A1	https://www.devicespecifications.com/en/model/27c0400b

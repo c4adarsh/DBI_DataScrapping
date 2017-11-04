@@ -1,0 +1,12 @@
+V6	https://www.devicespecifications.com/en/model/30ef46ab
+M8s	https://www.devicespecifications.com/en/model/f04a4662
+T8s	https://www.devicespecifications.com/en/model/6f71461f
+M8 5.15-in	https://www.devicespecifications.com/en/model/a73e431f
+M8	https://www.devicespecifications.com/en/model/a85f431e
+T8	https://www.devicespecifications.com/en/model/20f04188
+M6s	https://www.devicespecifications.com/en/model/ea123ffd
+M6	https://www.devicespecifications.com/en/model/14f83c99
+V4S	https://www.devicespecifications.com/en/model/8b193c98
+V4	https://www.devicespecifications.com/en/model/94ae3824
+M4s	https://www.devicespecifications.com/en/model/b8583836
+M4	https://www.devicespecifications.com/en/model/dcf03920
